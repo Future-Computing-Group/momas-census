@@ -1,0 +1,70 @@
+{"id": "y02008", "policy_setters": "several", "policy_quote": "competing entities", "principals": "several", "principals_quote": "competing entities", "partners_from_others": "no"}
+{"id": "x06832", "policy_setters": "several", "policy_quote": "malicious clients that performed the poisoning attack", "principals": "several", "principals_quote": "malicious clients", "partners_from_others": "no"}
+{"id": "x00841", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05132", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x00599", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00081", "policy_setters": "one", "policy_quote": "", "principals": "several", "principals_quote": "maximizes the sum of the agents' valuations", "partners_from_others": "no"}
+{"id": "x10254", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02144", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10000", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00677", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02285", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04690", "policy_setters": "several", "policy_quote": "a sender faces a stream of myopic receivers", "principals": "several", "principals_quote": "an informed sender strategically discloses information to a receiver", "partners_from_others": "yes"}
+{"id": "x07995", "policy_setters": "several", "policy_quote": "remain vulnerable to misuse for generating harmful content", "principals": "several", "principals_quote": "remain vulnerable to misuse for generating harmful content", "partners_from_others": "yes"}
+{"id": "x08084", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07190", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09106", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x06567", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x08465", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00491", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y02265", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01606", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01442", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07650", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03474", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x12199", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00067", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00317", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00180", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00094", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00139", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11313", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03118", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00379", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11112", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09592", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04324", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04161", "policy_setters": "several", "policy_quote": "malicious poisoning attacks", "principals": "several", "principals_quote": "malicious poisoning attacks", "partners_from_others": "yes"}
+{"id": "x00829", "policy_setters": "several", "policy_quote": "incentivizing agents", "principals": "several", "principals_quote": "the principal has an unlimited budget for incentivizing agents", "partners_from_others": "no"}
+{"id": "x09661", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03720", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02015", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02349", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03919", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08618", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00393", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10242", "policy_setters": "several", "policy_quote": "a sender discloses evidence to a receiver", "principals": "several", "principals_quote": "a sender discloses evidence to a receiver", "partners_from_others": "no"}
+{"id": "x10965", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01145", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x05163", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01112", "policy_setters": "several", "policy_quote": "a network is formed by selfish agents", "principals": "several", "principals_quote": "selfish agents", "partners_from_others": "no"}
+{"id": "x08492", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02503", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03113", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03399", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00048", "policy_setters": "several", "policy_quote": "adapt against known sub-optimal opponents", "principals": "several", "principals_quote": "adapt against known sub-optimal opponents", "partners_from_others": "yes"}
+{"id": "y01899", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00126", "policy_setters": "one", "policy_quote": "", "principals": "several", "principals_quote": "competing stakeholder interests", "partners_from_others": "no"}
+{"id": "x07303", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01823", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03480", "policy_setters": "several", "policy_quote": "Two sellers compete to sell identical products to a single buyer", "principals": "several", "principals_quote": "Two sellers compete to sell identical products to a single buyer", "partners_from_others": "no"}
+{"id": "y00710", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09175", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03374", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "z00042", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10877", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00307", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x12038", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11838", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04390", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11705", "policy_setters": "several", "policy_quote": "externalities on consumers", "principals": "several", "principals_quote": "externalities on consumers", "partners_from_others": "no"}

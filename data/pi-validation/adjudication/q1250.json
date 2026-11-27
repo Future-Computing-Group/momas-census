@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "boundary": {
+      "coders": "no",
+      "mine": "yes",
+      "verdict": "coders"
+    },
+    "interests": {
+      "coders": "one",
+      "mine": "several-aligned",
+      "verdict": "coders"
+    }
+  },
+  "id": "q1250",
+  "note": null,
+  "phase": "validation"
+}

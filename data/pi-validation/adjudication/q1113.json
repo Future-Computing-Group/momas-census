@@ -1,0 +1,27 @@
+{
+  "fields": {
+    "agent": {
+      "coders": "yes",
+      "mine": "no",
+      "verdict": "coders"
+    },
+    "boundary": {
+      "coders": "yes",
+      "mine": "no",
+      "verdict": "coders"
+    },
+    "interests": {
+      "coders": "several-conflicting",
+      "mine": "one",
+      "verdict": "coders"
+    },
+    "owners": {
+      "coders": "several",
+      "mine": "one",
+      "verdict": "coders"
+    }
+  },
+  "id": "q1113",
+  "note": null,
+  "phase": "validation"
+}

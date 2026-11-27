@@ -1,0 +1,68 @@
+{"id": "y00051", "parties": "formal-model", "confidence": "medium", "quote": "approximate Nash equilibrium as the number of users grows"}
+{"id": "y00493", "parties": "humans", "confidence": "medium", "quote": "online Diplomacy gameplay"}
+{"id": "y01023", "parties": "formal-model", "confidence": "high", "quote": "agent-based model to simulate market dynamics among firms"}
+{"id": "y01825", "parties": "formal-model", "confidence": "medium", "quote": "inter-agent externalities"}
+{"id": "y03923", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "y02496", "parties": "formal-model", "confidence": "medium", "quote": "an online platform matches the agents"}
+{"id": "y00996", "parties": "formal-model", "confidence": "low", "quote": "steer multi-agent systems towards desired policies"}
+{"id": "y03711", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "y01801", "parties": "ai-agents", "confidence": "high", "quote": "deep reinforcement learning agents can learn to collude"}
+{"id": "y00466", "parties": "formal-model", "confidence": "medium", "quote": "Aggregating preferences of multiple entities"}
+{"id": "y01883", "parties": "other", "confidence": "medium", "quote": "one or more powerful but untrusted agents"}
+{"id": "y03286", "parties": "formal-model", "confidence": "low", "quote": "a population reaches a consensus on judgement"}
+{"id": "y01557", "parties": "formal-model", "confidence": "medium", "quote": "emerge due to traveler interaction"}
+{"id": "y01749", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "y02888", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "y02530", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "y03639", "parties": "other", "confidence": "low", "quote": "align individual agents' goals with a common objective"}
+{"id": "y00564", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "y02185", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "y03631", "parties": "other", "confidence": "medium", "quote": "human task delegation"}
+{"id": "y02615", "parties": "ai-agents", "confidence": "medium", "quote": "integrating diverse capable third-party agents"}
+{"id": "y01734", "parties": "other", "confidence": "low", "quote": "strategic reasoning capabilities of large language models"}
+{"id": "y00236", "parties": "ai-agents", "confidence": "medium", "quote": "naive reinforcement learning agents empirically converge to Pareto-suboptimal Nash equilibria"}
+{"id": "y02977", "parties": "humans", "confidence": "medium", "quote": "buyers filter out products priced above their valuation"}
+{"id": "y03232", "parties": "humans", "confidence": "high", "quote": "human-AI interactions"}
+{"id": "y03666", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "y00375", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "y03352", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "y01062", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "y01860", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "y03208", "parties": "formal-model", "confidence": "medium", "quote": "data owners possessing valuable data"}
+{"id": "y01855", "parties": "formal-model", "confidence": "high", "quote": "Agent-based Model simulator to mimic general insurance markets"}
+{"id": "y03206", "parties": "ai-agents", "confidence": "low", "quote": "opponents and teammates may continually change"}
+{"id": "y03550", "parties": "humans", "confidence": "medium", "quote": "the underlying designer objectives may differ from those of the user"}
+{"id": "y00098", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "y02849", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "y02142", "parties": "humans", "confidence": "medium", "quote": "modeling user choices"}
+{"id": "y02925", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "y02882", "parties": "formal-model", "confidence": "medium", "quote": "Publishers who publish their content on the web act strategically"}
+{"id": "y02474", "parties": "humans", "confidence": "low", "quote": "a large set of elections from the Pabulib database"}
+{"id": "y02317", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "y03039", "parties": "humans", "confidence": "high", "quote": "multiple human experts"}
+{"id": "y01618", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "y00833", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "y03452", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "y02498", "parties": "ai-agents", "confidence": "low", "quote": "the agent uses algorithms to learn to respond to the principal"}
+{"id": "y03543", "parties": "other", "confidence": "low", "quote": "human-agent interaction scenarios"}
+{"id": "y01112", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "y01957", "parties": "ai-agents", "confidence": "medium", "quote": "agentic markets, where firms compete repeatedly and can parameterize agents"}
+{"id": "y00817", "parties": "formal-model", "confidence": "low", "quote": "iterated general-sum games with two and three players"}
+{"id": "y01337", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "y00846", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "y02879", "parties": "other", "confidence": "medium", "quote": "a Lamoid collaborates with a human to achieve shared goals"}
+{"id": "y01229", "parties": "formal-model", "confidence": "low", "quote": "without any prior information about her opponents"}
+{"id": "y00423", "parties": "formal-model", "confidence": "medium", "quote": "Boltzmann Q-learning agents"}
+{"id": "y01528", "parties": "formal-model", "confidence": "high", "quote": "two traders meet to exchange an asset"}
+{"id": "y01021", "parties": "humans", "confidence": "medium", "quote": "playing against the best human persuader"}
+{"id": "y00621", "parties": "other", "confidence": "low", "quote": "self-play simulations"}
+{"id": "y00530", "parties": "other", "confidence": "high", "quote": "human-machine teams"}
+{"id": "y03868", "parties": "other", "confidence": "medium", "quote": "simulate complex market effects of participants with various behaviors"}
+{"id": "y00569", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "y01687", "parties": "humans", "confidence": "high", "quote": "against players with ratings from 1000 to 2600 Elo"}
+{"id": "y01829", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "y02218", "parties": "ai-agents", "confidence": "medium", "quote": "self-interested, independent learning agents"}
+{"id": "y01325", "parties": "humans", "confidence": "medium", "quote": "agents have private profiles and may misreport their contexts"}
+{"id": "y00381", "parties": "ai-agents", "confidence": "low", "quote": "an LLM competes against another"}
+{"id": "y03267", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "y02836", "parties": "humans", "confidence": "low", "quote": "distinguish human players from bots"}

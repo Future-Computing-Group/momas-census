@@ -1,0 +1,1232 @@
+{
+ "d000": {
+  "url": "https://www.microsoft.com/en/customers/story/26868-maire-microsoft-foundry",
+  "fetched": "2026-11-06T20:13:58+00:00",
+  "sha256": "e270b1dc676d6737f225f527133b603c8c0ade38163a6792ff7497585ee11f23",
+  "bytes": 226583,
+  "text_chars": 9097,
+  "txt_sha256": "78d0a21f05482ce96a04e4091430aa807ac82d6fd83a3c1e2ec47f0f3eefe606"
+ },
+ "d001": {
+  "url": "https://cloud.google.com/customers/att-gemini-enterprise-cx",
+  "fetched": "2026-11-06T20:14:02+00:00",
+  "sha256": "68d0412112a41daa53c57384fb9164b04af073e7018db54744ce83d39ae95d66",
+  "bytes": 1596420,
+  "text_chars": 41645,
+  "txt_sha256": "c69a97b0cac701d412a75a1e269ebbd89b9a788b5a867d10603f5531c264e2cb"
+ },
+ "d002": {
+  "url": "https://www.salesforce.com/customer-stories/kawasaki/",
+  "fetched": "2026-11-06T20:14:04+00:00",
+  "sha256": "4a8b06c7ed18e1d6e50dac11d3678db6473456467f7079d97b858db2daba3806",
+  "bytes": 392553,
+  "text_chars": 29691,
+  "txt_sha256": "e6e2fc9ac67037993f7b4fb354f0ddd4398b20b98ea0808f405bab8ca0e4ebf7"
+ },
+ "d003": {
+  "url": "https://www.microsoft.com/en/customers/story/25879-dunaway-microsoft-copilot-studio",
+  "fetched": "2026-11-06T20:14:06+00:00",
+  "sha256": "c9300dce13ec9b732bb9fd89b241d4bfc8c513e0459ad6768d5bd60c08e5dc23",
+  "bytes": 237052,
+  "text_chars": 13630,
+  "txt_sha256": "a819342fcf1e4a9dee5c3f4fd49e6d5e03a10b1af211c20a92d43ebb9a9f5998"
+ },
+ "d004": {
+  "url": "https://www.uipath.com/resources/automation-case-studies/ignitis-turbocharges-automation-with-agents",
+  "fetched": "2026-11-06T20:14:10+00:00",
+  "sha256": "6fafb6ee4a53583d507cc86ad609a5abb3ec0b6d2f6ae6f94abffff3a7b045c3",
+  "bytes": 397649,
+  "text_chars": 11185,
+  "txt_sha256": "1f4459efb9f3176779114fe36ea932cdc27a71239ce9c23ba49ccb3bf61530e2"
+ },
+ "d005": {
+  "url": "https://www.salesforce.com/customer-stories/loreal/agentic-order-status-support",
+  "fetched": "2026-11-06T20:14:11+00:00",
+  "sha256": "1bffb1f9a7cce23b1434951121055c576a0c5e4111d4a2f938abcfece84c565b",
+  "bytes": 229617,
+  "text_chars": 7579,
+  "txt_sha256": "e72d312c313f84d2caf058f2267f33a320fb887f20338626cbc1e1db31acad64"
+ },
+ "d006": {
+  "url": "https://www.salesforce.com/customer-stories/boat-bike-tours/",
+  "fetched": "2026-11-06T20:14:13+00:00",
+  "sha256": "1cf57c9dd863ba7e6058bd174b38c93f4fc364f51bb3d355fbb869cc2c40e620",
+  "bytes": 410685,
+  "text_chars": 33864,
+  "txt_sha256": "e4b3f5ab0b0f8e16c59a340aa5cdb1a8271c3a478ab940e9ee36dc85d62d3970"
+ },
+ "d007": {
+  "url": "https://www.salesforce.com/customer-stories/ezcater/",
+  "fetched": "2026-11-06T20:14:15+00:00",
+  "sha256": "9a89198529a25fd03154717a446e3e19120496b5c14829146d28643270c024db",
+  "bytes": 390077,
+  "text_chars": 29832,
+  "txt_sha256": "0fe5bf75f1c6e94d31079e02ce81c7cd0f6b3439dc342913b8f1710e1ee6bfff"
+ },
+ "d008": {
+  "url": "https://www.salesforce.com/customer-stories/engie/",
+  "fetched": "2026-11-06T20:14:17+00:00",
+  "sha256": "b2fa3aaf48cb32ed6e25f9e41247f1c2b0d48c8240d85a9cff19f83e8b740462",
+  "bytes": 452825,
+  "text_chars": 36111,
+  "txt_sha256": "349685a1878fc40eee4518c4100166684c57eb9284574501817f2989f0bcbeab"
+ },
+ "d009": {
+  "url": "https://www.salesforce.com/news/stories/remarkable-agentforce-slack-scale-customer-service-it/",
+  "fetched": "2026-11-06T20:14:18+00:00",
+  "sha256": "671ad04c6ec42fe3dfd868670693106c035e198a0067371cfddfab5cd25ebdd1",
+  "bytes": 162673,
+  "text_chars": 7569,
+  "txt_sha256": "2ddf2618c5bdbcff830dbcb88ba73429982524133fe5defa4fe52b246475f365"
+ },
+ "d010": {
+  "url": "https://www.salesforce.com/customer-stories/takeda",
+  "fetched": "2026-11-06T20:14:19+00:00",
+  "sha256": "cdcc8f19d42d739259f1f4026c2f7e49d739120bd77ccf292d72ea6a1d74d130",
+  "bytes": 414866,
+  "text_chars": 30479,
+  "txt_sha256": "409d6e40b08c22a10094cd79c664f1357ee2f10c83bee0f0fe943a40a7b1c2d8"
+ },
+ "d011": {
+  "url": "https://www.microsoft.com/en/customers/story/19829-dow-microsoft-365-copilot",
+  "fetched": "2026-11-06T20:14:20+00:00",
+  "sha256": "a34e44e102ffb9f205efb20b1ed87eaf48448f41f3921246cfb5044c127a4f1b",
+  "bytes": 224404,
+  "text_chars": 9803,
+  "txt_sha256": "28047294444c50b01e8885e163b5a13de64733d99d3b936f1fb3e11bd9839363"
+ },
+ "d012": {
+  "url": "https://www.salesforce.com/customer-stories/saastr-ai/agentic-outreach",
+  "fetched": "2026-11-06T20:14:24+00:00",
+  "sha256": "2b5d05bf5550e91c75562e6496f5d76f06ada26ca5090ee9818371ed8b7a940a",
+  "bytes": 217527,
+  "text_chars": 6892,
+  "txt_sha256": "830b494fe3966c4252e78419d8fd98338cc935b49a2e3d92350b2fff791ac81c"
+ },
+ "d013": {
+  "url": "https://cloud.google.com/customers/nova-gestoes",
+  "fetched": "2026-11-06T20:14:26+00:00",
+  "sha256": "b279f7e4c12495e9dde51c411c805192caf1f8d94c643202065b214cde139077",
+  "bytes": 1597868,
+  "text_chars": 42932,
+  "txt_sha256": "5cf9a0651c9793528cca05724a85473193991e12d02ba33f58de973a1f9264aa"
+ },
+ "d014": {
+  "url": "https://www.salesforce.com/customer-stories/aaa-washington/",
+  "fetched": "2026-11-06T20:14:27+00:00",
+  "sha256": "ecde8f1e76cf84067681efd7863080b0713762fa350eeb8b28eca184608a91a1",
+  "bytes": 383689,
+  "text_chars": 32007,
+  "txt_sha256": "47fc3a148f23d855d463baf299e213cacfa51b7d19a09048852cdc2ddca49af6"
+ },
+ "d015": {
+  "url": "https://www.microsoft.com/en/customers/story/25674-kantar-microsoft-copilot-studio",
+  "fetched": "2026-11-06T20:14:28+00:00",
+  "sha256": "dfe306586dd11e74d439d65655fa3fc6026b52b60fce38fff02b715101f7d390",
+  "bytes": 222733,
+  "text_chars": 9230,
+  "txt_sha256": "9b515021398ccd18276ddc1eedb73a936ae1571c17d48561dcf7d58b9abe6762"
+ },
+ "d016": {
+  "url": "https://www.salesforce.com/customer-stories/fisher-and-paykel/agentic-service-rep-assistance",
+  "fetched": "2026-11-06T20:14:32+00:00",
+  "sha256": "edcdf65f912797472943f817100717b453a3ea466576b420843345006fc6411d",
+  "bytes": 243165,
+  "text_chars": 7785,
+  "txt_sha256": "fea676baaef34985a3e67f2ec1ff0522527461b95c3ebbb81adaa99acc6c98f1"
+ },
+ "d017": {
+  "url": "https://www.salesforce.com/customer-stories/mike-morse-law-firm/",
+  "fetched": "2026-11-06T20:14:33+00:00",
+  "sha256": "90c32f80ad107492eb0214ff404e93bb66a77d59dc5890e08fc9191983e01077",
+  "bytes": 402457,
+  "text_chars": 29699,
+  "txt_sha256": "148b86a61def5397eb9641d9e83470b4cd9a4dd4772ea9ebef2e204c6905617d"
+ },
+ "d018": {
+  "url": "https://www.salesforce.com/customer-stories/centralsquare-technologies/",
+  "fetched": "2026-11-06T20:14:35+00:00",
+  "sha256": "b4aaeef011c578174995f6ca8f083b2f0e61231bc3f287918bdb95972da1d865",
+  "bytes": 404767,
+  "text_chars": 33520,
+  "txt_sha256": "5a6f1911e6bd4d6b27a30bf352db63144ace67f7bdca95b2ed9e5e420079d3c2"
+ },
+ "d019": {
+  "url": "https://www.microsoft.com/en/customers/story/26459-tiendas-cuadra-microsoft-copilot-studio",
+  "fetched": "2026-11-06T20:14:37+00:00",
+  "sha256": "3deb46e8410082f2f288e6fb5b89642d74b6936fe7ad2e708ab5022e91be00dc",
+  "bytes": 231505,
+  "text_chars": 13205,
+  "txt_sha256": "b3a615b9f86d1a7d84bff24ea6df3a76a7d8b5f9a37ee2aa2457598f015f42d0"
+ },
+ "d020": {
+  "url": "https://www.microsoft.com/en/customers/story/25357-kpmg-azure-ai-foundry",
+  "fetched": "2026-11-06T20:14:39+00:00",
+  "sha256": "a1a5630879479d994dd924da5e9557252f41933d9391e98bb453ab9121ee373e",
+  "bytes": 244919,
+  "text_chars": 12873,
+  "txt_sha256": "93367afc5d8ec28a9c7f17f9f1272e44439c7a88ee92b292f7f3bb7dbb58587d"
+ },
+ "d021": {
+  "url": "https://aws.amazon.com/blogs/media/how-bundesliga-built-captain-an-ai-agent-for-fans-using-amazon-bedrock/",
+  "fetched": "2026-11-06T20:14:43+00:00",
+  "sha256": "acd2c5451b654ace99bfeb4490e065bcdb4d43bbed949ff3fd491e16de358a18",
+  "bytes": 1457432,
+  "text_chars": 23474,
+  "txt_sha256": "1ed6396eaec5338def3b4d4de758ef62193a018258e2dddcef287d810a3b75eb"
+ },
+ "d022": {
+  "url": "https://www.salesforce.com/customer-stories/att",
+  "fetched": "2026-11-06T20:14:44+00:00",
+  "sha256": "3a464681cb5671ed53aeebffd912fcd5584f767148f6b8eda46e8fedb93f0bcf",
+  "bytes": 213148,
+  "text_chars": 7845,
+  "txt_sha256": "646f5931c42d335488e6ef5d918644dc0217aaeb0f3ec84b85dc4c3fffc19d94"
+ },
+ "d023": {
+  "url": "https://adoption.microsoft.com/en-us/agent-transformation-stories/ltm/",
+  "fetched": "2026-11-06T20:14:46+00:00",
+  "sha256": "ffda557163cf354c51a7bdc6bcd6ac417e175a8b38dee61f2e19174e8b369a04",
+  "bytes": 153113,
+  "text_chars": 20546,
+  "txt_sha256": "a1432393f23f8c43aed4cb76ae7956d53c4702b28644184325eac646d2e9165a"
+ },
+ "d024": {
+  "url": "https://cloud.google.com/customers/nokia-gemini-enterprise",
+  "fetched": "2026-11-06T20:14:47+00:00",
+  "sha256": "ea123b7962a9a4e2cfbce0846a6e834b28ccb9ae035e6aba61f11cf8b0e33c89",
+  "bytes": 1591498,
+  "text_chars": 41042,
+  "txt_sha256": "f443858f577a8a58e58bf759b31f5b9dcda928e7a2adb1b8bf2227aed97b9de0"
+ },
+ "d025": {
+  "url": "https://www.microsoft.com/en/customers/story/26389-mobilezone-dynamics-365-customer-service",
+  "fetched": "2026-11-06T20:14:49+00:00",
+  "sha256": "3f2b4e634f80ef9306133542a1f06ff7280240b73008cb12b181efe30ebcddd0",
+  "bytes": 234612,
+  "text_chars": 16196,
+  "txt_sha256": "c79211ebb35ec760346e393b6840c2df9c1eb473eef5af03d505548fdb25471a"
+ },
+ "d026": {
+  "url": "https://www.salesforce.com/customer-stories/fujitsu/",
+  "fetched": "2026-11-06T20:14:52+00:00",
+  "sha256": "0c765a5ebd0ab953d87ed4c472d95e09e1946b70eacd5aca370edaff3a24aa86",
+  "bytes": 393300,
+  "text_chars": 31265,
+  "txt_sha256": "680a941b4c588bd02637955b749dc72f36c859ec80cada1f0ca51a88405648b4"
+ },
+ "d027": {
+  "url": "https://www.uipath.com/resources/automation-case-studies/medline-scales-agentic-automation-with-ai-agents",
+  "fetched": "2026-11-06T20:14:54+00:00",
+  "sha256": "aef3a3e6957b7ed3b69a52718fe5a136efd76176cff199df537f94e3f18dc0d0",
+  "bytes": 405617,
+  "text_chars": 8544,
+  "txt_sha256": "23347df550588ec36074d2dc56c67cdfd9287d06875ff5f59692211f9cc6cd1f"
+ },
+ "d028": {
+  "url": "https://www.microsoft.com/en/customers/story/26794-sirva-dynamics-365-contact-center",
+  "fetched": "2026-11-06T20:14:54+00:00",
+  "sha256": "903f6e48f1d4a4c102342dff5828a8f340d118c7595311633eb767450d1b6173",
+  "bytes": 235895,
+  "text_chars": 13079,
+  "txt_sha256": "34cd9d7488a61b52806cc2ddbe0fade7cdf7cda4ebf3316930de309827842f3a"
+ },
+ "d029": {
+  "url": "https://www.salesforce.com/customer-stories/fifa/agentic-media-support",
+  "fetched": "2026-11-06T20:14:57+00:00",
+  "sha256": "b5931fc00b65905564b1704172377f080858583645f4afa9358cbe813b2e578e",
+  "bytes": 223086,
+  "text_chars": 8232,
+  "txt_sha256": "a78bddd5199fbf43d9a76fd0f22ccd5b5343616c5cdafb2986d1d758d6ae22b0"
+ },
+ "d030": {
+  "url": "https://adoption.microsoft.com/en-us/agent-transformation-stories/atea/",
+  "fetched": "2026-11-06T20:14:59+00:00",
+  "sha256": "3bb69542c223001bf78eea2747a657711bef2eb8c07d35a6764a428634ef2521",
+  "bytes": 142013,
+  "text_chars": 21073,
+  "txt_sha256": "a97360c739d46a4e3f48362ed527bf3da5bbb3a4f6a6053fa9f25ece0196e869"
+ },
+ "d031": {
+  "url": "https://www.salesforce.com/customer-stories/capita/",
+  "fetched": "2026-11-06T20:15:00+00:00",
+  "sha256": "8c24ccc2ef09596b191b46a5ed6c5a1dcf4d36a15d6c7a6a5c6d1f1d6523c2ce",
+  "bytes": 399633,
+  "text_chars": 31039,
+  "txt_sha256": "d6e3f206d634ecfda812b57abd380bb34cc1dfe5ba48b1768101de8d6cc7e137"
+ },
+ "d032": {
+  "url": "https://learn.microsoft.com/en-us/power-platform/guidance/case-studies/scdf-implements-digital-solutions",
+  "fetched": "2026-11-06T20:15:02+00:00",
+  "sha256": "a79d38c5c0d6ff3f0bbccbb1a3aab84cfb929c128ea72ab411be1d77876516e3",
+  "bytes": 62989,
+  "text_chars": 12850,
+  "txt_sha256": "9645e907b393c012a3f75fe8bef1f81d9fba4711a9d8da8da47b5d0682ebac29"
+ },
+ "d033": {
+  "url": "https://aws.amazon.com/solutions/case-studies/blue-origin-case-study/",
+  "fetched": "2026-11-06T20:15:02+00:00",
+  "sha256": "83ec28612c31b4ce7bc55a5f1a8d2f0139736d214e19bbdce082374b63014f9f",
+  "bytes": 357565,
+  "text_chars": 15131,
+  "txt_sha256": "5d46704dc73aa80e8de8c3f0993dd2068a2781a5a49de7715366177ffcf7d673"
+ },
+ "d034": {
+  "url": "https://www.microsoft.com/en/customers/story/26368-network-rail-power-apps",
+  "fetched": "2026-11-06T20:15:02+00:00",
+  "sha256": "35f6c91386a4b17e89382d45274f2725e1fb606fb26ec1a82bbe4fc08ebf604b",
+  "bytes": 229757,
+  "text_chars": 15128,
+  "txt_sha256": "81400da10eee767a2e5379280271f43006fd66f7762518cd356aac3473394be9"
+ },
+ "d035": {
+  "url": "https://www.uipath.com/resources/automation-case-studies/omega-healthcare-scales-smarter-growth-with-agentic-ai",
+  "fetched": "2026-11-06T20:15:07+00:00",
+  "sha256": "287c506c192baa24936c582d4bea1005ae84986e590ac2f35b8349caeff908db",
+  "bytes": 403688,
+  "text_chars": 7869,
+  "txt_sha256": "981990226bd27f47f8b233bd4fb173beb5d54f70c87e4ad28ebb32f188b497d0"
+ },
+ "d036": {
+  "url": "https://www.servicenow.com/au/customers/now-on-now-ai-and-virtual-agent.html",
+  "fetched": "2026-11-06T20:15:07+00:00",
+  "error": "TimeoutError: The read operation timed out"
+ },
+ "d037": {
+  "url": "https://aws.amazon.com/solutions/case-studies/syngenta-bedrock-case-study/",
+  "fetched": "2026-11-06T20:15:28+00:00",
+  "sha256": "ba264a9781fd87ec7f1b6caf523098e9198aa29d4c93574746521e185c3215c1",
+  "bytes": 358528,
+  "text_chars": 12553,
+  "txt_sha256": "b9d9fe74d93d4facacebbb997482124da96ef911fb216861c565a7bb18e9c619"
+ },
+ "d038": {
+  "url": "https://www.microsoft.com/en/customers/story/26256-coca-cola-andina-microsoft-copilot-studio",
+  "fetched": "2026-11-06T20:15:29+00:00",
+  "sha256": "4b76227ad498cd4f898a100f2108c601db2808a7b2f4a37c088efac93efc2790",
+  "bytes": 224363,
+  "text_chars": 12074,
+  "txt_sha256": "6189e288bf5b9e11607c1f2ac25532168e8a69602687918fb836f06dc1293e3d"
+ },
+ "d039": {
+  "url": "https://www.uipath.com/newsroom/uipath-selected-by-merck-for-agentic-testing",
+  "fetched": "2026-11-06T20:15:34+00:00",
+  "sha256": "ae17a1cab95f436bcdd2b91496be755376e7d8bee29db950be8121a241db7ddf",
+  "bytes": 393815,
+  "text_chars": 9807,
+  "txt_sha256": "12781ec8e95370ab026d5521f314fe97710c2ebb36605d20e338b62866497fc1"
+ },
+ "d040": {
+  "url": "https://www.salesforce.com/customer-stories/carnegie-learning/",
+  "fetched": "2026-11-06T20:15:35+00:00",
+  "sha256": "062d3bf6e5946b2a1b9432b698f8623f54cba3cb0a6f33d5a88d5cabb060d2f3",
+  "bytes": 386680,
+  "text_chars": 27755,
+  "txt_sha256": "56cbe265c9bb3525e4ace904033d43cc449fe8081a495f62148187b7601b5d35"
+ },
+ "d041": {
+  "url": "https://www.salesforce.com/customer-stories/young-drivers/",
+  "fetched": "2026-11-06T20:15:37+00:00",
+  "sha256": "1ad0cddc5c87d071905c935c5acaf7958ec2152faffaaeed14ea29cf7bf97e83",
+  "bytes": 389678,
+  "text_chars": 32008,
+  "txt_sha256": "8669e5b9c99c8e3784212b681d71509d24199cf5a8b6367ae3d8ff0b6772cf84"
+ },
+ "d042": {
+  "url": "https://www.salesforce.com/customer-stories/bionic/",
+  "fetched": "2026-11-06T20:15:39+00:00",
+  "sha256": "344883ad36f0dd023726b7fb91e482efaef69e2d1951dc1a70e99929c6906e60",
+  "bytes": 402928,
+  "text_chars": 32408,
+  "txt_sha256": "c16abad5bfb494185f7901aa7f0cc77dd6df7778c3419248b92cea7f4fe4bba0"
+ },
+ "d043": {
+  "url": "https://www.aboutamazon.com/news/innovation-at-amazon/seller-assistant-agentic-ai",
+  "fetched": "2026-11-06T20:15:41+00:00",
+  "sha256": "396df652ffa4b9c9e73bc893c4d2d68b4c4c37a0343355477646744bae2bb2b5",
+  "bytes": 245076,
+  "text_chars": 12740,
+  "txt_sha256": "8b941aeb9addd1e4da8ca82f1199822645d7580195195d450e7cfbcb93df05fb"
+ },
+ "d044": {
+  "url": "https://news.microsoft.com/source/asia/features/how-commonwealth-bank-and-microsoft-are-reimagining-the-future-of-customer-service/",
+  "fetched": "2026-11-06T20:15:42+00:00",
+  "sha256": "b92d052ebcdd2ffa677de0a95b9ad4a42d071a4ba67187645359c01ea95d2ca1",
+  "bytes": 149837,
+  "text_chars": 10289,
+  "txt_sha256": "e210af88d41648e50e353f52519109b26dc92790f8aa2ace32115f892d436700"
+ },
+ "d045": {
+  "url": "https://www.microsoft.com/en/customers/story/27170-vanderlande-microsoft-power-platform",
+  "fetched": "2026-11-06T20:15:43+00:00",
+  "sha256": "5e57a9c50624b0f0407463f5bd17951b33fff628a55bebafc4a3b62c694adabd",
+  "bytes": 234568,
+  "text_chars": 15421,
+  "txt_sha256": "9f52aa643955f55d4e77547917056b3dd1af9f46b9ce95d46ef49bbbd45153c3"
+ },
+ "d046": {
+  "url": "https://www.salesforce.com/customer-stories/saks/",
+  "fetched": "2026-11-06T20:15:47+00:00",
+  "sha256": "eddc535d1e9e367478569f2607d948bded5280cf7fb8ee1118e8c81c57ab1dbb",
+  "bytes": 371150,
+  "text_chars": 24123,
+  "txt_sha256": "463b25cd5e35faf53d9ebce2abc4f456c9800b14ca43343546e34749052cf043"
+ },
+ "d047": {
+  "url": "https://learn.microsoft.com/power-platform/guidance/case-studies/rabobank-conversational-banking",
+  "fetched": "2026-11-06T20:15:49+00:00",
+  "sha256": "9059dd021f3ee4f1bbadf0d9263b4b33c62400ccf9bba0349804c119e40a2212",
+  "bytes": 63260,
+  "text_chars": 14262,
+  "txt_sha256": "249f8e1b61f568f7a86fab1d1c1f1842ec65b181640ea4f9d331ea99eda51908"
+ },
+ "d048": {
+  "url": "https://www.microsoft.com/en/customers/story/27087-lifetime-products-microsoft-copilot-studio",
+  "fetched": "2026-11-06T20:15:50+00:00",
+  "sha256": "b6e44e48d65ca36ef5a3254814188f08dc901570704677b71b0af80d917f83ba",
+  "bytes": 238699,
+  "text_chars": 13307,
+  "txt_sha256": "08850c8d10c1740155aee4a1436511eaaa6d03fe4431f0a5914ecee18cc37415"
+ },
+ "d049": {
+  "url": "https://www.salesforce.com/customer-stories/fisher-and-paykel/",
+  "fetched": "2026-11-06T20:15:53+00:00",
+  "sha256": "dd9dc3f897a44bfd76fe87f5c384b10929c44883173f46710e42eacd4ec2169d",
+  "bytes": 387458,
+  "text_chars": 24997,
+  "txt_sha256": "d150113b56c130863893fb54d79f98fe44bee4f2fe8c9409e2221a7cc1ea1515"
+ },
+ "d050": {
+  "url": "https://www.salesforce.com/customer-stories/precina/",
+  "fetched": "2026-11-06T20:15:54+00:00",
+  "sha256": "aaddcd711ef5f6f9635e3defb7762067e467c2daf54708b2b129caf93021a697",
+  "bytes": 408292,
+  "text_chars": 37358,
+  "txt_sha256": "8a39ce58e5dc8639be10b7a3937c00ce38d3f7926c98553dc7ee2f45ac88c6b8"
+ },
+ "d051": {
+  "url": "https://learn.microsoft.com/power-platform/guidance/case-studies/holland-america-customer-experience",
+  "fetched": "2026-11-06T20:15:56+00:00",
+  "sha256": "989e430290749b0e1184ddfad6961ccb49722ce23122df0cb874ef4aba85bbd5",
+  "bytes": 73264,
+  "text_chars": 20182,
+  "txt_sha256": "9bb85a60de9481a1353da0f8825209b8743e068b74e62dc5587c298076606fd1"
+ },
+ "d052": {
+  "url": "https://aws.amazon.com/solutions/case-studies/csl-agenticai/",
+  "fetched": "2026-11-06T20:15:57+00:00",
+  "sha256": "91c9c634fc8be867f6464c42a20e05a6eed10cc7fe480d183a0edae01f530a3d",
+  "bytes": 372612,
+  "text_chars": 18551,
+  "txt_sha256": "ac750bf8b03df4535f7a9bc034c4f34a318b853859de801426e086a3b130917e"
+ },
+ "d053": {
+  "url": "https://www.microsoft.com/en/customers/story/25760-ey-global-services-limited-microsoft-power-platform",
+  "fetched": "2026-11-06T20:15:58+00:00",
+  "sha256": "46c5c5bc7f0291b1e9c566071eeb49c065da130eb7303625aff9f3808a32da70",
+  "bytes": 229610,
+  "text_chars": 14968,
+  "txt_sha256": "298e1c49730a6740725500cae3a5d859ca8ade4bee242fae6caa3f44b488a011"
+ },
+ "d054": {
+  "url": "https://www.salesforce.com/customer-stories/wiley/",
+  "fetched": "2026-11-06T20:16:02+00:00",
+  "sha256": "7cfab5f69b7dd54b6dc2bd042dfed971fde7e5596c4c83c7adf1833c78fa5dca",
+  "bytes": 390830,
+  "text_chars": 28026,
+  "txt_sha256": "953b2af20924bf6854fe3dfbfcc83a00513d54185008dd60a6b40ca14b92f2b6"
+ },
+ "d055": {
+  "url": "https://www.salesforce.com/customer-stories/good360/",
+  "fetched": "2026-11-06T20:16:04+00:00",
+  "sha256": "3a96a098501bf911346bebfcc0b73973fedd638a67308c4121f035a29db9c3e7",
+  "bytes": 455187,
+  "text_chars": 36237,
+  "txt_sha256": "3b96b2f7b391930789b84b724c8644782d31e64626ebbdda70bcd9c46462868f"
+ },
+ "d056": {
+  "url": "https://www.salesforce.com/customer-stories/siemens/agentic-sales-leads",
+  "fetched": "2026-11-06T20:16:05+00:00",
+  "sha256": "037ff93402889a48bd479c6cc7af7b00921583664f0e5bfeb901ae0c56a4357b",
+  "bytes": 230707,
+  "text_chars": 8142,
+  "txt_sha256": "2e106d14479463f9c440ee90c6ff4013a4ba0afa66e391232121154722b736c4"
+ },
+ "d057": {
+  "url": "https://aws.amazon.com/solutions/case-studies/mercedes-benz-transform-case-study/",
+  "fetched": "2026-11-06T20:16:07+00:00",
+  "sha256": "8d915dac1279743474445d5c1ff6b55de0c80af638fab86d991a67b19f401e42",
+  "bytes": 355407,
+  "text_chars": 13064,
+  "txt_sha256": "dba0982a80f2dd767724c37431d76b30f4625835afbec30180211faaf37d29f1"
+ },
+ "d058": {
+  "url": "https://www.uipath.com/resources/automation-case-studies/intelligent-agents-usher-in-a-new-age-of-automation-at-groupe-upcoop",
+  "fetched": "2026-11-06T20:16:08+00:00",
+  "sha256": "c7146a2b2b5dd8eef2182f5909af7c01a469e7308764ca505511dadbb565e63c",
+  "bytes": 394428,
+  "text_chars": 10591,
+  "txt_sha256": "e5cb38f9a1d770ca07c3dac8b7314c80417fe7ced7191eab13b10b61c6139a1b"
+ },
+ "d059": {
+  "url": "https://www.salesforce.com/customer-stories/crocs/building-ai-agents",
+  "fetched": "2026-11-06T20:16:08+00:00",
+  "sha256": "2057a7f0b7534dfa8b10cc9ff10c1b301417282399908113470599b7562b212f",
+  "bytes": 233209,
+  "text_chars": 7086,
+  "txt_sha256": "39d8a2b4ac3e1ed60c491e94de4163952213326967932cbbcf34158058cbb093"
+ },
+ "d060": {
+  "url": "https://learn.microsoft.com/en-us/power-platform/guidance/case-studies/tiendas-cuadra-customer-service",
+  "fetched": "2026-11-06T20:16:09+00:00",
+  "sha256": "03ac8dc47750c7853c722698255dde90d54595cfdc6b702890a2dd85af0f42ca",
+  "bytes": 68211,
+  "text_chars": 15830,
+  "txt_sha256": "ed145e503c0a90593a611adaf9c866251112126aa086e829aba335460d82a4aa"
+ },
+ "d061": {
+  "url": "https://www.microsoft.com/en/customers/story/24556-csx-microsoft-copilot-studio",
+  "fetched": "2026-11-06T20:16:10+00:00",
+  "sha256": "23cf307bd33c39eb69ba65413d55f028e29783d300b7cd771e52ee724bf2506e",
+  "bytes": 226519,
+  "text_chars": 12755,
+  "txt_sha256": "d6d2056d7c3c52b6efc098f2a5b9cd9a5815c51890e7b2b559596aec22f7ddb1"
+ },
+ "d062": {
+  "url": "https://www.salesforce.com/customer-stories/loreal/agentic-product-expertise",
+  "fetched": "2026-11-06T20:16:12+00:00",
+  "sha256": "4ea55e84a502f6082c33a7d836af749d61951a609debd8cc1c9b4585e6b74ae3",
+  "bytes": 232423,
+  "text_chars": 8066,
+  "txt_sha256": "83216a6c66636c5dba01235df5c977de75ff7ee98a54c576b8c215f1c722fd33"
+ },
+ "d063": {
+  "url": "https://www.salesforce.com/news/stories/goodyear-agentforce-sales-customer-experience/",
+  "fetched": "2026-11-06T20:16:14+00:00",
+  "sha256": "bc3e33bc9045a46bac1a1e31945ba8430195af8231964bcdad89324660d137ea",
+  "bytes": 173969,
+  "text_chars": 10649,
+  "txt_sha256": "86dcebe5cfa2bb7a9337ba2199506996926b9b7991a654ce279fceb361701fe6"
+ },
+ "d064": {
+  "url": "https://news.microsoft.com/source/emea/features/with-copilot-agents-pets-at-home-unleashes-an-ai-revolution/",
+  "fetched": "2026-11-06T20:16:15+00:00",
+  "sha256": "b6bfc3ddf1b668b1dd7ed20c53dbd901144c81c7e0732542a6bee02d4ee45142",
+  "bytes": 176803,
+  "text_chars": 12478,
+  "txt_sha256": "cb2b15bd03306b134a11735885b7a9ba6ae991eaeda375d6c54c0d3e5855bbc1"
+ },
+ "d065": {
+  "url": "https://www.microsoft.com/en/customers/story/23550-amgen-microsoft-copilot-studio",
+  "fetched": "2026-11-06T20:16:16+00:00",
+  "sha256": "d194389688b4f6d2d419df57bf533f585019ffb9ef9647fa6c9dfdcc6d6ca850",
+  "bytes": 224228,
+  "text_chars": 10486,
+  "txt_sha256": "2c039c47d9e987671ea03d462e717a5f3dc7c099eccd3461c3e6cc3b4e4e963f"
+ },
+ "d066": {
+  "url": "https://www.microsoft.com/en/customers/story/23087-t-mobile-usa-microsoft-copilot-studio",
+  "fetched": "2026-11-06T20:16:20+00:00",
+  "sha256": "be597147e39ba95b3de7e6eb9dc2664c029763f859ec8cea9613cb431247c982",
+  "bytes": 225544,
+  "text_chars": 12384,
+  "txt_sha256": "570da684dd5207f114c37c3e9caecd9acf1086de15bca465779f95be8d95f587"
+ },
+ "d067": {
+  "url": "https://learn.microsoft.com/power-platform/guidance/case-studies/tmobile-empowers-customer-service",
+  "fetched": "2026-11-06T20:16:22+00:00",
+  "sha256": "9c5dc9fb77b80755c506aea1d3ba28cf64a1cab5a26fdab37e1948d377f3b04e",
+  "bytes": 68720,
+  "text_chars": 15507,
+  "txt_sha256": "ce83dcf28823af2b00c7e15de5eda9318b76b38699969425e93a208f5fcc5839"
+ },
+ "d068": {
+  "url": "https://www.microsoft.com/en/customers/story/25505-totalenergies-agents",
+  "fetched": "2026-11-06T20:16:23+00:00",
+  "sha256": "956befc4b7fcdb63309daa820680abf8b710ff2c35eea86638808641d5b8c6ad",
+  "bytes": 220572,
+  "text_chars": 12614,
+  "txt_sha256": "5f0cbdb85ed6e0a34957314c502cfdb6b41c055dd8377671be739c66e35b1aa6"
+ },
+ "d069": {
+  "url": "https://www.salesforce.com/customer-stories/transcend/",
+  "fetched": "2026-11-06T20:16:26+00:00",
+  "sha256": "0363871990035791f20d5782e580d663ad0929673a3a4e5aacd6585325b4a51f",
+  "bytes": 395612,
+  "text_chars": 31241,
+  "txt_sha256": "3797c867bdd49731cffedd1edabd88041437fe99afce9fc121ccce3f004adbf7"
+ },
+ "d070": {
+  "url": "https://www.salesforce.com/blog/agentforce-ufl/",
+  "fetched": "2026-11-06T20:16:29+00:00",
+  "sha256": "49f10386fc8e3f062a3d1bff5a5c2ec4a8d67bca67990b92572abc55a88dc28f",
+  "bytes": 193420,
+  "text_chars": 12453,
+  "txt_sha256": "2ad479a400443b109d783ccecdd6cf789f68d450f186cabd93004d41fab883d1"
+ },
+ "d071": {
+  "url": "https://www.microsoft.com/en/customers/story/22686-eneco-microsoft-copilot-studio",
+  "fetched": "2026-11-06T20:16:30+00:00",
+  "sha256": "da147f891c724fc5d927eb1840da990f7a40e0558e80152e3546f5505ddacc4d",
+  "bytes": 227551,
+  "text_chars": 10839,
+  "txt_sha256": "c5f8d79e8ade895832e857d08d48736e9fd051547b0e79f997f93beb5e866e3a"
+ },
+ "d072": {
+  "url": "https://adoption.microsoft.com/en-us/agent-transformation-stories/graebel/",
+  "fetched": "2026-11-06T20:16:34+00:00",
+  "sha256": "c16519313595a443403dcbc737b69e5e6735d842bb4d8d2bd8fcb193c315a461",
+  "bytes": 150629,
+  "text_chars": 17973,
+  "txt_sha256": "b4eaea92ed273bba1d211049ff696c5ffac454ba09f913f9040ecf7cb3cc96f2"
+ },
+ "d073": {
+  "url": "https://www.salesforce.com/customer-stories/crocs",
+  "fetched": "2026-11-06T20:16:35+00:00",
+  "sha256": "2334a060a059c9a0960d375b235928044f519c09af49e1a82ff1806abcf96610",
+  "bytes": 177661,
+  "text_chars": 2240,
+  "txt_sha256": "394107718d2e02aacb09deb2821b4b766352eecf0051a254f6ca861c6c4a495f"
+ },
+ "d074": {
+  "url": "https://www.salesforce.com/customer-stories/nexo/",
+  "fetched": "2026-11-06T20:16:36+00:00",
+  "sha256": "bdac25c3e91e09ec5b4d17e15f16dc70bfd3ecb1bc8c102b168ed7d25104ba8a",
+  "bytes": 427633,
+  "text_chars": 31901,
+  "txt_sha256": "5d709a85feb107f93190cc05cbbb5a443ebb19a0963c4ff095b494aba1276eeb"
+ },
+ "d075": {
+  "url": "https://www.microsoft.com/en/customers/story/26265-unifi-microsoft-copilot-studio",
+  "fetched": "2026-11-06T20:16:38+00:00",
+  "sha256": "0e9c446fab3403849a7b3e0d7cf0df9ff9386d01c46815c7f2f4ca15a6ee8600",
+  "bytes": 226175,
+  "text_chars": 13484,
+  "txt_sha256": "a861e996858a1457c0d28ce199b515870b934d71e3855ccb601ae2d764cd6712"
+ },
+ "d076": {
+  "url": "https://learn.microsoft.com/power-platform/guidance/case-studies/abn-amro-enhances-ai",
+  "fetched": "2026-11-06T20:16:42+00:00",
+  "sha256": "a6114f09aae527d0ccd4f8442b7f9090b7fbaeaebdcb2ee661e796f359b1d9a6",
+  "bytes": 61818,
+  "text_chars": 12852,
+  "txt_sha256": "db0fad1f393adbbca84bb26e232e11a2cd1000c6fb3f6aed82170e6c08d56f12"
+ },
+ "d077": {
+  "url": "https://www.salesforce.com/news/press-releases/2025/06/24/university-chicago-agentforce-patient-support/",
+  "fetched": "2026-11-06T20:16:42+00:00",
+  "sha256": "2569da5dadcce2b877383239b9d56d83c741021f23710b94d3818c303509defa",
+  "bytes": 170429,
+  "text_chars": 6256,
+  "txt_sha256": "66bab3becafc1422398c77dfbaa0c096006ea53651734623208007fae1373320"
+ },
+ "d078": {
+  "url": "https://www.microsoft.com/en/customers/story/24471-virgin-money-microsoft-365-copilot",
+  "fetched": "2026-11-06T20:16:44+00:00",
+  "sha256": "732a429c482af61afa9baa5b14d2ae9520a1aa516fb4e220a4e98b30514cdf9a",
+  "bytes": 222384,
+  "text_chars": 9390,
+  "txt_sha256": "62287775f17ff4abfb163100e209de1f353e9e05e85378a2a2e0941ae1ed5570"
+ },
+ "d079": {
+  "url": "https://www.salesforce.com/customer-stories/loreal",
+  "fetched": "2026-11-06T20:16:49+00:00",
+  "sha256": "6f7c3a500c00f905869926fdd0955e70b680b1b2e24ea35692d961499c923e95",
+  "bytes": 175342,
+  "text_chars": 2156,
+  "txt_sha256": "278ab7b2ab93dbb6e3328a5923272c209824691e6a64cd9d6d4bd4f400435538"
+ },
+ "d080": {
+  "url": "https://www.microsoft.com/en/customers/story/26293-farmlands-cooperative-dynamics-365-commerce",
+  "fetched": "2026-11-06T20:16:50+00:00",
+  "sha256": "d8d67cf76c489e9d0bd0f2f9492f07dc1bb301336b01df0475fb37d272640b9d",
+  "bytes": 224160,
+  "text_chars": 12918,
+  "txt_sha256": "71182df56e5b8c46d9c81cfb48b4f2808627e22663b118cd23077ee8f3e0fb06"
+ },
+ "d081": {
+  "url": "https://www.salesforce.com/customer-stories/fifa",
+  "fetched": "2026-11-06T20:16:54+00:00",
+  "sha256": "83381d0103324eaafe9b4f69ab7e874e7ed6c95b7c6652d197e2050042b9cae1",
+  "bytes": 188628,
+  "text_chars": 2841,
+  "txt_sha256": "90a9c52fe1b1f645840edcb26974b504cde102bd0af2ad49d03d86003ade3337"
+ },
+ "d082": {
+  "url": "https://www.salesforce.com/customer-stories/crocs/agentic-commerce-marketing",
+  "fetched": "2026-11-06T20:16:56+00:00",
+  "sha256": "c9919292224ee12b87328f3350186c4695d99c98a11a2a8960154c0b83108c9b",
+  "bytes": 231064,
+  "text_chars": 7508,
+  "txt_sha256": "1b5bde614bfc0dd85bed4418d271d9bbe51e46b05378a60486cc095467b1d95a"
+ },
+ "d083": {
+  "url": "https://www.servicenow.com/customers/now-on-now-now-assist.html",
+  "fetched": "2026-11-06T20:16:58+00:00",
+  "error": "TimeoutError: The read operation timed out"
+ },
+ "d084": {
+  "url": "https://learn.microsoft.com/power-platform/guidance/case-studies/city-montreal-citizen-engagement",
+  "fetched": "2026-11-06T20:17:18+00:00",
+  "sha256": "9481798e609a570b3924063640d270d04d4007c5740f24331c373fe30969379b",
+  "bytes": 71364,
+  "text_chars": 20110,
+  "txt_sha256": "592d6979cef8920ccf9d559e6aac3859c59b219a2988749c0529908bb41dc86f"
+ },
+ "d085": {
+  "url": "https://learn.microsoft.com/en-us/power-platform/guidance/case-studies/coca-cola-andina-hr-support",
+  "fetched": "2026-11-06T20:17:19+00:00",
+  "sha256": "0c60b4ac74f99a7121c6b3a2885a63c6f0f48ded9570de344d6a06c67e65530e",
+  "bytes": 64840,
+  "text_chars": 14713,
+  "txt_sha256": "c332f40f7f2cbbf304ab80bfd7817dd5d29764351b070981b658545f7aa1cbb9"
+ },
+ "d086": {
+  "url": "https://www.salesforce.com/au/news/stories/el-jannah-experience-agentforce/",
+  "fetched": "2026-11-06T20:17:19+00:00",
+  "sha256": "9d02c40a96d8bc142f071ea5a9eb9156c7d43bc121b2c45b77747ca09ff1bf3e",
+  "bytes": 154377,
+  "text_chars": 7279,
+  "txt_sha256": "291e71c3ad87be5a71f2ba0509aa8753d08d445cd181a59c9d7b0533cad6dcea"
+ },
+ "d087": {
+  "url": "https://www.salesforce.com/news/press-releases/2025/03/11/singapore-airlines-agentforce-customer-support/",
+  "fetched": "2026-11-06T20:17:21+00:00",
+  "sha256": "af561a2f635b2b613637f998e1cc2e3075f50a13273bc97252e4fbc4c72da0c0",
+  "bytes": 159800,
+  "text_chars": 7362,
+  "txt_sha256": "64ad34035598b77d9365dceff602257b5d799bff08ae71ab08025b2fea6c9509"
+ },
+ "d088": {
+  "url": "https://www.servicenow.com/customers/ltm.html",
+  "fetched": "2026-11-06T20:17:22+00:00",
+  "error": "TimeoutError: The read operation timed out"
+ },
+ "d089": {
+  "url": "https://www.microsoft.com/en/customers/story/23488-the-estee-lauder-companies-microsoft-copilot-studio",
+  "fetched": "2026-11-06T20:17:42+00:00",
+  "sha256": "8d0135aeb7ee7d87569c9184f9014551ca0b57935f72f5a9138ec9f37fe8ef2a",
+  "bytes": 223542,
+  "text_chars": 10904,
+  "txt_sha256": "6a7e94d0af9b3799014e123396ead5b71a8b80c5f54e66a1bfb7b732df1c1641"
+ },
+ "d090": {
+  "url": "https://aws.amazon.com/solutions/case-studies/experian-agenticai/",
+  "fetched": "2026-11-06T20:17:44+00:00",
+  "sha256": "b77335b592bd588a790048f567059c68f1d381aa385fa10914c4892bfa127e5c",
+  "bytes": 336050,
+  "text_chars": 10812,
+  "txt_sha256": "386f2f6a46513f8f378f667f09b858bc691215b568b83155ee514a583d824527"
+ },
+ "d091": {
+  "url": "https://www.salesforce.com/customer-stories/the-adecco-group/",
+  "fetched": "2026-11-06T20:17:44+00:00",
+  "sha256": "d8c94873d3e832ff5a6c816c8690e41f93241ebd3f5f4e14ccc126dc2c4bb5c5",
+  "bytes": 182106,
+  "text_chars": 2332,
+  "txt_sha256": "b31d775ba5219ea149e55cdf48d0406b398a2e7fca60f940d0e51f6dce8f9f24"
+ },
+ "d092": {
+  "url": "https://www.salesforce.com/in/customer-stories/hero-fincorp/",
+  "fetched": "2026-11-06T20:17:46+00:00",
+  "sha256": "f0b5f5d2b79629225bf59ebde76d2ab9509f9f6a8a4b7220549d6a2125645431",
+  "bytes": 478772,
+  "text_chars": 34261,
+  "txt_sha256": "95b0eed3d5e925152bace9a9840d3c3e715e45d626915adbc32cfe41d1d0afbc"
+ },
+ "d093": {
+  "url": "https://www.salesforce.com/customer-stories/opentable/",
+  "fetched": "2026-11-06T20:17:47+00:00",
+  "sha256": "ddab7e94d35c650e09da83ab99b0b5cd3eb51532a13c8875e205092c959411f6",
+  "bytes": 458006,
+  "text_chars": 35808,
+  "txt_sha256": "e3655a1ced687f8e70c3afab17e1105623079124f09880ec477094070c2c2baa"
+ },
+ "d094": {
+  "url": "https://www.salesforce.com/news/press-releases/2025/06/23/agentforce-3-announcement/",
+  "fetched": "2026-11-06T20:17:48+00:00",
+  "sha256": "a62a8ba4dfebdb90b4a8e06944038a60ea9389eb5120d24f03051475bbf069ac",
+  "bytes": 210618,
+  "text_chars": 20991,
+  "txt_sha256": "ab99c40615e453893b4767d2cfaa1dc78a055933a2e4306c17f3835f4fec87dc"
+ },
+ "d095": {
+  "url": "https://www.microsoft.com/en/customers/story/26836-agco-corp-word",
+  "fetched": "2026-11-06T20:17:49+00:00",
+  "sha256": "24426581910c87764fa9c11a7e6427793d300f703e07363d59d79f1e72a72f72",
+  "bytes": 229987,
+  "text_chars": 13271,
+  "txt_sha256": "14af51405eff89f6457263156c556650b8ed48d557cdb467e29463a4ee7e3f2a"
+ },
+ "d096": {
+  "url": "https://www.uipath.com/resources/automation-case-studies/smu-transforms-operations-through-business-orchestration-and-automation",
+  "fetched": "2026-11-06T20:17:53+00:00",
+  "sha256": "21f5a63c76358496eb2c43f0599babcb7e9c1029894f41e43d0a7c773fe0b171",
+  "bytes": 394449,
+  "text_chars": 9763,
+  "txt_sha256": "c32ca56df9e8ab3e1659dd1e3f3f2cec5e05a7df0bd61573ee57cb9281c28745"
+ },
+ "d097": {
+  "url": "https://www.uipath.com/resources/automation-case-studies/pldt-transforms-operations-with-agentic-ai-built-on-uipath",
+  "fetched": "2026-11-06T20:17:54+00:00",
+  "sha256": "7a0dabbdfcac94e43a525a4564de56f8850ecdbe5780f3fa8586dc7af49af625",
+  "bytes": 400287,
+  "text_chars": 12801,
+  "txt_sha256": "32d706837f5768fd30b995975f3614950e00aedc7c341946102d0b6dfa826111"
+ },
+ "d098": {
+  "url": "https://www.microsoft.com/en/customers/story/25528-children-international-microsoft-365-copilot",
+  "fetched": "2026-11-06T20:17:55+00:00",
+  "sha256": "ab131a0410ceb356e3d03a70489dc4f4f224191923810a827e4a3cea54d6c5ec",
+  "bytes": 242658,
+  "text_chars": 18384,
+  "txt_sha256": "5fb1d104d135666cc12f4347f5528e1c57d0e62c05ae45d9496298e271fafc5e"
+ },
+ "d099": {
+  "url": "https://www.salesforce.com/customer-stories/specs",
+  "fetched": "2026-11-06T20:17:59+00:00",
+  "sha256": "b90684e08f4d30cddb94579ac61bde73029a471e3a72dfe4e9757ea75d664677",
+  "bytes": 205692,
+  "text_chars": 6690,
+  "txt_sha256": "542ee19386d6d15bcb3a688bec1e85d4ca1f3399348ac83dfdfd15edd8239d6f"
+ },
+ "d100": {
+  "url": "https://www.salesforce.com/news/press-releases/2025/01/14/shark-ninja-agentforce-customer-service/",
+  "fetched": "2026-11-06T20:18:01+00:00",
+  "sha256": "c1b8c3de89083533b81bb56829675aafd6db5a46761d0761444868a18dc88c42",
+  "bytes": 165987,
+  "text_chars": 7508,
+  "txt_sha256": "065fc4878439c7ff62b9a6e8f5119955e1591cdb611dc6c2c2761c47ced02757"
+ },
+ "d101": {
+  "url": "https://www.salesforce.com/blog/shoe-carnival-customer-story/",
+  "fetched": "2026-11-06T20:18:02+00:00",
+  "sha256": "a0f4b8828983966144d2dbd8373c1eabfe81d1bb17f7410dafc12ba4e3f8839d",
+  "bytes": 203247,
+  "text_chars": 17113,
+  "txt_sha256": "b5a58e3b4489d95e56e973df2b89d2c013ea436bfd3e174b1c8e1b89e4488870"
+ },
+ "d102": {
+  "url": "https://www.microsoft.com/en/customers/story/27511-mobilezone-microsoft-copilot-studio",
+  "fetched": "2026-11-06T20:18:03+00:00",
+  "sha256": "e50c26cb7edc4d49c823c12524f7660d80e560627944224448f953ecdfa34ac7",
+  "bytes": 230248,
+  "text_chars": 12499,
+  "txt_sha256": "225dc9c3a8ae72e9aa015744df65e2454ccffad09729eeb9355545890b90b662"
+ },
+ "d103": {
+  "url": "https://www.salesforce.com/customer-stories/sweeping-corp/",
+  "fetched": "2026-11-06T20:18:06+00:00",
+  "sha256": "228b2adbc6778eac2670e9664447b5bac96566f37f534beeddf50443e9d3622a",
+  "bytes": 404565,
+  "text_chars": 32308,
+  "txt_sha256": "49e757c90fc19f32073be27b6f0881f2310e1e6e0461df1e933f25127d2560ce"
+ },
+ "d104": {
+  "url": "https://techcommunity.microsoft.com/blog/microsoft365copilotblog/dow-is-targeting-millions-in-cost-savings-with-microsoft-365-copilot-and-agents/4393480",
+  "fetched": "2026-11-06T20:18:08+00:00",
+  "sha256": "17afa60dd35b78d4c68805c144f1560d31622b2fc53617b66d971f6523ca3991",
+  "bytes": 461131,
+  "text_chars": 11081,
+  "txt_sha256": "43c7f581aa2a258a964ab1c325f36fdda5c930cf18d55ce0223bee012a63e2ce"
+ },
+ "d105": {
+  "url": "https://www.salesforce.com/customer-stories/finnair/",
+  "fetched": "2026-11-06T20:18:13+00:00",
+  "sha256": "cd08b8d071811c72b926ebf51943150aa36aed6199207bd3a224a41ffef73e46",
+  "bytes": 442136,
+  "text_chars": 34491,
+  "txt_sha256": "71be71d0e94dc56be09dc9bc5f782eb0d7353ad9d6b556151cb10b6b7643267a"
+ },
+ "d106": {
+  "url": "https://www.salesforce.com/news/stories/video/adobe-population-health-real-time-updates-agentforce/",
+  "fetched": "2026-11-06T20:18:15+00:00",
+  "sha256": "f8d02de47f72390ffbaf39583b33e549f4152096e25da50c7f30136866832944",
+  "bytes": 146422,
+  "text_chars": 3516,
+  "txt_sha256": "00d28554af6cb39d7e2b7462305e843d6586c44b1a27ac0113bc26a78832e757"
+ },
+ "d107": {
+  "url": "https://www.salesforce.com/customer-stories/datasite/",
+  "fetched": "2026-11-06T20:18:16+00:00",
+  "sha256": "38939cff630877e18de81138ee842e98f2f5200ef812f80fa02bdc5b4c43b5b2",
+  "bytes": 403374,
+  "text_chars": 33947,
+  "txt_sha256": "064b555b3809988647a4c8278f900d8655e30de7b49323792aa8355dcfdc7e46"
+ },
+ "d108": {
+  "url": "https://www.salesforce.com/customer-stories/deinePflege/",
+  "fetched": "2026-11-06T20:18:18+00:00",
+  "sha256": "01bb44509657d72b06468340a6ad600aef0c5cbdbf453b06741d9ce77df3224d",
+  "bytes": 406535,
+  "text_chars": 30859,
+  "txt_sha256": "06b1481706663cb496c2d4b402e9fb78cff2c5f5c817babc885255c7a42d20ef"
+ },
+ "d109": {
+  "url": "https://aws.amazon.com/solutions/case-studies/cox-auto-case-study/",
+  "fetched": "2026-11-06T20:18:19+00:00",
+  "sha256": "03e7ac695d4aef7afa57f559be064f3aa429d2b64e9e481b4f04f97f87ec121f",
+  "bytes": 359223,
+  "text_chars": 19003,
+  "txt_sha256": "f1e3b02efbb41e833efa66a3875ad6fc20644a00a6e57bf70e161616a6b99501"
+ },
+ "d110": {
+  "url": "https://learn.microsoft.com/en-us/power-platform/guidance/case-studies/mobilezone-modernizes-service-delivery",
+  "fetched": "2026-11-06T20:18:20+00:00",
+  "sha256": "7d12be894660aa387715e002e8ba7575b95a372d467312ef0453146db5bf6e1f",
+  "bytes": 66628,
+  "text_chars": 14975,
+  "txt_sha256": "bbe8414127eb39ead95fb03d33422ef5aa0dad2d388716c45c25e765333b38af"
+ },
+ "d111": {
+  "url": "https://www.salesforce.com/customer-stories/fisher-and-paykel/agentic-field-service-support",
+  "fetched": "2026-11-06T20:18:20+00:00",
+  "sha256": "eb6f4f21dcfba3e44bac53273a51a5d1c4d70c3c39fe98c7973f4c1eded7fb9b",
+  "bytes": 226703,
+  "text_chars": 6547,
+  "txt_sha256": "f2c8992898fec9c0e8309b90a0def40172ac4b573264f1b0aa33d4327e45c5c9"
+ },
+ "d112": {
+  "url": "https://www.salesforce.com/customer-stories/big-brothers-big-sisters-of-america/",
+  "fetched": "2026-11-06T20:18:22+00:00",
+  "sha256": "057225555e01771159303392b2324d20ae7771ea38cf3ab91c10f8168f654397",
+  "bytes": 440545,
+  "text_chars": 33206,
+  "txt_sha256": "47b91385ab9c49b81a14aeb8fbb936309237629b7cd6d7665fb21f4aeb10c680"
+ },
+ "d113": {
+  "url": "https://aws.amazon.com/solutions/case-studies/druva-agentcore-case-study/",
+  "fetched": "2026-11-06T20:18:23+00:00",
+  "sha256": "316cda215a6c284251439a7f68abf7ea99c5ec55955a2220270c3ea518225ea5",
+  "bytes": 368978,
+  "text_chars": 15141,
+  "txt_sha256": "ba029a6748d6a44b96bd801f148af21764e708773099079be182027840f1479a"
+ },
+ "d114": {
+  "url": "https://cloud.google.com/customers/stratagem",
+  "fetched": "2026-11-06T20:18:24+00:00",
+  "sha256": "6d6ee68fbc3e4462cb20ba5a201a1a4e6aa57f82f568c5606f12a5ed8e62a34a",
+  "bytes": 1588297,
+  "text_chars": 41257,
+  "txt_sha256": "75f5acafc55323045f3765e5a07110e13cf94ac0f641533fda2ac873d7797ccc"
+ },
+ "d115": {
+  "url": "https://www.microsoft.com/en/customers/story/26985-cemex-microsoft-copilot-studio",
+  "fetched": "2026-11-06T20:18:26+00:00",
+  "sha256": "426f8ff8209edb02c17f6862fd478490df639b3e6ad4c4a26792f820fdf5678f",
+  "bytes": 227078,
+  "text_chars": 12466,
+  "txt_sha256": "ed58286d5a6519abe7182833489dc4b32e7dc35c80bdbb8222b13d20556cf4c3"
+ },
+ "d116": {
+  "url": "https://www.microsoft.com/en/customers/story/26118-siag-dynamics-365-customer-service",
+  "fetched": "2026-11-06T20:18:29+00:00",
+  "sha256": "e746cd646d27eebcee0a675dead8153bfd703cc1f8ee27f108142f45cdb896bc",
+  "bytes": 228629,
+  "text_chars": 13538,
+  "txt_sha256": "c81063afbd36e1b391bc4f3964af23f66a01920a565aa24d7932026218b2f23d"
+ },
+ "d117": {
+  "url": "https://www.servicenow.com/customers/ey-ai.html",
+  "fetched": "2026-11-06T20:18:34+00:00",
+  "error": "TimeoutError: The read operation timed out"
+ },
+ "d118": {
+  "url": "https://www.salesforce.com/customer-stories/crocs/service-shopping-superagent",
+  "fetched": "2026-11-06T20:18:54+00:00",
+  "sha256": "11ac771fa1f539a71469f7f6a5308aa18f0cd509f02ecb9e4ff222c54694f0ae",
+  "bytes": 232268,
+  "text_chars": 7494,
+  "txt_sha256": "d1462961e79e410e85719cb5a78ec49206d7406b951f7b2f52a27846dc4b698b"
+ },
+ "d119": {
+  "url": "https://www.salesforce.com/news/stories/agentforce-for-financial-services-announcement/",
+  "fetched": "2026-11-06T20:18:56+00:00",
+  "sha256": "123e1dbf5ec802fba6e747fc5f45270ce77b92d94e5580afc9cfaf9d24e809f0",
+  "bytes": 186855,
+  "text_chars": 17549,
+  "txt_sha256": "3d68c74396f5f4aed4d6e6740b04a57843c254efcdd05dd2b972589b27d2cb2e"
+ },
+ "d120": {
+  "url": "https://www.salesforce.com/customer-stories/indeed/",
+  "fetched": "2026-11-06T20:18:57+00:00",
+  "sha256": "31e6e439b667ac10458eaf0c3b89148ca7f85dc59dbd12f8a440ae8683b3246f",
+  "bytes": 451456,
+  "text_chars": 36064,
+  "txt_sha256": "56e85342d0f5ce5f108f2c982b0de8bd0a26e4ed9c3681e94114e0724093ddb9"
+ },
+ "d121": {
+  "url": "https://www.salesforce.com/customer-stories/pacers-sports-entertainment/",
+  "fetched": "2026-11-06T20:18:58+00:00",
+  "sha256": "bdb5691254970a15f488072ce8cfff465a229459934b324e4f908d1c0e7eaf6d",
+  "bytes": 443788,
+  "text_chars": 36527,
+  "txt_sha256": "5982ad7749a8211ddca60f82ed02279f3785d0e1f1e3dce23b446bb60d84f63e"
+ },
+ "d122": {
+  "url": "https://www.salesforce.com/au/customer-stories/pacific-smiles/",
+  "fetched": "2026-11-06T20:19:00+00:00",
+  "sha256": "99171173f5380d8018e6b0b172e82aeea98ef47ea2250b0f832ad8045c08d85a",
+  "bytes": 385834,
+  "text_chars": 26895,
+  "txt_sha256": "042c86938194ef00a548413da2a009b9e71b17de68560d7faa183d53444018d4"
+ },
+ "d123": {
+  "url": "https://www.microsoft.com/en/customers/story/26166-microsoft-microsoft-copilot-studio",
+  "fetched": "2026-11-06T20:19:03+00:00",
+  "sha256": "941f2e2ec28326f5887e32631a85c1884d4c04205e88239e994ac3ff074c4f59",
+  "bytes": 229711,
+  "text_chars": 15194,
+  "txt_sha256": "ff010d0f0d4c58cf26a2d9ae5a60dd9833e39a7fd2cf64290e9b9cd18e97d7d6"
+ },
+ "d124": {
+  "url": "https://www.salesforce.com/customer-stories/loreal/agentic-service-advisor-assistance",
+  "fetched": "2026-11-06T20:19:05+00:00",
+  "sha256": "6c47248f6b7759153b24d988da1c3ce3cbd7513b0ea4c97be8d14357105c3c43",
+  "bytes": 238668,
+  "text_chars": 8254,
+  "txt_sha256": "7cded37b04113cdc4d97bb8cb4e35e2f26aa5e12551d8c95bb72d5666553d1c9"
+ },
+ "d125": {
+  "url": "https://www.salesforce.com/customer-stories/equinox/",
+  "fetched": "2026-11-06T20:19:07+00:00",
+  "sha256": "b407f71e76f49ba50192cdeca2105664ace85527f76617e7784387197b75e218",
+  "bytes": 385435,
+  "text_chars": 24583,
+  "txt_sha256": "e1012aa2dd6ffeb3a4851622e99bf7fd4edd1d2b7aa3649d47ae8eaf3c1d46d0"
+ },
+ "d126": {
+  "url": "https://www.microsoft.com/en/customers/story/27278-oneschool-global-microsoft-copilot-studio",
+  "fetched": "2026-11-06T20:19:08+00:00",
+  "sha256": "91e9ed3555e4c011a88caf92ec5093d22091041d2602f17466580a7997dae91c",
+  "bytes": 229505,
+  "text_chars": 14273,
+  "txt_sha256": "26d50df64d1ad909583e8c404b314a5d5cca8c8f844bf048be2efe7572e2665f"
+ },
+ "d127": {
+  "url": "https://www.salesforce.com/customer-stories/rocket-pro",
+  "fetched": "2026-11-06T20:19:12+00:00",
+  "sha256": "deb93c6b3d5f243fc6d17ddf88520e60acd8d7b3d2a59c64a37f45089187e4ee",
+  "bytes": 180937,
+  "text_chars": 2293,
+  "txt_sha256": "15b56f591abd3bc08fa167c845c2f0c59ab1e983a751bbc635f50e3d33a1f216"
+ },
+ "d128": {
+  "url": "https://www.microsoft.com/en/customers/story/25186-city-of-montreal-agents",
+  "fetched": "2026-11-06T20:19:13+00:00",
+  "sha256": "dccbfa80a29c6bc111c045f2c3106641edb9568e3ca362f3e7e40b51b630f9a3",
+  "bytes": 215262,
+  "text_chars": 10623,
+  "txt_sha256": "cc2c05eb54c487afc9095bb4385ad736fa0b67338f60a32f9dc70c22d64e341d"
+ },
+ "d129": {
+  "url": "https://www.microsoft.com/en/customers/story/26947-state-farm-microsoft-power-platform",
+  "fetched": "2026-11-06T20:19:16+00:00",
+  "sha256": "6b7c3748c47bd450bc482d56ab31390618cc32f78b44c5f8bc1c122cb713233b",
+  "bytes": 239766,
+  "text_chars": 14321,
+  "txt_sha256": "90198438e76bfe8fcb94744482d741e24b0a282db90906b3951eef88a3605721"
+ },
+ "d130": {
+  "url": "https://www.microsoft.com/en/customers/story/26969-banco-hipotecario-github-copilot",
+  "fetched": "2026-11-06T20:19:19+00:00",
+  "sha256": "69398d03687da06ce93fde142684996ab843ebdda1823b0259eea3d7b86c49a0",
+  "bytes": 236668,
+  "text_chars": 13724,
+  "txt_sha256": "665fdf4c8ba927418b2817ec2866ee6db9b23f53cf3d1d2d5dba0198a1c276e2"
+ },
+ "d131": {
+  "url": "https://www.salesforce.com/news/press-releases/2024/12/17/vivint-agentforce-scale-customer-service/",
+  "fetched": "2026-11-06T20:19:22+00:00",
+  "sha256": "038028826bd561698026728d8e5a15cb3601aa78e584f08e9ba95ee39b16752e",
+  "bytes": 175514,
+  "text_chars": 7164,
+  "txt_sha256": "aa111862aff1fe805938fc9e52418a1c9299846558badde34ad415bedf3fb0ac"
+ },
+ "d132": {
+  "url": "https://www.microsoft.com/en/customers/story/25662-ey-microsoft-365-copilot",
+  "fetched": "2026-11-06T20:19:22+00:00",
+  "sha256": "df49df36b8649b18dd4dce9005b069bc970ec4ccb6b1bd1898c6e209a5efd1d2",
+  "bytes": 219313,
+  "text_chars": 9618,
+  "txt_sha256": "9682bd2e68507ca508b227cecf9e39ba35ad84a0bd1d9e22e3143241a7145b5b"
+ },
+ "d133": {
+  "url": "https://www.salesforce.com/customer-stories/engine/",
+  "fetched": "2026-11-06T20:19:26+00:00",
+  "sha256": "92250f7b37d87d16b73f61b0c04f2ea6368a0a68fe0059e8bb29a26c5d0d5251",
+  "bytes": 214105,
+  "text_chars": 3367,
+  "txt_sha256": "ffa7d07fa10bf1e0bfbe2a1bb393d52d01d7fae016ab3abd8a4dac812f790cf5"
+ },
+ "d134": {
+  "url": "https://www.microsoft.com/en/customers/story/26834-cancer-council-nsw-sharepoint",
+  "fetched": "2026-11-06T20:19:27+00:00",
+  "sha256": "134ec2828348887747e33c4ad6c14d5233461e6ba0f6686b14e20d1592fcb2c5",
+  "bytes": 229973,
+  "text_chars": 12909,
+  "txt_sha256": "0b3bedcd58fb7f39fcebc5bdb807708ac34d7469de65696ffb621b9e533d007f"
+ },
+ "d135": {
+  "url": "https://www.servicenow.com/customers/inmorphis.html",
+  "fetched": "2026-11-06T20:19:31+00:00",
+  "error": "TimeoutError: The read operation timed out"
+ },
+ "d136": {
+  "url": "https://www.salesforce.com/customer-stories/saastr-ai",
+  "fetched": "2026-11-06T20:19:51+00:00",
+  "sha256": "6653f64ea88503e1aca6f0e0e726c5c54114c4f12dc92a0c719f7c4ca2b050c9",
+  "bytes": 185399,
+  "text_chars": 2193,
+  "txt_sha256": "6838d061bdfeb2e6669228894636d7756c2b4f2e32cf1d04e6816f709f494d50"
+ },
+ "d137": {
+  "url": "https://learn.microsoft.com/power-platform/guidance/case-studies/latrobe-supercharges",
+  "fetched": "2026-11-06T20:19:54+00:00",
+  "sha256": "86b21c067e255c0564aac66e1b6a011052dd63852f3b36c4147c2ffe6c78343e",
+  "bytes": 67318,
+  "text_chars": 15382,
+  "txt_sha256": "892c8fb0b4bc6d875c9a9275b676860aa9e1821f133532ff1ac288f41c361ac0"
+ },
+ "d138": {
+  "url": "https://www.salesforce.com/customer-stories/college-possible/",
+  "fetched": "2026-11-06T20:19:54+00:00",
+  "sha256": "9468afd0a8625c6e5a8c458ba4078e9d911ee6d33dc2812d3ca137d1db36bc21",
+  "bytes": 399524,
+  "text_chars": 32746,
+  "txt_sha256": "176a4ab35d38eb62daa14e4d473c0b9febdc840ad5be370660f6261c8548f52a"
+ },
+ "d139": {
+  "url": "https://www.microsoft.com/en/customers/story/23524-holland-america-line-microsoft-copilot-studio",
+  "fetched": "2026-11-06T20:19:56+00:00",
+  "sha256": "8dae4294ca635c7774a7ab74f873bd61276477821ba0ded05344698b935af74e",
+  "bytes": 231627,
+  "text_chars": 12954,
+  "txt_sha256": "9af0ccde0339169448cb7c2de8d5864f8e1fc81312c517a987a6615d0e15288b"
+ },
+ "d140": {
+  "url": "https://www.salesforce.com/customer-stories/1800-accountant/",
+  "fetched": "2026-11-06T20:19:58+00:00",
+  "sha256": "6edf27e1ea3280dd03e9fbf936e08583a64d2a18000241b4a5271176fee1b6ef",
+  "bytes": 437314,
+  "text_chars": 32322,
+  "txt_sha256": "d60b65544e6cdbe662764d3ef110331c5587bcacbc30aab8e4f4e56e439c20ed"
+ },
+ "d141": {
+  "url": "https://www.salesforce.com/customer-stories/rocket-pro/agentic-outreach-prep",
+  "fetched": "2026-11-06T20:19:59+00:00",
+  "sha256": "bba9bed59d2696ba8bdf08476d0d29ac93749b9654d523dac34eb1baca604dbb",
+  "bytes": 217445,
+  "text_chars": 7713,
+  "txt_sha256": "b31492668e158f4826dfe4e3c94f589e75f4b671ea6c9b52b231594dbdfc6e8c"
+ },
+ "d142": {
+  "url": "https://www.salesforce.com/customer-stories/world-economic-forum/",
+  "fetched": "2026-11-06T20:20:01+00:00",
+  "sha256": "2db883976793b2b87ffcdcc83b1159e08b12520cd8103e4e234a3bc968fc75af",
+  "bytes": 445869,
+  "text_chars": 34447,
+  "txt_sha256": "75e9fac4782d8a4506304d707f0d2af1c5c7a973743b1e3c07789db814aabc40"
+ },
+ "d143": {
+  "url": "https://www.salesforce.com/news/press-releases/2025/06/19/nexstar-media-cloud-agentforce-media-sales/",
+  "fetched": "2026-11-06T20:20:03+00:00",
+  "sha256": "acba1ed8a9d1829bb61ba62b790acce380d22ea9d7b05d84bf261248db9bbef7",
+  "bytes": 166990,
+  "text_chars": 8336,
+  "txt_sha256": "0e932e2e4c074c0fc4d1a95599b3e701d1efa29400f209daafd499118b8be31d"
+ },
+ "d144": {
+  "url": "https://learn.microsoft.com/en-us/power-platform/guidance/case-studies/signetic-transforms-healthcare",
+  "fetched": "2026-11-06T20:20:04+00:00",
+  "sha256": "a36958a10e5afa12b5356c832e1b3fc489a36da45f50d47a9976130f20ab7f07",
+  "bytes": 71546,
+  "text_chars": 17316,
+  "txt_sha256": "2156e47f90607c64e972940a458af3838eaabbdd9c20de8210888c1f075735d1"
+ },
+ "d145": {
+  "url": "https://cloud.google.com/customers/signaliduna",
+  "fetched": "2026-11-06T20:20:05+00:00",
+  "sha256": "45954bc888ca157c4806f1fa017873093a5321ccd18f74b88662446db4cf7992",
+  "bytes": 1603644,
+  "text_chars": 43657,
+  "txt_sha256": "230a3a4f1577f40a8b4ac90ba140974f21d56a1bed5d8f9f94bf04d4f8d7324d"
+ },
+ "d146": {
+  "url": "https://aws.amazon.com/solutions/case-studies/astrazeneca-case-study/",
+  "fetched": "2026-11-06T20:20:06+00:00",
+  "sha256": "d100cdad45e76202e61c3fbaa272cdec65d9f93f73f35ba11f553de253967f72",
+  "bytes": 342205,
+  "text_chars": 13644,
+  "txt_sha256": "8f3eeac1900bbe088d99689c83d5cf56c95e43f3cfaffe9e94a5cc308ba5edc9"
+ },
+ "d147": {
+  "url": "https://www.servicenow.com/customers/now-on-now-ai-experience.html",
+  "fetched": "2026-11-06T20:20:07+00:00",
+  "error": "TimeoutError: The read operation timed out"
+ },
+ "d148": {
+  "url": "https://www.microsoft.com/en/customers/story/25909-heineken-microsoft-copilot-studio",
+  "fetched": "2026-11-06T20:20:27+00:00",
+  "sha256": "00bdadcf4a713b1580aed4c40927c09f4b7151cb4b65df80d28b36ee7c7c256e",
+  "bytes": 239244,
+  "text_chars": 15426,
+  "txt_sha256": "e03ff4e3f85f12b1f53c30db838ffa7574afbc309185d36f11d5dfcb6315d4ac"
+ },
+ "d149": {
+  "url": "https://aws.amazon.com/solutions/case-studies/strike48-bedrock/",
+  "fetched": "2026-11-06T20:20:30+00:00",
+  "sha256": "3a347f9245d8784a76b77ec48c18bcc6e0efe52c6f2c077634e94e14e7b78b77",
+  "bytes": 357039,
+  "text_chars": 12109,
+  "txt_sha256": "ffe50b49b86ff58b16ca505792b54b814a28bf477e055e4e1b5b41ed024cee3a"
+ },
+ "d150": {
+  "url": "https://www.salesforce.com/news/stories/video/alpine-intel-transforms-claims-processing-agentforce/",
+  "fetched": "2026-11-06T20:20:30+00:00",
+  "sha256": "09cd3257d753e5a12a617f5596fe4b2332ef2321aaa75dcffecc39b25dcab805",
+  "bytes": 146010,
+  "text_chars": 3544,
+  "txt_sha256": "6250f2268c788fcfb293527d36af7eddc7b2e8d7c096ee896cf1de67226323e4"
+ },
+ "d151": {
+  "url": "https://www.salesforce.com/customer-stories/unity-environmental-university/",
+  "fetched": "2026-11-06T20:20:31+00:00",
+  "sha256": "df11d8543fbb8705940b6c5f1bffdef75ccbe48d1a75c98a12839c2154e47165",
+  "bytes": 413072,
+  "text_chars": 35905,
+  "txt_sha256": "027c7fd6668cec724ac400400ed8fabfc42a806d2b8554933fb44c3b4957b2fd"
+ },
+ "d152": {
+  "url": "https://aws.amazon.com/solutions/case-studies/asapp-case-study/",
+  "fetched": "2026-11-06T20:20:33+00:00",
+  "sha256": "95488506688503a8abad5660584b77d09ea15a7f6292d83527c46168ae9b1fc1",
+  "bytes": 354473,
+  "text_chars": 13862,
+  "txt_sha256": "1ade5b0b60ccfdf8f06fab0ac4ad02eee3048b3ce70852bef9a6d3ef71f8ba55"
+ },
+ "d153": {
+  "url": "https://cloud.google.com/customers/horizon-media",
+  "fetched": "2026-11-06T20:20:34+00:00",
+  "sha256": "f8a260786ec7306e15fda488f0934f4516370dbf4d75a8211553fb4849bd5c0d",
+  "bytes": 1593966,
+  "text_chars": 43277,
+  "txt_sha256": "926edcfa42deb883829dc6a02808dab5aac166d6411a8d21ea08697b9edd12c1"
+ },
+ "d154": {
+  "url": "https://www.microsoft.com/en/customers/story/26762-grupo-bimbo-microsoft-365-copilot",
+  "fetched": "2026-11-06T20:20:35+00:00",
+  "sha256": "0b2f2143d61c6f392f71a7e2fb4e982786eb569e473b4838f3d9e3d809b444e8",
+  "bytes": 235482,
+  "text_chars": 15380,
+  "txt_sha256": "fc99077579695d58905caf70697bf59294336f43624e403f54436ba21e159209"
+ },
+ "d155": {
+  "url": "https://www.salesforce.com/customer-stories/amplifon/",
+  "fetched": "2026-11-06T20:20:37+00:00",
+  "sha256": "1dc5903ae665393ef780302afd34fdc97d9811e11de8ce3b30d83590c48b5b3b",
+  "bytes": 392723,
+  "text_chars": 29918,
+  "txt_sha256": "81d80a7f5c146fe73cf852739d7bb39d3620f143eb03b2f8a8b751bc711e09ef"
+ }
+}

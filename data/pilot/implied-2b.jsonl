@@ -1,0 +1,26 @@
+{"id": "x03722", "field": "outside_attacker", "code": "yes", "reason": "adversarial perturbation attack on multi-kernel clustering", "rule": "R5-outside"}
+{"id": "x08605", "field": "outside_attacker", "code": "yes", "reason": "membership inference attacks: privacy attack", "rule": "R5-outside"}
+{"id": "x09122", "field": "outside_attacker", "code": "yes", "reason": "transferable adversarial examples against classifiers", "rule": "R5-outside"}
+{"id": "x11429", "field": "outside_attacker", "code": "yes", "reason": "adversarial training against sparse perturbations", "rule": "R5-outside"}
+{"id": "y00148", "field": "outside_attacker", "code": "yes", "reason": "adversarial attack on test-time adaptation", "rule": "R5-outside"}
+{"id": "x08000", "field": "outside_attacker", "code": "yes", "reason": "gradient inversion in FL: privacy attack", "rule": "R5-outside"}
+{"id": "x04919", "field": "outside_attacker", "code": "yes", "reason": "label-flipping and model poisoning attacks in federated distillation", "rule": "R5-outside"}
+{"id": "x04919", "field": "rule_breaking", "code": "no", "reason": "poisoning clients are outside attackers, not rule-breaking participants", "rule": "R5-outside"}
+{"id": "x01189", "field": "rule_breaking", "code": "yes", "reason": "service-provider malfeasance on the certified model: cheating a counterparty", "rule": "R5"}
+{"id": "x01189", "field": "outside_attacker", "code": "no", "reason": "provider cheating inside the exchange is not an outside attacker", "rule": "R5"}
+{"id": "y03524", "field": "rule_breaking", "code": "yes", "reason": "cheating prover in the verification exchange: cheating a counterparty (behaviour byzantine by C9)", "rule": "R5"}
+{"id": "x04926", "field": "outside_attacker", "code": "no", "reason": "coalitions of model users bypassing fingerprint detection", "rule": "R5"}
+{"id": "x04926", "field": "rule_breaking", "code": "yes", "reason": "coalitions of model users bypassing fingerprint detection", "rule": "R5"}
+{"id": "x04926", "field": "behaviour", "code": "rational", "reason": "coalitions of model users bypassing fingerprint detection; a rule-breaker for gain is rational", "rule": "R5"}
+{"id": "x01284", "field": "outside_attacker", "code": "no", "reason": "users create unauthorized derivative models of a released LLM", "rule": "R5"}
+{"id": "x01284", "field": "rule_breaking", "code": "yes", "reason": "users create unauthorized derivative models of a released LLM", "rule": "R5"}
+{"id": "x01284", "field": "behaviour", "code": "rational", "reason": "users create unauthorized derivative models of a released LLM; a rule-breaker for gain is rational", "rule": "R5"}
+{"id": "x04296", "field": "outside_attacker", "code": "no", "reason": "Bob uses a derivative of Alice's model: unauthorized derivative", "rule": "R5"}
+{"id": "x04296", "field": "rule_breaking", "code": "yes", "reason": "Bob uses a derivative of Alice's model: unauthorized derivative", "rule": "R5"}
+{"id": "x04296", "field": "behaviour", "code": "rational", "reason": "Bob uses a derivative of Alice's model: unauthorized derivative; a rule-breaker for gain is rational", "rule": "R5"}
+{"id": "x05860", "field": "policy_setters", "code": "one", "reason": "clients modelled as rational players all run PEARL-SGD", "rule": "R6"}
+{"id": "x05860", "field": "behaviour", "code": "rational", "reason": "clients act as rational players with individual objectives", "rule": "R6"}
+{"id": "x12002", "field": "principals", "code": "one", "reason": "human-AI partner on one shared task reward", "rule": "R7"}
+{"id": "x00363", "field": "principals", "code": "several", "reason": "general LLM deployed to users whose beliefs it absorbs and feeds back", "rule": "R9"}
+{"id": "x09449", "field": "policy_setters", "code": "na", "reason": "facility location 'mechanisms' with no stated strategic agents", "rule": "R10"}
+{"id": "x09449", "field": "behaviour", "code": "na", "reason": "the word mechanism alone implies nothing about strategic agents", "rule": "R10"}

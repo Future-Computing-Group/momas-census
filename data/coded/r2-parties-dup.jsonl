@@ -1,0 +1,80 @@
+{"id": "x11750", "parties": "formal-model", "confidence": "medium", "quote": "learning algorithms used to compute the optimal strategy for the leader"}
+{"id": "x03513", "parties": "formal-model", "confidence": "high", "quote": "assigns each agent a random budget of tokens"}
+{"id": "x08642", "parties": "formal-model", "confidence": "medium", "quote": "multiple competing ML providers"}
+{"id": "x01051", "parties": "formal-model", "confidence": "high", "quote": "n-player multilinear games"}
+{"id": "x03192", "parties": "formal-model", "confidence": "high", "quote": "a certifier, a sender and a receiver"}
+{"id": "x06063", "parties": "formal-model", "confidence": "medium", "quote": "agents' trading"}
+{"id": "x06433", "parties": "humans", "confidence": "low", "quote": "select students from an applicant pool"}
+{"id": "x00057", "parties": "humans", "confidence": "medium", "quote": "UN resolution to be voted on"}
+{"id": "x06112", "parties": "other", "confidence": "medium", "quote": "as a buyer, there is no mechanism to verify the authenticity"}
+{"id": "x11265", "parties": "humans", "confidence": "high", "quote": "participants' preferences"}
+{"id": "x08187", "parties": "formal-model", "confidence": "medium", "quote": "two-institution stable matching model"}
+{"id": "x04803", "parties": "other", "confidence": "medium", "quote": "When predictions support decisions they may influence the outcome they aim to predict"}
+{"id": "x10239", "parties": "formal-model", "confidence": "medium", "quote": "agents arrive sequentially, in random order, and have private costs"}
+{"id": "x08529", "parties": "formal-model", "confidence": "medium", "quote": "strategic agents that follow a no-regret learning policy"}
+{"id": "x08308", "parties": "formal-model", "confidence": "high", "quote": "providers strategically choose customer prices"}
+{"id": "x00687", "parties": "formal-model", "confidence": "high", "quote": "strategic agents"}
+{"id": "x06272", "parties": "formal-model", "confidence": "medium", "quote": "a principal sequentially interacts with"}
+{"id": "x02269", "parties": "formal-model", "confidence": "low", "quote": "users have heterogeneous value-of-time sensitivities"}
+{"id": "x10731", "parties": "formal-model", "confidence": "medium", "quote": "agents are assigned based on priority rankings"}
+{"id": "x11856", "parties": "formal-model", "confidence": "high", "quote": "equally entitled agents"}
+{"id": "x10569", "parties": "formal-model", "confidence": "medium", "quote": "uncoupled online learning in multiplayer games"}
+{"id": "x00372", "parties": "humans", "confidence": "medium", "quote": "viewers and providers engage in interactive dynamics"}
+{"id": "x00734", "parties": "formal-model", "confidence": "medium", "quote": "encourage agents to contribute data"}
+{"id": "x03847", "parties": "formal-model", "confidence": "medium", "quote": "module owners strategically set prices for their APIs"}
+{"id": "x05707", "parties": "formal-model", "confidence": "high", "quote": "agents have (possibly random) endowments and ordinal preferences"}
+{"id": "x12047", "parties": "formal-model", "confidence": "medium", "quote": "a repeated sequential game between a learner"}
+{"id": "x00149", "parties": "humans", "confidence": "low", "quote": "labor markets"}
+{"id": "x00524", "parties": "formal-model", "confidence": "medium", "quote": "boundedly rational, self-interested agents"}
+{"id": "x00914", "parties": "formal-model", "confidence": "high", "quote": "bidders' values for the item"}
+{"id": "x00232", "parties": "humans", "confidence": "medium", "quote": "large-scale user study (N=118)"}
+{"id": "x09392", "parties": "humans", "confidence": "medium", "quote": "Eliciting reliable human feedback"}
+{"id": "x01825", "parties": "formal-model", "confidence": "low", "quote": "single-bidder CA"}
+{"id": "x12236", "parties": "formal-model", "confidence": "medium", "quote": "a learner and a strategic, adaptive opponent"}
+{"id": "x09086", "parties": "formal-model", "confidence": "high", "quote": "We study monotone persuasion"}
+{"id": "x01431", "parties": "other", "confidence": "low", "quote": ""}
+{"id": "x00049", "parties": "formal-model", "confidence": "medium", "quote": "price discrimination"}
+{"id": "x07646", "parties": "humans", "confidence": "medium", "quote": "real-world voters exhibit randomness in how they vote"}
+{"id": "x07607", "parties": "formal-model", "confidence": "medium", "quote": "agents can invest in inputs"}
+{"id": "x08698", "parties": "formal-model", "confidence": "high", "quote": "polyhedral games"}
+{"id": "x03819", "parties": "formal-model", "confidence": "low", "quote": "resource allocation in two-sided markets"}
+{"id": "x10840", "parties": "formal-model", "confidence": "medium", "quote": "monopoly pricing"}
+{"id": "x08013", "parties": "other", "confidence": "medium", "quote": "data generators"}
+{"id": "x08647", "parties": "ai-agents", "confidence": "low", "quote": "both pursuer and evader sides"}
+{"id": "x03267", "parties": "ai-agents", "confidence": "medium", "quote": "we evaluate 22 state-of-the-art LLMs"}
+{"id": "x08710", "parties": "formal-model", "confidence": "medium", "quote": "buyers' valuations"}
+{"id": "x09876", "parties": "humans", "confidence": "medium", "quote": "creators within a group collaborate to maximize their collective utility"}
+{"id": "x04690", "parties": "formal-model", "confidence": "high", "quote": "an informed sender strategically discloses information to a receiver"}
+{"id": "x04472", "parties": "ai-agents", "confidence": "low", "quote": "consumers use home energy management systems (HEMS) to autonomously adjust their electricity consumption"}
+{"id": "x11001", "parties": "formal-model", "confidence": "high", "quote": "the buyer and the seller"}
+{"id": "x06885", "parties": "formal-model", "confidence": "medium", "quote": "countries to misreport their parameters"}
+{"id": "x10496", "parties": "ai-agents", "confidence": "low", "quote": "a fine-tuned LLM-based agent"}
+{"id": "x01774", "parties": "formal-model", "confidence": "high", "quote": "computing Nash and Stackelberg equilibria"}
+{"id": "x00829", "parties": "formal-model", "confidence": "high", "quote": "the principal has an unlimited budget for incentivizing agents"}
+{"id": "x08924", "parties": "formal-model", "confidence": "low", "quote": "modeling heterogeneous agents possessing persistent latent traits"}
+{"id": "x04965", "parties": "formal-model", "confidence": "medium", "quote": "reconstruction game"}
+{"id": "x09564", "parties": "humans", "confidence": "high", "quote": "how users act"}
+{"id": "x08406", "parties": "ai-agents", "confidence": "low", "quote": "Diplomacy, a 7-player board game"}
+{"id": "x04666", "parties": "humans", "confidence": "medium", "quote": "evaluating job candidates or loan applications"}
+{"id": "x11366", "parties": "humans", "confidence": "medium", "quote": "large user study with 201 judges"}
+{"id": "x02960", "parties": "formal-model", "confidence": "high", "quote": "a seller repeatedly posts prices"}
+{"id": "x11258", "parties": "formal-model", "confidence": "low", "quote": ""}
+{"id": "x09667", "parties": "ai-agents", "confidence": "medium", "quote": "if the firms run no-regret algorithms"}
+{"id": "x08061", "parties": "humans", "confidence": "medium", "quote": "appoint representatives who can carry out"}
+{"id": "x01296", "parties": "formal-model", "confidence": "high", "quote": "n-player general-sum extensive-form games"}
+{"id": "x02294", "parties": "other", "confidence": "medium", "quote": "Customers can see all available products"}
+{"id": "x11023", "parties": "formal-model", "confidence": "medium", "quote": "a government providing benefits to agents"}
+{"id": "x03660", "parties": "formal-model", "confidence": "high", "quote": "a single seller faces a single strategic buyer"}
+{"id": "x01122", "parties": "formal-model", "confidence": "medium", "quote": "bandit learning in matching markets"}
+{"id": "x07816", "parties": "formal-model", "confidence": "high", "quote": "each agent possesses a private signal"}
+{"id": "x01670", "parties": "formal-model", "confidence": "medium", "quote": "principal-agent framework"}
+{"id": "x06931", "parties": "formal-model", "confidence": "high", "quote": "division of surplus among bidders"}
+{"id": "x01118", "parties": "other", "confidence": "medium", "quote": "collaborating with real people"}
+{"id": "x08286", "parties": "ai-agents", "confidence": "low", "quote": "LLM agents"}
+{"id": "x09959", "parties": "formal-model", "confidence": "high", "quote": "a principal delegates the execution of multiple projects to a set of agents"}
+{"id": "x07726", "parties": "formal-model", "confidence": "medium", "quote": "a player wins an auction"}
+{"id": "x11492", "parties": "humans", "confidence": "medium", "quote": "individuals (resellers)"}
+{"id": "x00065", "parties": "formal-model", "confidence": "medium", "quote": "each buyer must design a bidding strategy"}
+{"id": "x10941", "parties": "formal-model", "confidence": "low", "quote": "committee voting rules"}
+{"id": "x08727", "parties": "ai-agents", "confidence": "low", "quote": "against the best existing LLM-based bot"}
+{"id": "x03301", "parties": "formal-model", "confidence": "high", "quote": "two-player zero-sum games"}

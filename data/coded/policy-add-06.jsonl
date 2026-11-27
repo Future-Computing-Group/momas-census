@@ -1,0 +1,70 @@
+{"id": "x05606", "policy_setters": "one", "policy_quote": "a decision maker needs to choose an action", "principals": "one", "principals_quote": "a decision maker needs to choose an action", "partners_from_others": "no"}
+{"id": "y02269", "policy_setters": "one", "policy_quote": "a set of policies is trained in parallel", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02078", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03195", "policy_setters": "one", "policy_quote": "learns efficient solvers for PVRP using multi-agent reinforcement learning", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02131", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x03284", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01984", "policy_setters": "one", "policy_quote": "fleets of UAVs are deployed", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02889", "policy_setters": "one", "policy_quote": "cooperative MARL tasks", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03018", "policy_setters": "one", "policy_quote": "simultaneously learn an optimal decomposition and the corresponding agents' policies", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11242", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05534", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "a collaboration between humans and machines", "partners_from_others": "no"}
+{"id": "y01575", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04468", "policy_setters": "several", "policy_quote": "induce a desirable Nash equilibrium", "principals": "several", "principals_quote": "induce a desirable Nash equilibrium", "partners_from_others": "no"}
+{"id": "y01198", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02426", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03276", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x12019", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01939", "policy_setters": "several", "policy_quote": "increasing the human's ability to control their environment", "principals": "one", "principals_quote": "accurately assisting with a person's goal(s)", "partners_from_others": "yes"}
+{"id": "y00761", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x11382", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03646", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "align with user-defined stylistic and thematic preferences", "partners_from_others": "no"}
+{"id": "z00160", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09276", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x04068", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "z00031", "policy_setters": "one", "policy_quote": "independent reinforcement learning (RL) agents dynamically learn reward-sharing hyperparameters", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11110", "policy_setters": "several", "policy_quote": "voters express incremental adjustments", "principals": "several", "principals_quote": "voters express incremental adjustments", "partners_from_others": "no"}
+{"id": "x11327", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10123", "policy_setters": "several", "policy_quote": "A principal and an agent interact in a stochastic environment", "principals": "several", "principals_quote": "aiming to maximize their total payoffs", "partners_from_others": "no"}
+{"id": "x08953", "policy_setters": "several", "policy_quote": "minimize the contextual regret of individual players", "principals": "several", "principals_quote": "minimize the contextual regret of individual players", "partners_from_others": "no"}
+{"id": "y02729", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00835", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07108", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02682", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00056", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00638", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02091", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10993", "policy_setters": "several", "policy_quote": "competing against opponents who play different equilibria", "principals": "several", "principals_quote": "competing against opponents who play different equilibria", "partners_from_others": "yes"}
+{"id": "x08765", "policy_setters": "several", "policy_quote": "black-box attacks on graph neural networks", "principals": "several", "principals_quote": "black-box attacks on graph neural networks", "partners_from_others": "yes"}
+{"id": "x09013", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x08605", "policy_setters": "several", "policy_quote": "membership inference attacks (MIAs) against both", "principals": "several", "principals_quote": "membership inference attacks (MIAs) against both", "partners_from_others": "yes"}
+{"id": "y02569", "policy_setters": "several", "policy_quote": "model opponents as simply pursuing their own goals", "principals": "several", "principals_quote": "model opponents as simply pursuing their own goals", "partners_from_others": "yes"}
+{"id": "x04850", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03926", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03242", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00476", "policy_setters": "several", "policy_quote": "both open-source and closed-source LLMs lie in the same environment", "principals": "na", "principals_quote": "", "partners_from_others": "yes"}
+{"id": "y00974", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01305", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "adhere to user preferences", "partners_from_others": "no"}
+{"id": "x05684", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06835", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05345", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07460", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04560", "policy_setters": "several", "policy_quote": "defense approach against a variety of training-time attacks", "principals": "several", "principals_quote": "defense approach against a variety of training-time attacks", "partners_from_others": "yes"}
+{"id": "x01086", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00656", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11216", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05150", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00176", "policy_setters": "several", "policy_quote": "a large dataset of human decisions", "principals": "several", "principals_quote": "a large dataset of human decisions", "partners_from_others": "yes"}
+{"id": "y03430", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03685", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05672", "policy_setters": "several", "policy_quote": "adversarial attack framework", "principals": "several", "principals_quote": "adversarial attack framework", "partners_from_others": "yes"}
+{"id": "y00567", "policy_setters": "several", "policy_quote": "understanding the intention of an agent as it executes a plan", "principals": "several", "principals_quote": "human-robot collaboration", "partners_from_others": "yes"}
+{"id": "x02896", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01326", "policy_setters": "several", "policy_quote": "agents that represent different users", "principals": "several", "principals_quote": "agents that represent different users", "partners_from_others": "yes"}
+{"id": "x00971", "policy_setters": "several", "policy_quote": "red teaming against LLMs", "principals": "several", "principals_quote": "red teaming against LLMs", "partners_from_others": "yes"}
+{"id": "x06393", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x05101", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00120", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x06410", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x12013", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01918", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}

@@ -1,0 +1,70 @@
+{"id": "x00924", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "carry out complex user tasks", "partners_from_others": "no"}
+{"id": "z00109", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01277", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00134", "policy_setters": "several", "policy_quote": "detects malicious clients", "principals": "several", "principals_quote": "", "partners_from_others": "yes"}
+{"id": "x04439", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x12236", "policy_setters": "several", "policy_quote": "strategic, adaptive opponent", "principals": "several", "principals_quote": "", "partners_from_others": "yes"}
+{"id": "y02595", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08651", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00159", "policy_setters": "one", "policy_quote": "each agent to learn its policy independently", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06951", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y03622", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03216", "policy_setters": "several", "policy_quote": "multi-leader, single-follower extensive Stackelberg game", "principals": "several", "principals_quote": "users and an algorithm", "partners_from_others": "no"}
+{"id": "x10784", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01890", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02753", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04154", "policy_setters": "several", "policy_quote": "proprietary foundation models", "principals": "several", "principals_quote": "human researchers", "partners_from_others": "no"}
+{"id": "x06032", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02808", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02018", "policy_setters": "several", "policy_quote": "unauthorized diffusion customization", "principals": "several", "principals_quote": "", "partners_from_others": "yes"}
+{"id": "x05614", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03298", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02879", "policy_setters": "several", "policy_quote": "collaborates with a human to achieve shared goals", "principals": "one", "principals_quote": "shared goals", "partners_from_others": "yes"}
+{"id": "x00592", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03492", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11670", "policy_setters": "several", "policy_quote": "workers on one side of the market may have tied preferences", "principals": "several", "principals_quote": "workers", "partners_from_others": "no"}
+{"id": "x02625", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01314", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02040", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04596", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x04750", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03461", "policy_setters": "several", "policy_quote": "multiple clients to collaboratively train models", "principals": "several", "principals_quote": "", "partners_from_others": "yes"}
+{"id": "x11481", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02485", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x05966", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00121", "policy_setters": "one", "policy_quote": "a group of moving agents plan coordinated paths", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02801", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02087", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02418", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08979", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00375", "policy_setters": "several", "policy_quote": "agents' preferences over houses", "principals": "several", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02992", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11706", "policy_setters": "several", "policy_quote": "black-box settings", "principals": "several", "principals_quote": "", "partners_from_others": "yes"}
+{"id": "y03639", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "align individual agents' goals with a common objective", "partners_from_others": "no"}
+{"id": "x00535", "policy_setters": "several", "policy_quote": "different devices communicate in a peer-to-peer manner", "principals": "several", "principals_quote": "", "partners_from_others": "yes"}
+{"id": "y01146", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00409", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03178", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06866", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03294", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04004", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00387", "policy_setters": "several", "policy_quote": "no efficient adversary can distinguish between watermarked and un-watermarked images", "principals": "several", "principals_quote": "", "partners_from_others": "yes"}
+{"id": "x06439", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02262", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01842", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11442", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02249", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02231", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10694", "policy_setters": "several", "policy_quote": "harmless poisoning generators to claim ownership", "principals": "several", "principals_quote": "enabling users to identify potential poisoning", "partners_from_others": "no"}
+{"id": "x05632", "policy_setters": "several", "policy_quote": "customers who make repeated purchases from a seller", "principals": "several", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00318", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00076", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05272", "policy_setters": "several", "policy_quote": "strategic agents", "principals": "several", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08497", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00075", "policy_setters": "several", "policy_quote": "multiple clients", "principals": "several", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11078", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05943", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04490", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05343", "policy_setters": "several", "policy_quote": "profit maximizing principal(s)", "principals": "several", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00275", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11003", "policy_setters": "one", "policy_quote": "a game between: (1) a creator", "principals": "one", "principals_quote": "", "partners_from_others": "no"}

@@ -1,0 +1,70 @@
+{"id": "y00275", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01878", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01125", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02749", "policy_setters": "several", "policy_quote": "an adversary can exploit LMs' instruction-following capabilities", "principals": "several", "principals_quote": "datastore leakage", "partners_from_others": "yes"}
+{"id": "y01855", "policy_setters": "several", "policy_quote": "explore insurers' ambiguity preferences", "principals": "several", "principals_quote": "competitive catastrophe insurance markets", "partners_from_others": "no"}
+{"id": "x00924", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "user query", "partners_from_others": "no"}
+{"id": "x00259", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06897", "policy_setters": "several", "policy_quote": "consumer consent choices", "principals": "several", "principals_quote": "consumer welfare", "partners_from_others": "no"}
+{"id": "x03870", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04560", "policy_setters": "several", "policy_quote": "defense approach against a variety of training-time attacks", "principals": "several", "principals_quote": "defense approach against a variety of training-time attacks", "partners_from_others": "yes"}
+{"id": "x10840", "policy_setters": "several", "policy_quote": "any population of buyers", "principals": "several", "principals_quote": "any population of buyers", "partners_from_others": "no"}
+{"id": "x12021", "policy_setters": "one", "policy_quote": "allocate scarce resources to people with the greatest need", "principals": "one", "principals_quote": "policymakers", "partners_from_others": "no"}
+{"id": "x12130", "policy_setters": "several", "policy_quote": "a black-box adversary that aims at finding adversarial examples", "principals": "several", "principals_quote": "third-party who aims at certifying", "partners_from_others": "yes"}
+{"id": "y02482", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08372", "policy_setters": "several", "policy_quote": "strategic interaction", "principals": "several", "principals_quote": "price effects of horizontal mergers", "partners_from_others": "no"}
+{"id": "y01972", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06999", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06499", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03408", "policy_setters": "several", "policy_quote": "collect user preferences", "principals": "several", "principals_quote": "user preferences", "partners_from_others": "no"}
+{"id": "x10943", "policy_setters": "one", "policy_quote": "designing efficient collaboration between agents", "principals": "na", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11059", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01661", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02066", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01704", "policy_setters": "several", "policy_quote": "adapts to opponents", "principals": "several", "principals_quote": "competitive environments", "partners_from_others": "yes"}
+{"id": "y01502", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x07114", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06779", "policy_setters": "several", "policy_quote": "the attacker can distort pixels within a region of bounded size", "principals": "several", "principals_quote": "the attacker can distort pixels within a region of bounded size", "partners_from_others": "yes"}
+{"id": "y00286", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02452", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03109", "policy_setters": "several", "policy_quote": "A monopolist wants to sell multiple goods", "principals": "several", "principals_quote": "buyer can return", "partners_from_others": "no"}
+{"id": "x08555", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07588", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x01049", "policy_setters": "several", "policy_quote": "agents communicate or rely on intermediaries such as recommendation systems", "principals": "several", "principals_quote": "any Nash equilibrium with three or more randomizing agents", "partners_from_others": "no"}
+{"id": "x11480", "policy_setters": "several", "policy_quote": "Harmful fine-tuning attack introduces significant security risks to the fine-tuning services", "principals": "several", "principals_quote": "Harmful fine-tuning attack introduces significant security risks to the fine-tuning services", "partners_from_others": "yes"}
+{"id": "y03725", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00833", "policy_setters": "one", "policy_quote": "two players---called the reachability and safety players---bid", "principals": "several", "principals_quote": "The reachability player's goal is to maximize the probability of reaching a given target vertex", "partners_from_others": "no"}
+{"id": "x02172", "policy_setters": "several", "policy_quote": "attackers may still perform advanced attacks", "principals": "several", "principals_quote": "Attackers can extract model weights and architectures", "partners_from_others": "yes"}
+{"id": "y00990", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00001", "policy_setters": "several", "policy_quote": "competing electric vehicle fleets", "principals": "several", "principals_quote": "competing electric vehicle fleets", "partners_from_others": "no"}
+{"id": "x06453", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06328", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y00880", "policy_setters": "one", "policy_quote": "fairly dividing a set of indivisible items among a set of agents", "principals": "several", "principals_quote": "fairly dividing a set of indivisible items among a set of agents", "partners_from_others": "no"}
+{"id": "x08600", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00149", "policy_setters": "one", "policy_quote": "matching decisions", "principals": "several", "principals_quote": "two-sided markets", "partners_from_others": "no"}
+{"id": "x10750", "policy_setters": "one", "policy_quote": "algorithms for solving these games", "principals": "several", "principals_quote": "multi-agent interactions with imperfect information", "partners_from_others": "no"}
+{"id": "x03194", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00349", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04930", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02483", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y00241", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04659", "policy_setters": "several", "policy_quote": "learners do not need to know other players' utilities", "principals": "several", "principals_quote": "other players' utilities", "partners_from_others": "yes"}
+{"id": "x03817", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01230", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02805", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06023", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00772", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03006", "policy_setters": "several", "policy_quote": "mutually distrusted players", "principals": "several", "principals_quote": "mutually distrusted players", "partners_from_others": "yes"}
+{"id": "x08342", "policy_setters": "one", "policy_quote": "", "principals": "several", "principals_quote": "n agents competing for the available resources", "partners_from_others": "no"}
+{"id": "x09766", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01561", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10364", "policy_setters": "several", "policy_quote": "a dishonest institution can exploit these mechanisms", "principals": "several", "principals_quote": "covertly disadvantaging specific individuals", "partners_from_others": "yes"}
+{"id": "z00094", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03429", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y02859", "policy_setters": "several", "policy_quote": "human and software agents exercising their autonomy", "principals": "several", "principals_quote": "when they need help or resources from others", "partners_from_others": "no"}
+{"id": "x02666", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01622", "policy_setters": "several", "policy_quote": "a malicious user crafts Engorgio prompts", "principals": "several", "principals_quote": "target LLM's service availability", "partners_from_others": "yes"}
+{"id": "y03258", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02476", "policy_setters": "several", "policy_quote": "Each agent has a static intrinsic opinion", "principals": "several", "principals_quote": "Each agent has a static intrinsic opinion", "partners_from_others": "no"}
+{"id": "y01094", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01977", "policy_setters": "several", "policy_quote": "selects benign clients through clustering", "principals": "several", "principals_quote": "backdoor attacks are increasingly undermining federated systems", "partners_from_others": "yes"}

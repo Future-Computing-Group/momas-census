@@ -1,0 +1,11 @@
+{"id": "d098", "status": "ok", "live": "live", "agent": "yes", "reach": "customer", "market": "no", "a2a": "no", "confidence": "low", "quote": "the agent automates the creation and execution of tests to evaluate how donors respond"}
+{"id": "d102", "status": "ok", "live": "live", "agent": "yes", "reach": "internal", "market": "no", "a2a": "no", "confidence": "high", "quote": "creates a draft sales order"}
+{"id": "d104", "status": "ok", "live": "live", "agent": "yes", "reach": "internal", "market": "no", "a2a": "no", "confidence": "medium", "quote": "monitors incoming email for attached PDF invoices and structures data for analysis"}
+{"id": "d109", "status": "ok", "live": "live", "agent": "yes", "reach": "customer", "market": "no", "a2a": "no", "confidence": "low", "quote": "autonomously handle dealer-consumer communication"}
+{"id": "d110", "status": "ok", "live": "live", "agent": "yes", "reach": "customer", "market": "no", "a2a": "no", "confidence": "low", "quote": "Mia is a customer service and sales agent embedded directly on mobilezone's website"}
+{"id": "d113", "status": "ok", "live": "live", "agent": "yes", "reach": "customer", "market": "no", "a2a": "no", "confidence": "medium", "quote": "action agents can run recovery workflows"}
+{"id": "d116", "status": "ok", "live": "live", "agent": "yes", "reach": "customer", "market": "no", "a2a": "no", "confidence": "low", "quote": "custom AI agents for citizen support, case routing, and knowledge management"}
+{"id": "d118", "status": "ok", "live": "live", "agent": "yes", "reach": "customer", "market": "no", "a2a": "no", "confidence": "high", "quote": "a sub-agent automatically creates a case"}
+{"id": "d123", "status": "ok", "live": "live", "agent": "yes", "reach": "customer", "market": "no", "a2a": "no", "confidence": "medium", "quote": "A separate email agent detects when a customer has abandoned a cart and follows up via email with support."}
+{"id": "d125", "status": "ok", "live": "live", "agent": "yes", "reach": "customer", "market": "no", "a2a": "no", "confidence": "high", "quote": "books club tours"}
+{"id": "d126", "status": "ok", "live": "live", "agent": "yes", "reach": "internal", "market": "no", "a2a": "no", "confidence": "medium", "quote": "integrated with the Canvas LMS API and SharePoint"}

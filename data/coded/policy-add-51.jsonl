@@ -1,0 +1,70 @@
+{"id": "x01376", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07252", "policy_setters": "several", "policy_quote": "approximate dominant strategy incentive compatibility", "principals": "several", "principals_quote": "platform revenue", "partners_from_others": "yes"}
+{"id": "x04894", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06384", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y02331", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05460", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x04503", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03141", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y00358", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10289", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x11899", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02517", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00473", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08319", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11850", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01387", "policy_setters": "several", "policy_quote": "strategic machines", "principals": "several", "principals_quote": "minimize their own load", "partners_from_others": "yes"}
+{"id": "y00170", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11916", "policy_setters": "several", "policy_quote": "without communication between players", "principals": "several", "principals_quote": "zero-sum matrix games", "partners_from_others": "no"}
+{"id": "x10184", "policy_setters": "several", "policy_quote": "future attempts to edit them using text-to-image models", "principals": "several", "principals_quote": "potential for malicious use", "partners_from_others": "yes"}
+{"id": "y00703", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00142", "policy_setters": "several", "policy_quote": "inflate the compensation adversarially", "principals": "several", "principals_quote": "compensate data providers", "partners_from_others": "yes"}
+{"id": "x11638", "policy_setters": "several", "policy_quote": "Subsidiaries engage as participants", "principals": "several", "principals_quote": "Subsidiaries engage as participants with their users and items", "partners_from_others": "no"}
+{"id": "y02156", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07758", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x10468", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x07560", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09042", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01214", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04423", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05979", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x06710", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00746", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08202", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03509", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07797", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11366", "policy_setters": "several", "policy_quote": "human-LLM collaboration", "principals": "one", "principals_quote": "help users reach their ultimate intents", "partners_from_others": "yes"}
+{"id": "x01556", "policy_setters": "several", "policy_quote": "strategic sellers with private costs", "principals": "several", "principals_quote": "incentive compatible (IC) and individual rational (IR) for the sellers, and generates non-negative surplus (NAS) for the auctioneer", "partners_from_others": "yes"}
+{"id": "y03778", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03327", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00023", "policy_setters": "several", "policy_quote": "learn from and adapt to humans", "principals": "one", "principals_quote": "learning reward functions from human preferences", "partners_from_others": "yes"}
+{"id": "x12015", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10391", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00380", "policy_setters": "one", "policy_quote": "epistemic gossip protocols", "principals": "one", "principals_quote": "for all agents to know all secrets", "partners_from_others": "no"}
+{"id": "z00132", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00656", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00051", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03965", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01959", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05972", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02043", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x00104", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00205", "policy_setters": "several", "policy_quote": "more buyers than items", "principals": "several", "principals_quote": "$n$ i.i.d. agents", "partners_from_others": "yes"}
+{"id": "x01825", "policy_setters": "several", "policy_quote": "dominant-strategy incentive compatible", "principals": "several", "principals_quote": "revenue-optimizing single-bidder", "partners_from_others": "yes"}
+{"id": "x10196", "policy_setters": "several", "policy_quote": "steer a no-regret learner", "principals": "several", "principals_quote": "without knowledge of its payoffs", "partners_from_others": "yes"}
+{"id": "y02092", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02619", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03176", "policy_setters": "one", "policy_quote": "unified open-ended learning framework", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05322", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03842", "policy_setters": "several", "policy_quote": "dyadic collaboration", "principals": "one", "principals_quote": "improve team performance", "partners_from_others": "yes"}
+{"id": "x06993", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x12020", "policy_setters": "several", "policy_quote": "the human and the AI assistant", "principals": "one", "principals_quote": "human-AI value alignment", "partners_from_others": "yes"}
+{"id": "x03108", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00559", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01896", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02371", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01322", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04512", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00090", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03841", "policy_setters": "several", "policy_quote": "dynamic vessel intentions and their complex interactions", "principals": "several", "principals_quote": "dynamic vessel intentions", "partners_from_others": "no"}
+{"id": "y00355", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}

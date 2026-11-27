@@ -1,0 +1,70 @@
+{"id": "x10045", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01468", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05601", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00016", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05557", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05435", "policy_setters": "one", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06386", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03548", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01748", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02269", "policy_setters": "several", "policy_quote": "users have heterogeneous value-of-time sensitivities", "principals": "several", "principals_quote": "users have heterogeneous value-of-time sensitivities", "partners_from_others": "no"}
+{"id": "y03651", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07728", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00950", "policy_setters": "one", "policy_quote": "", "principals": "several", "principals_quote": "few-shot localization of preferences for new users", "partners_from_others": "no"}
+{"id": "y03467", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11830", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04298", "policy_setters": "several", "policy_quote": "", "principals": "several", "principals_quote": "preserving data privacy for different clients", "partners_from_others": "no"}
+{"id": "x02860", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09191", "policy_setters": "several", "policy_quote": "interaction between three parties: the authors, reviewers, and system", "principals": "several", "principals_quote": "interaction between three parties: the authors, reviewers, and system", "partners_from_others": "no"}
+{"id": "y02198", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08942", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00059", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08606", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01038", "policy_setters": "several", "policy_quote": "participants compile and communicate their complete preference lists", "principals": "several", "principals_quote": "preferences of each participating agent", "partners_from_others": "no"}
+{"id": "y01150", "policy_setters": "several", "policy_quote": "players submit computer programs", "principals": "several", "principals_quote": "Agents in mixed-motive coordination problems", "partners_from_others": "yes"}
+{"id": "x05382", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09803", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00108", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03986", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09156", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10788", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03908", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07646", "policy_setters": "several", "policy_quote": "real-world voters exhibit randomness in how they vote", "principals": "several", "principals_quote": "Voters submit rankings", "partners_from_others": "no"}
+{"id": "x09504", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07850", "policy_setters": "several", "policy_quote": "modality-specific diffusion models trained on clients", "principals": "na", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01499", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03706", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x11696", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04681", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00573", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08065", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10690", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02086", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00155", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03684", "policy_setters": "several", "policy_quote": "identifying vulnerabilities in state-of-the-art LLMs", "principals": "several", "principals_quote": "allowing human testers to focus on exploring new areas of risk", "partners_from_others": "yes"}
+{"id": "x07122", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10042", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06344", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05465", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11274", "policy_setters": "several", "policy_quote": "work seamlessly with other AI agents and humans", "principals": "one", "principals_quote": "agree as a team to commit to a final solution", "partners_from_others": "yes"}
+{"id": "x01063", "policy_setters": "one", "policy_quote": "a mediator has access to only the direction oracle of each agent", "principals": "several", "principals_quote": "human-AI interactions", "partners_from_others": "no"}
+{"id": "y01109", "policy_setters": "several", "policy_quote": "unauthorized usage of their content", "principals": "several", "principals_quote": "equips data owners", "partners_from_others": "yes"}
+{"id": "y03307", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04353", "policy_setters": "several", "policy_quote": "Mediators can communicate with players", "principals": "several", "principals_quote": "Mediators can communicate with players", "partners_from_others": "no"}
+{"id": "y03932", "policy_setters": "several", "policy_quote": "how much strategic behavior can alter the cost in social choice", "principals": "several", "principals_quote": "relies on private information", "partners_from_others": "no"}
+{"id": "y00776", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11252", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01190", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07977", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10840", "policy_setters": "several", "policy_quote": "any population of buyers", "principals": "several", "principals_quote": "any population of buyers", "partners_from_others": "no"}
+{"id": "x04120", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02960", "policy_setters": "several", "policy_quote": "buyer's valuation type is drawn from an unknown distribution", "principals": "several", "principals_quote": "heterogeneous population of buyers", "partners_from_others": "yes"}
+{"id": "x09030", "policy_setters": "several", "policy_quote": "individual minimizing disagreements with peers", "principals": "several", "principals_quote": "individuals form opinions", "partners_from_others": "no"}
+{"id": "x06845", "policy_setters": "several", "policy_quote": "The human then makes a prediction based on their own, less accurate model", "principals": "one", "principals_quote": "AI systems are increasingly used to support human decision-making", "partners_from_others": "yes"}
+{"id": "x03256", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03742", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03526", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03042", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06484", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x10638", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09609", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}

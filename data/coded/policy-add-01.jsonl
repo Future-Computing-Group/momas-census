@@ -1,0 +1,70 @@
+{"id": "y02218", "policy_setters": "several", "policy_quote": "independent learning agents", "principals": "several", "principals_quote": "Self-interested individuals", "partners_from_others": "no"}
+{"id": "x08644", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x11502", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00046", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02753", "policy_setters": "several", "policy_quote": "red teaming framework designed for LLM agents", "principals": "several", "principals_quote": "manipulating LLM agents into performing targeted malicious actions", "partners_from_others": "yes"}
+{"id": "x02661", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02623", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03318", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00607", "policy_setters": "several", "policy_quote": "decentralized profit-maximizing battery", "principals": "several", "principals_quote": "privately-owned batteries", "partners_from_others": "no"}
+{"id": "y00095", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10953", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07223", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08106", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00439", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01706", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02304", "policy_setters": "several", "policy_quote": "multiple surrogate watermarking models trained by the attacker itself", "principals": "several", "principals_quote": "Watermark has been widely deployed by industry", "partners_from_others": "yes"}
+{"id": "x02286", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x12028", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08913", "policy_setters": "several", "policy_quote": "The cloud server processes all candidate prompts without knowing which one is the real one", "principals": "several", "principals_quote": "sensitive information in uploaded user prompts", "partners_from_others": "no"}
+{"id": "x01565", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00100", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06680", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y01456", "policy_setters": "several", "policy_quote": "FL clients to upload their locally optimized prompts", "principals": "several", "principals_quote": "users of black-box LLMs", "partners_from_others": "no"}
+{"id": "x08727", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "yes"}
+{"id": "x04988", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00032", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03632", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x04659", "policy_setters": "one", "policy_quote": "self-play", "principals": "one", "principals_quote": "self-play", "partners_from_others": "yes"}
+{"id": "x09849", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00897", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00855", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08182", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09523", "policy_setters": "one", "policy_quote": "self-play reinforcement learning", "principals": "one", "principals_quote": "", "partners_from_others": "yes"}
+{"id": "x07602", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11949", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05448", "policy_setters": "several", "policy_quote": "each client's local model", "principals": "several", "principals_quote": "statistical heterogeneity of client data", "partners_from_others": "no"}
+{"id": "x08698", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00572", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x02321", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00607", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y03185", "policy_setters": "several", "policy_quote": "downstream users", "principals": "several", "principals_quote": "downstream users", "partners_from_others": "yes"}
+{"id": "x05135", "policy_setters": "several", "policy_quote": "a profit-maximizing seller has no incentive to submit shill bids", "principals": "several", "principals_quote": "a seller may masquerade as one or more bidders", "partners_from_others": "no"}
+{"id": "x08650", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02951", "policy_setters": "one", "policy_quote": "designing fair allocation algorithms", "principals": "several", "principals_quote": "among agents with non-linear valuations", "partners_from_others": "no"}
+{"id": "x11089", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01855", "policy_setters": "several", "policy_quote": "small insurers adopt aggressive ambiguity strategies to compete", "principals": "several", "principals_quote": "competitive catastrophe insurance markets", "partners_from_others": "no"}
+{"id": "x09433", "policy_setters": "several", "policy_quote": "proprietary and open-weight LLMs", "principals": "several", "principals_quote": "social deception game", "partners_from_others": "no"}
+{"id": "x02998", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00070", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10344", "policy_setters": "several", "policy_quote": "adversarially tune models that generate text preambles", "principals": "several", "principals_quote": "malicious exploitation", "partners_from_others": "yes"}
+{"id": "x09357", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11108", "policy_setters": "several", "policy_quote": "when a significant number of individuals seek similar state modifications", "principals": "several", "principals_quote": "balancing individual modification costs with their impact on others", "partners_from_others": "no"}
+{"id": "x11396", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00123", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00269", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03856", "policy_setters": "several", "policy_quote": "selects layers for fine-tuning based on client computational capacity", "principals": "several", "principals_quote": "client computational capacity", "partners_from_others": "no"}
+{"id": "x03624", "policy_setters": "one", "policy_quote": "multiple untrusted data sources", "principals": "one", "principals_quote": "sharing data with other parties", "partners_from_others": "no"}
+{"id": "y01483", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07542", "policy_setters": "several", "policy_quote": "consumers participate in either a private market or a government-designed program", "principals": "several", "principals_quote": "maximize weighted total surplus", "partners_from_others": "no"}
+{"id": "y00846", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02525", "policy_setters": "several", "policy_quote": "collaborating parties must preserve their business secrets", "principals": "several", "principals_quote": "collaborating parties must preserve their business secrets", "partners_from_others": "no"}
+{"id": "y02252", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03606", "policy_setters": "several", "policy_quote": "model owner selects and then appraises training data from the data owner", "principals": "several", "principals_quote": "both parties commit to a transaction", "partners_from_others": "no"}
+{"id": "y02185", "policy_setters": "one", "policy_quote": "", "principals": "several", "principals_quote": "interconnects the voters", "partners_from_others": "no"}
+{"id": "x00113", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10200", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x02239", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03863", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02495", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00186", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}

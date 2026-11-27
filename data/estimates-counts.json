@@ -1,0 +1,137 @@
+{
+ "all-2020": {
+  "n": 2983,
+  "several": {
+   "count": 64,
+   "lo": 58,
+   "hi": 142,
+   "direct": false
+  },
+  "interaction": {
+   "count": 31,
+   "lo": 31,
+   "hi": 104,
+   "direct": false
+  },
+  "simulated": {
+   "count": 69,
+   "lo": 27,
+   "hi": 179,
+   "direct": false
+  },
+  "parties_ai-agents": {
+   "count": 4,
+   "lo": 4,
+   "hi": 77,
+   "direct": false
+  }
+ },
+ "all-2025": {
+  "n": 8545,
+  "several": {
+   "count": 199,
+   "lo": 165,
+   "hi": 307,
+   "direct": false
+  },
+  "interaction": {
+   "count": 109,
+   "lo": 90,
+   "hi": 203,
+   "direct": false
+  },
+  "simulated": {
+   "count": 292,
+   "lo": 187,
+   "hi": 463,
+   "direct": false
+  },
+  "parties_ai-agents": {
+   "count": 24,
+   "lo": 17,
+   "hi": 106,
+   "direct": false
+  }
+ },
+ "all-iclr-2025": {
+  "n": 3708,
+  "several": {
+   "count": 51,
+   "lo": 42,
+   "hi": 110,
+   "direct": false
+  },
+  "interaction": {
+   "count": 21,
+   "lo": 18,
+   "hi": 75,
+   "direct": false
+  },
+  "simulated": {
+   "count": 104,
+   "lo": 58,
+   "hi": 198,
+   "direct": false
+  },
+  "parties_ai-agents": {
+   "count": 9,
+   "lo": 8,
+   "hi": 62,
+   "direct": false
+  }
+ },
+ "all-aamas-2025": {
+  "n": 260,
+  "several": {
+   "count": 92,
+   "lo": 92,
+   "hi": 92,
+   "direct": true
+  },
+  "interaction": {
+   "count": 70,
+   "lo": 70,
+   "hi": 70,
+   "direct": true
+  },
+  "simulated": {
+   "count": 73,
+   "lo": 73,
+   "hi": 73,
+   "direct": true
+  },
+  "parties_ai-agents": {
+   "count": 7,
+   "lo": 7,
+   "hi": 7,
+   "direct": true
+  }
+ },
+ "ec-2025": {
+  "n": 203,
+  "several": {
+   "count": 163,
+   "lo": 163,
+   "hi": 163,
+   "direct": true
+  },
+  "interaction": {
+   "count": 150,
+   "lo": 150,
+   "hi": 150,
+   "direct": true
+  },
+  "simulated": {
+   "count": 2,
+   "lo": 2,
+   "hi": 2,
+   "direct": true
+  },
+  "parties_ai-agents": {
+   "count": 3,
+   "lo": 3,
+   "hi": 3,
+   "direct": true
+  }
+ }
+}

@@ -1,0 +1,1094 @@
+[
+{
+"id": "d000",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "MAIRE",
+"title": "MAIRE redefines global engineering with 100+ use cases in Microsoft AI and Autodesk",
+"url": "https://www.microsoft.com/en/customers/story/26868-maire-microsoft-foundry"
+},
+{
+"id": "d001",
+"source": "Google Cloud",
+"org": "AT&T",
+"title": "AT&T case study",
+"url": "https://cloud.google.com/customers/att-gemini-enterprise-cx"
+},
+{
+"id": "d002",
+"source": "Salesforce Agentforce",
+"org": "Kawasaki Motors",
+"title": "Kawasaki Motors customer story (Agentforce in Action hub)",
+"url": "https://www.salesforce.com/customer-stories/kawasaki/"
+},
+{
+"id": "d003",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "Dunaway",
+"title": "Dunaway automation and productivity with Power Platform and Copilot Studio",
+"url": "https://www.microsoft.com/en/customers/story/25879-dunaway-microsoft-copilot-studio"
+},
+{
+"id": "d004",
+"source": "Other vendor (UiPath)",
+"org": "Ignitis",
+"title": "Ignitis turbocharges automation with agents",
+"url": "https://www.uipath.com/resources/automation-case-studies/ignitis-turbocharges-automation-with-agents"
+},
+{
+"id": "d005",
+"source": "Salesforce Agentforce",
+"org": "L'Oreal",
+"title": "L'Oreal provides order status updates on demand with Agentforce",
+"url": "https://www.salesforce.com/customer-stories/loreal/agentic-order-status-support"
+},
+{
+"id": "d006",
+"source": "Salesforce Agentforce",
+"org": "Boat Bike Tours",
+"title": "Boat Bike Tours customer story (Agentforce in Action hub)",
+"url": "https://www.salesforce.com/customer-stories/boat-bike-tours/"
+},
+{
+"id": "d007",
+"source": "Salesforce Agentforce",
+"org": "ezCater",
+"title": "ezCater customer story (Agentforce in Action hub)",
+"url": "https://www.salesforce.com/customer-stories/ezcater/"
+},
+{
+"id": "d008",
+"source": "Salesforce Agentforce",
+"org": "Engie",
+"title": "Engie customer story (Agentforce in Action hub)",
+"url": "https://www.salesforce.com/customer-stories/engie/"
+},
+{
+"id": "d009",
+"source": "Salesforce Agentforce",
+"org": "reMarkable",
+"title": "reMarkable Agentforce Slack customer service and IT",
+"url": "https://www.salesforce.com/news/stories/remarkable-agentforce-slack-scale-customer-service-it/"
+},
+{
+"id": "d010",
+"source": "Salesforce Agentforce",
+"org": "Takeda",
+"title": "Takeda turns medical complexity into trusted clarity with Agentforce",
+"url": "https://www.salesforce.com/customer-stories/takeda"
+},
+{
+"id": "d011",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "Dow",
+"title": "Dow reimagines productivity and supply chain efficiency with Microsoft 365 Copilot",
+"url": "https://www.microsoft.com/en/customers/story/19829-dow-microsoft-365-copilot"
+},
+{
+"id": "d012",
+"source": "Salesforce Agentforce",
+"org": "SaaStr",
+"title": "Agentic outreach turns SaaStr's warm leads into $2.7 million in sales",
+"url": "https://www.salesforce.com/customer-stories/saastr-ai/agentic-outreach"
+},
+{
+"id": "d013",
+"source": "Google Cloud",
+"org": "Nova Gestoes",
+"title": "Nova Gestoes case study",
+"url": "https://cloud.google.com/customers/nova-gestoes"
+},
+{
+"id": "d014",
+"source": "Salesforce Agentforce",
+"org": "AAA Washington",
+"title": "AAA Washington customer story (Agentforce in Action hub)",
+"url": "https://www.salesforce.com/customer-stories/aaa-washington/"
+},
+{
+"id": "d015",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "Kantar",
+"title": "Kantar puts Copilot Studio agents to work readying data for AI",
+"url": "https://www.microsoft.com/en/customers/story/25674-kantar-microsoft-copilot-studio"
+},
+{
+"id": "d016",
+"source": "Salesforce Agentforce",
+"org": "Fisher & Paykel",
+"title": "Fisher & Paykel gives reps instant appliance expertise with Agentforce",
+"url": "https://www.salesforce.com/customer-stories/fisher-and-paykel/agentic-service-rep-assistance"
+},
+{
+"id": "d017",
+"source": "Salesforce Agentforce",
+"org": "Mike Morse Law Firm",
+"title": "Mike Morse Law Firm customer story (Agentforce in Action hub)",
+"url": "https://www.salesforce.com/customer-stories/mike-morse-law-firm/"
+},
+{
+"id": "d018",
+"source": "Salesforce Agentforce",
+"org": "CentralSquare",
+"title": "CentralSquare customer story (Agentforce in Action hub)",
+"url": "https://www.salesforce.com/customer-stories/centralsquare-technologies/"
+},
+{
+"id": "d019",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "Tiendas Cuadra",
+"title": "Tiendas Cuadra reinvents customer service with a virtual assistant built on Copilot Studio",
+"url": "https://www.microsoft.com/en/customers/story/26459-tiendas-cuadra-microsoft-copilot-studio"
+},
+{
+"id": "d020",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "KPMG",
+"title": "KPMG leads the AI era with Microsoft-powered agents",
+"url": "https://www.microsoft.com/en/customers/story/25357-kpmg-azure-ai-foundry"
+},
+{
+"id": "d021",
+"source": "AWS",
+"org": "Bundesliga",
+"title": "How Bundesliga built Captain, an AI agent for fans, using Amazon Bedrock",
+"url": "https://aws.amazon.com/blogs/media/how-bundesliga-built-captain-an-ai-agent-for-fans-using-amazon-bedrock/"
+},
+{
+"id": "d022",
+"source": "Salesforce Agentforce",
+"org": "AT&T",
+"title": "AT&T aims to take the hassle out of in-store phone upgrades with Agentforce",
+"url": "https://www.salesforce.com/customer-stories/att"
+},
+{
+"id": "d023",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "LTM",
+"title": "LTM transforms HR and Sales Organization with AI-Powered Copilot Agents",
+"url": "https://adoption.microsoft.com/en-us/agent-transformation-stories/ltm/"
+},
+{
+"id": "d024",
+"source": "Google Cloud",
+"org": "Nokia",
+"title": "Nokia case study",
+"url": "https://cloud.google.com/customers/nokia-gemini-enterprise"
+},
+{
+"id": "d025",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "mobilezone",
+"title": "mobilezone switches on an agentic transformation with Microsoft Copilot Studio",
+"url": "https://www.microsoft.com/en/customers/story/26389-mobilezone-dynamics-365-customer-service"
+},
+{
+"id": "d026",
+"source": "Salesforce Agentforce",
+"org": "Fujitsu",
+"title": "Fujitsu customer story (Agentforce in Action hub)",
+"url": "https://www.salesforce.com/customer-stories/fujitsu/"
+},
+{
+"id": "d027",
+"source": "Other vendor (UiPath)",
+"org": "Medline",
+"title": "Medline connects customer records in real time to improve contract pricing accuracy",
+"url": "https://www.uipath.com/resources/automation-case-studies/medline-scales-agentic-automation-with-ai-agents"
+},
+{
+"id": "d028",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "Sirva",
+"title": "Sirva unifies global mobility operations with Dynamics 365 Contact Center and Copilot Studio",
+"url": "https://www.microsoft.com/en/customers/story/26794-sirva-dynamics-365-contact-center"
+},
+{
+"id": "d029",
+"source": "Salesforce Agentforce",
+"org": "FIFA",
+"title": "FIFA World Cup 2026 media access made easier with Agentforce",
+"url": "https://www.salesforce.com/customer-stories/fifa/agentic-media-support"
+},
+{
+"id": "d030",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "Atea",
+"title": "Atea builds an enterprise AI agent ecosystem with Copilot Studio",
+"url": "https://adoption.microsoft.com/en-us/agent-transformation-stories/atea/"
+},
+{
+"id": "d031",
+"source": "Salesforce Agentforce",
+"org": "Capita",
+"title": "Capita customer story (Agentforce in Action hub)",
+"url": "https://www.salesforce.com/customer-stories/capita/"
+},
+{
+"id": "d032",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "Singapore Civil Defence Force",
+"title": "SCDF implements digital solutions using Power Platform and Copilot Studio",
+"url": "https://learn.microsoft.com/en-us/power-platform/guidance/case-studies/scdf-implements-digital-solutions"
+},
+{
+"id": "d033",
+"source": "AWS",
+"org": "Blue Origin",
+"title": "How Blue Origin Built the First AI Agent-Designed Hardware for the Moon",
+"url": "https://aws.amazon.com/solutions/case-studies/blue-origin-case-study/"
+},
+{
+"id": "d034",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "Network Rail",
+"title": "Network Rail empowers over 2,500 makers with Power Platform and Copilot Studio",
+"url": "https://www.microsoft.com/en/customers/story/26368-network-rail-power-apps"
+},
+{
+"id": "d035",
+"source": "Other vendor (UiPath)",
+"org": "Omega Healthcare",
+"title": "Omega Healthcare scales smarter growth with agentic AI",
+"url": "https://www.uipath.com/resources/automation-case-studies/omega-healthcare-scales-smarter-growth-with-agentic-ai"
+},
+{
+"id": "d036",
+"source": "ServiceNow",
+"org": "ServiceNow (Now on Now)",
+"title": "ServiceNow AI Search and Virtual Agent - Customer Story",
+"url": "https://www.servicenow.com/au/customers/now-on-now-ai-and-virtual-agent.html"
+},
+{
+"id": "d037",
+"source": "AWS",
+"org": "Syngenta",
+"title": "Syngenta Success Story (agent mesh on AgentCore)",
+"url": "https://aws.amazon.com/solutions/case-studies/syngenta-bedrock-case-study/"
+},
+{
+"id": "d038",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "Coca-Cola Andina",
+"title": "Coca-Cola Andina modernizes HR operations with AI-powered agent on Copilot Studio",
+"url": "https://www.microsoft.com/en/customers/story/26256-coca-cola-andina-microsoft-copilot-studio"
+},
+{
+"id": "d039",
+"source": "Other vendor (UiPath)",
+"org": "Merck KGaA",
+"title": "Merck KGaA chooses UiPath Test Cloud to power agentic testing",
+"url": "https://www.uipath.com/newsroom/uipath-selected-by-merck-for-agentic-testing"
+},
+{
+"id": "d040",
+"source": "Salesforce Agentforce",
+"org": "Carnegie Learning",
+"title": "Carnegie Learning customer story (Agentforce in Action hub)",
+"url": "https://www.salesforce.com/customer-stories/carnegie-learning/"
+},
+{
+"id": "d041",
+"source": "Salesforce Agentforce",
+"org": "Young Drivers",
+"title": "Young Drivers customer story (Agentforce in Action hub)",
+"url": "https://www.salesforce.com/customer-stories/young-drivers/"
+},
+{
+"id": "d042",
+"source": "Salesforce Agentforce",
+"org": "Bionic",
+"title": "Bionic customer story (Agentforce in Action hub)",
+"url": "https://www.salesforce.com/customer-stories/bionic/"
+},
+{
+"id": "d043",
+"source": "AWS",
+"org": "Amazon",
+"title": "Amazon Seller Assistant, an agentic AI-powered partner",
+"url": "https://www.aboutamazon.com/news/innovation-at-amazon/seller-assistant-agentic-ai"
+},
+{
+"id": "d044",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "Commonwealth Bank",
+"title": "How Commonwealth Bank and Microsoft are reimagining customer service",
+"url": "https://news.microsoft.com/source/asia/features/how-commonwealth-bank-and-microsoft-are-reimagining-the-future-of-customer-service/"
+},
+{
+"id": "d045",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "Vanderlande",
+"title": "Vanderlande saves time and money with Power Platform and Copilot Studio",
+"url": "https://www.microsoft.com/en/customers/story/27170-vanderlande-microsoft-power-platform"
+},
+{
+"id": "d046",
+"source": "Salesforce Agentforce",
+"org": "Saks",
+"title": "Saks customer story (Agentforce in Action hub)",
+"url": "https://www.salesforce.com/customer-stories/saks/"
+},
+{
+"id": "d047",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "Rabobank",
+"title": "Rabobank embraces conversational banking with Copilot Studio",
+"url": "https://learn.microsoft.com/power-platform/guidance/case-studies/rabobank-conversational-banking"
+},
+{
+"id": "d048",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "Lifetime Products",
+"title": "Lifetime Products rebalances work with Microsoft Copilot Studio",
+"url": "https://www.microsoft.com/en/customers/story/27087-lifetime-products-microsoft-copilot-studio"
+},
+{
+"id": "d049",
+"source": "Salesforce Agentforce",
+"org": "Fisher & Paykel",
+"title": "Fisher & Paykel customer story (Agentforce in Action hub)",
+"url": "https://www.salesforce.com/customer-stories/fisher-and-paykel/"
+},
+{
+"id": "d050",
+"source": "Salesforce Agentforce",
+"org": "Precina",
+"title": "Precina customer story (Agentforce in Action hub)",
+"url": "https://www.salesforce.com/customer-stories/precina/"
+},
+{
+"id": "d051",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "Holland America Line",
+"title": "Holland America Line transforms customer experience with Copilot Studio",
+"url": "https://learn.microsoft.com/power-platform/guidance/case-studies/holland-america-customer-experience"
+},
+{
+"id": "d052",
+"source": "AWS",
+"org": "CSL",
+"title": "CSL (agentic AI case study)",
+"url": "https://aws.amazon.com/solutions/case-studies/csl-agenticai/"
+},
+{
+"id": "d053",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "EY",
+"title": "EY transforms its global finance operations with apps and AI-driven agents using Power Platform",
+"url": "https://www.microsoft.com/en/customers/story/25760-ey-global-services-limited-microsoft-power-platform"
+},
+{
+"id": "d054",
+"source": "Salesforce Agentforce",
+"org": "Wiley",
+"title": "Wiley customer story (Agentforce in Action hub)",
+"url": "https://www.salesforce.com/customer-stories/wiley/"
+},
+{
+"id": "d055",
+"source": "Salesforce Agentforce",
+"org": "Good360",
+"title": "Good360 customer story (Agentforce in Action hub)",
+"url": "https://www.salesforce.com/customer-stories/good360/"
+},
+{
+"id": "d056",
+"source": "Salesforce Agentforce",
+"org": "Siemens",
+"title": "Siemens takes lead response from days to minutes with Agentforce",
+"url": "https://www.salesforce.com/customer-stories/siemens/agentic-sales-leads"
+},
+{
+"id": "d057",
+"source": "AWS",
+"org": "Mercedes-Benz",
+"title": "Mercedes-Benz transforming global IT with RISE with SAP and Agentic AI",
+"url": "https://aws.amazon.com/solutions/case-studies/mercedes-benz-transform-case-study/"
+},
+{
+"id": "d058",
+"source": "Other vendor (UiPath)",
+"org": "Groupe UpCoop",
+"title": "Intelligent Agents usher in a new age of automation at Groupe UpCoop",
+"url": "https://www.uipath.com/resources/automation-case-studies/intelligent-agents-usher-in-a-new-age-of-automation-at-groupe-upcoop"
+},
+{
+"id": "d059",
+"source": "Salesforce Agentforce",
+"org": "Crocs",
+"title": "How Crocs built a retail superagent with Agentforce",
+"url": "https://www.salesforce.com/customer-stories/crocs/building-ai-agents"
+},
+{
+"id": "d060",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "Tiendas CUADRA",
+"title": "Tiendas CUADRA delivers always-on customer service with Copilot Studio",
+"url": "https://learn.microsoft.com/en-us/power-platform/guidance/case-studies/tiendas-cuadra-customer-service"
+},
+{
+"id": "d061",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "CSX",
+"title": "CSX boosts supply chain agility using Copilot Studio and Azure AI Foundry",
+"url": "https://www.microsoft.com/en/customers/story/24556-csx-microsoft-copilot-studio"
+},
+{
+"id": "d062",
+"source": "Salesforce Agentforce",
+"org": "L'Oreal",
+"title": "L'Oreal makes product expertise available on demand with Agentforce",
+"url": "https://www.salesforce.com/customer-stories/loreal/agentic-product-expertise"
+},
+{
+"id": "d063",
+"source": "Salesforce Agentforce",
+"org": "Goodyear",
+"title": "Goodyear Agentforce sales and customer experience",
+"url": "https://www.salesforce.com/news/stories/goodyear-agentforce-sales-customer-experience/"
+},
+{
+"id": "d064",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "Pets at Home",
+"title": "With Copilot agents, Pets at Home unleashes an AI revolution",
+"url": "https://news.microsoft.com/source/emea/features/with-copilot-agents-pets-at-home-unleashes-an-ai-revolution/"
+},
+{
+"id": "d065",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "Amgen",
+"title": "Amgen builds agent in 6 weeks with Copilot Studio to help accelerate R&D",
+"url": "https://www.microsoft.com/en/customers/story/23550-amgen-microsoft-copilot-studio"
+},
+{
+"id": "d066",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "T-Mobile",
+"title": "T-Mobile drives more effective customer conversations with Power Apps and Copilot Studio",
+"url": "https://www.microsoft.com/en/customers/story/23087-t-mobile-usa-microsoft-copilot-studio"
+},
+{
+"id": "d067",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "T-Mobile",
+"title": "T-Mobile empowers customer service representatives using Power Apps and Copilot Studio",
+"url": "https://learn.microsoft.com/power-platform/guidance/case-studies/tmobile-empowers-customer-service"
+},
+{
+"id": "d068",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "TotalEnergies",
+"title": "From Microsoft 365 Copilot to Copilot Studio: TotalEnergies",
+"url": "https://www.microsoft.com/en/customers/story/25505-totalenergies-agents"
+},
+{
+"id": "d069",
+"source": "Salesforce Agentforce",
+"org": "Transcend",
+"title": "Transcend customer story (Agentforce in Action hub)",
+"url": "https://www.salesforce.com/customer-stories/transcend/"
+},
+{
+"id": "d070",
+"source": "Salesforce Agentforce",
+"org": "United Football League",
+"title": "Agentforce at the UFL",
+"url": "https://www.salesforce.com/blog/agentforce-ufl/"
+},
+{
+"id": "d071",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "Eneco",
+"title": "Eneco moves to Microsoft Copilot Studio to better support over 1.5 million customers",
+"url": "https://www.microsoft.com/en/customers/story/22686-eneco-microsoft-copilot-studio"
+},
+{
+"id": "d072",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "Graebel",
+"title": "Graebel modernizes relocation service orders with Copilot Studio",
+"url": "https://adoption.microsoft.com/en-us/agent-transformation-stories/graebel/"
+},
+{
+"id": "d073",
+"source": "Salesforce Agentforce",
+"org": "Crocs",
+"title": "Crocs' Agentic Enterprise enables fun shopping, smart marketing, and AI-powered commerce",
+"url": "https://www.salesforce.com/customer-stories/crocs"
+},
+{
+"id": "d074",
+"source": "Salesforce Agentforce",
+"org": "Nexo",
+"title": "Nexo customer story (Agentforce in Action hub)",
+"url": "https://www.salesforce.com/customer-stories/nexo/"
+},
+{
+"id": "d075",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "Unifi",
+"title": "Unifi manages contracts more efficiently with AI using Power Platform and Copilot Studio",
+"url": "https://www.microsoft.com/en/customers/story/26265-unifi-microsoft-copilot-studio"
+},
+{
+"id": "d076",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "ABN AMRO Bank",
+"title": "ABN AMRO Bank enhances AI capabilities with Copilot Studio and Azure services",
+"url": "https://learn.microsoft.com/power-platform/guidance/case-studies/abn-amro-enhances-ai"
+},
+{
+"id": "d077",
+"source": "Salesforce Agentforce",
+"org": "UChicago Medicine",
+"title": "University of Chicago Medicine Agentforce patient support",
+"url": "https://www.salesforce.com/news/press-releases/2025/06/24/university-chicago-agentforce-patient-support/"
+},
+{
+"id": "d078",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "Virgin Money",
+"title": "Virgin Money modernises banking with Microsoft Copilot Studio",
+"url": "https://www.microsoft.com/en/customers/story/24471-virgin-money-microsoft-365-copilot"
+},
+{
+"id": "d079",
+"source": "Salesforce Agentforce",
+"org": "L'Oreal",
+"title": "L'Oreal speeds service with AI-generated replies and 24/7 consumer support as an Agentic Enterprise",
+"url": "https://www.salesforce.com/customer-stories/loreal"
+},
+{
+"id": "d080",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "Farmlands Cooperative",
+"title": "Farmlands Cooperative: autonomous agents in Dynamics 365",
+"url": "https://www.microsoft.com/en/customers/story/26293-farmlands-cooperative-dynamics-365-commerce"
+},
+{
+"id": "d081",
+"source": "Salesforce Agentforce",
+"org": "FIFA",
+"title": "FIFA brings unforgettable FIFA World Cup 2026 moments to life with Agentforce and Slack",
+"url": "https://www.salesforce.com/customer-stories/fifa"
+},
+{
+"id": "d082",
+"source": "Salesforce Agentforce",
+"org": "Crocs",
+"title": "Crocs boosts digital sales with the #1 Agentic CRM",
+"url": "https://www.salesforce.com/customer-stories/crocs/agentic-commerce-marketing"
+},
+{
+"id": "d083",
+"source": "ServiceNow",
+"org": "ServiceNow (Now on Now)",
+"title": "Now on Now - Now Assist - Customer Story",
+"url": "https://www.servicenow.com/customers/now-on-now-now-assist.html"
+},
+{
+"id": "d084",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "City of Montreal",
+"title": "City of Montreal enhances citizen engagement with Copilot Studio",
+"url": "https://learn.microsoft.com/power-platform/guidance/case-studies/city-montreal-citizen-engagement"
+},
+{
+"id": "d085",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "Coca-Cola Andina",
+"title": "Coca-Cola Andina improves HR support for frontline workers with Copilot Studio",
+"url": "https://learn.microsoft.com/en-us/power-platform/guidance/case-studies/coca-cola-andina-hr-support"
+},
+{
+"id": "d086",
+"source": "Salesforce Agentforce",
+"org": "El Jannah",
+"title": "El Jannah experience with Agentforce",
+"url": "https://www.salesforce.com/au/news/stories/el-jannah-experience-agentforce/"
+},
+{
+"id": "d087",
+"source": "Salesforce Agentforce",
+"org": "Singapore Airlines",
+"title": "Singapore Airlines Agentforce customer support",
+"url": "https://www.salesforce.com/news/press-releases/2025/03/11/singapore-airlines-agentforce-customer-support/"
+},
+{
+"id": "d088",
+"source": "ServiceNow",
+"org": "LTM",
+"title": "LTM - ServiceNow - Customer Story",
+"url": "https://www.servicenow.com/customers/ltm.html"
+},
+{
+"id": "d089",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "The Estee Lauder Companies",
+"title": "The Estee Lauder Companies and Microsoft Copilot Studio transform intelligence",
+"url": "https://www.microsoft.com/en/customers/story/23488-the-estee-lauder-companies-microsoft-copilot-studio"
+},
+{
+"id": "d090",
+"source": "AWS",
+"org": "Experian",
+"title": "Experian accelerates .NET modernization using AWS Transform",
+"url": "https://aws.amazon.com/solutions/case-studies/experian-agenticai/"
+},
+{
+"id": "d091",
+"source": "Salesforce Agentforce",
+"org": "The Adecco Group",
+"title": "The Adecco Group customer story (Agentforce in Action hub)",
+"url": "https://www.salesforce.com/customer-stories/the-adecco-group/"
+},
+{
+"id": "d092",
+"source": "Salesforce Agentforce",
+"org": "Hero FinCorp",
+"title": "Hero FinCorp customer story",
+"url": "https://www.salesforce.com/in/customer-stories/hero-fincorp/"
+},
+{
+"id": "d093",
+"source": "Salesforce Agentforce",
+"org": "OpenTable",
+"title": "OpenTable customer story (Agentforce in Action hub)",
+"url": "https://www.salesforce.com/customer-stories/opentable/"
+},
+{
+"id": "d094",
+"source": "Salesforce Agentforce",
+"org": "PepsiCo",
+"title": "Agentforce 3 announcement (PepsiCo)",
+"url": "https://www.salesforce.com/news/press-releases/2025/06/23/agentforce-3-announcement/"
+},
+{
+"id": "d095",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "AGCO",
+"title": "AGCO scales employee-built AI agents with Microsoft Copilot Studio",
+"url": "https://www.microsoft.com/en/customers/story/26836-agco-corp-word"
+},
+{
+"id": "d096",
+"source": "Other vendor (UiPath)",
+"org": "Singapore Management University",
+"title": "SMU Transforms Operations ... Powered by Agentic AI",
+"url": "https://www.uipath.com/resources/automation-case-studies/smu-transforms-operations-through-business-orchestration-and-automation"
+},
+{
+"id": "d097",
+"source": "Other vendor (UiPath)",
+"org": "PLDT",
+"title": "PLDT turns manual effort into intelligent action with agentic AI built on UiPath",
+"url": "https://www.uipath.com/resources/automation-case-studies/pldt-transforms-operations-with-agentic-ai-built-on-uipath"
+},
+{
+"id": "d098",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "Children International",
+"title": "Children International uses Copilot to combat childhood poverty",
+"url": "https://www.microsoft.com/en/customers/story/25528-children-international-microsoft-365-copilot"
+},
+{
+"id": "d099",
+"source": "Salesforce Agentforce",
+"org": "SPECS",
+"title": "SPECS AR Glasses powers personalized, premium buying experiences with Agentforce",
+"url": "https://www.salesforce.com/customer-stories/specs"
+},
+{
+"id": "d100",
+"source": "Salesforce Agentforce",
+"org": "SharkNinja",
+"title": "SharkNinja Agentforce customer service",
+"url": "https://www.salesforce.com/news/press-releases/2025/01/14/shark-ninja-agentforce-customer-service/"
+},
+{
+"id": "d101",
+"source": "Salesforce Agentforce",
+"org": "Shoe Carnival",
+"title": "Shoe Carnival customer story",
+"url": "https://www.salesforce.com/blog/shoe-carnival-customer-story/"
+},
+{
+"id": "d102",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "mobilezone",
+"title": "mobilezone redefines productivity with Microsoft Copilot Studio agents",
+"url": "https://www.microsoft.com/en/customers/story/27511-mobilezone-microsoft-copilot-studio"
+},
+{
+"id": "d103",
+"source": "Salesforce Agentforce",
+"org": "Sweeping Corporation of America",
+"title": "Sweeping Corporation of America customer story (Agentforce in Action hub)",
+"url": "https://www.salesforce.com/customer-stories/sweeping-corp/"
+},
+{
+"id": "d104",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "Dow",
+"title": "Dow is targeting millions in cost savings with Microsoft 365 Copilot and agents",
+"url": "https://techcommunity.microsoft.com/blog/microsoft365copilotblog/dow-is-targeting-millions-in-cost-savings-with-microsoft-365-copilot-and-agents/4393480"
+},
+{
+"id": "d105",
+"source": "Salesforce Agentforce",
+"org": "Finnair",
+"title": "Finnair customer story (Agentforce in Action hub)",
+"url": "https://www.salesforce.com/customer-stories/finnair/"
+},
+{
+"id": "d106",
+"source": "Salesforce Agentforce",
+"org": "Adobe Population Health",
+"title": "Adobe Population Health real-time updates with Agentforce (video)",
+"url": "https://www.salesforce.com/news/stories/video/adobe-population-health-real-time-updates-agentforce/"
+},
+{
+"id": "d107",
+"source": "Salesforce Agentforce",
+"org": "Datasite",
+"title": "Datasite customer story (Agentforce in Action hub)",
+"url": "https://www.salesforce.com/customer-stories/datasite/"
+},
+{
+"id": "d108",
+"source": "Salesforce Agentforce",
+"org": "deinePflege",
+"title": "deinePflege customer story (Agentforce in Action hub)",
+"url": "https://www.salesforce.com/customer-stories/deinePflege/"
+},
+{
+"id": "d109",
+"source": "AWS",
+"org": "Cox Automotive",
+"title": "Cox Automotive launched AI agents at scale using Amazon Bedrock AgentCore",
+"url": "https://aws.amazon.com/solutions/case-studies/cox-auto-case-study/"
+},
+{
+"id": "d110",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "mobilezone",
+"title": "Telecom provider mobilezone modernizes service delivery using Copilot Studio",
+"url": "https://learn.microsoft.com/en-us/power-platform/guidance/case-studies/mobilezone-modernizes-service-delivery"
+},
+{
+"id": "d111",
+"source": "Salesforce Agentforce",
+"org": "Fisher & Paykel",
+"title": "Fisher & Paykel helps technicians arrive repair-ready with Agentforce",
+"url": "https://www.salesforce.com/customer-stories/fisher-and-paykel/agentic-field-service-support"
+},
+{
+"id": "d112",
+"source": "Salesforce Agentforce",
+"org": "Big Brothers Big Sisters of America",
+"title": "Big Brothers Big Sisters of America customer story (Agentforce in Action hub)",
+"url": "https://www.salesforce.com/customer-stories/big-brothers-big-sisters-of-america/"
+},
+{
+"id": "d113",
+"source": "AWS",
+"org": "Druva",
+"title": "Druva transforms data security using Amazon Bedrock AgentCore",
+"url": "https://aws.amazon.com/solutions/case-studies/druva-agentcore-case-study/"
+},
+{
+"id": "d114",
+"source": "Google Cloud",
+"org": "Stratagem",
+"title": "Stratagem case study",
+"url": "https://cloud.google.com/customers/stratagem"
+},
+{
+"id": "d115",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "Cemex",
+"title": "Cemex builds an always-on HR experience with a Copilot Studio agent",
+"url": "https://www.microsoft.com/en/customers/story/26985-cemex-microsoft-copilot-studio"
+},
+{
+"id": "d116",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "SIAG",
+"title": "SIAG transforms public services with Dynamics 365, Power Platform, and AI agents",
+"url": "https://www.microsoft.com/en/customers/story/26118-siag-dynamics-365-customer-service"
+},
+{
+"id": "d117",
+"source": "ServiceNow",
+"org": "EY",
+"title": "EY - AI - ServiceNow - Customer Story",
+"url": "https://www.servicenow.com/customers/ey-ai.html"
+},
+{
+"id": "d118",
+"source": "Salesforce Agentforce",
+"org": "Crocs",
+"title": "Crocs guides shoppers from discovery to support with Agentforce",
+"url": "https://www.salesforce.com/customer-stories/crocs/service-shopping-superagent"
+},
+{
+"id": "d119",
+"source": "Salesforce Agentforce",
+"org": "CaixaBank",
+"title": "Agentforce for Financial Services announcement (CaixaBank)",
+"url": "https://www.salesforce.com/news/stories/agentforce-for-financial-services-announcement/"
+},
+{
+"id": "d120",
+"source": "Salesforce Agentforce",
+"org": "Indeed",
+"title": "Indeed customer story (Agentforce in Action hub)",
+"url": "https://www.salesforce.com/customer-stories/indeed/"
+},
+{
+"id": "d121",
+"source": "Salesforce Agentforce",
+"org": "Pacers Sports & Entertainment",
+"title": "Pacers Sports & Entertainment customer story (Agentforce in Action hub)",
+"url": "https://www.salesforce.com/customer-stories/pacers-sports-entertainment/"
+},
+{
+"id": "d122",
+"source": "Salesforce Agentforce",
+"org": "Pacific Smiles Dental",
+"title": "Pacific Smiles customer story",
+"url": "https://www.salesforce.com/au/customer-stories/pacific-smiles/"
+},
+{
+"id": "d123",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "Microsoft",
+"title": "Microsoft uses Copilot Studio to reshape customer experience and drive higher engagement",
+"url": "https://www.microsoft.com/en/customers/story/26166-microsoft-microsoft-copilot-studio"
+},
+{
+"id": "d124",
+"source": "Salesforce Agentforce",
+"org": "L'Oreal",
+"title": "L'Oreal handles support cases up to 64% faster with Agentforce",
+"url": "https://www.salesforce.com/customer-stories/loreal/agentic-service-advisor-assistance"
+},
+{
+"id": "d125",
+"source": "Salesforce Agentforce",
+"org": "Equinox",
+"title": "Equinox customer story (Agentforce in Action hub)",
+"url": "https://www.salesforce.com/customer-stories/equinox/"
+},
+{
+"id": "d126",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "OneSchool Global",
+"title": "OneSchool Global transforms curriculum quality at scale with Copilot Studio",
+"url": "https://www.microsoft.com/en/customers/story/27278-oneschool-global-microsoft-copilot-studio"
+},
+{
+"id": "d127",
+"source": "Salesforce Agentforce",
+"org": "Rocket Pro",
+"title": "Rocket Pro's Agentic Enterprise turns unified data into timely, effective broker engagement",
+"url": "https://www.salesforce.com/customer-stories/rocket-pro"
+},
+{
+"id": "d128",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "City of Montreal",
+"title": "City of Montreal supports citizens with a virtual agent built using Copilot Studio",
+"url": "https://www.microsoft.com/en/customers/story/25186-city-of-montreal-agents"
+},
+{
+"id": "d129",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "State Farm",
+"title": "State Farm scales governed AI with Microsoft Copilot Studio and Power Platform",
+"url": "https://www.microsoft.com/en/customers/story/26947-state-farm-microsoft-power-platform"
+},
+{
+"id": "d130",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "Banco Hipotecario",
+"title": "Banco Hipotecario transforms banking with Dynamics 365 and Copilot Studio AI agents",
+"url": "https://www.microsoft.com/en/customers/story/26969-banco-hipotecario-github-copilot"
+},
+{
+"id": "d131",
+"source": "Salesforce Agentforce",
+"org": "Vivint",
+"title": "Vivint Agentforce scales customer service",
+"url": "https://www.salesforce.com/news/press-releases/2024/12/17/vivint-agentforce-scale-customer-service/"
+},
+{
+"id": "d132",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "EY",
+"title": "EY harnesses agentic AI via Copilot to empower employees, elevate client success",
+"url": "https://www.microsoft.com/en/customers/story/25662-ey-microsoft-365-copilot"
+},
+{
+"id": "d133",
+"source": "Salesforce Agentforce",
+"org": "Engine",
+"title": "Engine customer story (Agentforce in Action hub)",
+"url": "https://www.salesforce.com/customer-stories/engine/"
+},
+{
+"id": "d134",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "Cancer Council NSW",
+"title": "Cancer Council NSW gives staff trusted policy answers in seconds with Copilot Studio",
+"url": "https://www.microsoft.com/en/customers/story/26834-cancer-council-nsw-sharepoint"
+},
+{
+"id": "d135",
+"source": "ServiceNow",
+"org": "inMorphis",
+"title": "InMorphis - ServiceNow - Customer Story",
+"url": "https://www.servicenow.com/customers/inmorphis.html"
+},
+{
+"id": "d136",
+"source": "Salesforce Agentforce",
+"org": "SaaStr",
+"title": "How SaaStr scaled a three-person team as an Agentic Enterprise",
+"url": "https://www.salesforce.com/customer-stories/saastr-ai"
+},
+{
+"id": "d137",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "La Trobe University",
+"title": "La Trobe University supercharges academic productivity with AI and Copilot Studio",
+"url": "https://learn.microsoft.com/power-platform/guidance/case-studies/latrobe-supercharges"
+},
+{
+"id": "d138",
+"source": "Salesforce Agentforce",
+"org": "College Possible",
+"title": "College Possible customer story (Agentforce in Action hub)",
+"url": "https://www.salesforce.com/customer-stories/college-possible/"
+},
+{
+"id": "d139",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "Holland America Line",
+"title": "Holland America Line sees signs of more informed purchasing with Copilot Studio agent",
+"url": "https://www.microsoft.com/en/customers/story/23524-holland-america-line-microsoft-copilot-studio"
+},
+{
+"id": "d140",
+"source": "Salesforce Agentforce",
+"org": "1-800Accountant",
+"title": "1-800Accountant customer story (Agentforce in Action hub)",
+"url": "https://www.salesforce.com/customer-stories/1800-accountant/"
+},
+{
+"id": "d141",
+"source": "Salesforce Agentforce",
+"org": "Rocket Pro",
+"title": "Rocket Pro powers smart, timely broker outreach with Agentforce",
+"url": "https://www.salesforce.com/customer-stories/rocket-pro/agentic-outreach-prep"
+},
+{
+"id": "d142",
+"source": "Salesforce Agentforce",
+"org": "World Economic Forum",
+"title": "Agentforce takes the World Economic Forum",
+"url": "https://www.salesforce.com/customer-stories/world-economic-forum/"
+},
+{
+"id": "d143",
+"source": "Salesforce Agentforce",
+"org": "Nexstar",
+"title": "Nexstar Media Cloud Agentforce media sales",
+"url": "https://www.salesforce.com/news/press-releases/2025/06/19/nexstar-media-cloud-agentforce-media-sales/"
+},
+{
+"id": "d144",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "Signetic",
+"title": "Signetic transforms healthcare operations with intelligent apps and agents",
+"url": "https://learn.microsoft.com/en-us/power-platform/guidance/case-studies/signetic-transforms-healthcare"
+},
+{
+"id": "d145",
+"source": "Google Cloud",
+"org": "SIGNAL IDUNA",
+"title": "SIGNAL IDUNA case study",
+"url": "https://cloud.google.com/customers/signaliduna"
+},
+{
+"id": "d146",
+"source": "AWS",
+"org": "AstraZeneca",
+"title": "Using Amazon Bedrock Agents to Accelerate Decisions Across Drug Development",
+"url": "https://aws.amazon.com/solutions/case-studies/astrazeneca-case-study/"
+},
+{
+"id": "d147",
+"source": "ServiceNow",
+"org": "ServiceNow (Now on Now)",
+"title": "Now on Now - AI Experience - Customer Story",
+"url": "https://www.servicenow.com/customers/now-on-now-ai-experience.html"
+},
+{
+"id": "d148",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "HEINEKEN",
+"title": "HEINEKEN uses Power Platform to streamline operations and harness the potential of AI",
+"url": "https://www.microsoft.com/en/customers/story/25909-heineken-microsoft-copilot-studio"
+},
+{
+"id": "d149",
+"source": "AWS",
+"org": "Strike48",
+"title": "Strike48 Success Story (Bedrock)",
+"url": "https://aws.amazon.com/solutions/case-studies/strike48-bedrock/"
+},
+{
+"id": "d150",
+"source": "Salesforce Agentforce",
+"org": "Alpine Intel",
+"title": "Alpine Intel transforms claims processing with Agentforce (video)",
+"url": "https://www.salesforce.com/news/stories/video/alpine-intel-transforms-claims-processing-agentforce/"
+},
+{
+"id": "d151",
+"source": "Salesforce Agentforce",
+"org": "Unity Environmental University",
+"title": "Unity Environmental University customer story (Agentforce in Action hub)",
+"url": "https://www.salesforce.com/customer-stories/unity-environmental-university/"
+},
+{
+"id": "d152",
+"source": "AWS",
+"org": "ASAPP",
+"title": "ASAPP GenerativeAgent Platform",
+"url": "https://aws.amazon.com/solutions/case-studies/asapp-case-study/"
+},
+{
+"id": "d153",
+"source": "Google Cloud",
+"org": "Horizon Media",
+"title": "Horizon Media case study",
+"url": "https://cloud.google.com/customers/horizon-media"
+},
+{
+"id": "d154",
+"source": "Microsoft Copilot Studio/Foundry",
+"org": "Grupo Bimbo",
+"title": "Grupo Bimbo cuts audit times by 20% with agents built in Microsoft Copilot Studio",
+"url": "https://www.microsoft.com/en/customers/story/26762-grupo-bimbo-microsoft-365-copilot"
+},
+{
+"id": "d155",
+"source": "Salesforce Agentforce",
+"org": "Amplifon",
+"title": "Amplifon customer story (Agentforce in Action hub)",
+"url": "https://www.salesforce.com/customer-stories/amplifon/"
+}
+]

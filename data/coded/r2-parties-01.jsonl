@@ -1,0 +1,98 @@
+{"id": "x08411", "parties": "formal-model", "confidence": "medium", "quote": "sequentially arriving agents"}
+{"id": "x06909", "parties": "ai-agents", "confidence": "medium", "quote": "each RL agent in a multi-agent environment"}
+{"id": "x09783", "parties": "humans", "confidence": "medium", "quote": "credit scoring and academic testing"}
+{"id": "x00530", "parties": "formal-model", "confidence": "medium", "quote": "multiple parties aggregate their data resources"}
+{"id": "x07816", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x06910", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x09761", "parties": "humans", "confidence": "high", "quote": "applicants"}
+{"id": "x05786", "parties": "ai-agents", "confidence": "medium", "quote": "heterogeneous learning agents in asset markets"}
+{"id": "x03109", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x02635", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x05056", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x02103", "parties": "other", "confidence": "medium", "quote": "organizations or agents"}
+{"id": "x07799", "parties": "humans", "confidence": "high", "quote": "individuals or entities modify their features"}
+{"id": "x05105", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x02269", "parties": "formal-model", "confidence": "medium", "quote": ""}
+{"id": "x00205", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x05714", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x05727", "parties": "humans", "confidence": "high", "quote": "candidates from different socioeconomic groups"}
+{"id": "x10232", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x10808", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x07078", "parties": "humans", "confidence": "high", "quote": "crowdsourcing workers"}
+{"id": "x00539", "parties": "humans", "confidence": "low", "quote": "human user"}
+{"id": "x09191", "parties": "humans", "confidence": "high", "quote": "authors, reviewers"}
+{"id": "x01526", "parties": "other", "confidence": "low", "quote": ""}
+{"id": "x06459", "parties": "ai-agents", "confidence": "low", "quote": "AI agents"}
+{"id": "x07121", "parties": "humans", "confidence": "high", "quote": "human-AI coordination"}
+{"id": "x10023", "parties": "formal-model", "confidence": "low", "quote": ""}
+{"id": "x00724", "parties": "ai-agents", "confidence": "high", "quote": "user-controlled agents"}
+{"id": "x04318", "parties": "formal-model", "confidence": "medium", "quote": "data providers"}
+{"id": "x11265", "parties": "humans", "confidence": "medium", "quote": "participants' preferences"}
+{"id": "x00276", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x09807", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x10097", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x02444", "parties": "humans", "confidence": "high", "quote": "end-users"}
+{"id": "x11992", "parties": "formal-model", "confidence": "high", "quote": "rational firms"}
+{"id": "x04965", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x05272", "parties": "formal-model", "confidence": "medium", "quote": "strategic agents"}
+{"id": "x00426", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x09058", "parties": "formal-model", "confidence": "medium", "quote": ""}
+{"id": "x08799", "parties": "ai-agents", "confidence": "medium", "quote": "autonomous and independent satellite operations"}
+{"id": "x12146", "parties": "formal-model", "confidence": "high", "quote": "self-interested agents"}
+{"id": "x06252", "parties": "humans", "confidence": "medium", "quote": "drivers lining up at airports"}
+{"id": "x02294", "parties": "formal-model", "confidence": "medium", "quote": ""}
+{"id": "x05859", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x01786", "parties": "humans", "confidence": "high", "quote": "heterogeneous preferences"}
+{"id": "x05926", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x01503", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x11110", "parties": "humans", "confidence": "high", "quote": "voters"}
+{"id": "x10049", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x05681", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x08529", "parties": "formal-model", "confidence": "low", "quote": "strategic agents that follow a no-regret learning policy"}
+{"id": "x09402", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x07106", "parties": "ai-agents", "confidence": "medium", "quote": "downstream competitive agents"}
+{"id": "x10831", "parties": "humans", "confidence": "high", "quote": "simulated humans"}
+{"id": "x01825", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x03301", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x01774", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x00372", "parties": "humans", "confidence": "medium", "quote": "viewers and providers"}
+{"id": "x03216", "parties": "humans", "confidence": "high", "quote": "strategic users"}
+{"id": "x10239", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x10915", "parties": "humans", "confidence": "high", "quote": "job seekers"}
+{"id": "x10889", "parties": "other", "confidence": "low", "quote": "LLM agents"}
+{"id": "x00687", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x05860", "parties": "formal-model", "confidence": "medium", "quote": "clients act as rational players"}
+{"id": "x09695", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x02993", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x06810", "parties": "formal-model", "confidence": "low", "quote": ""}
+{"id": "x07016", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x06569", "parties": "humans", "confidence": "high", "quote": "AI agents and humans"}
+{"id": "x05632", "parties": "humans", "confidence": "high", "quote": "customers"}
+{"id": "x10711", "parties": "humans", "confidence": "high", "quote": "governments, businesses, advocates, and users"}
+{"id": "x03513", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x06063", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x08194", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x01431", "parties": "formal-model", "confidence": "medium", "quote": ""}
+{"id": "x01296", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x06897", "parties": "humans", "confidence": "high", "quote": "consumers"}
+{"id": "x10569", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x05578", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x08187", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x07176", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x08061", "parties": "humans", "confidence": "high", "quote": "journalists, news organizations, researchers, and creative professionals"}
+{"id": "x07518", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x09279", "parties": "formal-model", "confidence": "high", "quote": "experts act strategically"}
+{"id": "x09205", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x05667", "parties": "humans", "confidence": "high", "quote": "students"}
+{"id": "x04610", "parties": "formal-model", "confidence": "medium", "quote": ""}
+{"id": "x04518", "parties": "ai-agents", "confidence": "high", "quote": "businesses starting to deploy agents to act on their behalf"}
+{"id": "x01347", "parties": "formal-model", "confidence": "medium", "quote": ""}
+{"id": "x01038", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x03714", "parties": "formal-model", "confidence": "medium", "quote": "self-interested agents"}
+{"id": "x05182", "parties": "humans", "confidence": "high", "quote": "ordinary people"}
+{"id": "x10462", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x07072", "parties": "other", "confidence": "low", "quote": "competing platforms"}
+{"id": "x05483", "parties": "humans", "confidence": "high", "quote": "human partners"}
+{"id": "x03407", "parties": "ai-agents", "confidence": "medium", "quote": "both human and artificial agents"}
+{"id": "x02225", "parties": "formal-model", "confidence": "high", "quote": ""}
+{"id": "x10123", "parties": "formal-model", "confidence": "high", "quote": ""}

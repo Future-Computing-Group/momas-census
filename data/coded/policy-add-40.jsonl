@@ -1,0 +1,70 @@
+{"id": "x11046", "policy_setters": "one", "policy_quote": "four specialized LLM agents", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01715", "policy_setters": "several", "policy_quote": "autonomous agents and human partners", "principals": "one", "principals_quote": "", "partners_from_others": "yes"}
+{"id": "x07119", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01588", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y00096", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06459", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "commissioned by a human principal", "partners_from_others": "no"}
+{"id": "x12127", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02530", "policy_setters": "one", "policy_quote": "", "principals": "several", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06496", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x07799", "policy_setters": "several", "policy_quote": "individuals or entities modify their features strategically", "principals": "several", "principals_quote": "", "partners_from_others": "yes"}
+{"id": "x10088", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y02832", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x09193", "policy_setters": "one", "policy_quote": "", "principals": "several", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10943", "policy_setters": "one", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05249", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00284", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y02705", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00774", "policy_setters": "one", "policy_quote": "train policies realizing these strategies", "principals": "one", "principals_quote": "collaboratively solve", "partners_from_others": "no"}
+{"id": "x07878", "policy_setters": "one", "policy_quote": "", "principals": "several", "principals_quote": "each player has a different expected reward", "partners_from_others": "no"}
+{"id": "x08816", "policy_setters": "one", "policy_quote": "", "principals": "several", "principals_quote": "number of human raters", "partners_from_others": "no"}
+{"id": "y03771", "policy_setters": "several", "policy_quote": "jailbreak framework against LALMs", "principals": "several", "principals_quote": "", "partners_from_others": "yes"}
+{"id": "y01211", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10449", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "z00113", "policy_setters": "one", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00036", "policy_setters": "several", "policy_quote": "truthful investment mechanisms", "principals": "several", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03095", "policy_setters": "several", "policy_quote": "Malicious Image Patches", "principals": "several", "principals_quote": "", "partners_from_others": "yes"}
+{"id": "y01427", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01330", "policy_setters": "several", "policy_quote": "each with different incentives", "principals": "several", "principals_quote": "each with different incentives", "partners_from_others": "no"}
+{"id": "y03196", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05947", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05688", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00177", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03346", "policy_setters": "one", "policy_quote": "", "principals": "several", "principals_quote": "enable data collaboration", "partners_from_others": "no"}
+{"id": "y03696", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03657", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02247", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y01377", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00482", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00721", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x10405", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00052", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10446", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x00774", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y01843", "policy_setters": "several", "policy_quote": "Agents have preferences over the states of completion of these tasks", "principals": "several", "principals_quote": "agents are endowed with different types of resources", "partners_from_others": "no"}
+{"id": "y00420", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03960", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03663", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y00460", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06704", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06433", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "the school's goal", "partners_from_others": "no"}
+{"id": "x04843", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11607", "policy_setters": "one", "policy_quote": "", "principals": "several", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00067", "policy_setters": "several", "policy_quote": "attacker vehicles", "principals": "several", "principals_quote": "", "partners_from_others": "yes"}
+{"id": "x10122", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11154", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x02529", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09598", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03623", "policy_setters": "several", "policy_quote": "the adversary can poison the input images", "principals": "several", "principals_quote": "", "partners_from_others": "yes"}
+{"id": "x11265", "policy_setters": "several", "policy_quote": "estimate participants' preferences", "principals": "several", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01201", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01446", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02426", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00204", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06818", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x06895", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03707", "policy_setters": "several", "policy_quote": "between clients", "principals": "several", "principals_quote": "between clients", "partners_from_others": "no"}
+{"id": "x05717", "policy_setters": "several", "policy_quote": "agents who may manipulate their features", "principals": "several", "principals_quote": "", "partners_from_others": "yes"}
+{"id": "x11784", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x01309", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00243", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}

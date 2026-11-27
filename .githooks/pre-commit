@@ -1,0 +1,4 @@
+#!/bin/sh
+# Refuse a commit whose staged content carries cluster accounts, cluster or laptop paths, node names or decision narrative.
+# Enable once per clone: git config core.hooksPath .githooks
+cd "$(git rev-parse --show-toplevel)" && exec python3 test_hygiene.py --cached

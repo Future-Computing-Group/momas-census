@@ -1,0 +1,70 @@
+{"id": "x01952", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00372", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01010", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00812", "policy_setters": "several", "policy_quote": "each client engages in selective cooperation, dynamically allying with others who offer meaningful performance gains", "principals": "several", "principals_quote": "each client engages in selective cooperation, dynamically allying with others who offer meaningful performance gains", "partners_from_others": "no"}
+{"id": "x06137", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02458", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x00379", "policy_setters": "several", "policy_quote": "incentivized to misrepresent their true opinion", "principals": "several", "principals_quote": "incentivized to misrepresent their true opinion", "partners_from_others": "no"}
+{"id": "y01953", "policy_setters": "several", "policy_quote": "stealing users' specific PII", "principals": "several", "principals_quote": "stealing users' specific PII", "partners_from_others": "yes"}
+{"id": "x03983", "policy_setters": "one", "policy_quote": "", "principals": "several", "principals_quote": "fair rationing of a single resource when agents have stochastic demands", "partners_from_others": "no"}
+{"id": "x07824", "policy_setters": "several", "policy_quote": "jailbreak attacks", "principals": "several", "principals_quote": "jailbreak attacks", "partners_from_others": "yes"}
+{"id": "x07226", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01597", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09890", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09327", "policy_setters": "several", "policy_quote": "N strategic experts each report a forecast to a mechanism", "principals": "several", "principals_quote": "N strategic experts each report a forecast to a mechanism", "partners_from_others": "no"}
+{"id": "x03660", "policy_setters": "several", "policy_quote": "a single seller faces a single strategic buyer", "principals": "several", "principals_quote": "a single seller faces a single strategic buyer", "partners_from_others": "yes"}
+{"id": "y03567", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10390", "policy_setters": "several", "policy_quote": "learn a strategy to compute protectors against future attackers", "principals": "several", "principals_quote": "learn a strategy to compute protectors against future attackers", "partners_from_others": "yes"}
+{"id": "x03222", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y00431", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y00633", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00111", "policy_setters": "several", "policy_quote": "to account for how humans choose", "principals": "several", "principals_quote": "to account for how humans choose", "partners_from_others": "no"}
+{"id": "x01356", "policy_setters": "several", "policy_quote": "adversaries can misuse combinations of models even when each individual model is safe", "principals": "several", "principals_quote": "adversaries can misuse combinations of models even when each individual model is safe", "partners_from_others": "yes"}
+{"id": "x08061", "policy_setters": "several", "policy_quote": "appoint representatives who can carry out \"collective bargaining\" with AI product builders", "principals": "several", "principals_quote": "appoint representatives who can carry out \"collective bargaining\" with AI product builders", "partners_from_others": "no"}
+{"id": "x07276", "policy_setters": "several", "policy_quote": "a more realistic adversary model", "principals": "several", "principals_quote": "a more realistic adversary model", "partners_from_others": "no"}
+{"id": "y00595", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x09761", "policy_setters": "several", "policy_quote": "When many applicants act according to their recommendations", "principals": "several", "principals_quote": "When many applicants act according to their recommendations", "partners_from_others": "no"}
+{"id": "y02089", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01484", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09234", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01839", "policy_setters": "several", "policy_quote": "each agent is allowed to use any algorithm for constructing their respective solutions", "principals": "several", "principals_quote": "agents need to maximize multiple submodular objectives over the same ground set", "partners_from_others": "yes"}
+{"id": "x11241", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06260", "policy_setters": "several", "policy_quote": "each server has its own privacy constraints", "principals": "several", "principals_quote": "each server has its own privacy constraints", "partners_from_others": "no"}
+{"id": "x07127", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00884", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02166", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03262", "policy_setters": "several", "policy_quote": "an attacker can first observe the learner's action and *then* alter their reward observation", "principals": "several", "principals_quote": "an attacker can first observe the learner's action and *then* alter their reward observation", "partners_from_others": "yes"}
+{"id": "x11596", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09860", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00289", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06974", "policy_setters": "several", "policy_quote": "if an adversary controls the seed of the generative model", "principals": "several", "principals_quote": "if an adversary controls the seed of the generative model", "partners_from_others": "no"}
+{"id": "x07780", "policy_setters": "several", "policy_quote": "the two parties", "principals": "several", "principals_quote": "the two traders", "partners_from_others": "no"}
+{"id": "x06418", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03684", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05742", "policy_setters": "several", "policy_quote": "strategic interaction between a single leader and an infinitely large population of homogeneous followers", "principals": "several", "principals_quote": "strategic interaction between a single leader and an infinitely large population of homogeneous followers", "partners_from_others": "no"}
+{"id": "x07726", "policy_setters": "several", "policy_quote": "repeated auctions that accounts for bidders' temporal preferences", "principals": "several", "principals_quote": "repeated auctions that accounts for bidders' temporal preferences", "partners_from_others": "no"}
+{"id": "x12255", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06018", "policy_setters": "several", "policy_quote": "data creators increasingly worry about the inclusion of their proprietary data for model training", "principals": "several", "principals_quote": "data creators increasingly worry about the inclusion of their proprietary data for model training", "partners_from_others": "no"}
+{"id": "x05384", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00177", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04409", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x03029", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x07957", "policy_setters": "several", "policy_quote": "blackbox transfer-based targeted adversarial attack threat model", "principals": "several", "principals_quote": "blackbox transfer-based targeted adversarial attack threat model", "partners_from_others": "yes"}
+{"id": "y02036", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00057", "policy_setters": "several", "policy_quote": "Players are then thought to repeatedly update their strategies", "principals": "several", "principals_quote": "maximizing their individual utilities", "partners_from_others": "no"}
+{"id": "x11051", "policy_setters": "several", "policy_quote": "break these defenses", "principals": "several", "principals_quote": "break these defenses", "partners_from_others": "yes"}
+{"id": "x00453", "policy_setters": "several", "policy_quote": "poisoned data made for one model transfer to a variety of victim models with unknown training settings and architectures", "principals": "several", "principals_quote": "an attacker takes control of a model", "partners_from_others": "yes"}
+{"id": "y03184", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08288", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06278", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08116", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02045", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09291", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00276", "policy_setters": "several", "policy_quote": "a principal incentivizes an agent to exert effort on her behalf", "principals": "several", "principals_quote": "a principal incentivizes an agent to exert effort on her behalf", "partners_from_others": "no"}
+{"id": "y02876", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x09575", "policy_setters": "several", "policy_quote": "no agent has the incentive to deviate", "principals": "several", "principals_quote": "no agent has the incentive to deviate", "partners_from_others": "no"}
+{"id": "y00670", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04611", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04346", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "z00033", "policy_setters": "one", "policy_quote": "", "principals": "several", "principals_quote": "significant envy among the agents", "partners_from_others": "no"}
+{"id": "x07099", "policy_setters": "several", "policy_quote": "distributed among different parties", "principals": "several", "principals_quote": "distributed among different parties", "partners_from_others": "no"}

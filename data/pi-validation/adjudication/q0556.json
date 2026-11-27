@@ -1,0 +1,27 @@
+{
+  "fields": {
+    "agent": {
+      "coders": "na",
+      "mine": "no",
+      "verdict": "coders"
+    },
+    "boundary": {
+      "coders": "na",
+      "mine": "yes",
+      "verdict": "coders"
+    },
+    "interests": {
+      "coders": "na",
+      "mine": "several-conflicting",
+      "verdict": "coders"
+    },
+    "owners": {
+      "coders": "na",
+      "mine": "several",
+      "verdict": "coders"
+    }
+  },
+  "id": "q0556",
+  "note": null,
+  "phase": "validation"
+}

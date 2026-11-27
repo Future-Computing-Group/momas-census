@@ -1,0 +1,303 @@
+{
+ "adjudication": {
+  "q0007": {
+   "fields": {
+    "focus": {
+     "coders": "interaction",
+     "mine": "agent",
+     "verdict": "coders"
+    },
+    "owners": {
+     "coders": "one",
+     "mine": "several",
+     "verdict": "coders"
+    }
+   },
+   "id": "q0007",
+   "note": null,
+   "phase": "validation"
+  },
+  "q0300": {
+   "fields": {
+    "owners": {
+     "coders": "several",
+     "mine": "one",
+     "verdict": "coders"
+    }
+   },
+   "id": "q0300",
+   "note": null,
+   "phase": "validation"
+  },
+  "q0420": {
+   "fields": {
+    "focus": {
+     "coders": "agent",
+     "mine": "interaction",
+     "verdict": "coders"
+    }
+   },
+   "id": "q0420",
+   "note": null,
+   "phase": "validation"
+  },
+  "q1221": {
+   "fields": {
+    "owners": {
+     "coders": "several",
+     "mine": "one",
+     "verdict": "coders"
+    }
+   },
+   "id": "q1221",
+   "note": null,
+   "phase": "validation"
+  },
+  "q1397": {
+   "fields": {
+    "focus": {
+     "coders": "agent",
+     "mine": "interaction",
+     "verdict": "coders"
+    },
+    "owners": {
+     "coders": "several",
+     "mine": "one",
+     "verdict": "coders"
+    }
+   },
+   "id": "q1397",
+   "note": null,
+   "phase": "validation"
+  },
+  "q1877": {
+   "fields": {
+    "focus": {
+     "coders": "agent",
+     "mine": "interaction",
+     "verdict": "coders"
+    },
+    "owners": {
+     "coders": "one",
+     "mine": "several",
+     "verdict": "coders"
+    }
+   },
+   "id": "q1877",
+   "note": null,
+   "phase": "validation"
+  },
+  "q1948": {
+   "fields": {
+    "owners": {
+     "coders": "one",
+     "mine": "several",
+     "verdict": "coders"
+    }
+   },
+   "id": "q1948",
+   "note": null,
+   "phase": "validation"
+  },
+  "q1958": {
+   "fields": {
+    "focus": {
+     "coders": "interaction",
+     "mine": "na",
+     "verdict": "coders"
+    },
+    "owners": {
+     "coders": "several",
+     "mine": "na",
+     "verdict": "coders"
+    }
+   },
+   "id": "q1958",
+   "note": null,
+   "phase": "validation"
+  }
+ },
+ "source": "Focus-Check page (claude.ai artifact EgZL3tHu1gF1bsX5PZNzxn), collections validation and adjudication, read 2026-11-07",
+ "validation": {
+  "q0007": {
+   "focus": "interaction",
+   "ms": 24102,
+   "owners": "one",
+   "page": "v1",
+   "pos": 1,
+   "unsure": false,
+   "why": null
+  },
+  "q0042": {
+   "focus": "agent",
+   "ms": 46953,
+   "owners": "several",
+   "page": "v1",
+   "pos": 18,
+   "unsure": false,
+   "why": null
+  },
+  "q0300": {
+   "focus": "agent",
+   "ms": 55582,
+   "owners": "one",
+   "page": "v1",
+   "pos": 17,
+   "unsure": false,
+   "why": null
+  },
+  "q0310": {
+   "focus": "agent",
+   "ms": 253810,
+   "owners": "several",
+   "page": "v1",
+   "pos": 0,
+   "unsure": false,
+   "why": null
+  },
+  "q0420": {
+   "focus": "interaction",
+   "ms": 491742,
+   "owners": "several",
+   "page": "v1",
+   "pos": 4,
+   "unsure": false,
+   "why": null
+  },
+  "q0788": {
+   "focus": "agent",
+   "ms": 47893,
+   "owners": "one",
+   "page": "v1",
+   "pos": 10,
+   "unsure": false,
+   "why": null
+  },
+  "q0875": {
+   "focus": "interaction",
+   "ms": 176637,
+   "owners": "several",
+   "page": "v1",
+   "pos": 11,
+   "unsure": false,
+   "why": null
+  },
+  "q0883": {
+   "focus": "agent",
+   "ms": 88219,
+   "owners": "one",
+   "page": "v1",
+   "pos": 13,
+   "unsure": false,
+   "why": null
+  },
+  "q0987": {
+   "focus": "agent",
+   "ms": 187847,
+   "owners": "one",
+   "page": "v1",
+   "pos": 5,
+   "unsure": false,
+   "why": null
+  },
+  "q1017": {
+   "focus": "agent",
+   "ms": 20466,
+   "owners": "one",
+   "page": "v1",
+   "pos": 16,
+   "unsure": false,
+   "why": null
+  },
+  "q1156": {
+   "focus": "agent",
+   "ms": 135635,
+   "owners": "one",
+   "page": "v1",
+   "pos": 19,
+   "unsure": false,
+   "why": null
+  },
+  "q1187": {
+   "focus": "agent",
+   "ms": 294321,
+   "owners": "one",
+   "page": "v1",
+   "pos": 2,
+   "unsure": false,
+   "why": null
+  },
+  "q1221": {
+   "focus": "agent",
+   "ms": 111324,
+   "owners": "one",
+   "page": "v1",
+   "pos": 15,
+   "unsure": false,
+   "why": null
+  },
+  "q1243": {
+   "focus": "agent",
+   "ms": 126548,
+   "owners": "one",
+   "page": "v1",
+   "pos": 12,
+   "unsure": false,
+   "why": null
+  },
+  "q1393": {
+   "focus": "agent",
+   "ms": 23541,
+   "owners": "several",
+   "page": "v1",
+   "pos": 6,
+   "unsure": false,
+   "why": null
+  },
+  "q1397": {
+   "focus": "interaction",
+   "ms": 339908,
+   "owners": "one",
+   "page": "v1",
+   "pos": 9,
+   "unsure": false,
+   "why": null
+  },
+  "q1506": {
+   "focus": "agent",
+   "ms": 101186,
+   "owners": "one",
+   "page": "v1",
+   "pos": 7,
+   "unsure": false,
+   "why": null
+  },
+  "q1877": {
+   "focus": "interaction",
+   "ms": 71742,
+   "owners": "several",
+   "page": "v1",
+   "pos": 3,
+   "unsure": false,
+   "why": null
+  },
+  "q1948": {
+   "focus": "interaction",
+   "ms": 295617,
+   "owners": "several",
+   "page": "v1",
+   "pos": 8,
+   "unsure": false,
+   "why": null
+  },
+  "q1958": {
+   "focus": "na",
+   "ms": 17347,
+   "owners": "na",
+   "page": "v1",
+   "pos": 14,
+   "unsure": false,
+   "why": null
+  }
+ }
+}

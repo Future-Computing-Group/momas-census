@@ -1,0 +1,235 @@
+<title>Principal Census Check</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400&display=swap">
+<style>
+/* Layout: one abstract per screen, the four coding fields stacked under it, quiet chrome above (adapted from the MELD claim-pair audit page). */
+:root{
+  --bg:#f5f6f8; --surface:#ffffff; --fg:#1c2330; --muted:#5b6475; --line:#d8dce3;
+  --accent:#2c5a7f; --accent-soft:#e2eaf2; --mark:#b9801c; --focus:#2c5a7f;
+  --serif:"Source Serif 4",Georgia,"Times New Roman",serif;
+  --sans:"IBM Plex Sans",-apple-system,"Segoe UI",Roboto,sans-serif;
+  --mono:"IBM Plex Mono",ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
+  --bg:#13171d; --surface:#1b2028; --fg:#e5e8ed; --muted:#99a2b1; --line:#2d3440;
+  --accent:#8bb2d6; --accent-soft:#223142; --mark:#dea848; --focus:#8bb2d6; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#13171d; --surface:#1b2028; --fg:#e5e8ed; --muted:#99a2b1; --line:#2d3440;
+  --accent:#8bb2d6; --accent-soft:#223142; --mark:#dea848; --focus:#8bb2d6; color-scheme:dark}
+html,body{height:100%}
+body{background:var(--bg);color:var(--fg);font-family:var(--sans);font-size:15px;line-height:1.5}
+.wrap{max-width:860px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:20px 40px;display:flex;flex-direction:column;gap:16px}
+header{display:flex;flex-wrap:wrap;align-items:center;gap:12px 20px}
+h1{font-family:var(--serif);font-weight:600;font-size:1.25rem;margin:0;text-wrap:balance}
+.meta{color:var(--muted);font-size:.85rem;font-variant-numeric:tabular-nums}
+.grow{flex:1}
+.bar{height:6px;background:var(--line);border-radius:3px;overflow:hidden}
+.bar>i{display:block;height:100%;background:var(--accent);width:0}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:20px 22px;min-width:0;display:flex;flex-direction:column;gap:10px}
+.title{font-family:var(--serif);font-weight:600;font-size:1.2rem;line-height:1.35;margin:0;text-wrap:balance;overflow-wrap:anywhere}
+.abstract{font-family:var(--serif);font-size:1.05rem;line-height:1.6;margin:0;max-width:72ch;overflow-wrap:anywhere}
+.fields{display:flex;flex-direction:column;gap:12px}
+.field{display:grid;grid-template-columns:7.5rem 1fr;gap:8px 14px;align-items:start}
+@media (max-width:560px){.field{grid-template-columns:1fr}}
+.flabel{font-weight:600;padding-top:5px}
+.flabel small{display:block;font-weight:400;color:var(--muted);font-size:.8rem}
+.opts{display:flex;flex-wrap:wrap;gap:8px;min-width:0}
+button{font:inherit;color:inherit;cursor:pointer}
+.chip{background:var(--surface);border:1px solid var(--line);border-radius:999px;padding:5px 13px;font-size:.9rem}
+.chip[aria-pressed="true"]{border-color:var(--accent);background:var(--accent-soft);box-shadow:inset 0 0 0 1px var(--accent)}
+button:focus-visible{outline:2px solid var(--focus);outline-offset:2px}
+.row{display:flex;flex-wrap:wrap;align-items:center;gap:10px}
+.ghost{background:none;border:1px solid var(--line);border-radius:8px;padding:7px 12px;font-size:.88rem;color:var(--muted)}
+.ghost[aria-pressed="true"]{color:var(--fg);border-color:var(--fg)}
+kbd{font-family:var(--mono);font-size:.72rem;color:var(--muted);border:1px solid var(--line);border-radius:3px;padding:0 4px;margin-right:6px}
+.primary{background:var(--accent);color:var(--bg);border:none;border-radius:8px;padding:9px 18px;font-weight:600}
+.primary:disabled{opacity:.35;cursor:default}
+.note{color:var(--muted);font-size:.85rem}
+.panel{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:22px 24px;display:flex;flex-direction:column;gap:12px;max-width:720px}
+.panel h2{font-family:var(--serif);font-size:1.3rem;margin:0}
+.panel p{margin:0;max-width:66ch}
+dl.defs{display:grid;grid-template-columns:auto 1fr;gap:8px 16px;margin:0}
+@media (max-width:560px){dl.defs{grid-template-columns:1fr}}
+dl.defs dt{font-weight:600}
+dl.defs dd{margin:0;color:var(--muted)}
+.status{font-size:.82rem;color:var(--muted)}
+.status.warn{color:var(--mark)}
+@media (prefers-reduced-motion:no-preference){.bar>i{transition:width .3s ease}}
+</style>
+
+<div class="wrap" id="app">
+  <header>
+    <h1>Principal census check</h1>
+    <div class="grow"></div>
+    <span class="meta" id="count">Loading items</span>
+    <button class="ghost" id="helpBtn" aria-expanded="false"><kbd>?</kbd>Definitions</button>
+  </header>
+  <div class="bar" aria-hidden="true"><i id="fill"></i></div>
+  <div class="row"><span class="status" id="status">Connecting to the label store</span><span class="grow"></span><span class="meta" id="eta"></span></div>
+
+  <section id="help" class="panel" hidden>
+    <h2>How to code a paper</h2>
+    <p>Code from the title and abstract only, for the setting the paper's method or analysis assumes, not settings it mentions in passing (an example task, a motivation sentence).</p>
+    <dl class="defs">
+      <dt>Agent</dt><dd>Yes if the subject is one or more decision-makers that act over several steps in an environment: RL agents, LLM agents that call tools or act on the web or in software, robots, bidders, players. No if an agent only helps build a dataset or is a one-shot model call.</dd>
+      <dt>Interests</dt><dd>Whose interests the formal setting models. One. Several aligned (shared goals, e.g. a cooperative team). Several conflicting (distinct, possibly opposed goals: game opponents, bidders, negotiators, competing firms). Adversarial (an attacker or threat model against one protected party). Not fixed, when the abstract does not say.</dd>
+      <dt>Owners</dt><dd>How many independent parties own or control the decision-makers. One: a single developer, operator or trainer controls them all, including self-play, simulated opponents, and independently developed models run side by side in one evaluation. Several: decision-makers or data owners belong to different organizations or people, e.g. federated clients, human participants acting for themselves, an external attacker.</dd>
+      <dt>Boundary</dt><dd>Yes if decision-makers or data owners on different sides of an ownership line interact in the setting.</dd>
+      <dt>Default</dt><dd>A paper in which one developer trains or runs one model is the default ML setting: interests one, owners one, boundary no, whether or not it is an agent paper. Not fixed is for papers with no learner, decision-maker or analyst at all, such as a pure hypothesis test.</dd>
+    </dl>
+  </section>
+
+  <section id="start" class="panel" hidden>
+    <h2 id="startTitle">Start</h2>
+    <p id="startText"></p>
+    <div class="row"><button class="primary" id="startBtn">Begin</button><button class="ghost" id="skipPractice">Skip the practice items</button></div>
+  </section>
+
+  <section id="work" hidden>
+    <article class="card"><p class="title" id="ttl"></p><p class="abstract" id="abs"></p></article>
+    <div style="height:14px"></div>
+    <div class="fields" id="fields"></div>
+    <div style="height:12px"></div>
+    <div class="row">
+      <button class="ghost" id="unsure" aria-pressed="false"><kbd>U</kbd>Unsure</button>
+      <span class="row" id="whyRow" hidden></span>
+      <button class="ghost" id="undo"><kbd>⌫</kbd>Back one</button>
+      <span class="grow"></span>
+      <button class="primary" id="confirm" disabled>Confirm (Enter)</button>
+    </div>
+  </section>
+
+  <section id="reconcile" class="panel" hidden>
+    <h2>Where the coders differed</h2>
+    <p class="note">Your code above is already saved as given. For each difference, say which reading you hold now. This is recorded separately and does not change your saved code.</p>
+    <div class="fields" id="recRows"></div>
+    <label class="note" for="recNote">Note (optional)</label>
+    <textarea id="recNote" rows="2" style="font:inherit;padding:8px;border:1px solid var(--line);border-radius:8px;background:var(--surface);color:var(--fg)"></textarea>
+    <div class="row"><span class="grow"></span><button class="primary" id="recDone" disabled>Save and continue</button></div>
+  </section>
+
+  <section id="pause" class="panel" hidden>
+    <h2>Pause point</h2>
+    <p id="pauseText"></p>
+    <div class="row"><button class="primary" id="resume">Continue</button></div>
+  </section>
+
+  <section id="done" class="panel" hidden>
+    <h2>All 50 coded</h2>
+    <p id="doneText"></p>
+  </section>
+</div>
+
+<script>
+const DATA = __DATA__;
+const FIELDS = [
+  ["agent","Agent","subject is acting agents",[["yes","Yes"],["no","No"]]],
+  ["interests","Interests","what the setting models",[["one","One"],["several-aligned","Several aligned"],["several-conflicting","Several conflicting"],["adversarial","Adversarial"],["na","Not fixed"]]],
+  ["owners","Owners","who controls the deciders",[["one","One"],["several","Several"],["na","Not fixed"]]],
+  ["boundary","Boundary","interaction across ownership",[["yes","Yes"],["no","No"]]]];
+const BATCH = 25;
+const $ = id => document.getElementById(id);
+let db = null, phase = "practice", labels = {practice:{}, validation:{}}, sel = {}, unsure = false, why = null, shownAt = 0, pausedAt = -1, times = [];
+
+function items(){return DATA[phase]}
+function cur(){return items().findIndex(it=>!labels[phase][it.id])}
+function show(id){for(const s of["start","work","reconcile","pause","done"])$(s).hidden=s!==id}
+function complete(){return FIELDS.every(f=>sel[f[0]])}
+
+function progress(){const n=items().length,d=Object.keys(labels[phase]).length;
+  $("count").textContent=(phase==="practice"?"Practice ":"Item ")+Math.min(d+1,n)+" of "+n;
+  $("fill").style.width=(100*d/n)+"%";
+  if(phase!=="practice"&&times.length>=5){const s=[...times].sort((x,y)=>x-y),med=s[s.length>>1],left=(n-d)*med/60000;
+    $("eta").textContent="about "+(left<1?"1":Math.round(left))+" min left"}else $("eta").textContent=""}
+
+function next(){progress();const i=cur();
+  if(i<0){if(phase==="practice"){startValidation();return}finish();return}
+  const done=Object.keys(labels[phase]).length;
+  if(phase==="validation"&&done>0&&done%BATCH===0&&pausedAt!==done){pausedAt=done;$("pauseText").textContent=done+" coded, "+(items().length-done)+" to go. You can stop here and come back on any device; your place is kept.";show("pause");return}
+  const it=items()[i];$("ttl").textContent=it.title;$("abs").textContent=it.abstract;
+  sel={};unsure=false;why=null;paint();show("work");shownAt=performance.now();window.scrollTo({top:0});
+  const first=document.querySelector(".chip");if(first)first.focus({preventScroll:true})}
+
+const WHY=[["context","Abstract too thin"],["convention","Codebook unclear here"],["hard","Hard to call"]];
+function paintWhy(){const r=$("whyRow");r.textContent="";r.hidden=!unsure;if(!unsure)return;
+  WHY.forEach(([v,t])=>{const c=document.createElement("button");c.className="chip";c.setAttribute("aria-pressed",String(why===v));
+    c.textContent=t;c.onclick=()=>{why=why===v?null:v;paintWhy()};r.append(c)})}
+function paint(){const box=$("fields");box.textContent="";
+  for(const [key,label,hint,opts] of FIELDS){const f=document.createElement("div");f.className="field";
+    const l=document.createElement("div");l.className="flabel";l.textContent=label;const s=document.createElement("small");s.textContent=hint;l.append(s);
+    const o=document.createElement("div");o.className="opts";o.setAttribute("role","radiogroup");o.setAttribute("aria-label",label);
+    for(const [v,t] of opts){const b=document.createElement("button");b.className="chip";b.setAttribute("aria-pressed",String(sel[key]===v));b.textContent=t;
+      b.onclick=()=>{sel[key]=v;paint()};o.append(b)}
+    f.append(l,o);box.append(f)}
+  paintWhy();$("unsure").setAttribute("aria-pressed",String(unsure));$("confirm").disabled=!complete()}
+
+async function save(coll,id,rec){labels[coll][id]=rec;
+  try{localStorage.setItem("principal-check",JSON.stringify(labels))}catch(e){}
+  if(db){try{await db.collection(coll).doc(id).set(rec);setStatus("Saved to the label store")}catch(e){setStatus("Not saved to the store ("+(e.code||"error")+"). Kept in this browser; reload to retry.",true)}}}
+async function drop(coll,id){delete labels[coll][id];try{localStorage.setItem("principal-check",JSON.stringify(labels))}catch(e){}
+  if(db){try{await db.collection(coll).doc(id).delete()}catch(e){setStatus("Could not remove the label from the store",true)}}}
+
+async function confirm(){if(!complete())return;const i=cur(),it=items()[i],ms=Math.round(performance.now()-shownAt);
+  if(phase!=="practice"){times.push(ms);if(times.length>20)times.shift()}
+  const rec=Object.assign({},sel,{unsure,why:unsure?why:null,ms,pos:i,page:"v1"});
+  save(phase,it.id,rec);
+  const diffs=FIELDS.filter(f=>it.c&&it.c[f[0]]&&it.c[f[0]]!==sel[f[0]]);
+  if(diffs.length){reconcile(it,diffs);return}
+  next()}
+function lab(key,v){const f=FIELDS.find(x=>x[0]===key);const o=f&&f[3].find(x=>x[0]===v);return o?o[1]:v}
+let rec=null;
+function reconcile(it,diffs){rec={id:it.id,phase,fields:{}};const box=$("recRows");box.textContent="";
+  for(const [key,label] of diffs){const mine=labels[phase][it.id][key],theirs=it.c[key];
+    const f=document.createElement("div");f.className="field";const l=document.createElement("div");l.className="flabel";l.textContent=label;
+    const s=document.createElement("small");s.textContent="you: "+lab(key,mine)+" · coders: "+lab(key,theirs);l.append(s);
+    const o=document.createElement("div");o.className="opts";
+    for(const [v,t] of [["mine","My code stands"],["coders","I would change to the coders'"],["unclear","Codebook unclear here"]]){
+      const b=document.createElement("button");b.className="chip";b.setAttribute("aria-pressed","false");b.textContent=t;
+      b.onclick=()=>{rec.fields[key]={mine,coders:theirs,verdict:v};o.querySelectorAll(".chip").forEach(x=>x.setAttribute("aria-pressed",String(x===b)));
+        $("recDone").disabled=Object.keys(rec.fields).length<diffs.length};o.append(b)}
+    f.append(l,o);box.append(f)}
+  const why=document.createElement("p");why.className="note";why.style.margin="4px 0 0";
+  why.textContent="Coder's justification"+(it.c.conf?" ("+it.c.conf+" confidence)":"")+": "+(it.c.note||"none recorded");box.append(why);
+  if(it.c.note2){const w2=document.createElement("p");w2.className="note";w2.style.margin="0";w2.textContent="Second coder: "+it.c.note2;box.append(w2)}
+  $("recNote").value="";$("recDone").disabled=true;show("reconcile");window.scrollTo({top:0})}
+async function saveRec(){if(!rec)return;rec.note=$("recNote").value||null;
+  if(db){try{await db.collection("adjudication").doc(rec.id).set(rec);setStatus("Saved to the label store")}catch(e){setStatus("Adjudication not saved ("+(e.code||"error")+"). Kept in this view only.",true)}}
+  rec=null;next()}
+async function undo(){const ids=items().map(x=>x.id),i=cur(),k=(i<0?ids.length:i)-1;if(k<0)return;await drop(phase,ids[k]);pausedAt=Object.keys(labels[phase]).length;next()}
+
+function setStatus(t,warn){$("status").textContent=t;$("status").className="status"+(warn?" warn":"")}
+function startValidation(){phase="validation";times=[];$("startTitle").textContent="The 51 papers";
+  $("startText").textContent="Fifty-one accepted papers from NeurIPS, ICML and ACM EC, in random order, with no venue or year shown. Pick one option in each of the four rows, then confirm. Where the coders coded a paper differently, you then see the difference and say which reading you hold; your first code stays saved as given. About 25 minutes. Use Unsure whenever you hesitate rather than guessing, and pick a reason.";
+  $("skipPractice").hidden=true;$("startBtn").textContent="Begin";progress();if(cur()===0)show("start");else next()}
+function finish(){const L=Object.values(labels[phase]),c={};for(const r of L)c[r.owners]=(c[r.owners]||0)+1;
+  const u=L.filter(r=>r.unsure).length;
+  $("doneText").textContent="Owners: one "+(c.one||0)+", several "+(c.several||0)+", not fixed "+(c.na||0)+". Marked unsure: "+u+". Thank you; the codes are saved and Claude will compare them with the coders'.";show("done");progress()}
+
+$("confirm").onclick=confirm;$("recDone").onclick=saveRec;$("undo").onclick=undo;$("unsure").onclick=()=>{unsure=!unsure;if(!unsure)why=null;paint()};
+$("resume").onclick=()=>next();$("startBtn").onclick=()=>next();$("skipPractice").onclick=()=>startValidation();
+$("helpBtn").onclick=()=>{const h=$("help");h.hidden=!h.hidden;$("helpBtn").setAttribute("aria-expanded",String(!h.hidden))};
+document.addEventListener("keydown",e=>{if(e.metaKey||e.ctrlKey||e.altKey)return;
+  if(e.key==="?"){$("helpBtn").click();return}
+  if($("work").hidden)return;const k=e.key.toLowerCase();
+  if(k==="enter"&&e.target.tagName!=="BUTTON"){confirm();e.preventDefault()}
+  else if(k==="enter"&&e.target.id==="confirm"){}
+  else if(k==="backspace"){undo();e.preventDefault()}
+  else if(k==="u"){unsure=!unsure;if(!unsure)why=null;paint()}});
+
+async function boot(){try{const s=JSON.parse(localStorage.getItem("principal-check")||"null");if(s&&s.validation)labels=Object.assign({practice:{},validation:{}},s)}catch(e){}
+  $("startTitle").textContent="Five practice papers first";
+  $("startText").textContent="These are not part of the check. They let you settle into the four rows and the definitions (open them with ? or the Definitions button; they are the coders' codebook). Confirm with Enter, U marks unsure, Backspace goes back one.";
+  progress();show("start");
+  db=await (window.claude?.use?.("db")??Promise.resolve(null));
+  if(!db){setStatus("Label store unavailable in this view. Labels are kept in this browser only.",true);return}
+  try{for(const coll of["practice","validation"]){const snap=await db.collection(coll).get();
+      for(const d of snap.docs)labels[coll][d.id]=d.data()}
+    setStatus("Connected. Each paper is saved as you confirm it.");
+    const n=Object.keys(labels.validation).length;
+    if(n){phase="validation";$("skipPractice").hidden=true;pausedAt=n;
+      if(n>=DATA.validation.length){finish();return}
+      $("startTitle").textContent="Welcome back";$("startText").textContent=n+" of "+DATA.validation.length+" papers are coded. Continue where you left off.";$("startBtn").textContent="Continue"}
+    progress()}catch(e){setStatus("Could not read saved labels ("+(e.code||e.message||"error")+"). Reload to try again.",true)}}
+boot();
+</script>

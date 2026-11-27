@@ -1,0 +1,24 @@
+A1.1 | Stability and selection of repeated retraining | X-06,X-08 | needs C1 C6 C7 | silent pairs: none
+A1.2 | Reaching the optimum, not only a stable point | X-08,X-15,X-09 | needs C1 C6 C7 | silent pairs: none
+A1.3 | Self-consuming and responsive data streams | X-24,X-23,X-25 | needs C1 C5 C6 C7 | silent pairs: C5-C7 (0.000)
+A2.1 | Attributing drift | X-12,X-04 | needs C1 C3 C6 C7 | silent pairs: none
+A2.2 | Certifying the loop gain under ML update rules | X-12,X-13,X-15 | needs C1 C6 C7 | silent pairs: none
+A2.3 | Evaluating an undeployed version when responders adapt | X-05 | needs C1 C3 C5 C6 C7 | silent pairs: C5-C7 (0.000)
+A2.4 | Testing for a response gain under one's own feedback | X-04 | needs C1 C3 | silent pairs: none
+A2.5 | Experiments and ecosystem evaluation under shared state | X-25 | needs C1 C5 C7 | silent pairs: C5-C7 (0.000)
+A3.1 | Settling without a shared clock | X-07,X-02,X-26,X-33,X-30 | needs C1 C2 C3 C4 C6 C7 R1 R2 | silent pairs: C1-C2 (0.000), C1-R2 (0.000), C2-R2 (0.004), C3-R2 (0.000), C4-C7 (0.000), C4-R2 (0.000), C7-R1 (0.002), C7-R2 (0.001)
+A3.2 | Timescales and rate choice | X-28 | needs C1 C4 C6 C7 | silent pairs: C4-C7 (0.000)
+A3.3 | Guarantees against counterparts known only by class | X-10,X-11,X-30,X-32 | needs C3 C4 R1 R2 | silent pairs: C3-R2 (0.000), C4-R2 (0.000)
+A3.4 | Counterparts that learn during the interaction, including LLM agents with memory | X-02,X-03 | needs C1 C2 C4 C6 C7 | silent pairs: C1-C2 (0.000), C4-C7 (0.000)
+A3.5 | Shaping co-learners | X-29,X-21,X-34 | needs C1 C2 C3 C4 R1 R3 | silent pairs: C1-C2 (0.000)
+A4.1 | Who must excite, and whether they will | X-14,X-16,X-33,X-35 | needs C4 C6 C7 R1 R2 R4 | silent pairs: C4-C7 (0.000), C4-R2 (0.000), C6-R4 (0.000), C7-R1 (0.002), C7-R2 (0.001), C7-R4 (0.000), R2-R4 (0.002)
+A4.2 | Detecting collusion and deviations from the record | X-11,X-14,X-36,X-31,X-30 | needs C3 C4 C7 R2 R3 | silent pairs: C3-R2 (0.000), C4-C7 (0.000), C4-R2 (0.000), C7-R2 (0.001), C7-R3 (0.000)
+A4.3 | What no finite record certifies | X-11,X-17,X-31 | needs C3 C4 C6 R3 | silent pairs: none
+A5.1 | Repairability and rule authority | X-20,X-03,X-21,X-34,X-33,X-35 | needs C1 C2 C3 C4 C6 C7 R1 R2 R3 R4 | silent pairs: C1-C2 (0.000), C1-R2 (0.000), C1-R4 (0.001), C2-R2 (0.004), C3-R2 (0.000), C3-R4 (0.000), C4-C7 (0.000), C4-R2 (0.000), C6-R4 (0.000), C7-R1 (0.002), C7-R2 (0.001), C7-R3 (0.000), C7-R4 (0.000), R2-R4 (0.002)
+A5.2 | Mechanisms that survive learning participants | X-27,X-19,X-32,X-30,X-36 | needs C1 C3 C4 C6 R1 R2 R3 | silent pairs: C1-R2 (0.000), C3-R2 (0.000), C4-R2 (0.000)
+A5.3 | Commitment and update rules | X-19,X-28,X-31,X-34 | needs C1 C3 C4 C6 C7 R1 R3 | silent pairs: C4-C7 (0.000), C7-R1 (0.002), C7-R3 (0.000)
+A5.4 | Learnability of rule-change processes run by several owners | X-17,X-10,X-35,X-33 | needs C3 C4 C6 R1 R2 R4 | silent pairs: C3-R2 (0.000), C3-R4 (0.000), C4-R2 (0.000), C6-R4 (0.000), R2-R4 (0.002)
+A5.5 | Institutions and rule-change authority | X-18,X-22,X-35,X-33 | needs C3 C4 C6 R1 R2 R4 | silent pairs: C3-R2 (0.000), C3-R4 (0.000), C4-R2 (0.000), C6-R4 (0.000), R2-R4 (0.002)
+
+15 of 21 sub-objectives need two or more literatures that do not cite each other (both directions below 0.5% of works; 2-seed corpora).
+Silent pairs by number of sub-objectives needing them: [(('C4', 'R2'), 8), (('C3', 'R2'), 7), (('C4', 'C7'), 7), (('C1', 'C2'), 4), (('C7', 'R1'), 4), (('C7', 'R2'), 4), (('C6', 'R4'), 4), (('R2', 'R4'), 4), (('C5', 'C7'), 3), (('C1', 'R2'), 3), (('C7', 'R3'), 3), (('C3', 'R4'), 3), (('C2', 'R2'), 2), (('C7', 'R4'), 2), (('C1', 'R4'), 1)]

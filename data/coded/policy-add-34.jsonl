@@ -1,0 +1,70 @@
+{"id": "x04014", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10170", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05206", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07446", "policy_setters": "several", "policy_quote": "manipulate the agent's training data", "principals": "several", "principals_quote": "induce pre-determined, adversarial behavior in the agent", "partners_from_others": "no"}
+{"id": "z00134", "policy_setters": "several", "policy_quote": "human-AI setting", "principals": "na", "principals_quote": "", "partners_from_others": "yes"}
+{"id": "y03410", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11658", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01602", "policy_setters": "several", "policy_quote": "uncapacitated supply, where items can be selected by any number of agents", "principals": "several", "principals_quote": "We model the agents utility as a weighted combination", "partners_from_others": "no"}
+{"id": "x01003", "policy_setters": "several", "policy_quote": "defer the decision to a downstream expert", "principals": "na", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06810", "policy_setters": "several", "policy_quote": "opponents it hasn't seen during training", "principals": "several", "principals_quote": "opponents it hasn't seen during training", "partners_from_others": "yes"}
+{"id": "x01041", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x02264", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00962", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02124", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04539", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x04724", "policy_setters": "one", "policy_quote": "computing Team-Maxmin Equilibria", "principals": "several", "principals_quote": "play against an adversary independently", "partners_from_others": "no"}
+{"id": "y00107", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01088", "policy_setters": "one", "policy_quote": "humans act as weak supervisors for superhuman models", "principals": "one", "principals_quote": "humans act as weak supervisors for superhuman models", "partners_from_others": "no"}
+{"id": "x02346", "policy_setters": "several", "policy_quote": "natural AI-human collaboration", "principals": "na", "principals_quote": "", "partners_from_others": "yes"}
+{"id": "x00361", "policy_setters": "one", "policy_quote": "classifying clients into four distinct types and adaptively optimizing their local training", "principals": "several", "principals_quote": "collaborative model training across multiple parties", "partners_from_others": "no"}
+{"id": "x02384", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00763", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02503", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03883", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x02939", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y00871", "policy_setters": "several", "policy_quote": "tested with novel agents", "principals": "several", "principals_quote": "competitive, mixed motive, and collaborative domains", "partners_from_others": "yes"}
+{"id": "y01158", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y00621", "policy_setters": "one", "policy_quote": "self-play simulations", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03950", "policy_setters": "several", "policy_quote": "closed-source black-box LLMs", "principals": "several", "principals_quote": "jailbreaking attacks", "partners_from_others": "yes"}
+{"id": "x04335", "policy_setters": "several", "policy_quote": "transferable across several detection systems", "principals": "several", "principals_quote": "evade detection", "partners_from_others": "yes"}
+{"id": "y01439", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00019", "policy_setters": "one", "policy_quote": "", "principals": "several", "principals_quote": "zero-sum extensive-form imperfect-information games", "partners_from_others": "no"}
+{"id": "y03907", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00606", "policy_setters": "one", "policy_quote": "training benign models from poisoned data", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00971", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08035", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02635", "policy_setters": "several", "policy_quote": "A principal delegates a project to a team S from a pool of n agents", "principals": "several", "principals_quote": "A principal delegates a project to a team S from a pool of n agents", "partners_from_others": "no"}
+{"id": "x10462", "policy_setters": "several", "policy_quote": "boundedly rational agents who often rely on simple heuristics", "principals": "several", "principals_quote": "social optima", "partners_from_others": "no"}
+{"id": "z00017", "policy_setters": "several", "policy_quote": "three players compete to match their actions with one another", "principals": "several", "principals_quote": "three players compete to match their actions with one another", "partners_from_others": "no"}
+{"id": "y00058", "policy_setters": "one", "policy_quote": "evaluation as a 3-player game", "principals": "na", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07176", "policy_setters": "several", "policy_quote": "revenue-optimal, truthful, and credible mechanism", "principals": "several", "principals_quote": "revenue-optimizing auctioneer", "partners_from_others": "no"}
+{"id": "x12124", "policy_setters": "several", "policy_quote": "two types of users: Content consumers (those who watch videos) and content providers (those who create videos)", "principals": "several", "principals_quote": "high social welfare for \\textit{all} stakeholders", "partners_from_others": "no"}
+{"id": "x07087", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00724", "policy_setters": "several", "policy_quote": "user-controlled agents", "principals": "several", "principals_quote": "user-controlled agents that safeguard individual autonomy and choice", "partners_from_others": "yes"}
+{"id": "x11484", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00047", "policy_setters": "several", "policy_quote": "a handful of avid voters effectively make the decisions for the silent majority", "principals": "several", "principals_quote": "the silent majority", "partners_from_others": "no"}
+{"id": "y02195", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03666", "policy_setters": "one", "policy_quote": "finding a winning committee", "principals": "several", "principals_quote": "number of represented voters", "partners_from_others": "no"}
+{"id": "x05826", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02471", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03729", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07442", "policy_setters": "several", "policy_quote": "which then chooses the final arm from this subset", "principals": "one", "principals_quote": "highly preferred choices", "partners_from_others": "no"}
+{"id": "y00676", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02888", "policy_setters": "one", "policy_quote": "voters' costs for alternatives", "principals": "several", "principals_quote": "voters' costs for alternatives", "partners_from_others": "no"}
+{"id": "x02755", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05510", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x11015", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11540", "policy_setters": "several", "policy_quote": "Byzantine agents", "principals": "several", "principals_quote": "agents aim to learn distinct", "partners_from_others": "yes"}
+{"id": "y03310", "policy_setters": "several", "policy_quote": "one agent can pay a fixed cost to simulate the other", "principals": "several", "principals_quote": "one agent can pay a fixed cost to simulate the other", "partners_from_others": "no"}
+{"id": "y02853", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00086", "policy_setters": "one", "policy_quote": "BDI agents", "principals": "na", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00051", "policy_setters": "several", "policy_quote": "all users", "principals": "several", "principals_quote": "all users", "partners_from_others": "yes"}
+{"id": "y02728", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00554", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02908", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11928", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04768", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x09449", "policy_setters": "one", "policy_quote": "learning-augmented facility location mechanisms", "principals": "several", "principals_quote": "maximum ratio between the utilities of any two agents", "partners_from_others": "no"}
+{"id": "x02756", "policy_setters": "several", "policy_quote": "participants search sequentially over alternatives", "principals": "several", "principals_quote": "one party's option value to keep searching for better opportunities while the other sacrifices theirs", "partners_from_others": "no"}
+{"id": "x08342", "policy_setters": "one", "policy_quote": "", "principals": "several", "principals_quote": "n agents competing for the available resources", "partners_from_others": "no"}

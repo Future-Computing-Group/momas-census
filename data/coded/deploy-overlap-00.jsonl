@@ -1,0 +1,20 @@
+{"id": "d000", "status": "ok", "live": "live", "agent": "no", "reach": null, "market": null, "a2a": null, "confidence": "medium", "quote": "help engineers query complex project data in natural language"}
+{"id": "d007", "status": "ok", "live": "planned", "agent": "no", "reach": null, "market": null, "a2a": null, "confidence": "medium", "quote": "Agentforce will automatically adjust the orders"}
+{"id": "d009", "status": "ok", "live": "live", "agent": "yes", "reach": "customer", "market": "no", "a2a": "no", "confidence": "medium", "quote": "handling over 25,000 customer conversations"}
+{"id": "d010", "status": "ok", "live": "live", "agent": "yes", "reach": "internal", "market": "no", "a2a": "no", "confidence": "medium", "quote": "Every Agentforce action writes back to Life Sciences Cloud"}
+{"id": "d022", "status": "ok", "live": "live", "agent": "no", "reach": null, "market": null, "a2a": null, "confidence": "low", "quote": "A Briefing Agent summarizes what matters for each customer and their visit"}
+{"id": "d024", "status": "blocked", "live": null, "agent": null, "reach": null, "market": null, "a2a": null, "confidence": "high", "quote": ""}
+{"id": "d025", "status": "ok", "live": "live", "agent": "yes", "reach": "customer", "market": "no", "a2a": "no", "confidence": "high", "quote": "virtual concierge"}
+{"id": "d028", "status": "ok", "live": "live", "agent": "no", "reach": null, "market": null, "a2a": null, "confidence": "low", "quote": "The agents are acting as assistants to our consultants"}
+{"id": "d029", "status": "ok", "live": "live", "agent": "yes", "reach": "customer", "market": "no", "a2a": "no", "confidence": "medium", "quote": "It reviews submitted documents, verifies applicant IDs, and gathers their information"}
+{"id": "d030", "status": "ok", "live": "live", "agent": "yes", "reach": "internal", "market": "no", "a2a": "no", "confidence": "high", "quote": "Kate can update the organization's CRM systems directly with meeting notes and action items"}
+{"id": "d037", "status": "ok", "live": "live", "agent": "yes", "reach": "internal", "market": "no", "a2a": "no", "confidence": "medium", "quote": "uses a code interpreter to perform data analytics"}
+{"id": "d044", "status": "ok", "live": "live", "agent": "yes", "reach": "customer", "market": "no", "a2a": "no", "confidence": "low", "quote": "dynamically routes it to the most appropriate responder"}
+{"id": "d046", "status": "ok", "live": "planned", "agent": "no", "reach": null, "market": null, "a2a": null, "confidence": "high", "quote": "Agentforce will allow customer service agents"}
+{"id": "d048", "status": "ok", "live": "live", "agent": "yes", "reach": "internal", "market": "no", "a2a": "no", "confidence": "low", "quote": "Lifetime uses out-of-the-box agents to support core ERP processes"}
+{"id": "d049", "status": "ok", "live": "live", "agent": "no", "reach": null, "market": null, "a2a": null, "confidence": "medium", "quote": "an agentic assistant summarizes customer history and surfaces technical guidance"}
+{"id": "d050", "status": "ok", "live": "planned", "agent": "no", "reach": null, "market": null, "a2a": null, "confidence": "medium", "quote": "Agentforce will allow for daily connections with every patient"}
+{"id": "d052", "status": "ok", "live": "live", "agent": "yes", "reach": "internal", "market": "no", "a2a": "no", "confidence": "high", "quote": "uses specialized agents to analyze and map complex VMware environments"}
+{"id": "d056", "status": "ok", "live": "live", "agent": "yes", "reach": "customer", "market": "no", "a2a": "no", "confidence": "high", "quote": "the engagement agent sends a personalized email using details Siemens already has"}
+{"id": "d060", "status": "ok", "live": "live", "agent": "yes", "reach": "customer", "market": "no", "a2a": "no", "confidence": "high", "quote": "creates a case in Dynamics 365 Customer Service"}
+{"id": "d061", "status": "ok", "live": "live", "agent": "yes", "reach": "customer", "market": "no", "a2a": "no", "confidence": "medium", "quote": "helping open and manage cases in Salesforce"}

@@ -1,0 +1,37 @@
+{
+ "inputs_built": "2026-11-10",
+ "model": "claude-sonnet-5-5",
+ "coders": [
+  "c1",
+  "c2"
+ ],
+ "subquestions_sha256": "7840dd4289cfa8b68610ee3277f6566dc945873d51665204ca9ea507f67a3260",
+ "codebook_sha256": "bb88e3679b1ea24a1a3bf833fabbed77b11c681b607a9fec42d22362f1fea641",
+ "brief_template_sha256": "8071e3155615ba47bc6484f37c39217d0d062a1cfab06009d0afc5ada094909e",
+ "abstracts_sha256": "caedbc720a619180e77e1c2266d0c48b0131d75dc63e3b04b44f66cf671aaa1c",
+ "abstracts": {
+  "seeds": 131,
+  "without_abstract": 29,
+  "openalex_calls": {
+   "net": 3,
+   "cache": 0
+  }
+ },
+ "raw_archive": "data/raw/openalex-abstracts-2026-11-10.tar.gz",
+ "raw_archive_sha256": "c3716e13fd73b72825cbb3cf9aaa049920457950d2db0050c2ff55157fffc3e1",
+ "raw_responses": {
+  "d63595bea1f90ee6010e3f1cbfb6b63fcdd65d1a.json": "f5ffc24716340945f297b8ce803ec94bb26de900da1528df4b2008f7d7ef96c6",
+  "b6cf7b10e0ab9882cbe5848c54e568802e75fe2c.json": "67a653de440b9fc0a03d04f35c4a73c9a15a6ffb5a7d13002ac02b94b90a39dd",
+  "2920d8d7c27cfab6bb8ad5e35197e20d6e7e96d8.json": "2b5307b1bf5284e096eaacc9b6ee8305c4f7d7a3344a391a4f1745c92d5b7e59"
+ },
+ "batches": {
+  "needs-c1.json": "fe6cf540674636eb2b4e465b3f3ff04be00f0c87d8850f5eddc1ca9d4723485a",
+  "needs-c2.json": "0579d59e99a6229e3858a625131c9be8c735bed6515446602f4f5df2d95bcbca"
+ },
+ "keys_sha256": "b2a7117437755c0bf3ff4a2717798cbd5e9e540b051ad2c1639bcc9a3cfa9592",
+ "coded": {
+  "needs-c1.jsonl": "565863b8051bf74e68ce0c0491f27be36b86ce29dafc8f8efb4ee40812168bd3",
+  "needs-c2.jsonl": "4ee3144cbc6aa9b062ca179709959a7ab89dd1726fbb67c899dd49968b72791d",
+  "date": "2026-11-10"
+ }
+}

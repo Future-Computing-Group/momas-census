@@ -1,0 +1,510 @@
+{
+ "2": {
+  "loo": [
+   {
+    "left_out": "Forssell and Ljung 1999, Closed-loop identification revisited",
+    "reach": {
+     "C1": 0.021739130434782608,
+     "C2": 0.004447268106734434,
+     "C3": 0.043478260869565216,
+     "C4": 0.0,
+     "C5": 0.0
+    },
+    "n_ge_1pct": 2
+   },
+   {
+    "left_out": "Gevers 2005, Identification for control",
+    "reach": {
+     "C1": 0.021739130434782608,
+     "C2": 0.004447268106734434,
+     "C3": 0.043478260869565216,
+     "C4": 0.0,
+     "C5": 0.0
+    },
+    "n_ge_1pct": 2
+   },
+   {
+    "left_out": "Bombois et al. 2006, Least costly identification",
+    "reach": {
+     "C1": 0.021739130434782608,
+     "C2": 0.004447268106734434,
+     "C3": 0.043478260869565216,
+     "C4": 0.0,
+     "C5": 0.0
+    },
+    "n_ge_1pct": 2
+   },
+   {
+    "left_out": "Rojas et al. 2007, Robust optimal experiment design",
+    "reach": {
+     "C1": 0.021739130434782608,
+     "C2": 0.004447268106734434,
+     "C3": 0.043478260869565216,
+     "C4": 0.0,
+     "C5": 0.0
+    },
+    "n_ge_1pct": 2
+   },
+   {
+    "left_out": "Weerts, Van den Hof, Dankers 2018, network identifiability",
+    "reach": {
+     "C1": 0.021739130434782608,
+     "C2": 0.004447268106734434,
+     "C3": 0.043478260869565216,
+     "C4": 0.0,
+     "C5": 0.0
+    },
+    "n_ge_1pct": 2
+   },
+   {
+    "left_out": "Hendrickx, Gevers, Bazanella 2019, partial node measurements",
+    "reach": {
+     "C1": 0.021739130434782608,
+     "C2": 0.004447268106734434,
+     "C3": 0.043478260869565216,
+     "C4": 0.0,
+     "C5": 0.0
+    },
+    "n_ge_1pct": 2
+   },
+   {
+    "left_out": "Cheng, Shi, Van den Hof 2022, allocation of excitation",
+    "reach": {
+     "C1": 0.021739130434782608,
+     "C2": 0.004447268106734434,
+     "C3": 0.043478260869565216,
+     "C4": 0.0,
+     "C5": 0.0
+    },
+    "n_ge_1pct": 2
+   },
+   {
+    "left_out": "van Waarde et al. 2020, Data informativity",
+    "reach": {
+     "C1": 0.021739130434782608,
+     "C2": 0.003811944091486658,
+     "C3": 0.043478260869565216,
+     "C4": 0.0,
+     "C5": 0.0
+    },
+    "n_ge_1pct": 2
+   },
+   {
+    "left_out": "Kalman and Bertram 1960, Second method of Lyapunov (stability)",
+    "reach": {
+     "C1": 0.021739130434782608,
+     "C2": 0.004447268106734434,
+     "C3": 0.043478260869565216,
+     "C4": 0.0,
+     "C5": 0.0
+    },
+    "n_ge_1pct": 2
+   },
+   {
+    "left_out": "Sontag 1989, Smooth stabilization implies coprime factorization (input-to-state stability)",
+    "reach": {
+     "C1": 0.021739130434782608,
+     "C2": 0.004447268106734434,
+     "C3": 0.043478260869565216,
+     "C4": 0.0,
+     "C5": 0.0
+    },
+    "n_ge_1pct": 2
+   },
+   {
+    "left_out": "Dashkovskiy, Ruffer, Wirth 2007, ISS small gain theorem for general networks (stability, small gain)",
+    "reach": {
+     "C1": 0.021739130434782608,
+     "C2": 0.004447268106734434,
+     "C3": 0.043478260869565216,
+     "C4": 0.0,
+     "C5": 0.0
+    },
+    "n_ge_1pct": 2
+   },
+   {
+    "left_out": "Luenberger 1971, An introduction to observers (output feedback and estimation)",
+    "reach": {
+     "C1": 0.021739130434782608,
+     "C2": 0.004447268106734434,
+     "C3": 0.043478260869565216,
+     "C4": 0.0,
+     "C5": 0.0
+    },
+    "n_ge_1pct": 2
+   },
+   {
+    "left_out": "Nyquist 1932, Regeneration theory (frequency-domain analysis)",
+    "reach": {
+     "C1": 0.021739130434782608,
+     "C2": 0.004447268106734434,
+     "C3": 0.043478260869565216,
+     "C4": 0.0,
+     "C5": 0.0
+    },
+    "n_ge_1pct": 2
+   },
+   {
+    "left_out": "Ziegler and Nichols 1942, Optimum settings for automatic controllers (PID)",
+    "reach": {
+     "C1": 0.021739130434782608,
+     "C2": 0.003811944091486658,
+     "C3": 0.043478260869565216,
+     "C4": 0.0,
+     "C5": 0.0
+    },
+    "n_ge_1pct": 2
+   },
+   {
+    "left_out": "Astrom and Hagglund 1984, Automatic tuning of simple regulators (PID)",
+    "reach": {
+     "C1": 0.021739130434782608,
+     "C2": 0.004447268106734434,
+     "C3": 0.043478260869565216,
+     "C4": 0.0,
+     "C5": 0.0
+    },
+    "n_ge_1pct": 2
+   },
+   {
+    "left_out": "Zames 1966, Input-output stability, part one: loop gain (small gain, robust performance)",
+    "reach": {
+     "C1": 0.021739130434782608,
+     "C2": 0.004447268106734434,
+     "C3": 0.043478260869565216,
+     "C4": 0.0,
+     "C5": 0.0
+    },
+    "n_ge_1pct": 2
+   },
+   {
+    "left_out": "Doyle, Glover, Khargonekar, Francis 1989, State-space solutions to H2 and Hinf (robust performance)",
+    "reach": {
+     "C1": 0.021739130434782608,
+     "C2": 0.004447268106734434,
+     "C3": 0.043478260869565216,
+     "C4": 0.0,
+     "C5": 0.0
+    },
+    "n_ge_1pct": 2
+   },
+   {
+    "left_out": "Freudenberg and Looze 1985, Right half plane poles and zeros and design tradeoffs (fundamental limits)",
+    "reach": {
+     "C1": 0.021739130434782608,
+     "C2": 0.004447268106734434,
+     "C3": 0.043478260869565216,
+     "C4": 0.0,
+     "C5": 0.0
+    },
+    "n_ge_1pct": 2
+   },
+   {
+    "left_out": "Robbins and Monro 1951, A stochastic approximation method (stochastic approximation)",
+    "reach": {
+     "C1": 0.0005136106831022085,
+     "C2": 0.0030816640986132513,
+     "C3": 0.021739130434782608,
+     "C4": 0.0,
+     "C5": 0.0
+    },
+    "n_ge_1pct": 1
+   },
+   {
+    "left_out": "Ljung 1977, Analysis of recursive stochastic algorithms (stochastic approximation, ODE method)",
+    "reach": {
+     "C1": 0.018115942028985508,
+     "C2": 0.003811944091486658,
+     "C3": 0.03260869565217391,
+     "C4": 0.0,
+     "C5": 0.0
+    },
+    "n_ge_1pct": 2
+   },
+   {
+    "left_out": "Borkar 1997, Stochastic approximation with two time scales (multiple timescales)",
+    "reach": {
+     "C1": 0.014492753623188406,
+     "C2": 0.002695417789757412,
+     "C3": 0.021739130434782608,
+     "C4": 0.0,
+     "C5": 0.0
+    },
+    "n_ge_1pct": 2
+   },
+   {
+    "left_out": "Chazan and Miranker 1969, Chaotic relaxation (asynchronous schemes)",
+    "reach": {
+     "C1": 0.018115942028985508,
+     "C2": 0.004447268106734434,
+     "C3": 0.043478260869565216,
+     "C4": 0.0,
+     "C5": 0.0
+    },
+    "n_ge_1pct": 2
+   }
+  ],
+  "sysid_only": {
+   "C1": 0.0,
+   "C2": 0.0,
+   "C3": 0.0,
+   "C4": 0.0,
+   "C5": 0.0
+  },
+  "sysid_only_size": 127
+ },
+ "1": {
+  "loo": [
+   {
+    "left_out": "Forssell and Ljung 1999, Closed-loop identification revisited",
+    "reach": {
+     "C1": 0.07696362677912494,
+     "C2": 0.03348560241455257,
+     "C3": 0.11750881316098706,
+     "C4": 0.025671406003159557,
+     "C5": 0.01791951404707669
+    },
+    "n_ge_1pct": 5
+   },
+   {
+    "left_out": "Gevers 2005, Identification for control",
+    "reach": {
+     "C1": 0.0764364786505008,
+     "C2": 0.03328167060934823,
+     "C3": 0.11927144535840187,
+     "C4": 0.02527646129541864,
+     "C5": 0.018223234624145785
+    },
+    "n_ge_1pct": 5
+   },
+   {
+    "left_out": "Bombois et al. 2006, Least costly identification",
+    "reach": {
+     "C1": 0.07749077490774908,
+     "C2": 0.033444816053511704,
+     "C3": 0.11927144535840187,
+     "C4": 0.025671406003159557,
+     "C5": 0.018223234624145785
+    },
+    "n_ge_1pct": 5
+   },
+   {
+    "left_out": "Rojas et al. 2007, Robust optimal experiment design",
+    "reach": {
+     "C1": 0.07749077490774908,
+     "C2": 0.033444816053511704,
+     "C3": 0.11927144535840187,
+     "C4": 0.02527646129541864,
+     "C5": 0.018223234624145785
+    },
+    "n_ge_1pct": 5
+   },
+   {
+    "left_out": "Weerts, Van den Hof, Dankers 2018, network identifiability",
+    "reach": {
+     "C1": 0.07749077490774908,
+     "C2": 0.03348560241455257,
+     "C3": 0.11927144535840187,
+     "C4": 0.025671406003159557,
+     "C5": 0.018223234624145785
+    },
+    "n_ge_1pct": 5
+   },
+   {
+    "left_out": "Hendrickx, Gevers, Bazanella 2019, partial node measurements",
+    "reach": {
+     "C1": 0.07749077490774908,
+     "C2": 0.03348560241455257,
+     "C3": 0.11927144535840187,
+     "C4": 0.025671406003159557,
+     "C5": 0.018223234624145785
+    },
+    "n_ge_1pct": 5
+   },
+   {
+    "left_out": "Cheng, Shi, Van den Hof 2022, allocation of excitation",
+    "reach": {
+     "C1": 0.07749077490774908,
+     "C2": 0.03348560241455257,
+     "C3": 0.11927144535840187,
+     "C4": 0.025671406003159557,
+     "C5": 0.018223234624145785
+    },
+    "n_ge_1pct": 5
+   },
+   {
+    "left_out": "van Waarde et al. 2020, Data informativity",
+    "reach": {
+     "C1": 0.07485503426462836,
+     "C2": 0.03328167060934823,
+     "C3": 0.11927144535840187,
+     "C4": 0.025671406003159557,
+     "C5": 0.018223234624145785
+    },
+    "n_ge_1pct": 5
+   },
+   {
+    "left_out": "Kalman and Bertram 1960, Second method of Lyapunov (stability)",
+    "reach": {
+     "C1": 0.07749077490774908,
+     "C2": 0.032873806998939555,
+     "C3": 0.11868390129259693,
+     "C4": 0.024881516587677725,
+     "C5": 0.018071374335611238
+    },
+    "n_ge_1pct": 5
+   },
+   {
+    "left_out": "Sontag 1989, Smooth stabilization implies coprime factorization (input-to-state stability)",
+    "reach": {
+     "C1": 0.07749077490774908,
+     "C2": 0.03279223427685782,
+     "C3": 0.11927144535840187,
+     "C4": 0.025671406003159557,
+     "C5": 0.018071374335611238
+    },
+    "n_ge_1pct": 5
+   },
+   {
+    "left_out": "Dashkovskiy, Ruffer, Wirth 2007, ISS small gain theorem for general networks (stability, small gain)",
+    "reach": {
+     "C1": 0.07749077490774908,
+     "C2": 0.03348560241455257,
+     "C3": 0.11927144535840187,
+     "C4": 0.025671406003159557,
+     "C5": 0.018223234624145785
+    },
+    "n_ge_1pct": 5
+   },
+   {
+    "left_out": "Luenberger 1971, An introduction to observers (output feedback and estimation)",
+    "reach": {
+     "C1": 0.07749077490774908,
+     "C2": 0.03340402969247084,
+     "C3": 0.11750881316098706,
+     "C4": 0.025671406003159557,
+     "C5": 0.01776765375854214
+    },
+    "n_ge_1pct": 5
+   },
+   {
+    "left_out": "Nyquist 1932, Regeneration theory (frequency-domain analysis)",
+    "reach": {
+     "C1": 0.07749077490774908,
+     "C2": 0.03348560241455257,
+     "C3": 0.11927144535840187,
+     "C4": 0.025671406003159557,
+     "C5": 0.01791951404707669
+    },
+    "n_ge_1pct": 5
+   },
+   {
+    "left_out": "Ziegler and Nichols 1942, Optimum settings for automatic controllers (PID)",
+    "reach": {
+     "C1": 0.07696362677912494,
+     "C2": 0.03169100252875438,
+     "C3": 0.11927144535840187,
+     "C4": 0.02527646129541864,
+     "C5": 0.018223234624145785
+    },
+    "n_ge_1pct": 5
+   },
+   {
+    "left_out": "Astrom and Hagglund 1984, Automatic tuning of simple regulators (PID)",
+    "reach": {
+     "C1": 0.07749077490774908,
+     "C2": 0.03303695244310303,
+     "C3": 0.11927144535840187,
+     "C4": 0.025671406003159557,
+     "C5": 0.018223234624145785
+    },
+    "n_ge_1pct": 5
+   },
+   {
+    "left_out": "Zames 1966, Input-output stability, part one: loop gain (small gain, robust performance)",
+    "reach": {
+     "C1": 0.07696362677912494,
+     "C2": 0.03340402969247084,
+     "C3": 0.11868390129259693,
+     "C4": 0.025671406003159557,
+     "C5": 0.018071374335611238
+    },
+    "n_ge_1pct": 5
+   },
+   {
+    "left_out": "Doyle, Glover, Khargonekar, Francis 1989, State-space solutions to H2 and Hinf (robust performance)",
+    "reach": {
+     "C1": 0.07749077490774908,
+     "C2": 0.03185414797291786,
+     "C3": 0.11339600470035252,
+     "C4": 0.025671406003159557,
+     "C5": 0.018223234624145785
+    },
+    "n_ge_1pct": 5
+   },
+   {
+    "left_out": "Freudenberg and Looze 1985, Right half plane poles and zeros and design tradeoffs (fundamental limits)",
+    "reach": {
+     "C1": 0.07749077490774908,
+     "C2": 0.03348560241455257,
+     "C3": 0.11927144535840187,
+     "C4": 0.025671406003159557,
+     "C5": 0.018223234624145785
+    },
+    "n_ge_1pct": 5
+   },
+   {
+    "left_out": "Robbins and Monro 1951, A stochastic approximation method (stochastic approximation)",
+    "reach": {
+     "C1": 0.011597258829731154,
+     "C2": 0.015458030834488948,
+     "C3": 0.05405405405405405,
+     "C4": 0.011848341232227487,
+     "C5": 0.00258162490508732
+    },
+    "n_ge_1pct": 4
+   },
+   {
+    "left_out": "Ljung 1977, Analysis of recursive stochastic algorithms (stochastic approximation, ODE method)",
+    "reach": {
+     "C1": 0.07696362677912494,
+     "C2": 0.032547516110612615,
+     "C3": 0.11927144535840187,
+     "C4": 0.02527646129541864,
+     "C5": 0.017463933181473046
+    },
+    "n_ge_1pct": 5
+   },
+   {
+    "left_out": "Borkar 1997, Stochastic approximation with two time scales (multiple timescales)",
+    "reach": {
+     "C1": 0.0764364786505008,
+     "C2": 0.02577698017782853,
+     "C3": 0.08049353701527615,
+     "C4": 0.01658767772511848,
+     "C5": 0.018071374335611238
+    },
+    "n_ge_1pct": 5
+   },
+   {
+    "left_out": "Chazan and Miranker 1969, Chaotic relaxation (asynchronous schemes)",
+    "reach": {
+     "C1": 0.07749077490774908,
+     "C2": 0.0333224569703891,
+     "C3": 0.11868390129259693,
+     "C4": 0.025671406003159557,
+     "C5": 0.018223234624145785
+    },
+    "n_ge_1pct": 5
+   }
+  ],
+  "sysid_only": {
+   "C1": 0.004217185028993147,
+   "C2": 0.004907975460122699,
+   "C3": 0.0033304119193689743,
+   "C4": 0.0007898894154818325,
+   "C5": 0.00030372057706909645
+  },
+  "sysid_only_size": 1315
+ }
+}

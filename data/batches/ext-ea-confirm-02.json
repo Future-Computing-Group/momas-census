@@ -1,0 +1,102 @@
+[
+{
+"id": "z00122",
+"title": "Online Competitive Information Gathering for Partially Observable Trajectory Games",
+"abstract": "When planning a trajectory through continuous space, a rational agent should consider the information limitations of itself and its counterparts, and seek out useful observations. While approximate solutions can be found to many such partially observable multi-agent problems (i.e., through reinforcement learning), doing so online and in continuous spaces is not trivial. The existing control-theoretic method of model predictive game play (MPGP) combines continuous, online control with game theoretic rational play, but does not inherently support partial observability. Our work addresses this case, presenting a method to generate information-aware plans with MPGP alongside adjustments required to deploy it on individual interacting agents. While our method is not real-time, it allows us to consider what is required to compute solutions from scratch. We evaluate the method in variants of a partially observable pursuit-evasion game, and demonstrate evidence of information gathering behavior that outperforms passive competitors."
+},
+{
+"id": "z00009",
+"title": "Voter Participation Control in Online Polls",
+"abstract": "News outlets, surveyors, and other organizations often conduct polls on social networks to gain insights into public opinion. Such a poll is typically started by someone on a social network who sends it to her friends. If a person participates in the poll, the poll information gets published on her wall, which in turn enables her friends to participate, and the process continues. Eventually, a subset of the population participates in the poll, and the pollster learns the outcome of that poll. We initiate the study of a new but natural type of election control in such online elections. We study how difficult/easy it is to sway the outcome of such polls in one's favor/against (aka constructive vs destructive) by any malicious influencer who nudges/bribes people for seemingly harmless actions like non-participation. These questions are important from the standpoint of studying the power of resistance of online voting against malicious behavior."
+},
+{
+"id": "z00115",
+"title": "Truman: A Large Language Model-based Multi-agent Simulator for Synthetic Money Laundering Data Generation",
+"abstract": "Money laundering (ML) facilitates the cross-border movement of illicit funds, enabling organized crime by disguising the origins of illegal money. Financial institutions face significant challenges in combating it, primarily due to barriers in adopting advanced technologies such as machine learning, caused by restricted access to sensitive transaction data. Existing synthetic datasets often lack critical customer information and realism, reducing their utility for ML detection. This study presents Truman, an innovative data generator that leverages Large Language Model (LLM) based agents to create realistic financial transaction data, incorporating simulation of ML patterns. Expert validation confirms the dataset's quality and applicability for anti-money laundering research."
+},
+{
+"id": "z00137",
+"title": "IBGP: Imperfect Byzantine Generals Problem for Zero-Shot Robustness in Communicative Multi-Agent Systems",
+"abstract": "As AI agents become integral to infrastructure, robust coordination and message synchronization are crucial. The Byzantine Generals Problem (BGP) models resilience in multi-agent systems (MAS) under adversarial conditions, handling scenarios with malicious agents-stemming from AI hallucinations or external attacks. Traditional BGP demands global consensus, which is often unnecessary and inefficient in practice. We introduce Imperfect BGP (IBGP), aligning with the local coordination patterns in MAS to address this gap, offering provable resilience against communication attacks and adaptability to changing environments, as validated by empirical results."
+},
+{
+"id": "z00149",
+"title": "Multi-Agent Reinforcement Learning with Selective State-Space Models",
+"abstract": "Transformer-based architectures have achieved strong performance in multi-agent reinforcement learning (MARL). A notable example is the Multi-Agent Transformer (MAT), which is able to achieve state-of-the-art performance in many cooperative tasks. However, MAT's use of attention with quadratic complexity limits scalability to large agent populations. In contrast, State-Space Models (SSMs), such as Mamba, offer improved efficiency, but their potential in MARL remains unexplored. We introduce Multi-Agent Mamba (MAM), which replaces attention in MAT with causal, bi-directional, and cross-attentional Mamba blocks. Experiments show that MAM matches MAT's performance while improving computational efficiency, suggesting SSMs can replace attention-based architectures in MARL for better scalability."
+},
+{
+"id": "z00026",
+"title": "Is an Exponentially Growing Action Space Really that Bad? Validating a Core Assumption for using Multi-Agent RL",
+"abstract": "One of the core challenges frequently cited in the multi-agent reinforcement learning (MARL) literature motivating the framing of a sequential decision-making problem as a multi-agent problem, instead of a centralised single-agent problem, is the exponential growth in the action space with the number of agents. The assumption that this is always a challenge suggests that this exponentially larger action space poses two specific problems compared with centralised approaches: (1) overwhelming memory requirements and (2) low sample efficiency due to the large optimisation space. Although a core tenet within the MARL community, few works have concretely tested this assumption empirically within a controlled setting to give some indication of its severity in practice. In this work, we compare fully centralised learning with fully decentralised learning. Using a novel N-agent array game akin to the canonical Climbing matrix game, we re-establish a well-known result; that fully centralised learning is able to find the globally optimal solution while decentralised learning fails. We further demonstrate that these trends hold for more modern MARL benchmarks that run on hardware accelerators and leverage the computational efficiency gains of the JAX framework."
+},
+{
+"id": "z00043",
+"title": "Predicting Team Performance from Communications in Simulated Search-and-Rescue",
+"abstract": "Understanding how individual traits influence team performance is valuable, but these traits are not always directly observable. Prior research has inferred traits like trust from behavioral data. We analyze conversational data to identify team traits and their correlation with teaming outcomes. Using transcripts from a Minecraft-based search-and-rescue experiment, we apply topic modeling and clustering to uncover key interaction patterns. Our findings show that variations in teaming outcomes can be explained through these inferences, with different levels of predictive power derived from individual traits and team dynamics."
+},
+{
+"id": "z00113",
+"title": "Experience-replay Innovative Dynamics",
+"abstract": "Multi-agent reinforcement learning (MARL) has achieved groundbreaking success in recent years. Yet, several open problems remain, including nonstationarity and instability. Evolutionary game theory (EGT) provides a theoretical framework to tackle instability by leveraging the properties of its most well-known model, namely, the replicator dynamics, for theoretical guarantees of convergence to Nash equilibria. However, these guarantees do not hold true in certain settings, e.g., zero-sum games. In contrast, innovative dynamics, such as the Brown-von Neumann-Nash (BNN) or Smith, retain the convergence guarantees in these settings. We develop a novel MARL algorithm based on innovative dynamics with a sampling process that resembles experience replay. We show that our approach is theoretically grounded as other state-of-the-art MARL algorithms, but most importantly it outperforms other approaches in the case of nonstationary environments."
+},
+{
+"id": "z00018",
+"title": "Adaptive Multi-Round Influence Maximization with Limited Information",
+"abstract": "The Influence Maximization problem is a classic and well-studied problem in the area of Social Networks Analysis. In this problem you have a social network, a given information diffusion model, and a budget B, and you have to select a set of at most B nodes (seeds) to activate in order to start an information diffusion campaign that is able to reach the (expected) largest number of nodes in the network. Recently, to better model viral marketing scenarios where advertisers conduct multiple rounds of viral marketing to promote one product, attention has been given to the adaptive and the multi-round versions of the problem. Here the campaign is orchestrated on a horizon of T rounds and at the beginning of each round a different set of seeds is activated that can be adaptively selected given the results of the previous rounds. In this paper we generalize this setting to the case where the diffusion probabilities of the links in the network are not known in advance and they have to be learned while the campaign is running. We study the problem under the lens of online bandit algorithms, and we propose an online learning algorithm that is able to achieve a constant approximation of the optimal solution with only constant regret with respect to T. We also propose an alternative approach and we give preliminary experimental evidence that this outperforms our online learning algorithm in terms of computational complexity, keeping the regret sublinear."
+},
+{
+"id": "z00087",
+"title": "Will Systems of LLM Agents Lead to Cooperation: An Investigation into a Social Dilemma",
+"abstract": "This study investigates the emergent cooperative tendencies of systems of Large Language Model (LLM) agents in a social dilemma. Unlike previous research, where LLMs output individual actions, we prompt state-of-the-art LLMs to generate complete strategies for iterated Prisoner's Dilemma. Our findings reveal that LLMs exhibit biases when prompted to display certain behavioural dispositions, and the format of the prompt affects the relative success of aggressive versus cooperative strategies."
+},
+{
+"id": "z00027",
+"title": "Parameterized Complexity of Hedonic Games with Enemy-Oriented Preferences",
+"abstract": "Hedonic games model settings in which a set of agents have to be partitioned into groups which we call coalitions. In the enemy aversion model, each agent has friends and enemies, and an agent prefers to be in a coalition with as few enemies as possible and, subject to that, as many friends as possible. A partition should be stable, i.e., no subset of agents prefer to be together rather than being in their assigned coalitions under the partition. We look at two stability concepts: core stability and strict core stability. This yields several algorithmic problems: determining whether a (strictly) core stable partition exists, finding such a partition, and checking whether a given partition is (strictly) core stable. Several of these problems have been shown to be NP-complete, or even beyond NP. This motivates the study of parameterized complexity. We conduct a thorough computational study using several parameters: treewidth, number of friends, number of enemies, partition size, and coalition size. We conclude this paper with results in the setting in which agents can have neutral relations with each other, including hardness-results for very restricted instances."
+},
+{
+"id": "z00040",
+"title": "DECAF: Learning to be Fair in Multi-agent Resource Allocation",
+"abstract": "A wide variety of resource allocation problems operate under resource constraints that are managed by a central arbitrator, with agents who evaluate and communicate preferences over these resources. We formulate this broad class of problems as Distributed Evaluation, Centralized Allocation (DECA) problems and propose methods to learn fair and efficient policies in centralized resource allocation. Our methods are applied to learning long-term fairness in a novel and general framework for fairness in multi-agent systems. Our methods outperform existing fair MARL approaches on multiple resource allocation domains, even when evaluated using diverse fairness functions, and allow for flexible online trade-offs between utility and fairness."
+},
+{
+"id": "z00130",
+"title": "Decentralized Deep Reinforcement Learning for Cooperative Multi-Agent Flight Trajectory Planning in Adverse Weather",
+"abstract": "Adverse weather, especially thunderstorms, disrupts air traffic operations and requires real-time trajectory adjustments to ensure aircraft safety. Existing methods often rely on centralized or single-agent approaches, lacking the coordination and robustness needed for scalable solutions. This paper presents a decentralized multi-agent method for cooperative trajectory planning, where each aircraft operates as an autonomous agent. The problem is modeled as a Decentralized Markov Decision Process (DEC-MDP) and solved with a proposed Independent Deep Deterministic Policy Gradient (IDDPG) algorithm. Experimental results show that the proposed method outperforms the state-of-the-art baselines in maintaining safe separation and optimizing rerouting efficiency under dynamically evolving thunderstorm cells."
+},
+{
+"id": "z00151",
+"title": "Hierarchical Multi-Agent Framework for Dynamic Macroeconomic Modelling Using Large Language Models",
+"abstract": "Large Language Models (LLMs) have demonstrated potential in simulating macroeconomic systems by integrating the agent-based models. Unlike rule-based systems or neural networks with fixed learning patterns, LLM agents capture the heterogeneity of economic actors. However, existing LLM-based simulation environments are generally static, maintaining constant government policies. In this study, we introduce a hierarchical framework that incorporates LLM economic agents and an LLM planner capable of formulating policies in response to evolving economic conditions. Utilizing the proposed framework, we further examine the simulated system's resilience to economic shocks by analyzing how economic agents respond to unforeseen events and how the planner adapts to mitigate these challenges. Our results indicate that the proposed framework improves the stability of the economic system and captures more dynamic macroeconomic phenomena, offering a precise and versatile simulation platform for studying real-world economic dynamics."
+},
+{
+"id": "z00065",
+"title": "Leveraging Fully-Observable Solutions for Improved Partially-Observable Offline Reinforcement Learning",
+"abstract": "Offline reinforcement learning (RL) is valuable in settings where online interactions with an environment are impractical. While such settings are often partially-observable, existing offline RL methods typically focus on fully-observable Markov decision processes (MDPs) rather than partially-observable MDPs (POMDPs). To help close that gap, we present an offline RL algorithm for POMDPs that leverages expert policies from simpler, fully-observable versions of environments in an asymmetric learning setting. We provide theoretical grounding for how overlap between MDPs and POMDPs can be exploited to improve learning in the partially-observable setting, and our experiments empirically demonstrate that our method significantly improves performance compared to existing state-of-the-art MDP offline RL algorithms."
+},
+{
+"id": "z00101",
+"title": "Asynchronous Cooperative Multi-Agent Reinforcement Learning with Limited Communication",
+"abstract": "We consider the problem setting in which multiple autonomous agents must cooperatively navigate and perform tasks in an unknown, communication-constrained environment. Traditional multi-agent reinforcement learning (MARL) approaches assume synchronous communications and perform poorly in such environments. We propose AsynCoMARL, an asynchronous MARL approach that uses graph transformers to learn communication protocols from dynamic graphs. AsynCoMARL can accommodate infrequent and asynchronous communications between agents, with edges of the graph only forming when agents communicate with each other. We show that AsynCoMARL achieves similar success and collision rates as leading baselines, despite 26% fewer messages being passed between agents."
+},
+{
+"id": "z00089",
+"title": "On-Policy Reinforcement Learning From Failure via Sparse Reward Densification",
+"abstract": "This paper proposes a new reinforcement learning method that learns from failure under sparse reward environments. While traditional approaches rely on costly expert demonstrations to guide learning in sparse reward environments, this method uses readily available failures. The method trains a discriminator to measure the dissimilarity between the agent's behaviors and failures, generating dense rewards. The method then uses this information to guide policy learning. Experimental results show this failure-based learning approach performs competitively with existing methods."
+},
+{
+"id": "z00116",
+"title": "Tools in the Loop: Quantifying Uncertainty of LLM Question Answering Systems That Use Tools",
+"abstract": "Modern Large Language Models (LLMs) increasingly rely on external tools-such as classifiers and knowledge retrieval systems-to deliver accurate answers when their pre-trained knowledge falls short. While this integration broadens their utility, it also raises a critical issue: ensuring the trustworthiness of the combined outputs. In high-stakes settings like medical decision-making, it is vital to evaluate uncertainty in both the LLM's response and the external tool's output. In this work we introduce a novel framework that jointly assesses the combined uncertainty of the LLM and its external tools and derive practical and effective approximations to estimate uncertainty. Our approach is validated on two synthetic QA datasets and an experiment with retrieval-augmented generation (RAG) systems, demonstrating enhanced reliability when external information is required for the LLM to produce answers."
+},
+{
+"id": "z00147",
+"title": "Improving the Effectiveness of Potential-based Reward Shaping in Reinforcement Learning",
+"abstract": "Potential-based reward shaping is often used to incorporate prior knowledge of how to solve the task into reinforcement learning because it can formally guarantee policy invariance. In this work, we highlight the dependence of effective potential-based reward shaping on the initial Q-values and external rewards, which determine the agent's ability to exploit the shaping rewards to guide its exploration and achieve increased sample efficiency. We formally derive how a simple linear shift of the potential function can be used to improve the effectiveness of reward shaping without changing the structure of the potential function and thus its implicitly encoded preferences, and without having to adjust the initial Q-values. We verify our theoretical findings on tabular Q-learning and demonstrate the application of our findings in deep reinforcement learning."
+},
+{
+"id": "z00022",
+"title": "Combining Normative Ethics Principles to Learn Prosocial Behaviour",
+"abstract": "Principles from normative ethics---the philosophical study of morality---can be operationalised in the decision-making capacities of agents to discern ethically acceptable actions and promote prosocial behaviour, defined as behaviours that support the well-being of others. Challenges exist in operationalising principles: (1) individual principles may be unintuitive; (2) while incorporating multiple principles mitigates issues with individual principles, conflicts may arise between them. We present PriENE, a method for combining multiple principles to encourage agents to learn prosocial behaviour."
+}
+]

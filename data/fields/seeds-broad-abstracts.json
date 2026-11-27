@@ -1,0 +1,1050 @@
+[
+ {
+  "openalex": "W3034367601",
+  "cluster": "C1",
+  "group": "base",
+  "title": "Performative Prediction",
+  "year": 2020,
+  "abstract": "When predictions support decisions they may influence the outcome they aim to predict. We call such predictions performative; the prediction influences the target. Performativity is a well-studied phenomenon in policy-making that has so far been neglected in supervised learning. When ignored, performativity surfaces as undesirable distribution shift, routinely addressed with retraining. We develop a risk minimization framework for performative prediction bringing together concepts from statistics, game theory, and causality. A conceptual novelty is an equilibrium notion we call performative stability. Performative stability implies that the predictions are calibrated not against past outcomes, but against the future outcomes that manifest from acting on the prediction. Our main results are necessary and sufficient conditions for the convergence of retraining to a performatively stable point of nearly minimal loss. In full generality, performative prediction strictly subsumes the setting known as strategic classification. We thus also give the first sufficient conditions for retraining to overcome strategic feedback effects."
+ },
+ {
+  "openalex": "W2913525780",
+  "cluster": "C1",
+  "group": "base",
+  "title": "Strategic Classification",
+  "year": 2016,
+  "abstract": "Machine learning relies on the assumption that unseen test instances of a classification problem follow the same distribution as observed training data. However, this principle can break down when machine learning is used to make important decisions about the welfare (employment, education, health) of strategic individuals. Knowing information about the classifier, such individuals may manipulate their attributes in order to obtain a better classification outcome. As a result of this behavior -- often referred to as gaming -- the performance of the classifier may deteriorate sharply. Indeed, gaming is a well-known obstacle for using machine learning methods in practice; in financial policy-making, the problem is widely known as Goodhart's law. In this paper, we formalize the problem, and pursue algorithms for learning classifiers that are robust to gaming."
+ },
+ {
+  "openalex": "W3035048992",
+  "cluster": "C1",
+  "group": "base",
+  "title": "Stochastic Optimization for Performative Prediction",
+  "year": 2020,
+  "abstract": "In performative prediction, the choice of a model influences the distribution of future data, typically through actions taken based on the model's predictions. We initiate the study of stochastic optimization for performative prediction. What sets this setting apart from traditional stochastic optimization is the difference between merely updating model parameters and deploying the new model. The latter triggers a shift in the distribution that affects future data, while the former keeps the distribution as is. Assuming smoothness and strong convexity, we prove rates of convergence for both greedily deploying models after each stochastic update (greedy deploy) as well as for taking several updates before redeploying (lazy deploy). In both cases, our bounds smoothly recover the optimal $O(1/k)$ rate as the strength of performativity decreases. Furthermore, they illustrate how depending on the strength of performative effects, there exists a regime where either approach outperforms the other. We experimentally explore the trade-off on both synthetic data and a strategic classification simulator."
+ },
+ {
+  "openalex": "W3130512562",
+  "cluster": "C1",
+  "group": "base",
+  "title": "Outside the Echo Chamber: Optimizing the Performative Risk",
+  "year": 2021,
+  "abstract": "In performative prediction, predictions guide decision-making and hence can influence the distribution of future data. To date, work on performative prediction has focused on finding performatively stable models, which are the fixed points of repeated retraining. However, stable solutions can be far from optimal when evaluated in terms of the performative risk, the loss experienced by the decision maker when deploying a model. In this paper, we shift attention beyond performative stability and focus on optimizing the performative risk directly. We identify a natural set of properties of the loss function and model-induced distribution shift under which the performative risk is convex, a property which does not follow from convexity of the loss alone. Furthermore, we develop algorithms that leverage our structural assumptions to optimize the performative risk with better sample efficiency than generic methods for derivative-free convex optimization."
+ },
+ {
+  "openalex": "W3171333981",
+  "cluster": "C1",
+  "group": "base",
+  "title": "Alternative Microfoundations for Strategic Classification",
+  "year": 2021,
+  "abstract": "When reasoning about strategic behavior in a machine learning context it is tempting to combine standard microfoundations of rational agents with the statistical decision theory underlying classification. In this work, we argue that a direct combination of these standard ingredients leads to brittle solution concepts of limited descriptive and prescriptive value. First, we show that rational agents with perfect information produce discontinuities in the aggregate response to a decision rule that we often do not observe empirically. Second, when any positive fraction of agents is not perfectly strategic, desirable stable points -- where the classifier is optimal for the data it entails -- cease to exist. Third, optimal decision rules under standard microfoundations maximize a measure of negative externality known as social burden within a broad class of possible assumptions about agent behavior. Recognizing these limitations we explore alternatives to standard microfoundations for binary classification. We start by describing a set of desiderata that help navigate the space of possible assumptions about how agents respond to a decision rule. In particular, we analyze a natural constraint on feature manipulations, and discuss properties that are sufficient to guarantee the robust existence of stable points. Building on these insights, we then propose the noisy response model. Inspired by smoothed analysis and empirical observations, noisy response incorporates imperfection in the agent responses, which we show mitigates the limitations of standard microfoundations. Our model retains analytical tractability, leads to more robust insights about stable points, and imposes a lower social burden at optimality."
+ },
+ {
+  "openalex": "W3099382994",
+  "cluster": "C1",
+  "group": "base",
+  "title": "Performative Prediction in a Stateful World",
+  "year": 2020,
+  "abstract": "Deployed supervised machine learning models make predictions that interact with and influence the world. This phenomenon is called performative prediction by Perdomo et al. (ICML 2020). It is an ongoing challenge to understand the influence of such predictions as well as design tools so as to control that influence. We propose a theoretical framework where the response of a target population to the deployed classifier is modeled as a function of the classifier and the current state (distribution) of the population. We show necessary and sufficient conditions for convergence to an equilibrium of two retraining algorithms, repeated risk minimization and a lazier variant. Furthermore, convergence is near an optimal classifier. We thus generalize results of Perdomo et al., whose performativity framework does not assume any dependence on the state of the target population. A particular phenomenon captured by our model is that of distinct groups that acquire information and resources at different rates to be able to respond to the latest deployed classifier. We study this phenomenon theoretically and empirically."
+ },
+ {
+  "openalex": "W4297806505",
+  "cluster": "C1",
+  "group": "base",
+  "title": "Performative Power",
+  "year": 2022,
+  "abstract": "We introduce the notion of performative power, which measures the ability of a firm operating an algorithmic system, such as a digital content recommendation platform, to cause change in a population of participants. We relate performative power to the economic study of competition in digital economies. Traditional economic concepts struggle with identifying anti-competitive patterns in digital platforms not least due to the complexity of market definition. In contrast, performative power is a causal notion that is identifiable with minimal knowledge of the market, its internals, participants, products, or prices. Low performative power implies that a firm can do no better than to optimize their objective on current data. In contrast, firms of high performative power stand to benefit from steering the population towards more profitable behavior. We confirm in a simple theoretical model that monopolies maximize performative power. A firm's ability to personalize increases performative power, while competition and outside options decrease performative power. On the empirical side, we propose an observational causal design to identify performative power from discontinuities in how digital platforms display content. This allows to repurpose causal effects from various studies about digital platforms as lower bounds on performative power. Finally, we speculate about the role that performative power might play in competition policy and antitrust enforcement in digital marketplaces."
+ },
+ {
+  "openalex": "W3177232297",
+  "cluster": "C1",
+  "group": "base",
+  "title": "Who Leads and Who Follows in Strategic Classification?",
+  "year": 2021,
+  "abstract": "As predictive models are deployed into the real world, they must increasingly contend with strategic behavior. A growing body of work on strategic classification treats this problem as a Stackelberg game: the decision-maker \"leads\" in the game by deploying a model, and the strategic agents \"follow\" by playing their best response to the deployed model. Importantly, in this framing, the burden of learning is placed solely on the decision-maker, while the agents' best responses are implicitly treated as instantaneous. In this work, we argue that the order of play in strategic classification is fundamentally determined by the relative frequencies at which the decision-maker and the agents adapt to each other's actions. In particular, by generalizing the standard model to allow both players to learn over time, we show that a decision-maker that makes updates faster than the agents can reverse the order of play, meaning that the agents lead and the decision-maker follows. We observe in standard learning settings that such a role reversal can be desirable for both the decision-maker and the strategic agents. Finally, we show that a decision-maker with the freedom to choose their update frequency can induce learning dynamics that converge to Stackelberg equilibria with either order of play."
+ },
+ {
+  "openalex": "W2740377041",
+  "cluster": "C2",
+  "group": "base",
+  "title": "A Survey of Learning in Multiagent Environments: Dealing with Non-Stationarity",
+  "year": 2017,
+  "abstract": "The key challenge in multiagent learning is learning a best response to the behaviour of other agents, which may be non-stationary: if the other agents adapt their strategy as well, the learning target moves. Disparate streams of research have approached non-stationarity from several angles, which make a variety of implicit assumptions that make it hard to keep an overview of the state of the art and to validate the innovation and significance of new works. This survey presents a coherent overview of work that addresses opponent-induced non-stationarity with tools from game theory, reinforcement learning and multi-armed bandits. Further, we reflect on the principle approaches how algorithms model and cope with this non-stationarity, arriving at a new framework and five categories (in increasing order of sophistication): ignore, forget, respond to target models, learn models, and theory of mind. A wide range of state-of-the-art algorithms is classified into a taxonomy, using these categories and key characteristics of the environment (e.g., observability) and adaptation behaviour of the opponents (e.g., smooth, abrupt). To clarify even further we present illustrative variations of one domain, contrasting the strengths and limitations of each category. Finally, we discuss in which environments the different approaches yield most merit, and point to promising avenues of future research."
+ },
+ {
+  "openalex": "W2753984105",
+  "cluster": "C2",
+  "group": "base",
+  "title": "Learning with Opponent-Learning Awareness",
+  "year": 2018,
+  "abstract": "Multi-agent settings are quickly gathering importance in machine learning. This includes a plethora of recent work on deep multi-agent reinforcement learning, but also can be extended to hierarchical reinforcement learning, generative adversarial networks and decentralised optimisation. In all these settings the presence of multiple learning agents renders the training problem non-stationary and often leads to unstable training or undesired final results. We present Learning with Opponent-Learning Awareness (LOLA), a method in which each agent shapes the anticipated learning of the other agents in the environment. The LOLA learning rule includes an additional term that accounts for the impact of one agent's policy on the anticipated parameter update of the other agents. Preliminary results show that the encounter of two LOLA agents leads to the emergence of tit-for-tat and therefore cooperation in the iterated prisoners' dilemma (IPD), while independent learning does not. In this domain, LOLA also receives higher payouts compared to a naive learner, and is robust against exploitation by higher order gradient-based methods. Applied to infinitely repeated matching pennies, LOLA agents converge to the Nash equilibrium. In a round robin tournament we show that LOLA agents can successfully shape the learning of a range of multi-agent learning algorithms from literature, resulting in the highest average returns on the IPD. We also show that the LOLA update rule can be efficiently calculated using an extension of the likelihood ratio policy gradient estimator, making the method suitable for model-free reinforcement learning. This method thus scales to large parameter and input spaces and nonlinear function approximators. We also apply LOLA to a grid world task with an embedded social dilemma using deep recurrent policies and opponent modelling. Again, by explicitly considering the learning of the other agent, LOLA agents learn to cooperate out of self-interest."
+ },
+ {
+  "openalex": "W3170834283",
+  "cluster": "C2",
+  "group": "base",
+  "title": "A Policy Gradient Algorithm for Learning to Learn in Multiagent Reinforcement Learning",
+  "year": 2020,
+  "abstract": "A fundamental challenge in multiagent reinforcement learning is to learn beneficial behaviors in a shared environment with other simultaneously learning agents. In particular, each agent perceives the environment as effectively non-stationary due to the changing policies of other agents. Moreover, each agent is itself constantly learning, leading to natural non-stationarity in the distribution of experiences encountered. In this paper, we propose a novel meta-multiagent policy gradient theorem that directly accounts for the non-stationary policy dynamics inherent to multiagent learning settings. This is achieved by modeling our gradient updates to consider both an agent's own non-stationary policy dynamics and the non-stationary policy dynamics of other agents in the environment. We show that our theoretically grounded approach provides a general solution to the multiagent learning problem, which inherently comprises all key aspects of previous state of the art approaches on this topic. We test our method on a diverse suite of multiagent benchmarks and demonstrate a more efficient ability to adapt to new agents as they learn than baseline methods across the full spectrum of mixed incentive, competitive, and cooperative domains."
+ },
+ {
+  "openalex": "W4229059695",
+  "cluster": "C2",
+  "group": "base",
+  "title": "Model-Free Opponent Shaping",
+  "year": 2022,
+  "abstract": "In general-sum games, the interaction of self-interested learning agents commonly leads to collectively worst-case outcomes, such as defect-defect in the iterated prisoner's dilemma (IPD). To overcome this, some methods, such as Learning with Opponent-Learning Awareness (LOLA), shape their opponents' learning process. However, these methods are myopic since only a small number of steps can be anticipated, are asymmetric since they treat other agents as naive learners, and require the use of higher-order derivatives, which are calculated through white-box access to an opponent's differentiable learning algorithm. To address these issues, we propose Model-Free Opponent Shaping (M-FOS). M-FOS learns in a meta-game in which each meta-step is an episode of the underlying inner game. The meta-state consists of the inner policies, and the meta-policy produces a new inner policy to be used in the next episode. M-FOS then uses generic model-free optimisation methods to learn meta-policies that accomplish long-horizon opponent shaping. Empirically, M-FOS near-optimally exploits naive learners and other, more sophisticated algorithms from the literature. For example, to the best of our knowledge, it is the first method to learn the well-known Zero-Determinant (ZD) extortion strategy in the IPD. In the same settings, M-FOS leads to socially optimal outcomes under meta-self-play. Finally, we show that M-FOS can be scaled to high-dimensional settings."
+ },
+ {
+  "openalex": "W2623431351",
+  "cluster": "C2",
+  "group": "base",
+  "title": "Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments",
+  "year": 2017,
+  "abstract": "We explore deep reinforcement learning methods for multi-agent domains. We begin by analyzing the difficulty of traditional algorithms in the multi-agent case: Q-learning is challenged by an inherent non-stationarity of the environment, while policy gradient suffers from a variance that increases as the number of agents grows. We then present an adaptation of actor-critic methods that considers action policies of other agents and is able to successfully learn policies that require complex multi-agent coordination. Additionally, we introduce a training regimen utilizing an ensemble of policies for each agent that leads to more robust multi-agent policies. We show the strength of our approach compared to existing methods in cooperative as well as competitive scenarios, where agent populations are able to discover various physical and informational coordination strategies."
+ },
+ {
+  "openalex": "W2949464762",
+  "cluster": "C2",
+  "group": "base",
+  "title": "Dealing with Non-Stationarity in Multi-Agent Deep Reinforcement Learning",
+  "year": 2019,
+  "abstract": "Recent developments in deep reinforcement learning are concerned with creating decision-making agents which can perform well in various complex domains. A particular approach which has received increasing attention is multi-agent reinforcement learning, in which multiple agents learn concurrently to coordinate their actions. In such multi-agent environments, additional learning problems arise due to the continually changing decision-making policies of agents. This paper surveys recent works that address the non-stationarity problem in multi-agent deep reinforcement learning. The surveyed methods range from modifications in the training procedure, such as centralized training, to learning representations of the opponent's policy, meta-learning, communication, and decentralized learning. The survey concludes with a list of open problems and possible lines of future research."
+ },
+ {
+  "openalex": "W2107544712",
+  "cluster": "C2",
+  "group": "base",
+  "title": "Cooperative Multi-Agent Learning: The State of the Art",
+  "year": 2005,
+  "abstract": null
+ },
+ {
+  "openalex": "W2970365960",
+  "cluster": "C3",
+  "group": "base",
+  "title": "Strategizing against No-regret Learners",
+  "year": 2019,
+  "abstract": "How should a player who repeatedly plays a game against a no-regret learner strategize to maximize his utility? We study this question and show that under some mild assumptions, the player can always guarantee himself a utility of at least what he would get in a Stackelberg equilibrium of the game. When the no-regret learner has only two actions, we show that the player cannot get any higher utility than the Stackelberg equilibrium utility. But when the no-regret learner has more than two actions and plays a mean-based no-regret strategy, we show that the player can get strictly higher than the Stackelberg equilibrium utility. We provide a characterization of the optimal game-play for the player against a mean-based no-regret learner as a solution to a control problem. When the no-regret learner's strategy also guarantees him a no-swap regret, we show that the player cannot get anything higher than a Stackelberg equilibrium utility."
+ },
+ {
+  "openalex": "W2769863042",
+  "cluster": "C3",
+  "group": "base",
+  "title": "Selling to a No-Regret Buyer",
+  "year": 2018,
+  "abstract": "We consider the problem of a single seller repeatedly selling a single item to a single buyer (specifically, the buyer has a value drawn fresh from known distribution D in every round). Prior work assumes that the buyer is fully rational and will perfectly reason about how their bids today affect the seller's decisions tomorrow. In this work we initiate a different direction: the buyer simply runs a no-regret learning algorithm over possible bids. We provide a fairly complete characterization of optimal auctions for the seller in this domain. Specifically: - If the buyer bids according to EXP3 (or any \"mean-based\" learning algorithm), then the seller can extract expected revenue arbitrarily close to the expected welfare. This auction is independent of the buyer's valuation D , but somewhat unnatural as it is sometimes in the buyer's interest to overbid. - There exists a learning algorithm A such that if the buyer bids according to A then the optimal strategy for the seller is simply to post the Myerson reserve for D every round. - If the buyer bids according to EXP3 (or any \"mean-based\" learning algorithm), but the seller is restricted to \"natural\" auction formats where overbidding is dominated (e.g. Generalized First-Price or Generalized Second-Price), then the optimal strategy for the seller is a pay-your-bid format with decreasing reserves over time. Moreover, the seller's optimal achievable revenue is characterized by a linear program, and can be unboundedly better than the best truthful auction yet simultaneously unboundedly worse than the expected welfare."
+ },
+ {
+  "openalex": "W4285092461",
+  "cluster": "C3",
+  "group": "base",
+  "title": "Artificial Intelligence and Auction Design",
+  "year": 2022,
+  "abstract": "Motivated by online advertising auctions, we study auction design in repeated auctions played by simple Artificial Intelligence algorithms (Q-learning). We find that first-price auctions with no additional feedback lead to tacit-collusive outcomes (bids lower than values), while second-price auctions do not. We show that the difference is driven by the incentive in first-price auctions to outbid opponents by just one bid increment. This facilitates re-coordination on low bids after a phase of experimentation. We also show that providing information about the lowest bid to win, as introduced by Google at the time of the switch to first-price auctions, increases competitiveness of auctions."
+ },
+ {
+  "openalex": "W2101379030",
+  "cluster": "C3",
+  "group": "base",
+  "title": "Online Bandit Learning against an Adaptive Adversary: from Regret to Policy Regret",
+  "year": 2012,
+  "abstract": "Online learning algorithms are designed to learn even when their input is generated by an adversary. The widely-accepted formal definition of an online algorithm's ability to learn is the game-theoretic notion of regret. We argue that the standard definition of regret becomes inadequate if the adversary is allowed to adapt to the online algorithm's actions. We define the alternative notion of policy regret, which attempts to provide a more meaningful way to measure an online algorithm's performance against adaptive adversaries. Focusing on the online bandit setting, we show that no bandit algorithm can guarantee a sublinear policy regret against an adaptive adversary with unbounded memory. On the other hand, if the adversary's memory is bounded, we present a general technique that converts any bandit algorithm with a sublinear regret bound into an algorithm with a sublinear policy regret bound. We extend this result to other variants of regret, such as switching regret, internal regret, and swap regret."
+ },
+ {
+  "openalex": "W2124666512",
+  "cluster": "C3",
+  "group": "base",
+  "title": "Uncoupled Dynamics Do Not Lead to Nash Equilibrium",
+  "year": 2003,
+  "abstract": "We call a dynamical system uncoupled if the dynamic for each player does not depend on the payoffs of the other players. We show that there are no uncoupled dynamics that are guaranteed to converge to Nash equilibrium, even when the Nash equilibrium is unique. Journal of Economic Literature Classification: C7, D7 1"
+ },
+ {
+  "openalex": "W4405464720",
+  "cluster": "C3",
+  "group": "base",
+  "title": "Pareto-Optimal Algorithms for Learning in Games",
+  "year": 2024,
+  "abstract": "We study the problem of characterizing optimal learning algorithms for playing repeated games against an adversary with unknown payoffs. In this problem, the first player (called the learner) commits to a learning algorithm against a second player (called the optimizer), and the optimizer best-responds by choosing the optimal dynamic strategy for their (unknown but well-defined) payoff. Classic learning algorithms (such as no-regret algorithms) provide some counterfactual guarantees for the learner, but might perform much more poorly than other learning algorithms against particular optimizer payoffs."
+ },
+ {
+  "openalex": "W4405487188",
+  "cluster": "C3",
+  "group": "base",
+  "title": "Steering No-Regret Learners to a Desired Equilibrium",
+  "year": 2024,
+  "abstract": "A mediator observes no-regret learners playing an extensive-form game repeatedly across T rounds. The mediator attempts to steer players toward some desirable predetermined equilibrium by giving (nonnegative) payments to players. We call this the steering problem. The steering problem captures problems several problems of interest, among them equilibrium selection and information design (persuasion). If the mediator's budget is unbounded, steering is trivial because the mediator can simply pay the players to play desirable actions. We study two bounds on the mediator's payments: a total budget and a per-round budget. If the mediator's total budget does not grow with T, we show that steering is impossible. However, we show that it is enough for the total budget to grow sublinearly with T, that is, for the average payment to vanish. When players' full strategies are observed at each round, we show that constant per-round budgets permit steering. In the more challenging setting where only trajectories through the game tree are observable, we show that steering is impossible with constant per-round budgets in general extensive-form games, but possible in normal-form games or if the per-round budget may itself depend on T. We also show how our results can be generalized to the case when the equilibrium is being computed online while steering is happening. We supplement our theoretical positive results with experiments highlighting the efficacy of steering in large games."
+ },
+ {
+  "openalex": "W2156194062",
+  "cluster": "C3",
+  "group": "base",
+  "title": "If multi-agent learning is the answer, what is the question?",
+  "year": 2007,
+  "abstract": null
+ },
+ {
+  "openalex": "W4407806359",
+  "cluster": "C4",
+  "group": "base",
+  "title": "Multi-Agent Risks from Advanced AI",
+  "year": 2025,
+  "abstract": "The rapid development of advanced AI agents and the imminent deployment of many instances of these agents will give rise to multi-agent systems of unprecedented complexity. These systems pose novel and under-explored risks. In this report, we provide a structured taxonomy of these risks by identifying three key failure modes (miscoordination, conflict, and collusion) based on agents' incentives, as well as seven key risk factors (information asymmetries, network effects, selection pressures, destabilising dynamics, commitment problems, emergent agency, and multi-agent security) that can underpin them. We highlight several important instances of each risk, as well as promising directions to help mitigate them. By anchoring our analysis in a range of real-world examples and experimental evidence, we illustrate the distinct challenges posed by multi-agent systems and their implications for the safety, governance, and ethics of advanced AI."
+ },
+ {
+  "openalex": "W2920700222",
+  "cluster": "C4",
+  "group": "base",
+  "title": "Autocurricula and the Emergence of Innovation from Social Interaction: A Manifesto for Multi-Agent Intelligence Research",
+  "year": 2019,
+  "abstract": "Evolution has produced a multi-scale mosaic of interacting adaptive units. Innovations arise when perturbations push parts of the system away from stable equilibria into new regimes where previously well-adapted solutions no longer work. Here we explore the hypothesis that multi-agent systems sometimes display intrinsic dynamics arising from competition and cooperation that provide a naturally emergent curriculum, which we term an autocurriculum. The solution of one social task often begets new social tasks, continually generating novel challenges, and thereby promoting innovation. Under certain conditions these challenges may become increasingly complex over time, demanding that agents accumulate ever more innovations."
+ },
+ {
+  "openalex": "W4224979542",
+  "cluster": "C4",
+  "group": "base",
+  "title": "Estimating and Penalizing Induced Preference Shifts in Recommender Systems",
+  "year": 2022,
+  "abstract": "The content that a recommender system (RS) shows to users influences them. Therefore, when choosing a recommender to deploy, one is implicitly also choosing to induce specific internal states in users. Even more, systems trained via long-horizon optimization will have direct incentives to manipulate users: in this work, we focus on the incentive to shift user preferences so they are easier to satisfy. We argue that - before deployment - system designers should: estimate the shifts a recommender would induce; evaluate whether such shifts would be undesirable; and perhaps even actively optimize to avoid problematic shifts. These steps involve two challenging ingredients: estimation requires anticipating how hypothetical algorithms would influence user preferences if deployed - we do this by using historical user interaction data to train a predictive user model which implicitly contains their preference dynamics; evaluation and optimization additionally require metrics to assess whether such influences are manipulative or otherwise unwanted - we use the notion of \"safe shifts\", that define a trust region within which behavior is safe: for instance, the natural way in which users would shift without interference from the system could be deemed \"safe\". In simulated experiments, we show that our learned preference dynamics model is effective in estimating user preferences and how they would respond to new recommenders. Additionally, we show that recommenders that optimize for staying in the trust region can avoid manipulative behaviors while still generating engagement."
+ },
+ {
+  "openalex": "W4312867245",
+  "cluster": "C4",
+  "group": "base",
+  "title": "A Survey of Ad Hoc Teamwork Research",
+  "year": 2022,
+  "abstract": null
+ },
+ {
+  "openalex": "W1606056663",
+  "cluster": "C4",
+  "group": "base",
+  "title": "Ad Hoc Autonomous Agent Teams: Collaboration without Pre-Coordination",
+  "year": 2010,
+  "abstract": "As autonomous agents proliferate in the real world, both in software and robotic settings, they will increasingly need to band together for cooperative activities with previously unfamiliar teammates. In such ad hoc team settings, team strategies cannot be developed a priori. Rather, an agent must be prepared to cooperate with many types of teammates: it must collaborate without pre-coordination. This paper challenges the AI community to develop theory and to implement prototypes of ad hoc team agents. It defines the concept of ad hoc team agents, specifies an evaluation paradigm, and provides examples of possible theoretical and empirical approaches to challenge. The goal is to encourage progress towards this ambitious, newly realistic, and increasingly important research goal."
+ },
+ {
+  "openalex": "W4228997196",
+  "cluster": "C4",
+  "group": "base",
+  "title": "The AI Economist: Taxation policy design via two-level deep multiagent reinforcement learning",
+  "year": 2022,
+  "abstract": "Artificial intelligence (AI) and reinforcement learning (RL) have improved many areas but are not yet widely adopted in economic policy design, mechanism design, or economics at large. The AI Economist is a two-level, deep RL framework for policy design in which agents and a social planner coadapt. In particular, the AI Economist uses structured curriculum learning to stabilize the challenging two-level, coadaptive learning problem. We validate this framework in the domain of taxation. In one-step economies, the AI Economist recovers the optimal tax policy of economic theory. In spatiotemporal economies, the AI Economist substantially improves both utilitarian social welfare and the trade-off between equality and productivity over baselines. It does so despite emergent tax-gaming strategies while accounting for emergent labor specialization, agent interactions, and behavioral change. These results demonstrate that two-level, deep RL complements economic theory and unlocks an AI-based approach to designing and understanding economic policy."
+ },
+ {
+  "openalex": "W4392223779",
+  "cluster": "C4",
+  "group": "base",
+  "title": "Cooperation and Control in Delegation Games",
+  "year": 2024,
+  "abstract": "Many settings of interest involving humans and machines – from virtual personal assistants to autonomous vehicles – can naturally be modelled as principals (humans) delegating to agents (machines), which then interact with each other on their principals’ behalf. We refer to these multi-principal, multi-agent scenarios as delegation games. In such games, there are two important failure modes: problems of control (where an agent fails to act in line their principal’s preferences) and problems of cooperation (where the agents fail to work well together). In this paper we formalise and analyse these problems, further breaking them down into issues of alignment (do the players have similar preferences?) and capabilities (how competent are the players at satisfying those preferences?). We show – theoretically and empirically – how these measures determine the principals’ welfare, how they can be estimated using limited observations, and thus how they might be used to help us design more aligned and cooperative AI systems."
+ },
+ {
+  "openalex": "W4400949264",
+  "cluster": "C5",
+  "group": "base",
+  "title": "AI models collapse when trained on recursively generated data",
+  "year": 2024,
+  "abstract": ") demonstrated high performance across a variety of language tasks. ChatGPT introduced such language models to the public. It is now clear that generative artificial intelligence (AI) such as large language models (LLMs) is here to stay and will substantially change the ecosystem of online text and images. Here we consider what may happen to GPT-{n} once LLMs contribute much of the text found online. We find that indiscriminate use of model-generated content in training causes irreversible defects in the resulting models, in which tails of the original content distribution disappear. We refer to this effect as 'model collapse' and show that it can occur in LLMs as well as in variational autoencoders (VAEs) and Gaussian mixture models (GMMs). We build theoretical intuition behind the phenomenon and portray its ubiquity among all learned generative models. We demonstrate that it must be taken seriously if we are to sustain the benefits of training from large-scale data scraped from the web. Indeed, the value of data collected about genuine human interactions with systems will be increasingly valuable in the presence of LLM-generated content in data crawled from the Internet."
+ },
+ {
+  "openalex": "W4393924649",
+  "cluster": "C5",
+  "group": "base",
+  "title": "Is Model Collapse Inevitable? Breaking the Curse of Recursion by Accumulating Real and Synthetic Data",
+  "year": 2024,
+  "abstract": "The proliferation of generative models, combined with pretraining on web-scale data, raises a timely question: what happens when these models are trained on their own generated outputs? Recent investigations into model-data feedback loops proposed that such loops would lead to a phenomenon termed model collapse, under which performance progressively degrades with each model-data feedback iteration until fitted models become useless. However, those studies largely assumed that new data replace old data over time, where an arguably more realistic assumption is that data accumulate over time. In this paper, we ask: what effect does accumulating data have on model collapse? We empirically study this question by pretraining sequences of language models on text corpora. We confirm that replacing the original real data by each generation's synthetic data does indeed tend towards model collapse, then demonstrate that accumulating the successive generations of synthetic data alongside the original real data avoids model collapse; these results hold across a range of model sizes, architectures, and hyperparameters. We obtain similar results for deep generative models on other types of real data: diffusion models for molecule conformation generation and variational autoencoders for image generation. To understand why accumulating data can avoid model collapse, we use an analytically tractable framework introduced by prior work in which a sequence of linear models are fit to the previous models' outputs. Previous work used this framework to show that if data are replaced, the test error increases with the number of model-fitting iterations; we extend this argument to prove that if data instead accumulate, the test error has a finite upper bound independent of the number of iterations, meaning model collapse no longer occurs."
+ },
+ {
+  "openalex": "W4387355018",
+  "cluster": "C5",
+  "group": "base",
+  "title": "On the Stability of Iterative Retraining of Generative Models on their own Data",
+  "year": 2023,
+  "abstract": "Deep generative models have made tremendous progress in modeling complex data, often exhibiting generation quality that surpasses a typical human's ability to discern the authenticity of samples. Undeniably, a key driver of this success is enabled by the massive amounts of web-scale data consumed by these models. Due to these models' striking performance and ease of availability, the web will inevitably be increasingly populated with synthetic content. Such a fact directly implies that future iterations of generative models will be trained on both clean and artificially generated data from past models. In this paper, we develop a framework to rigorously study the impact of training generative models on mixed datasets -- from classical training on real data to self-consuming generative models trained on purely synthetic data. We first prove the stability of iterative training under the condition that the initial generative models approximate the data distribution well enough and the proportion of clean training data (w.r.t. synthetic data) is large enough. We empirically validate our theory on both synthetic and natural images by iteratively training normalizing flows and state-of-the-art diffusion models on CIFAR10 and FFHQ."
+ },
+ {
+  "openalex": "W4295123801",
+  "cluster": "C5",
+  "group": "base",
+  "title": "Data Feedback Loops: Model-driven Amplification of Dataset Biases",
+  "year": 2022,
+  "abstract": "Datasets scraped from the internet have been critical to the successes of large-scale machine learning. Yet, this very success puts the utility of future internet-derived datasets at potential risk, as model outputs begin to replace human annotations as a source of supervision. In this work, we first formalize a system where interactions with one model are recorded as history and scraped as training data in the future. We then analyze its stability over time by tracking changes to a test-time bias statistic (e.g. gender bias of model predictions). We find that the degree of bias amplification is closely linked to whether the model's outputs behave like samples from the training distribution, a behavior which we characterize and define as consistent calibration. Experiments in three conditional prediction scenarios - image classification, visual role-labeling, and language generation - demonstrate that models that exhibit a sampling-like behavior are more calibrated and thus more stable. Based on this insight, we propose an intervention to help calibrate and stabilize unstable feedback systems. Code is available at https://github.com/rtaori/data_feedback."
+ },
+ {
+  "openalex": "W2726816714",
+  "cluster": "C5",
+  "group": "base",
+  "title": "Runaway Feedback Loops in Predictive Policing",
+  "year": 2017,
+  "abstract": "Predictive policing systems are increasingly used to determine how to allocate police across a city in order to best prevent crime. Discovered crime data (e.g., arrest counts) are used to help update the model, and the process is repeated. Such systems have been empirically shown to be susceptible to runaway feedback loops, where police are repeatedly sent back to the same neighborhoods regardless of the true crime rate. In response, we develop a mathematical model of predictive policing that proves why this feedback loop occurs, show empirically that this model exhibits such problems, and demonstrate how to change the inputs to a predictive policing system (in a black-box manner) so the runaway feedback loop does not occur, allowing the true crime rate to be learned. Our results are quantitative: we can establish a link (in our model) between the degree to which runaway feedback causes problems and the disparity in crime rates between areas. Moreover, we can also demonstrate the way in which \\emph{reported} incidents of crime (those reported by residents) and \\emph{discovered} incidents of crime (i.e. those directly observed by police officers dispatched as a result of the predictive policing algorithm) interact: in brief, while reported incidents can attenuate the degree of runaway feedback, they cannot entirely remove it without the interventions we suggest."
+ },
+ {
+  "openalex": "W2765564115",
+  "cluster": "C5",
+  "group": "base",
+  "title": "How algorithmic confounding in recommendation systems increases homogeneity and decreases utility",
+  "year": 2018,
+  "abstract": "Recommendation systems are ubiquitous and impact many domains; they have the potential to influence product consumption, individuals' perceptions of the world, and life-altering decisions. These systems are often evaluated or trained with data from users already exposed to algorithmic recommendations; this creates a pernicious feedback loop. Using simulations, we demonstrate how using data confounded in this way homogenizes user behavior without increasing utility."
+ },
+ {
+  "openalex": "W2917760808",
+  "cluster": "C5",
+  "group": "base",
+  "title": "Degenerate Feedback Loops in Recommender Systems",
+  "year": 2019,
+  "abstract": "Machine learning is used extensively in recommender systems deployed in products. The decisions made by these systems can influence user beliefs and preferences which in turn affect the feedback the learning system receives - thus creating a feedback loop. This phenomenon can give rise to the so-called \"echo chambers\" or \"filter bubbles\" that have user and societal implications. In this paper, we provide a novel theoretical analysis that examines both the role of user dynamics and the behavior of recommender systems, disentangling the echo chamber from the filter bubble effect. In addition, we offer practical solutions to slow down system degeneracy. Our study contributes toward understanding and developing solutions to commonly cited issues in the complex temporal scenario, an area that is still largely unexplored."
+ },
+ {
+  "openalex": "W4410088881",
+  "cluster": "C5",
+  "group": "base",
+  "title": "Reducing Symbiosis Bias through Better A/B Tests of Recommendation Algorithms",
+  "year": 2025,
+  "abstract": "It is increasingly common in digital environments to use A/B tests to compare the performance of recommendation algorithms. However, such experiments often violate the stable unit treatment value assumption (SUTVA), particularly SUTVA's ''no hidden treatments'' assumption, due to the shared data between algorithms being compared. This results in a novel form of bias, which we term ''symbiosis bias,'' where the performance of each algorithm is influenced by the training data generated by its competitor. In this paper, we investigate three experimental designs--cluster-randomized, data-diverted, and user-corpus co-diverted experiments--aimed at mitigating symbiosis bias. We present a theoretical model of symbiosis bias and simulate the impact of each design in dynamic recommendation environments. Our results show that while each design reduces symbiosis bias to some extent, they also introduce new challenges, such as reduced training data in data-diverted experiments. We further validate the existence of symbiosis bias using data from a large-scale A/B test conducted on a global recommender system, demonstrating that symbiosis bias affects treatment effect estimates in the field. Our findings provide actionable insights for researchers and practitioners seeking to design experiments that accurately capture algorithmic performance without bias in treatment effect estimates introduced by shared data."
+ },
+ {
+  "openalex": "W2070720254",
+  "cluster": "C6",
+  "group": "base",
+  "title": "Econometric policy evaluation: A critique",
+  "year": 1976,
+  "abstract": null
+ },
+ {
+  "openalex": "W2003830355",
+  "cluster": "C6",
+  "group": "base",
+  "title": "Convergence of least squares learning mechanisms in self-referential linear stochastic models",
+  "year": 1989,
+  "abstract": null
+ },
+ {
+  "openalex": "W3124882988",
+  "cluster": "C6",
+  "group": "base",
+  "title": "Expectations and the Stability Problem for Optimal Monetary Policies",
+  "year": 2003,
+  "abstract": "A fundamentals based monetary policy rule, which would be the optimal monetary policy without commitment when private agents have perfectly rational expectations, is unstable if in fact these agents follow standard adaptive learning rules. This problem can be overcome if private expectations are observed and suitable incorporated into the policy maker's optimal rule. These strong results extend to the case in which there is simultaneous learning by the policy maker and the private agents. Our findings show the importance of conditioning policy appropriately, not just on fundamentals, but also directly on observed household and firm expectations."
+ },
+ {
+  "openalex": "W3124614318",
+  "cluster": "C6",
+  "group": "base",
+  "title": "Escaping Nash Inflation",
+  "year": 2002,
+  "abstract": "An ordinary differential equation (ODE) gives the mean dynamics that govern the convergence to self-confirming equilibria of self-referential systems under discounted least squares learning. Another ODE governs escape dynamics that recurrently propel away from a selfconfirming equilibrium. In a model with a unique self-confirming equilibrium, the escape dynamics make the government discover too strong a version of the natural rate hypothesis. The escape route dynamics cause recurrent outcomes close to the Ramsey (commitment) inflation rate in a model with an adaptive government. “If an unlikely event occurs, it is very likely to occur in the most likly way.” Michael Harrison"
+ },
+ {
+  "openalex": "W1790902864",
+  "cluster": "C6",
+  "group": "base",
+  "title": "Berk-Nash Equilibrium: A Framework for Modeling Agents With Misspecified Models",
+  "year": 2016,
+  "abstract": "We develop an equilibrium framework that relaxes the standard assumption that people have a correctly-specified view of their environment. Each player is characterized by a (possibly misspecified) subjective model, which describes the set of feasible beliefs over payoff-relevant consequences as a function of actions. We introduce the notion of a Berk-Nash equilibrium: Each player follows a strategy that is optimal given her belief, and her belief is restricted to be the best fit among the set of beliefs she considers possible. The notion of best fit is formalized in terms of minimizing the Kullback-Leibler divergence, which is endogenous and depends on the equilibrium strategy profile. Standard solution concepts such as Nash equilibrium and self-confirming equilibrium constitute special cases where players have correctly-specified models. We provide a learning foundation for Berk-Nash equilibrium by extending and combining results from the statistics literature on misspecified learning and the economics literature on learning in games."
+ },
+ {
+  "openalex": "W4254875572",
+  "cluster": "C6",
+  "group": "base",
+  "title": "Strategic Experimentation",
+  "year": 1999,
+  "abstract": "This paper extends the classic two-armed bandit problem to a many-agent setting in which N players each face the same experimentation problem. The main change from the single-agent problem is that an agent can now learn from the current experimentation of other agents. Information is therefore a public good, and a free-rider problem in experimentation naturally arises. More interestingly, the prospect of future experimentation by others encourages agents to increase current experimentation, in order to bring forward the time at which the extra information generated by such experimentation becomes available. The paper provides an analysis of the set of stationary Markov equilibria in terms of the free-rider effect and the encouragement effect."
+ },
+ {
+  "openalex": "W3123810580",
+  "cluster": "C6",
+  "group": "base",
+  "title": "Strategic Experimentation with Exponential Bandits",
+  "year": 2004,
+  "abstract": "We analyze a game of strategic experimentation with two-armed bandits whose risky arm might yield payoffs after exponentially distributed random times. Free-riding causes an inefficiently low level of experimentation in any equilibrium where the players use stationary Markovian strategies with beliefs as the state variable. We construct the unique symmetric Markovian equilibrium of the game, followed by various asymmetric ones. There is no equilibrium where all players use simple cut-off strategies. Equilibria where players switch finitely often between experimenting and free-riding all yield a similar pattern of information acquisition, greater efficiency being achieved when the players share the burden of experimentation more equitably. When players switch roles infinitely often, they can acquire an approximately efficient amount of information, but still at an inefficient rate. In terms of aggregate payoffs, all these asymmetric equilibria dominate the symmetric one wherever the latter prescribes simultaneous use of both arms."
+ },
+ {
+  "openalex": "W2174806087",
+  "cluster": "C6",
+  "group": "base",
+  "title": "Self-Confirming Equilibrium",
+  "year": 1993,
+  "abstract": "Self-confirming equilibrium differs from Nash equilibrium in allowing players to have incorrect beliefs about how their opponents would play off of the equilibrium path.We provide several examples of ways that self -confirming and Nash equilibria differ.In games with \"identified deviators , \" all self -confirming equilibrium outcomes can be generated by extensive -form correlated equilibria.In two-player games, self -confirming equilibria with \"unitary beliefs\" are Nash.1."
+ },
+ {
+  "openalex": "W1998440482",
+  "cluster": "C7",
+  "group": "base",
+  "title": "Closed-loop identification revisited",
+  "year": 1999,
+  "abstract": null
+ },
+ {
+  "openalex": "W2018691083",
+  "cluster": "C7",
+  "group": "base",
+  "title": "Identification for Control: From the Early Achievements to the Revival of Experiment Design*",
+  "year": 2005,
+  "abstract": null
+ },
+ {
+  "openalex": "W2139341823",
+  "cluster": "C7",
+  "group": "base",
+  "title": "Least costly identification experiment for control",
+  "year": 2006,
+  "abstract": null
+ },
+ {
+  "openalex": "W2144351691",
+  "cluster": "C7",
+  "group": "base",
+  "title": "Robust optimal experiment design for system identification",
+  "year": 2007,
+  "abstract": null
+ },
+ {
+  "openalex": "W2593163465",
+  "cluster": "C7",
+  "group": "base",
+  "title": "Identifiability of linear dynamic networks",
+  "year": 2017,
+  "abstract": null
+ },
+ {
+  "openalex": "W2793571563",
+  "cluster": "C7",
+  "group": "base",
+  "title": "Identifiability of Dynamical Networks With Partial Node Measurements",
+  "year": 2018,
+  "abstract": "Much recent research has dealt with the identifiability of a dynamical network in which the node signals are connected by causal linear transfer functions and are excited by known external excitation signals and/or unknown noise signals. A major research question concerns the identifiability of the whole network-topology and all transfer functions-from the measured node signals and external excitation signals. So far all results on the identifiability of the whole network have assumed that all node signals are measured. This paper presents the first results for the situation where not all node signals are measurable, under the assumptions that, first, the topology of the network is known, and, second, each node is excited by a known external excitation. Using graph theoretical properties, we show that the transfer functions that can be identified depend essentially on the topology of the paths linking the corresponding vertices to the measured nodes. A practical outcome is that, under those assumptions, a network can often be identified using only a small subset of node measurements."
+ },
+ {
+  "openalex": "W2980082154",
+  "cluster": "C7",
+  "group": "base",
+  "title": "Allocation of Excitation Signals for Generic Identifiability of Linear Dynamic Networks",
+  "year": 2021,
+  "abstract": "A recent research direction in data-driven modeling is the identification of dynamic networks, in which measured vertex signals are interconnected by dynamic edges represented by causal linear transfer functions. The major question addressed in this article is where to allocate external excitation signals such that a network model set becomes generically identifiable when measuring all vertex signals. To tackle this synthesis problem, a novel graph structure, referred to asdirected pseudotree, is introduced, and the generic identifiability of a network model set can be featured by a set of disjoint directed pseudotrees that cover all the parameterized edges of anextended graph, which includes the correlation structure of the process noises. Thereby, an algorithmic procedure is devised, aiming to decompose the extended graph into a minimal number of disjoint pseudotrees, whose roots then provide the appropriate locations for excitation signals. Furthermore, the proposed approach can be adapted using the notion ofantipseudotreesto solve a dual problem, which is to select a minimal number of measurement signals for generic identifiability of the overall network, under the assumption that all the vertices are excited."
+ },
+ {
+  "openalex": "W2965027687",
+  "cluster": "C7",
+  "group": "base",
+  "title": "Data Informativity: A New Perspective on Data-Driven Analysis and Control",
+  "year": 2020,
+  "abstract": "The use of persistently exciting data has recently been popularized in the context of data-driven analysis and control. Such data have been used to assess system-theoretic properties and to construct control laws, without using a system model. Persistency of excitation is a strong condition that also allows unique identification of the underlying dynamical system from the data within a given model class. In this article, we develop a new framework in order to work with data that are not necessarily persistently exciting. Within this framework, we investigate necessary and sufficient conditions on the informativity of data for several data-driven analysis and control problems. For certain analysis and design problems, our results reveal that persistency of excitation is not necessary. In fact, in these cases, data-driven analysis/control is possible while the combination of (unique) system identification and model-based control is not. For certain other control problems, our results justify the use of persistently exciting data, as data-driven control is possible only with data that are informative for system identification."
+ },
+ {
+  "openalex": "W2029050771",
+  "cluster": "R1",
+  "group": "base",
+  "title": "Optimal Auction Design",
+  "year": 1981,
+  "abstract": "This paper considers the problem faced by a seller who has a single object to sell to one of several possible buyers, when the seller has imperfect information about how much the buyers might be willing to pay for the object. The seller's problem is to design an auction game which has a Nash equilibrium giving him the highest possible expected utility. Optimal auctions are derived in this paper for a wide class of auction design problems."
+ },
+ {
+  "openalex": "W2087530244",
+  "cluster": "R1",
+  "group": "base",
+  "title": "Efficient mechanisms for bilateral trading",
+  "year": 1983,
+  "abstract": null
+ },
+ {
+  "openalex": "W2002849158",
+  "cluster": "R1",
+  "group": "base",
+  "title": "Mechanism Design by an Informed Principal",
+  "year": 1983,
+  "abstract": null
+ },
+ {
+  "openalex": "W2157518489",
+  "cluster": "R1",
+  "group": "base",
+  "title": "Mechanism Design by Competing Sellers",
+  "year": 1993,
+  "abstract": "A dynamic model with many sellers and buyers is constructed. Agents failing to trade may trade in the next period. An equilibrium is found where sellers hold identical auctions and buyers randomize over the sellers they visit. The distribution of buyer valuations is endogenous. An auction with efficient reserve is an optimal mechanism from each seller's point of view, in spite of the ability of any seller to alter the distribution of buyer types participating in the seller's mechanism by altering the mechanism. Copyright 1993 by The Econometric Society."
+ },
+ {
+  "openalex": "W2015007620",
+  "cluster": "R1",
+  "group": "base",
+  "title": "COUNTERSPECULATION, AUCTIONS, AND COMPETITIVE SEALED TENDERS",
+  "year": 1961,
+  "abstract": null
+ },
+ {
+  "openalex": "W2012634103",
+  "cluster": "R1",
+  "group": "base",
+  "title": "Algorithmic Mechanism Design",
+  "year": 2001,
+  "abstract": null
+ },
+ {
+  "openalex": "W4388596127",
+  "cluster": "R1",
+  "group": "base",
+  "title": "Optimal Auctions through Deep Learning: Advances in Differentiable Economics",
+  "year": 2023,
+  "abstract": "Designing an incentive compatible auction that maximizes expected revenue is an intricate task. The single-item case was resolved in a seminal piece of work by Myerson in 1981, but more than 40 years later, a full analytical understanding of the optimal design still remains elusive for settings with two or more items. In this work, we initiate the exploration of the use of tools from deep learning for the automated design of optimal auctions. We model an auction as a multi-layer neural network, frame optimal auction design as a constrained learning problem, and show how it can be solved using standard machine learning pipelines. In addition to providing generalization bounds, we present extensive experimental results, recovering essentially all known solutions that come from the theoretical analysis of optimal auction design problems and obtaining novel mechanisms for settings in which the optimal mechanism is unknown."
+ },
+ {
+  "openalex": "W3137092842",
+  "cluster": "R2",
+  "group": "base",
+  "title": "The Byzantine Generals Problem",
+  "year": 1982,
+  "abstract": "Reliable computer systems must handle malfunctioning components that give conflicting information to different parts of the system.This situation can be expressed abstractly in terms of a group of generals of the Byzantine army camped with their troops around an enemy city.Communicating only by messenger, the generals must agree upon a common battle plan.However, one or more of them may be traitors who will try to confuse the others.The problem is to find an algorithm to ensure that the loyal generals will reach agreement.It is shown that, using only oral messages, this problem is solvable if and only if more than two-thirds of the generals are loyal; so a single traitor can confound two loyal generals.With unforgeable written messages, the problem is solvable for any number of generals and possible traitors.Applications of the solutions to reliable computer systems are then discussed."
+ },
+ {
+  "openalex": "W2003214215",
+  "cluster": "R2",
+  "group": "base",
+  "title": "Consensus in the presence of partial synchrony",
+  "year": 1988,
+  "abstract": "The concept of partial synchrony in a distributed system is introduced. Partial synchrony lies between the cases of a synchronous system and an asynchronous system. In a synchronous system, there is a known fixed upper bound Δ on the time required for a message to be sent from one processor to another and a known fixed upper bound Φ on the relative speeds of different processors. In an asynchronous system no fixed upper bounds Δ and Φ exist. In one version of partial synchrony, fixed bounds Δ and Φ exist, but they are not known a priori. The problem is to design protocols that work correctly in the partially synchronous system regardless of the actual values of the bounds Δ and Φ. In another version of partial synchrony, the bounds are known, but are only guaranteed to hold starting at some unknown time T , and protocols must be designed to work correctly regardless of when time T occurs. Fault-tolerant consensus protocols are given for various cases of partial synchrony and various fault models. Lower bounds that show in most cases that our protocols are optimal with respect to the number of faults tolerated are also given. Our consensus protocols for partially synchronous processors use new protocols for fault-tolerant “distributed clocks” that allow partially synchronous processors to reach some approximately common notion of time."
+ },
+ {
+  "openalex": "W2114579022",
+  "cluster": "R2",
+  "group": "base",
+  "title": "Practical byzantine fault tolerance and proactive recovery",
+  "year": 2002,
+  "abstract": "Our growing reliance on online services accessible on the Internet demands highly available systems that provide correct service without interruptions. Software bugs, operator mistakes, and malicious attacks are a major cause of service interruptions and they can cause arbitrary behavior, that is, Byzantine faults. This article describes a new replication algorithm, BFT, that can be used to build highly available systems that tolerate Byzantine faults. BFT can be used in practice to implement real services: it performs well, it is safe in asynchronous environments such as the Internet, it incorporates mechanisms to defend against Byzantine-faulty clients, and it recovers replicas proactively. The recovery mechanism allows the algorithm to tolerate any number of faults over the lifetime of the system provided fewer than 1/3 of the replicas become faulty within a small window of vulnerability. BFT has been implemented as a generic program library with a simple interface. We used the library to implement the first Byzantine-fault-tolerant NFS file system, BFS. The BFT library and BFS perform well because the library incorporates several important optimizations, the most important of which is the use of symmetric cryptography to authenticate messages. The performance results show that BFS performs 2% faster to 24% slower than production implementations of the NFS protocol that are not replicated. This supports our claim that the BFT library can be used to build practical systems that tolerate Byzantine faults."
+ },
+ {
+  "openalex": "W2035362408",
+  "cluster": "R2",
+  "group": "base",
+  "title": "Impossibility of distributed consensus with one faulty process",
+  "year": 1985,
+  "abstract": "The consensus problem involves an asynchronous system of processes, some of which may be unreliable. The problem is for the reliable processes to agree on a binary value. In this paper, it is shown that every protocol for this problem has the possibility of nontermination, even with only one faulty process. By way of contrast, solutions are known for the synchronous case, the “Byzantine Generals” problem."
+ },
+ {
+  "openalex": "W2040940409",
+  "cluster": "R2",
+  "group": "base",
+  "title": "Specification faithfulness in networks with rational nodes",
+  "year": 2004,
+  "abstract": "It is useful to prove that an implementation correctly follows a specification. But even with a provably correct implementation, given a choice, would a node choose to follow it? This paper explores how to create distributed system specifications that will be faithfully implemented in networks with rational nodes, so that no node will choose to deviate. Given a strategyproof centralized mechanism, and given a network of nodes modeled as having rational-manipulation faults, we provide a proof technique to establish the incentive-, communication-, and algorithm-compatibility properties that guarantee that participating nodes are faithful to a suggested specification. As a case study, we apply our methods to extend the strategyproof interdomain routing mechanism proposed by Feigenbaum, Papadimitriou, Sami, and Shenker (FPSS) [7], defining a faithful implementation."
+ },
+ {
+  "openalex": "W2077734015",
+  "cluster": "R2",
+  "group": "base",
+  "title": "Distributed computing meets game theory",
+  "year": 2006,
+  "abstract": "We study k-resilient Nash equilibria, joint strategies where no member of a coalition C of size up to k can do better, even if the whole coalition defects. We show that such k-resilient Nash equilibria exist for secret sharing and multiparty computation, provided that players prefer to get the information than not to get it. Our results hold even if there are only 2 players, so we can do multiparty computation with only two rational agents. We extend our results so that they hold even in the presence of up to t players with \"unexpected\" utilities. Finally, we show that our techniques can be used to simulate games with mediators by games without mediators."
+ },
+ {
+  "openalex": "W4236798639",
+  "cluster": "R2",
+  "group": "base",
+  "title": "BAR fault tolerance for cooperative services",
+  "year": 2005,
+  "abstract": "This paper describes a general approach to constructing cooperative services that span multiple administrative domains. In such environments, protocols must tolerate both Byzantine behaviors when broken, misconfigured, or malicious nodes arbitrarily deviate from their specification and rational behaviors when selfish nodes deviate from their specification to increase their local benefit. The paper makes three contributions: (1) It introduces the BAR (Byzantine, Altruistic, Rational) model as a foundation for reasoning about cooperative services; (2) It proposes a general three-level architecture to reduce the complexity of building services under the BAR model; and (3) It describes an implementation of BAR-B the first cooperative backup service to tolerate both Byzantine users and an unbounded number of rational users. At the core of BAR-B is an asynchronous replicated state machine that provides the customary safety and liveness guarantees despite nodes exhibiting both Byzantine and rational behaviors. Our prototype provides acceptable performance for our application: our BAR-tolerant state machine executes 15 requests per second, and our BAR-B backup service can back up 100MB of data in under 4 minutes."
+ },
+ {
+  "openalex": "W4394828430",
+  "cluster": "R3",
+  "group": "base",
+  "title": "Governing AI Agents",
+  "year": 2024,
+  "abstract": null
+ },
+ {
+  "openalex": "W3157172840",
+  "cluster": "R3",
+  "group": "base",
+  "title": "The Black Box Society",
+  "year": 2015,
+  "abstract": "Every day, corporations are connecting the dots about our personal behavior—silently scrutinizing clues left behind by our work habits and Internet use. But who connects the dots about what firms are doing with all this information? Frank Pasquale exposes how powerful interests abuse secrecy for profit and explains ways to rein them in."
+ },
+ {
+  "openalex": "W653546271",
+  "cluster": "R3",
+  "group": "base",
+  "title": "A Legal Theory for Autonomous Artificial Agents",
+  "year": 2011,
+  "abstract": "\"An extraordinarily good synthesis from an amazing range of philosophical, legal, and technological sources . . . the book will appeal to legal academics and students, lawyers involved in e-commerce and cyberspace legal issues, technologists, moral philosophers, and intelligent lay readers interested in high tech issues, privacy, [and] robotics.\" —Kevin Ashley, University of Pittsburgh School of Law As corporations and government agencies replace human employees with online customer service and automated phone systems, we become accustomed to doing business with nonhuman agents. If artificial intelligence (AI) technology advances as today's leading researchers predict, these agents may soon function with such limited human input that they appear to act independently. When they achieve that level of autonomy, what legal status should they have? Samir Chopra and Laurence F. White present a carefully reasoned discussion of how existing philosophy and legal theory can accommodate increasingly sophisticated AI technology. Arguing for the legal personhood of an artificial agent, the authors discuss what it means to say it has \"knowledge\" and the ability to make a decision. They consider key questions such as who must take responsibility for an agent's actions, whom the agent serves, and whether it could face a conflict of interest."
+ },
+ {
+  "openalex": "W2909858546",
+  "cluster": "R3",
+  "group": "base",
+  "title": "DEVELOPING COMPETITION LAW FOR COLLUSION BY AUTONOMOUS ARTIFICIAL AGENTS†",
+  "year": 2017,
+  "abstract": null
+ },
+ {
+  "openalex": "W4250057676",
+  "cluster": "R3",
+  "group": "base",
+  "title": "Virtual Competition",
+  "year": 2016,
+  "abstract": "Ariel Ezrachi and Maurice Stucke take a hard look at today’s app-assisted paradise of digital shopping. The algorithms and data-crunching that make online purchasing so convenient are also changing the nature of the market by shifting power into the hands of the few, with risks to competition, our democratic ideals, and our overall well-being."
+ },
+ {
+  "openalex": "W4367628156",
+  "cluster": "R3",
+  "group": "base",
+  "title": "Understanding accountability in algorithmic supply chains",
+  "year": 2023,
+  "abstract": "Academic and policy proposals on algorithmic accountability often seek to understand algorithmic systems in their socio-technical context, recognising that they are produced by ‘many hands’. Increasingly, however, algorithmic systems are also produced, deployed, and used within a supply chain comprising multiple actors tied together by flows of data between them. In such cases, it is the working together of an algorithmic supply chain of different actors who contribute to the production, deployment, use, and functionality that drives systems and produces particular outcomes. We argue that algorithmic accountability discussions must consider supply chains and the difficult implications they raise for the governance and accountability of algorithmic systems. In doing so, we explore algorithmic supply chains, locating them in their broader technical and political economic context and identifying some key features that should be understood in future work on algorithmic governance and accountability (particularly regarding general purpose AI services). To highlight ways forward and areas warranting attention, we further discuss some implications raised by supply chains: challenges for allocating accountability stemming from distributed responsibility for systems between actors, limited visibility due to the accountability horizon, service models of use and liability, and cross-border supply chains and regulatory arbitrage"
+ },
+ {
+  "openalex": "W3124443940",
+  "cluster": "R3",
+  "group": "base",
+  "title": "Why a Right to Explanation of Automated Decision-Making Does Not Exist in the General Data Protection Regulation",
+  "year": 2016,
+  "abstract": null
+ },
+ {
+  "openalex": "W2274887581",
+  "cluster": "R4",
+  "group": "base",
+  "title": "The New Global Rulers",
+  "year": 2011,
+  "abstract": "Over the past two decades, governments have delegated extensive regulatory authority to international private-sector organizations. This internationalization and privatization of rule-making has been motivated not only by the economic benefits of common rules for global markets, but also by the realization that government regulators often lack the expertise and resources to deal with increasingly complex and urgent regulatory tasks. This book examines who writes the rules in international private organizations, as well as who wins, who loses—and why. It examines three powerful global private regulators: the International Accounting Standards Board, which develops financial reporting rules used by corporations in more than a hundred countries; and the International Organization for Standardization and the International Electrotechnical Commission, which account for 85 percent of all international product standards. The book offers both a new framework for understanding global private regulation and detailed empirical analyses of such regulation based on multi-country, multi-industry business surveys. It finds that global rule-making by technical experts is highly political, and that even though rule making has shifted to the international level, domestic institutions remain crucial. Influence in this form of global private governance is not a function of the economic power of states, but of the ability of domestic standard-setters to provide timely information and speak with a single voice. The book shows how domestic institutions' abilities differ, particularly between the two main standardization players, the United States and Europe."
+ },
+ {
+  "openalex": "W2001125730",
+  "cluster": "R4",
+  "group": "base",
+  "title": "Setting International Standards: Technological Rationality or Primacy of Power?",
+  "year": 2003,
+  "abstract": "Standards have become one of the most important nontariff barriers to trade, especially national product standards that specify design or performance characteristics of manufactured goods. Divergent national standards often inhibit trade, whereas regional and international standards increasingly serve as instruments of trade liberalization. Consequently, the setting of international standards—seemingly technical and apolitical—is rapidly becoming an issue of economic and political salience. But who sets international standards? Who wins, who loses? This article offers a fresh analytical approach to the study of international standards, which the authors call the institutional complementarities approach. It builds on insights from realism and the “Battle of the Sexes” coordination game but emphasizes complementarities of historically conditioned standardization systems at the national level with the institutional structure of standardization at the international level. It posits that, after controlling for other factors that influence involvement in international standardization, differences in institutional complementarities play a critical though largely accidental role in placing firms from different countries or regions in a first- or second-mover position when standardization becomes global. The authors illustrate the insightfulness of this approach through statistical analyses of the first scientific set of data on standards use and standardization, collected by the authors through an international online survey."
+ },
+ {
+  "openalex": "W2501415256",
+  "cluster": "R4",
+  "group": "base",
+  "title": "CHAPTER TWO. The Governance Triangle: Regulatory Standards Institutions and the Shadow of the State",
+  "year": 2009,
+  "abstract": null
+ },
+ {
+  "openalex": "W203245201",
+  "cluster": "R4",
+  "group": "base",
+  "title": "Private Regulation in the Global Economy: A (P)Review",
+  "year": 2010,
+  "abstract": "This introduction to the special issue combines a review of the existing literature about the causes and consequences of private regulation in the global economy with a preview of the articles in this issue. To organize this (p)review, I introduce a conceptual model “beyond supply and demand,” which distinguishes three major subsets of stakeholders of global private regulation, which may (but need not) overlap: the political actors who call for private regulation, the rule-makers who provide such governance for the global economy, and what I call the “targets” of the private regulations, who are supposed to behave according to these private rules. I then highlight the three core questions addressed by the contributions to the special issue: (1) How do private bodies attain regulatory authority; why do private regulators provide governance; and why do the targets of the rules comply? (2) Who governs the global economy through private regulations? And (3) what are the effects of private regulation, and how does the rise of private regulation affect public regulatory authority and capacity?"
+ },
+ {
+  "openalex": "W3124473989",
+  "cluster": "R4",
+  "group": "base",
+  "title": "The Brussels Effect",
+  "year": 2019,
+  "abstract": "Abstract Chapter 2 lays out the conditions under which a single jurisdiction exerts global regulatory authority and shows why the EU today is in a unique position to assume the role of a global regulatory hegemon. These conditions explain the emergence and prevalence of the Brussels Effect. A country’s market size is a well-understood proxy for its ability to exercise regulatory authority over foreign corporations and individuals. But market size alone does not guarantee global regulatory influence. The state must also have the regulatory capacity as well as the political will to generate stringent rules. Moreover, the Brussels Effect only occurs when the EU regulates inelastic targets, such as consumer markets as opposed to capital. Unlike capital, consumers are not able to flee to less regulated jurisdictions, compromising the EU’s regulatory clout. Finally, EU standards become global only when companies’ production or conduct is non-divisible—in other words, when a company’s benefits of adhering to a single standard exceed the benefits of taking advantage of laxer standards in other markets. These conditions, taken together, explain why the EU is the only regulatory regime that can wield unilateral regulatory influence across global markets today."
+ },
+ {
+  "openalex": "W2012785533",
+  "cluster": "R4",
+  "group": "base",
+  "title": "The Global Governance of the Internet: Bringing the State Back in",
+  "year": 2004,
+  "abstract": null
+ },
+ {
+  "openalex": "W3166943242",
+  "cluster": "R4",
+  "group": "base",
+  "title": "Governance of artificial intelligence",
+  "year": 2021,
+  "abstract": "ABSTRACT The rapid developments in Artificial Intelligence (AI) and the intensification in the adoption of AI in domains such as autonomous vehicles, lethal weapon systems, robotics and alike pose serious challenges to governments as they must manage the scale and speed of socio-technical transitions occurring. While there is considerable literature emerging on various aspects of AI, governance of AI is a significantly underdeveloped area. The new applications of AI offer opportunities for increasing economic efficiency and quality of life, but they also generate unexpected and unintended consequences and pose new forms of risks that need to be addressed. To enhance the benefits from AI while minimising the adverse risks, governments worldwide need to understand better the scope and depth of the risks posed and develop regulatory and governance processes and structures to address these challenges. This introductory article unpacks AI and describes why the Governance of AI should be gaining far more attention given the myriad of challenges it presents. It then summarises the special issue articles and highlights their key contributions. This special issue introduces the multifaceted challenges of governance of AI, including emerging governance approaches to AI, policy capacity building, exploring legal and regulatory challenges of AI and Robotics, and outstanding issues and gaps that need attention. The special issue showcases the state-of-the-art in the governance of AI, aiming to enable researchers and practitioners to appreciate the challenges and complexities of AI governance and highlight future avenues for exploration."
+ },
+ {
+  "openalex": "W3116658655",
+  "cluster": "R4",
+  "group": "base",
+  "title": "Framing governance for a contested emerging technology:insights from AI policy",
+  "year": 2020,
+  "abstract": "ABSTRACT This paper examines how the governance in AI policy documents have been framed as way to resolve public controversies surrounding AI. It draws on the studies of governance of emerging technologies, the concept of policy framing, and analysis of 49 recent policy documents dedicated to AI which have been prepared in the context of technological hype expecting fast advances of AI that will fundamentally change economy and society. The hype about AI is accompanied by major public controversy about positive and negative effects of AI. Against the backdrop of this policy controversy, governance emerges as one of the frames that diagnoses the problems and offers prescriptions. Accordingly, the current governance characterized by oligopoly of a small number of large companies is indicated as one of the reasons for problems such as lack of consideration of societal needs and concerns. To address these problems, governance frame in AI policy documents assigns more active and collaborative roles to the state and society. Amid public controversies, the state is assigned the roles of promoting and facilitating AI development while at the same time being a guarantor of risk mitigation and enabler of societal engagement. High expectations are assigned to public engagement with multiple publics as a way to increase diversity, representation and equality in AI development and use. While this governance frame might have a normative appeal, it is not specific about addressing some well-known challenges of the proposed governance mode such as risks of capture by vested interests or difficulties to achieve consensus."
+ },
+ {
+  "openalex": "W238861864",
+  "cluster": "R2",
+  "group": "base",
+  "title": "End-to-end arguments in system design",
+  "year": 1984,
+  "abstract": "This paper presents a design principle that helps guide placement of functions among the modules of a distributed computer system. The principle, called the end-to-end argument, suggests that functions placed at low levels of a system may be redundant or of little value when compared with the cost of providing them at that low level. Examples discussed in the paper include bit error recovery, security using encryption, duplicate message suppression, recovery from system crashes, and delivery acknowledgement. Low level mechanisms to support these functions are justified only as performance enhancements. Introduction Choosing the proper boundaries between functions is perhaps the primary activity of the computer system designer. Design principles that provide guidance in this choice of function placement are among the most important tools of a system designer. This paper discusses one class of function placement argument that has been used for many years with neither ex"
+ },
+ {
+  "openalex": "W4244704438",
+  "cluster": "R2",
+  "group": "base",
+  "title": "Xen and the art of virtualization",
+  "year": 2003,
+  "abstract": "Numerous systems have been designed which use virtualization to subdivide the ample resources of a modern computer. Some require specialized hardware, or cannot support commodity operating systems. Some target 100% binary compatibility at the expense of performance. Others sacrifice security or functionality for speed. Few offer resource isolation or performance guarantees; most provide only best-effort provisioning, risking denial of service.This paper presents Xen, an x86 virtual machine monitor which allows multiple commodity operating systems to share conventional hardware in a safe and resource managed fashion, but without sacrificing either performance or functionality. This is achieved by providing an idealized virtual machine abstraction to which operating systems such as Linux, BSD and Windows XP, can be ported with minimal effort.Our design is targeted at hosting up to 100 virtual machine instances simultaneously on a modern server. The virtualization approach taken by Xen is extremely efficient: we allow operating systems such as Linux and Windows XP to be hosted simultaneously for a negligible performance overhead --- at most a few percent compared with the unvirtualized case. We considerably outperform competing commercial and freely available solutions in a range of microbenchmarks and system-wide tests."
+ },
+ {
+  "openalex": "W2106035061",
+  "cluster": "R2",
+  "group": "base",
+  "title": "Implementing remote procedure calls",
+  "year": 1984,
+  "abstract": "Remote procedure calls (RPC) appear to be a useful paradig m for providing communication across a network between programs written in a high-level language.This paper describes a package providing a remote procedure call facility, the options that face the designer of such a package, and the decisions ~we made.We describe the overall structure of our RPC mechanism, our facilities for binding RPC clients, the transport level communication protocol, and some performance measurements.We include descriptioro~ of some optimizations used to achieve high performance and to minimize the load on server machines that have many clients."
+ },
+ {
+  "openalex": "W3137220996",
+  "cluster": "R2",
+  "group": "base",
+  "title": "Time, clocks, and the ordering of events in a distributed system",
+  "year": 1978,
+  "abstract": "The concept of one event happening before another in a distributed system is examined, and is shown to define a partial ordering of the events. A distributed algorithm is given for synchronizing a system of logical clocks which can be used to totally order the events. The use of the total ordering is illustrated with a method for solving synchronization problems. The algorithm is then specialized for synchronizing physical clocks, and a bound is derived on how far out of synchrony the clocks can become."
+ },
+ {
+  "openalex": "W2131053137",
+  "cluster": "R2",
+  "group": "base",
+  "title": "Distributed snapshots",
+  "year": 1985,
+  "abstract": "This paper presents an algorithm by which a process in a distributed system determines a global state of the system during a computation. Many problems in distributed systems can be cast in terms of the problem of detecting global states. For instance, the global state detection algorithm helps to solve an important class of problems: stable property detection. A stable property is one that persists: once a stable property becomes true it remains true thereafter. Examples of stable properties are “computation has terminated,” “ the system is deadlocked” and “all tokens in a token ring have disappeared.” The stable property detection problem is that of devising algorithms to detect a given stable property. Global state detection can also be used for checkpointing."
+ },
+ {
+  "openalex": "W2158049821",
+  "cluster": "R2",
+  "group": "base",
+  "title": "Chord",
+  "year": 2001,
+  "abstract": "A fundamental problem that confronts peer-to-peer applications is to efficiently locate the node that stores a particular data item. This paper presents Chord, a distributed lookup protocol that addresses this problem. Chord provides support for just one operation: given a key, it maps the key onto a node. Data location can be easily implemented on top of Chord by associating a key with each data item, and storing the key/data item pair at the node to which the key maps. Chord adapts efficiently as nodes join and leave the system, and can answer queries even if the system is continuously changing. Results from theoretical analysis, simulations, and experiments show that Chord is scalable, with communication cost and the state maintained by each node scaling logarithmically with the number of Chord nodes."
+ },
+ {
+  "openalex": "W4205883304",
+  "cluster": "R2",
+  "group": "base",
+  "title": "Development of the domain name system",
+  "year": 1988,
+  "abstract": "The Domain Name System (DNS) provides name service for the DARPA Internet. It is one of the largest name services in operation today, serves a highly diverse community of hosts, users, and networks, and uses a unique combination of hierarchies, caching, and datagram access."
+ },
+ {
+  "openalex": "W2054584570",
+  "cluster": "R2",
+  "group": "base",
+  "title": "Brewer's conjecture and the feasibility of consistent, available, partition-tolerant web services",
+  "year": 2002,
+  "abstract": "When designing distributed web services, there are three properties that are commonly desired: consistency, availability, and partition tolerance. It is impossible to achieve all three. In this note, we prove this conjecture in the asynchronous network model, and then discuss solutions to this dilemma in the partially synchronous model."
+ },
+ {
+  "openalex": "W2101939036",
+  "cluster": "R2",
+  "group": "base",
+  "title": "Linearizability: a correctness condition for concurrent objects",
+  "year": 1990,
+  "abstract": "A concurrent object is a data object shared by concurrent processes. Linearizability is a correctness condition for concurrent objects that exploits the semantics of abstract data types. It permits a high degree of concurrency, yet it permits programmers to specify and reason about concurrent objects using known techniques from the sequential domain. Linearizability provides the illusion that each operation applied by concurrent processes takes effect instantaneously at some point between its invocation and its response, implying that the meaning of a concurrent object's operations can be given by pre- and post-conditions. This paper defines linearizability, compares it to other correctness conditions, presents and demonstrates a method for proving the correctness of implementations, and shows how to reason about concurrent objects, given they are linearizable."
+ },
+ {
+  "openalex": "W2146973388",
+  "cluster": "R2",
+  "group": "base",
+  "title": "Using encryption for authentication in large networks of computers",
+  "year": 1978,
+  "abstract": "Use of encryption to achieve authenticated communication in computer networks is discussed. Example protocols are presented for the establishment of authenticated connections, for the management of authenticated mail, and for signature verification and document integrity guarantee. Both conventional and public-key encryption algorithms are considered as the basis for protocols."
+ },
+ {
+  "openalex": "W2010939995",
+  "cluster": "R2",
+  "group": "base",
+  "title": "A logic of authentication",
+  "year": 1990,
+  "abstract": "Authentication protocols are the basis of security in many distributed systems, and it is therefore essential to ensure that these protocols function correctly. Unfortunately, their design has been extremely error prone. Most of the protocols found in the literature contain redundancies or security flaws. A simple logic has allowed us to describe the beliefs of trustworthy parties involved in authentication protocols and the evolution of these beliefs as a consequence of communication. We have been able to explain a variety of authentication protocols formally, to discover subtleties and errors in them, and to suggest improvements. In this paper we present the logic and then give the results of our analysis of four published protocols, chosen either because of their practical importance or because they serve to illustrate our method."
+ },
+ {
+  "openalex": "W2067758411",
+  "cluster": "R1",
+  "group": "run4",
+  "title": "Full Extraction of the Surplus in Bayesian and Dominant Strategy Auctions",
+  "year": 1988,
+  "abstract": "The authors consider auctions for a single indivisible object when bidders have information about each other that is unavailable to the seller. They show that the seller can use this information to his own benefit, and they characterize th e environments in which a well-chosen auction gives him the same expected payoff as that obtainable were he able to see the object und er full information. This hinges on the possibility of constructing lotteries with the correct properties. The authors study the problem for auctions where the bidders have dominant strategies and those where the relevant equilibrium concept is Bayesian-Nash. Copyright 1988 by The Econometric Society."
+ },
+ {
+  "openalex": "W1485535210",
+  "cluster": "R1",
+  "group": "run4",
+  "title": "Moral Hazard and Observability",
+  "year": 1979,
+  "abstract": "The role of imperfect information in a principal-agent relationship subject to moral hazard is considered.A necessary and sufficient condition for imperfect information to improve on contracts based on the payoff alone is derived, and a characterization of the optimal use of such information is given."
+ },
+ {
+  "openalex": "W2046412917",
+  "cluster": "R1",
+  "group": "run4",
+  "title": "A Theory of Oligopoly",
+  "year": 1964,
+  "abstract": null
+ },
+ {
+  "openalex": "W2168876164",
+  "cluster": "R1",
+  "group": "run4",
+  "title": "Noncooperative Collusion under Imperfect Price Information",
+  "year": 1984,
+  "abstract": "Recent work in game theory has shown that, in principle, it may be possible for firms in an industry to form a self-policing cartel to maximize their joints profits. This paper studies the applicability of that work to empirical industrial organization. A model of a noncooperatively supported cartel is presented, and the aspects of industry structure which would make such a cartel viable are discussed."
+ },
+ {
+  "openalex": "W2087308246",
+  "cluster": "R1",
+  "group": "run4",
+  "title": "Losses from Horizontal Merger: The Effects of an Exogenous Change in Industry Structure on Cournot-Nash Equilibrium",
+  "year": 1983,
+  "abstract": "The consequences of a horizontal merger are typically studied by treating the merger as an exogenous change in market structure that displaces the initial Cournot equilibrium. In the new equilibrium the merged firm is assumed to behave like a multiplant Cournot player engaged in a noncooperative game against other sellers. The purpose of this article is to evaluate an unnoticed comparative-static implication of this approach: some exogenous mergers may reduce the endogenous joint profits of the firms that are assumed to collude. Cournot's original example is used to illustrate this and other bizarre results that can occur in the Cournot framework if the market structure is treated as exogenous."
+ },
+ {
+  "openalex": "W1516051863",
+  "cluster": "R1",
+  "group": "run4",
+  "title": "Platform Competition in Two-Sided Markets",
+  "year": 2003,
+  "abstract": "Many if not most markets with network externalities are two-sided. To succeed, platforms in industries such as software, portals and media, payment systems and the Internet, must “get both sides of the market on board.” Accordingly, platforms devote much attention to their business model, that is, to how they court each side while making money overall. This paper builds a model of platform competition with two-sided markets. It unveils the determinants of price allocation and end-user surplus for different governance structures (profit-maximizing platforms and not-for-profit joint undertakings), and compares the outcomes with those under an integrated monopolist and a Ramsey planner."
+ },
+ {
+  "openalex": "W4293229472",
+  "cluster": "R1",
+  "group": "run4",
+  "title": "The Theory of Economic Regulation",
+  "year": 1971,
+  "abstract": null
+ },
+ {
+  "openalex": "W2099416858",
+  "cluster": "R1",
+  "group": "run4",
+  "title": "The Politics of Government Decision-Making: A Theory of Regulatory Capture",
+  "year": 1991,
+  "abstract": "The paper develops an agency-theoretic approach to interest-group politics and shows the following: (1) the organizational response to the possibility of regulatory agency politics is to reduce the stakes interest groups have in regulation. (2) The threat of producer protection leads to low-powered incentive schemes for regulated firms. (3) Consumer politics may induce uniform pricing by a multiproduct firm. (4) An interest group has more power when its interest lies in inefficient rather than efficient regulation, where inefficiency is measured by the degree of informational asymmetry between the regulated industry and the political principal (Congress)."
+ },
+ {
+  "openalex": "W2155300024",
+  "cluster": "R1",
+  "group": "run4",
+  "title": "Regulating a Monopolist with Unknown Costs",
+  "year": 1982,
+  "abstract": "We consider the problem of how to regulate a monopolistic firm whose costs are unknown to the regulator. The regulator's objective is to maximize a linear social welfare of the consumers' surplus and the firm's profit. In the optimal regulatory policy, prices and subsidies are designed as functions of the firm's cost report so that expected social welfare is maximized, subject to the constraints that the firm has nonnegative profit and has no incentive to misrepresent its costs. We explicitly derive the optimal policy and analyze its properties. IN THEIR CLASSIC PAPERS Dupuit [2] and Hotelling [5] considered pricing policies for a bridge that had a fixed cost of construction and zero marginal cost. They demonstrated that the pricing policy that maximizes consumer well-being is to set price equal to marginal cost and to provide a subsidy to the supplier equal to the fixed cost, so that a firm would be willing to provide the bridge. This first-best solution is based on a number of informational assumptions. First, the demand is assumed to be known to both the regulator and to the firm. While the assumption of complete information may be too strong, the assumption that information about demand is as available to the regulator as it is to the firm does not seem unnatural. A second informational assumption is that the regulator has complete information about the cost of the firm or at least has the same information about cost as does the firm. This assumption is unlikely to be met in reality, since the firm would be expected to have better information about costs than would the regulator. As Weitzman has stated, An essential feature of the regulatory environment I am trying to describe is uncertainty about the exact specification of each firm's cost function. In most cases even the managers and engineers most closely associated with production will be unable to precisely specify beforehand the cheapest way to generate various hypothetical output levels. Because they are yet removed from the production process, the regulators are likely to be vaguer still about a firm's cost function [12, p. 684]. As this observation suggests, it is natural to expect that a firm would have better information regarding its costs than would a regulator. The purpose of this paper is to develop an optimal regulatory policy for the case in which the regulator does not know the costs of the firm. One strategy that a regulator could use in the absence of full information about costs is to give the firm the title to the total social surplus and to delegate the pricing decision to the firm. In pursuing its own interests, which would then be to maximize the total social surplus, the firm would adopt the same marginal cost pricing strategy that the regulator would have imposed if the regulator had"
+ },
+ {
+  "openalex": "W1973465190",
+  "cluster": "R1",
+  "group": "run4",
+  "title": "Using Cost Observation to Regulate Firms",
+  "year": 1986,
+  "abstract": "The paper emphasizes the use of accounting data in regulatory or procurement contracts when the supplier (1) has superior information about the cost of the project and (2) invests in cost reduction. The main result states that, under risk neutrality, the supplier announces an expected cost and is given an incentive contract linear in cost overruns. This (optimal) contract moves toward a fixed-price contract as the announced cost decreases. An investment choice is then introduced and the use of a rate-of-return regulation is studied."
+ },
+ {
+  "openalex": "W1525260320",
+  "cluster": "R1",
+  "group": "run4",
+  "title": "Prices vs. Quantities",
+  "year": 1974,
+  "abstract": null
+ },
+ {
+  "openalex": "W4245007606",
+  "cluster": "R1",
+  "group": "run4",
+  "title": "Libertarian Paternalism",
+  "year": 2003,
+  "abstract": null
+ },
+ {
+  "openalex": "W2058935279",
+  "cluster": "C7",
+  "group": "run4",
+  "title": "Control System Analysis and Design Via the “Second Method” of Lyapunov: I—Continuous-Time Systems",
+  "year": 1960,
+  "abstract": "The “second method” of Lyapunov is the most general approach currently in the theory of stability of dynamic systems. After a rigorous exposition of the fundamental concepts of this theory, applications are made to (a) stability of linear stationary, linear nonstationary, and nonlinear systems; (b)estimation of transient behavior; (c) control-system optimization; (d) design of relay servos. The discussion is essentially self-contained, with emphasis on the thorough development of the principal ideas and mathematical tools. Only systems governed by differential equations are treated here. Systems governed by difference equations are the subject of a companion paper."
+ },
+ {
+  "openalex": "W2017493230",
+  "cluster": "C7",
+  "group": "run4",
+  "title": "Smooth stabilization implies coprime factorization",
+  "year": 1989,
+  "abstract": "It is shown that coprime right factorizations exist for the input-to-state mapping of a continuous-time nonlinear system provided that the smooth feedback stabilization problem is solvable for this system. It follows that feedback linearizable systems admit such fabrications. In order to establish the result, a Lyapunov-theoretic definition is proposed for bounded-input-bounded-output stability. The notion of stability studied in the state-space nonlinear control literature is related to a notion of stability under bounded control perturbations analogous to those studied in operator-theoretic approaches to systems; in particular it is proved that smooth stabilization implies smooth input-to-state stabilization.>"
+ },
+ {
+  "openalex": "W1994003949",
+  "cluster": "C7",
+  "group": "run4",
+  "title": "An ISS small gain theorem for general networks",
+  "year": 2007,
+  "abstract": null
+ },
+ {
+  "openalex": "W2131920939",
+  "cluster": "C7",
+  "group": "run4",
+  "title": "An introduction to observers",
+  "year": 1971,
+  "abstract": "Observers which approximately reconstruct missing state-variable information necessary for control are presented in an introductory manner. The special topics of the identity observer, a reduced-order observer, linear functional observers, stability properties, and dual observers are discussed."
+ },
+ {
+  "openalex": "W2554049453",
+  "cluster": "C7",
+  "group": "run4",
+  "title": "Regeneration Theory",
+  "year": 1932,
+  "abstract": "Abstract The following is an explanation of the circumstances which led the author to write his 1932 paper on the “Regeneration Theory.”"
+ },
+ {
+  "openalex": "W2980070341",
+  "cluster": "C7",
+  "group": "run4",
+  "title": "Optimum Settings for Automatic Controllers",
+  "year": 1942,
+  "abstract": "Abstract In this paper, the three principal control effects found in present controllers are examined and practical names and units of measurement are proposed for each effect. Corresponding units are proposed for a classification of industrial processes in terms of the two principal characteristics affecting their controllability. Formulas are given which enable the controller settings to be determined from the experimental or calculated values of the lag and unit reaction rate of the process to be controlled. These units form the basis of a quick method for adjusting a controller on the job. The effect of varying each controller setting is shown in a series of chart records. It is believed that the conceptions of control presented in this paper will be of assistance in the adjustment of existing controller applications and in the design of new installations."
+ },
+ {
+  "openalex": "W2142402591",
+  "cluster": "C7",
+  "group": "run4",
+  "title": "Automatic tuning of simple regulators with specifications on phase and amplitude margins",
+  "year": 1984,
+  "abstract": null
+ },
+ {
+  "openalex": "W2004470537",
+  "cluster": "C7",
+  "group": "run4",
+  "title": "On the input-output stability of time-varying nonlinear feedback systems Part one: Conditions derived using concepts of loop gain, conicity, and positivity",
+  "year": 1966,
+  "abstract": "The object of this paper is to outline a stability theory for input-output problems using functional methods. More particularly, the aim is to derive open loop conditions for the boundedness and continuity of feedback systems, without, at the beginning, placing restrictions on linearity or time invariance. It will be recalled that, in the special case of a linear time invariant feedback system, stability can be assessed using Nyquist's criterion; roughly speaking, stability depends on the mounts by which signals are amplified and delayed in flowing around the loop. An attempt is made here to show that similar considerations govern the behavior of feedback systems in general-that stability of nonlinear time-varying feedback systems can often be assessed from certain gross features of input-output behavior, which are related to amplification and delay. This paper is divided into two parts: Part I contains general theorems, free of restrictions on linearity or time invariance; Part II, which will appear in a later issue, contains applications to a loop with one nonlinear element. There are three main results in Part I, which follow the introduction of concepts of gain, conicity, positivity, and strong positivity: THEOREM 1: If the open loop gain is less than one, then the closed loop is bounded. THEOREM 2: If the open loop can be factored into two, suitably proportioned, conic relations, then the closed loop is bounded. THEOREM 3: If the open loop can be factored into two positive relations, one of which is strongly positive and has finite gain, then the closed loop is bounded. Results analogous to Theorems I-3, but with boundedness replaced by continuity, are also obtained."
+ },
+ {
+  "openalex": "W2042106612",
+  "cluster": "C7",
+  "group": "run4",
+  "title": "State-space solutions to standard H/sub 2/ and H/sub infinity / control problems",
+  "year": 1989,
+  "abstract": "Simple state-space formulas are derived for all controllers solving the following standard H/sub infinity / problem: For a given number gamma >0, find all controllers such that the H/sub infinity / norm of the closed-loop transfer function is (strictly) less than gamma . It is known that a controller exists if and only if the unique stabilizing solutions to two algebraic Riccati equations are positive definite and the spectral radius of their product is less than gamma /sup 2/. Under these conditions, a parameterization of all controllers solving the problem is given as a linear fractional transformation (LFT) on a contractive, stable, free parameter. The state dimension of the coefficient matrix for the LFT, constructed using the two Riccati solutions, equals that of the plant and has a separation structure reminiscent of classical LQG (i.e. H/sub 2/) theory. This paper is intended to be of tutorial value, so a standard H/sub 2/ solution is developed in parallel.>"
+ },
+ {
+  "openalex": "W2154183166",
+  "cluster": "C7",
+  "group": "run4",
+  "title": "Right half plane poles and zeros and design tradeoffs in feedback systems",
+  "year": 1985,
+  "abstract": "This paper expresses limitations imposed by right half plane poles and zeros of the open-loop system directly in terms of the sensitivity and complementary sensitivity functions of the closed-loop system. The limitations are determined by integral relationships which must be satisfied by these functions. The integral relationships are interpreted in the context of feedback design."
+ },
+ {
+  "openalex": "W1994616650",
+  "cluster": "C7",
+  "group": "run4",
+  "title": "A Stochastic Approximation Method",
+  "year": 1951,
+  "abstract": "Let $M(x)$ denote the expected value at level $x$ of the response to a certain experiment. $M(x)$ is assumed to be a monotone function of $x$ but is unknown to the experimenter, and it is desired to find the solution $x = \\theta$ of the equation $M(x) = \\alpha$, where $\\alpha$ is a given constant. We give a method for making successive experiments at levels $x_1,x_2,\\cdots$ in such a way that $x_n$ will tend to $\\theta$ in probability."
+ },
+ {
+  "openalex": "W2125812768",
+  "cluster": "C7",
+  "group": "run4",
+  "title": "Analysis of recursive stochastic algorithms",
+  "year": 1977,
+  "abstract": "Recursive algorithms where random observations enter are studied in a fairly general framework. An important feature is that the observations my depend on previous \"outputs\" of the algorithm. The considered class of algorithms contains, e.g., stochastic approximation algorithm, recursive identification algorithm, and algorithms for adaptive control of linear systems. It is shown how a deterministic differential equation can be associated with the algorithm. Problems like convergence with probability one, possible convergence points and asymptotic behavior of the algorithm can all be studied in terms of this differential equation. Theorems stating the precise relationships between the differential equation and the algorithm are given as well as examples of applications of the results to problems in identification and adaptive control."
+ },
+ {
+  "openalex": "W2094364653",
+  "cluster": "C7",
+  "group": "run4",
+  "title": "Stochastic approximation with two time scales",
+  "year": 1997,
+  "abstract": null
+ },
+ {
+  "openalex": "W4206566500",
+  "cluster": "C7",
+  "group": "run4",
+  "title": "Chaotic relaxation",
+  "year": 1969,
+  "abstract": null
+ },
+ {
+  "openalex": "W1514048432",
+  "cluster": "R3",
+  "group": "run4",
+  "title": "The Law of the Horse: What Cyberlaw Might Teach",
+  "year": 1999,
+  "abstract": "A few years ago, at a conference on the “Law of Cyberspace” held at the University of Chicago, Judge Frank Easterbrook told the assembled listeners, a room packed with “cyberlaw” devotees (and worse), that there was no more a “law of cyberspace” than there was a “Law of the Horse”;1 that the effort to speak as if there were such a law would just muddle rather than clarify; and that legal academics (“dilettantes”) should just stand aside as judges and lawyers and technologists worked through the quotidian problems that this souped-up telephone would present. “Go home,” in effect, was Judge Easterbrook’s welcome. As is often the case when my then-colleague speaks, the intervention, though brilliant, produced an awkward silence, some polite applause, and then quick passage to the next speaker. It was an interesting thought — that this conference was as significant as a conference on the law of the horse. (An anxious student sitting behind me whispered that he had never heard of the “law of the horse.”) But it did not seem a very helpful thought, two hours into this day-long conference. So marked as unhelpful, it was quickly put away. Talk shifted in the balance of the day, and in the balance of the contributions, to the idea that either the law of the horse was significant after all, or the law of cyberspace was something more."
+ },
+ {
+  "openalex": "W2396457900",
+  "cluster": "R3",
+  "group": "run4",
+  "title": "‘Hypernudge’: Big Data as a mode of regulation by design",
+  "year": 2016,
+  "abstract": "This paper draws on regulatory governance scholarship to argue that the analytic phenomenon currently known as ‘Big Data’ can be understood as a mode of ‘design-based’ regulation. Although Big Data decision-making technologies can take the form of automated decision-making systems, this paper focuses on algorithmic decision-guidance techniques. By highlighting correlations between data items that would not otherwise be observable, these techniques are being used to shape the informational choice context in which individual decision-making occurs, with the aim of channelling attention and decision-making in directions preferred by the ‘choice architect’. By relying upon the use of ‘nudge’ – a particular form of choice architecture that alters people’s behaviour in a predictable way without forbidding any options or significantly changing their economic incentives, these techniques constitute a ‘soft’ form of design-based control. But, unlike the static Nudges popularised by Thaler and Sunstein [(2008). Nudge. London: Penguin Books] such as placing the salad in front of the lasagne to encourage healthy eating, Big Data analytic nudges are extremely powerful and potent due to their networked, continuously updated, dynamic and pervasive nature (hence ‘hypernudge’). I adopt a liberal, rights-based critique of these techniques, contrasting liberal theoretical accounts with selective insights from science and technology studies (STS) and surveillance studies on the other. I argue that concerns about the legitimacy of these techniques are not satisfactorily resolved through reliance on individual notice and consent, touching upon the troubling implications for democracy and human flourishing if Big Data analytic techniques driven by commercial self-interest continue their onward march unchecked by effective and legitimate constraints."
+ },
+ {
+  "openalex": "W2087710120",
+  "cluster": "R3",
+  "group": "run4",
+  "title": "The responsibility gap: Ascribing responsibility for the actions of learning automata",
+  "year": 2004,
+  "abstract": null
+ },
+ {
+  "openalex": "W1526916602",
+  "cluster": "R3",
+  "group": "run4",
+  "title": "A Taxonomy of Privacy",
+  "year": 2006,
+  "abstract": "Privacy is a concept in disarray. Nobody can articulate what it means. As one commentator has observed, privacy suffers from an embarrassment of meanings. Privacy is far too vague a concept to guide adjudication and lawmaking, as abstract incantations of the importance of privacy do not fare well when pitted against more concretely-stated countervailing interests. In 1960, the famous torts scholar William Prosser attempted to make sense of the landscape of privacy law by identifying four different interests. But Prosser focused only on tort law, and the law of information privacy is significantly more vast and complex, extending to Fourth Amendment law, the constitutional right to information privacy, evidentiary privileges, dozens of federal privacy statutes, and hundreds of state statutes. Moreover, Prosser wrote over 40 years ago, and new technologies have given rise to a panoply of new privacy harms. A new taxonomy to understand privacy violations is thus sorely needed. This article develops a taxonomy to identify privacy problems in a comprehensive and concrete manner. It endeavors to guide the law toward a more coherent understanding of privacy and to serve as a framework for the future development of the field of privacy law."
+ },
+ {
+  "openalex": "W1969344535",
+  "cluster": "R3",
+  "group": "run4",
+  "title": "Formalizing and Securing Relationships on Public Networks",
+  "year": 1997,
+  "abstract": "Smart contracts combine protocols with user interfaces to formalize and secure relationships over computer networks. Objectives and principles for the design of these systems are derived from legal principles, economic theory, and theories of reliable and secure protocols. Similarities and differences between smart contracts and traditional business procedures based on written contracts, controls, and static forms are discussed. By using cryptographic and other security mechanisms, we can secure many algorithmically specifiable relationships from breach by principals, and from eavesdropping or malicious interference by third parties, up to considerations of time, user interface, and completeness of the algorithmic specification. This article discusses protocols with application in important contracting areas, including credit, content rights management, payment systems, and contracts with bearer."
+ },
+ {
+  "openalex": "W2171753429",
+  "cluster": "R4",
+  "group": "run4",
+  "title": "The rise of the regulatory state in Europe",
+  "year": 1994,
+  "abstract": "Privatization and deregulation have created the conditions for the rise of the regulatory state to replace the dirigiste state of the past. Reliance on regulation ‐ rather than public ownership, planning or centralised administration — characterises the methods of the regulatory state. This study examines the growth of regulation in Europe, at the national and Community levels. It stresses the advantages of this mode of policy making, but also recognises its problems. It is suggested that political accountability can be ensured by a variety of substantive and procedural controls, among which judicial review is especially important. Executive oversight and co‐ordination may be improved by using new tools of public management like the regulatory budget or the regulatory clearing house."
+ },
+ {
+  "openalex": "W2281799576",
+  "cluster": "R4",
+  "group": "run4",
+  "title": "Preventing Regulatory Capture",
+  "year": 2013,
+  "abstract": "When regulations (or lack thereof) seem to detract from the common good, critics often point to regulatory capture as a culprit. In some academic and policy circles it seems to have assumed the status of an immutable law. Yet for all the ink spilled describing and decrying capture, the concept remains difficult to nail down in practice. Is capture truly as powerful and unpreventable as the informed consensus seems to suggest? This edited volume brings together seventeen scholars from across the social sciences to address this question. Their work shows that capture is often misdiagnosed and may in fact be preventable and manageable. Focusing on the goal of prevention, the volume advances a more rigorous and empirical standard for diagnosing and measuring capture, paving the way for new lines of academic inquiry and more precise and nuanced reform."
+ },
+ {
+  "openalex": "W4388316013",
+  "cluster": "R4",
+  "group": "run4",
+  "title": "Responsive Regulation",
+  "year": 1992,
+  "abstract": "Abstract Drawing extensively on empirical studies from the US, UK, Australia, and New Zealand, John Braithwaite and Ian Ayres offer an well-argued addition to the comparative literature on government regulation. In an effort to transcend the ongoing debate between those who favour strong state regulation and those who call for deregulation, they argue that regulation does not have to proceed with an adversarial tone, nor does it have to be `soft’ or `hard’ to be effective."
+ },
+ {
+  "openalex": "W2059966722",
+  "cluster": "R4",
+  "group": "run4",
+  "title": "Hard and Soft Law in International Governance",
+  "year": 2000,
+  "abstract": "We examine why international actors—including states, firms, and activists—seek different types of legalized arrangements to solve political and substantive problems. We show how particular forms of legalization provide superior institutional solutions in different circumstances. We begin by examining the baseline advantages of “hard” legalization (that is, precise, legally binding obligations with appropriate third-party delegation). We emphasize, however, that actors often prefer softer forms of legalization (that is, various combinations of reduced precision, less stringent obligation, and weaker delegation). Soft legalization has a number of significant advantages, including that it is easier to achieve, provides strategies for dealing with uncertainty, infringes less on sovereignty, and facilitates compromise among differentiated actors. Although our approach is largely interest-based, we explicitly incorporate the normative elements that are central in law and in recent international relations theorizing. We also consider the important role of nonstate actors who, along with states, are central participants in contemporary international legalization. We illustrate the advantages of various forms of international legal arrangements with examples drawn from articles in this special issue and elsewhere."
+ },
+ {
+  "openalex": "W2155153551",
+  "cluster": "R4",
+  "group": "run4",
+  "title": "The Global Diffusion of Regulatory Capitalism",
+  "year": 2005,
+  "abstract": "This article analyzes the rise and diffusion of the new order of regulatory capitalism. It offers an analytical and historical analysis of relations between capitalism and regulation and suggests that change in the governance of capitalist economy is best captured by reference to (1) a new division of labor between state and society (e.g., privatization), (2) an increase in delegation, (3) proliferation of new technologies of regulation, (4) formalization of interinstitutional and intrainstitutional arrangements of regulation, and (5) growth in the influence of experts in general, and of international networks of experts in particular. Regulation, though not necessarily directly by the state, seems to be on the increase despite efforts to redraw the boundaries between state and society."
+ },
+ {
+  "openalex": "W2953522645",
+  "cluster": "R4",
+  "group": "run4",
+  "title": "The global landscape of AI ethics guidelines",
+  "year": 2019,
+  "abstract": null
+ }
+]

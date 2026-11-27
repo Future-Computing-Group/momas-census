@@ -1,0 +1,70 @@
+{"id": "y00478", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08085", "policy_setters": "several", "policy_quote": "the number of agents", "principals": "several", "principals_quote": "the number of agents", "partners_from_others": "no"}
+{"id": "x08178", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11701", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10407", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x12146", "policy_setters": "several", "policy_quote": "self-interested agents", "principals": "several", "principals_quote": "a principal aims to explore and learn over time by interacting with a sequence of self-interested agents", "partners_from_others": "yes"}
+{"id": "x05292", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08896", "policy_setters": "several", "policy_quote": "Attacker can manipulate model behavior", "principals": "several", "principals_quote": "Attacker can manipulate model behavior", "partners_from_others": "yes"}
+{"id": "x00791", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03180", "policy_setters": "several", "policy_quote": "Two-player graph games", "principals": "several", "principals_quote": "These games are played between two players", "partners_from_others": "no"}
+{"id": "y02645", "policy_setters": "several", "policy_quote": "attack and benign queries", "principals": "several", "principals_quote": "unauthorized extraction of API functionality", "partners_from_others": "yes"}
+{"id": "x08642", "policy_setters": "several", "policy_quote": "multiple competing ML providers", "principals": "several", "principals_quote": "multiple competing ML providers", "partners_from_others": "no"}
+{"id": "x10030", "policy_setters": "several", "policy_quote": "an adversary can arbitrarily corrupt a subset of the input data", "principals": "several", "principals_quote": "an adversary can arbitrarily corrupt a subset of the input data", "partners_from_others": "yes"}
+{"id": "x12208", "policy_setters": "several", "policy_quote": "one of several offline experts", "principals": "several", "principals_quote": "adversarial perturbations that can manipulate query allocation", "partners_from_others": "yes"}
+{"id": "y03818", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00817", "policy_setters": "several", "policy_quote": "individual-level beliefs about the internal states of other agents", "principals": "several", "principals_quote": "competing objectives", "partners_from_others": "no"}
+{"id": "z00138", "policy_setters": "several", "policy_quote": "agents with heterogeneous objectives and partial data collection train local anomaly detectors", "principals": "several", "principals_quote": "heterogeneous objectives", "partners_from_others": "no"}
+{"id": "x07783", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02051", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02631", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y01700", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05381", "policy_setters": "one", "policy_quote": "", "principals": "several", "principals_quote": "two-player zero-sum games", "partners_from_others": "no"}
+{"id": "x08308", "policy_setters": "several", "policy_quote": "providers strategically choose customer prices and advertising intensity", "principals": "several", "principals_quote": "connect customers with providers", "partners_from_others": "no"}
+{"id": "y01740", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00034", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01977", "policy_setters": "several", "policy_quote": "selects benign clients through clustering", "principals": "several", "principals_quote": "privacy-preserving collaborative approach", "partners_from_others": "yes"}
+{"id": "x08706", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02851", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "Tournament organizers often seed the players", "partners_from_others": "no"}
+{"id": "x00772", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09931", "policy_setters": "several", "policy_quote": "natural-selection processes among groups of users", "principals": "several", "principals_quote": "natural-selection processes among groups of users", "partners_from_others": "no"}
+{"id": "x05274", "policy_setters": "several", "policy_quote": "make choices for themselves", "principals": "several", "principals_quote": "make choices for themselves", "partners_from_others": "no"}
+{"id": "x04185", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07488", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06379", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07598", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10281", "policy_setters": "several", "policy_quote": "devices communicate and learn from soft-decision", "principals": "several", "principals_quote": "without the sharing of user data", "partners_from_others": "no"}
+{"id": "y03529", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05903", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04461", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01946", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03625", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03193", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07411", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09487", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00028", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05828", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09866", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03379", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04937", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04826", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09114", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03539", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01038", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01672", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01514", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x02294", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03386", "policy_setters": "several", "policy_quote": "malicious clients", "principals": "several", "principals_quote": "multiple parties", "partners_from_others": "yes"}
+{"id": "x11856", "policy_setters": "one", "policy_quote": "multi-party randomized communication", "principals": "several", "principals_quote": "equally entitled agents", "partners_from_others": "no"}
+{"id": "x10288", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03039", "policy_setters": "several", "policy_quote": "pool of multiple human experts", "principals": "one", "principals_quote": "Decision support systems are designed to assist human experts", "partners_from_others": "yes"}
+{"id": "x07035", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07656", "policy_setters": "several", "policy_quote": "Training-as-a-Service", "principals": "several", "principals_quote": "Training-as-a-Service", "partners_from_others": "yes"}
+{"id": "x00503", "policy_setters": "several", "policy_quote": "malicious tasks embedded in tool-retrieved information", "principals": "several", "principals_quote": "malicious tasks embedded in tool-retrieved information", "partners_from_others": "yes"}
+{"id": "x05185", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08095", "policy_setters": "several", "policy_quote": "two-server system", "principals": "several", "principals_quote": "private federated learning", "partners_from_others": "no"}
+{"id": "x11075", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07163", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11501", "policy_setters": "several", "policy_quote": "consumer financial health", "principals": "several", "principals_quote": "consumer financial health", "partners_from_others": "no"}
+{"id": "y00449", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09473", "policy_setters": "several", "policy_quote": "adversaries can manipulate tool metadata", "principals": "several", "principals_quote": "malicious tools", "partners_from_others": "yes"}

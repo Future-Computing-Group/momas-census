@@ -1,0 +1,11 @@
+{"id": "d131", "status": "ok", "live": "live", "agent": "yes", "reach": "customer", "market": "no", "a2a": "no", "confidence": "high", "quote": "autonomous agent support for customers"}
+{"id": "d132", "status": "ok", "live": "live", "agent": "yes", "reach": "internal", "market": "no", "a2a": "no", "confidence": "medium", "quote": "purchase order analyzer agent to streamline multisystem processes"}
+{"id": "d133", "status": "ok", "live": "live", "agent": "yes", "reach": "customer", "market": "yes", "a2a": "no", "confidence": "medium", "quote": "handles end-to-end hotel, flight, and car rental requests"}
+{"id": "d136", "status": "ok", "live": "live", "agent": "yes", "reach": "customer", "market": "no", "a2a": "no", "confidence": "medium", "quote": "site visits into booked sales meetings"}
+{"id": "d139", "status": "ok", "live": "live", "agent": "yes", "reach": "customer", "market": "no", "a2a": "no", "confidence": "high", "quote": "booking new cruises, adding products and services to existing bookings"}
+{"id": "d140", "status": "ok", "live": "live", "agent": "yes", "reach": "customer", "market": "no", "a2a": "no", "confidence": "medium", "quote": "autonomously schedule follow-ups"}
+{"id": "d144", "status": "ok", "live": "live", "agent": "yes", "reach": "cross-owner", "market": "no", "a2a": "no", "confidence": "medium", "quote": "Generates a composed email and form for the insurance provider"}
+{"id": "d146", "status": "ok", "live": "live", "agent": "yes", "reach": "internal", "market": "no", "a2a": "no", "confidence": "low", "quote": "automate multistep tasks by seamlessly connecting with company systems"}
+{"id": "d149", "status": "ok", "live": "live", "agent": "yes", "reach": "customer", "market": "no", "a2a": "no", "confidence": "low", "quote": "build and deploy powerful agents for our customers"}
+{"id": "d150", "status": "ok", "live": "live", "agent": "yes", "reach": "customer", "market": "no", "a2a": "no", "confidence": "low", "quote": "Agentforce enhances customer experience by offering multiple interaction methods"}
+{"id": "d152", "status": "ok", "live": "live", "agent": "yes", "reach": "customer", "market": "no", "a2a": "no", "confidence": "medium", "quote": "rebooking a ticket for airline customers"}

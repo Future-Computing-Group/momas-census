@@ -1,0 +1,100 @@
+{"id": "x00010", "policy_setters": "one", "policy_quote": "deep learning models", "principals": "one", "principals_quote": "deep learning models", "partners_from_others": "no"}
+{"id": "x00011", "policy_setters": "one", "policy_quote": "LLM agents", "principals": "one", "principals_quote": "collaborative software engineering", "partners_from_others": "no"}
+{"id": "x00021", "policy_setters": "one", "policy_quote": "BSDE-based deep learning methods", "principals": "one", "principals_quote": "solving high-dimensional partial differential equations (PDEs)", "partners_from_others": "no"}
+{"id": "x00035", "policy_setters": "one", "policy_quote": "collective, data-driven policies, developed using machine learning algorithms", "principals": "one", "principals_quote": "optimizing their routing decisions", "partners_from_others": "no"}
+{"id": "x00041", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x00049", "policy_setters": "several", "policy_quote": "firms to collect detailed consumer data", "principals": "several", "principals_quote": "firms to collect detailed consumer data", "partners_from_others": "no"}
+{"id": "x00055", "policy_setters": "one", "policy_quote": "we propose QLASS", "principals": "one", "principals_quote": "language agents", "partners_from_others": "no"}
+{"id": "x00065", "policy_setters": "several", "policy_quote": "each buyer must design a bidding strategy", "principals": "several", "principals_quote": "competing bids", "partners_from_others": "yes"}
+{"id": "x00076", "policy_setters": "one", "policy_quote": "we propose Context-Aware Identity Generation (CAID), a novel framework to enhance MARL performance", "principals": "one", "principals_quote": "enhance MARL performance", "partners_from_others": "no"}
+{"id": "x00080", "policy_setters": "one", "policy_quote": "Bregman neural operators", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00083", "policy_setters": "one", "policy_quote": "differentiable variant", "principals": "one", "principals_quote": "end-to-end learning pipeline", "partners_from_others": "no"}
+{"id": "x00084", "policy_setters": "several", "policy_quote": "agents", "principals": "several", "principals_quote": "agents", "partners_from_others": "no"}
+{"id": "x00098", "policy_setters": "several", "policy_quote": "bidders", "principals": "several", "principals_quote": "bidders", "partners_from_others": "no"}
+{"id": "x00100", "policy_setters": "one", "policy_quote": "HAP, an adversarial Automatic Curriculum Learning framework", "principals": "one", "principals_quote": "one developer trains or runs one model", "partners_from_others": "no"}
+{"id": "x00101", "policy_setters": "one", "policy_quote": "we propose a novel optimal transport perspective", "principals": "one", "principals_quote": "3DGS compaction", "partners_from_others": "no"}
+{"id": "x00107", "policy_setters": "one", "policy_quote": "hypernetworks are architectures that produce the weights of a task-specific primary network", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00117", "policy_setters": "one", "policy_quote": "building such a heuristic solver", "principals": "one", "principals_quote": "building such a heuristic solver", "partners_from_others": "no"}
+{"id": "x00118", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x00119", "policy_setters": "one", "policy_quote": "Our approach employs an iterative refinement process", "principals": "one", "principals_quote": "optimizing downstream reward functions", "partners_from_others": "no"}
+{"id": "x00120", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x00122", "policy_setters": "one", "policy_quote": "we propose a distributionally robust maximum likelihood estimator", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00125", "policy_setters": "one", "policy_quote": "We propose BLAE, a novel batched algorithm", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00140", "policy_setters": "one", "policy_quote": "trainingdiffusion-based video generation models", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00149", "policy_setters": "one", "policy_quote": "propose to utilize matrix completion", "principals": "one", "principals_quote": "effective design of matching policies", "partners_from_others": "no"}
+{"id": "x00153", "policy_setters": "one", "policy_quote": "tests agents", "principals": "one", "principals_quote": "tests agents", "partners_from_others": "no"}
+{"id": "x00155", "policy_setters": "one", "policy_quote": "3D object detectors for autonomous vehicles", "principals": "one", "principals_quote": "3D object detectors for autonomous vehicles", "partners_from_others": "no"}
+{"id": "x00162", "policy_setters": "one", "policy_quote": "an embodied agent autonomously discovers", "principals": "one", "principals_quote": "an embodied agent", "partners_from_others": "no"}
+{"id": "x00164", "policy_setters": "one", "policy_quote": "learning and control", "principals": "one", "principals_quote": "learning and control", "partners_from_others": "no"}
+{"id": "x00167", "policy_setters": "one", "policy_quote": "we propose novel approaches for graph convolution", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00175", "policy_setters": "one", "policy_quote": "LLM agents trained with online RL", "principals": "one", "principals_quote": "Open-ended learning agents", "partners_from_others": "no"}
+{"id": "x00179", "policy_setters": "one", "policy_quote": "an intrinsically motivated deep reinforcement learning architecture", "principals": "one", "principals_quote": "artificial agents", "partners_from_others": "no"}
+{"id": "x00189", "policy_setters": "one", "policy_quote": "predict model performance when training occurs over various compressed representations", "principals": "one", "principals_quote": "predict model performance", "partners_from_others": "no"}
+{"id": "x00196", "policy_setters": "one", "policy_quote": "A graph generative model", "principals": "one", "principals_quote": "A graph generative model", "partners_from_others": "no"}
+{"id": "x00203", "policy_setters": "several", "policy_quote": "attacking web agents", "principals": "several", "principals_quote": "attacking web agents", "partners_from_others": "yes"}
+{"id": "x00205", "policy_setters": "several", "policy_quote": "buyers", "principals": "several", "principals_quote": "buyers", "partners_from_others": "no"}
+{"id": "x00213", "policy_setters": "one", "policy_quote": "enabling agents to learn rewards", "principals": "one", "principals_quote": "provided by humans", "partners_from_others": "no"}
+{"id": "x00215", "policy_setters": "one", "policy_quote": "transfers knowledge from a large teacher model to a smaller student model", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00216", "policy_setters": "one", "policy_quote": "we extend Sparse Variational Dropout to complex-valued neural networks", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00220", "policy_setters": "one", "policy_quote": "we propose the \textit{Unbalanced Optimal Transport Map for Unpaired Point Cloud Completion (\textbf{UOT-UPC})} model", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00233", "policy_setters": "one", "policy_quote": "we propose a method to train 3DGS", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00249", "policy_setters": "one", "policy_quote": "verification-agnostic networks", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00250", "policy_setters": "one", "policy_quote": "intelligent agents autonomously explore", "principals": "one", "principals_quote": "intelligent agents autonomously explore", "partners_from_others": "no"}
+{"id": "x00251", "policy_setters": "one", "policy_quote": "we propose the first multi-armed bandit algorithm", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00252", "policy_setters": "one", "policy_quote": "Our algorithms", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00262", "policy_setters": "one", "policy_quote": "we propose Non-Linear Projections of the Null-Space (NPN), a novel class of regularization", "principals": "one", "principals_quote": "recover high-dimensional signals from undersampled, noisy measurements", "partners_from_others": "no"}
+{"id": "x00264", "policy_setters": "one", "policy_quote": "quantizing both weights and activations", "principals": "one", "principals_quote": "energy-efficient LLM inference", "partners_from_others": "no"}
+{"id": "x00267", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00276", "policy_setters": "several", "policy_quote": "a principal incentivizes an agent", "principals": "several", "principals_quote": "a principal incentivizes an agent", "partners_from_others": "no"}
+{"id": "x00280", "policy_setters": "one", "policy_quote": "building machine learning models", "principals": "one", "principals_quote": "building machine learning models", "partners_from_others": "no"}
+{"id": "x00281", "policy_setters": "one", "policy_quote": "we build from the best conditional and unconditional generative models to introduce a new network architecture, training procedure, and a new algorithm", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00282", "policy_setters": "one", "policy_quote": "we propose GUI-Actor, a VLM-based method", "principals": "one", "principals_quote": "GUI agents", "partners_from_others": "no"}
+{"id": "x00286", "policy_setters": "one", "policy_quote": "introducing a novel actor-critic algorithm", "principals": "one", "principals_quote": "learned an $\\epsilon$-optimal policy", "partners_from_others": "no"}
+{"id": "x00287", "policy_setters": "one", "policy_quote": "Deep learning algorithms", "principals": "one", "principals_quote": "generalization error", "partners_from_others": "no"}
+{"id": "x00290", "policy_setters": "one", "policy_quote": "wav2vec 2.0", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00295", "policy_setters": "one", "policy_quote": "text-to-image models", "principals": "one", "principals_quote": "Model providers", "partners_from_others": "no"}
+{"id": "x00296", "policy_setters": "one", "policy_quote": "we introduce Nemotron-CORTEXA, an agentic system", "principals": "one", "principals_quote": "Enhancing LLMs' performance", "partners_from_others": "no"}
+{"id": "x00306", "policy_setters": "one", "policy_quote": "weights learned by AdamW", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00309", "policy_setters": "one", "policy_quote": "the learner", "principals": "one", "principals_quote": "the learner", "partners_from_others": "no"}
+{"id": "x00315", "policy_setters": "one", "policy_quote": "the resulting method max-min margin Markov networks ($M^4N$)", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00317", "policy_setters": "one", "policy_quote": "LLMs", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00324", "policy_setters": "one", "policy_quote": "RAG systems", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00328", "policy_setters": "one", "policy_quote": "new class of stochastic, geometrically-driven optimization algorithms", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00343", "policy_setters": "one", "policy_quote": "Sorted L-One Penalized Estimation (SLOPE)", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00345", "policy_setters": "one", "policy_quote": "our model", "principals": "one", "principals_quote": "our model", "partners_from_others": "no"}
+{"id": "x00361", "policy_setters": "several", "policy_quote": "collaborative model training across multiple parties", "principals": "several", "principals_quote": "multiple parties", "partners_from_others": "no"}
+{"id": "x00363", "policy_setters": "several", "policy_quote": "feedback loop with human users", "principals": "several", "principals_quote": "feedback loop with human users", "partners_from_others": "yes"}
+{"id": "x00369", "policy_setters": "one", "policy_quote": "The goal is to maximize the expected reward", "principals": "one", "principals_quote": "The goal is to maximize the expected reward", "partners_from_others": "no"}
+{"id": "x00371", "policy_setters": "one", "policy_quote": "existing RL agents", "principals": "one", "principals_quote": "an agent", "partners_from_others": "no"}
+{"id": "x00374", "policy_setters": "one", "policy_quote": "using a transformer to train a deep neural network", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00378", "policy_setters": "one", "policy_quote": "any AI system", "principals": "one", "principals_quote": "any AI system", "partners_from_others": "no"}
+{"id": "x00386", "policy_setters": "one", "policy_quote": "Multi-modal Large Language Models", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00388", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x00389", "policy_setters": "one", "policy_quote": "We present a practical framework for instantiating sequence modeling layers", "principals": "one", "principals_quote": "sequence modeling layers", "partners_from_others": "no"}
+{"id": "x00403", "policy_setters": "several", "policy_quote": "buyer and a seller", "principals": "several", "principals_quote": "buyer and a seller", "partners_from_others": "no"}
+{"id": "x00405", "policy_setters": "one", "policy_quote": "we propose the first ‛end-to-end” hierarchical NAS framework", "principals": "one", "principals_quote": "find an optimal architecture that is better adapted to the problem at hand", "partners_from_others": "no"}
+{"id": "x00415", "policy_setters": "one", "policy_quote": "we develop a computational trust-based discounting method", "principals": "one", "principals_quote": "multi-view classification", "partners_from_others": "no"}
+{"id": "x00420", "policy_setters": "one", "policy_quote": "evaluating a broad class of reinforcement learning algorithms on standard benchmark tasks", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00426", "policy_setters": "several", "policy_quote": "no agent has a profitable manipulation", "principals": "several", "principals_quote": "no agent has a profitable manipulation", "partners_from_others": "yes"}
+{"id": "x00444", "policy_setters": "one", "policy_quote": "generative adversarial network", "principals": "one", "principals_quote": "ECG classification", "partners_from_others": "no"}
+{"id": "x00447", "policy_setters": "one", "policy_quote": "proposes an algorithm", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00450", "policy_setters": "several", "policy_quote": "each player independently selects a policy", "principals": "several", "principals_quote": "competitive reinforcement learning settings with two agents (i.e., zero-sum stochastic games)", "partners_from_others": "no"}
+{"id": "x00456", "policy_setters": "several", "policy_quote": "malicious agents may have incentives to force a bandit algorithm into a desired behavior", "principals": "several", "principals_quote": "increase their own revenue at the expense of the advertisers", "partners_from_others": "yes"}
+{"id": "x00460", "policy_setters": "one", "policy_quote": "discrete VAE", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00469", "policy_setters": "one", "policy_quote": "determining conflict-free paths for multiple agents", "principals": "one", "principals_quote": "determining conflict-free paths for multiple agents", "partners_from_others": "no"}
+{"id": "x00471", "policy_setters": "one", "policy_quote": "we develop an Informative Multi-Agent Communication (IMAC) method to learn efficient communication protocols as well as scheduling", "principals": "one", "principals_quote": "agents cooperate", "partners_from_others": "no"}
+{"id": "x00485", "policy_setters": "one", "policy_quote": "We develop Thompson Sampling-style algorithms", "principals": "one", "principals_quote": "online decision making systems", "partners_from_others": "no"}
+{"id": "x00489", "policy_setters": "one", "policy_quote": "we propose a novel multi-modal agent architecture", "principals": "one", "principals_quote": "our model", "partners_from_others": "no"}
+{"id": "x00490", "policy_setters": "one", "policy_quote": "semi-supervised learning (SSL) algorithms", "principals": "one", "principals_quote": "semi-supervised image and language classification tasks", "partners_from_others": "no"}
+{"id": "x00503", "policy_setters": "several", "policy_quote": "malicious tasks embedded in tool-retrieved information can redirect the agent", "principals": "several", "principals_quote": "redirect the agent to take unauthorized actions", "partners_from_others": "yes"}
+{"id": "x00521", "policy_setters": "one", "policy_quote": "agent behaviors", "principals": "one", "principals_quote": "agent behaviors", "partners_from_others": "no"}
+{"id": "x00524", "policy_setters": "several", "policy_quote": "interactions between boundedly rational, self-interested agents", "principals": "several", "principals_quote": "self-interested agents", "partners_from_others": "yes"}
+{"id": "x00539", "policy_setters": "several", "policy_quote": "aligning the AI agent’s model with the human user’s mental model", "principals": "several", "principals_quote": "AI agent’s model with the human user’s mental model", "partners_from_others": "yes"}
+{"id": "x00542", "policy_setters": "one", "policy_quote": "we propose MF-FQI algorithm, which solves the mean-field MARL", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00543", "policy_setters": "one", "policy_quote": "we propose a new probabilistic modeling framework for Thompson sampling", "principals": "one", "principals_quote": "Thompson sampling is an efficient algorithm for sequential decision making", "partners_from_others": "no"}
+{"id": "x00546", "policy_setters": "one", "policy_quote": "an agent", "principals": "one", "principals_quote": "an agent", "partners_from_others": "no"}
+{"id": "x00548", "policy_setters": "one", "policy_quote": "learn a highly rewarding policy", "principals": "one", "principals_quote": "learn a highly rewarding policy", "partners_from_others": "no"}
+{"id": "x00550", "policy_setters": "one", "policy_quote": "We train a sequence Transformer", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00553", "policy_setters": "one", "policy_quote": "Our approach", "principals": "one", "principals_quote": "decentralized optimization setting", "partners_from_others": "no"}
+{"id": "x00555", "policy_setters": "one", "policy_quote": "the agent", "principals": "one", "principals_quote": "the agent", "partners_from_others": "no"}
+{"id": "x00568", "policy_setters": "one", "policy_quote": "baseline models", "principals": "one", "principals_quote": "evaluating embodied agent capabilities", "partners_from_others": "no"}

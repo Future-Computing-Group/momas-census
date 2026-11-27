@@ -1,0 +1,35 @@
+{"id":"x03303","policy_setters":"na","policy_quote":"","principals":"na","principals_quote":"","partners_from_others":"na"}
+{"id":"x02681","policy_setters":"one","policy_quote":"Our method learns to generate a sequence of actions","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"z00129","policy_setters":"one","policy_quote":"a federated learning protocol","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x10980","policy_setters":"one","policy_quote":"Self-Evolving Embodied Agents-R1","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x09052","policy_setters":"several","policy_quote":"two-player zero-sum matrix games and Markov games","principals":"several","principals_quote":"Estimating the unknown reward functions driving agents' behavior","partners_from_others":"no"}
+{"id":"x09257","policy_setters":"one","policy_quote":"The model is trained using a ranking loss","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x05994","policy_setters":"na","policy_quote":"","principals":"na","principals_quote":"","partners_from_others":"na"}
+{"id":"y01734","policy_setters":"several","policy_quote":"multiagent interactions","principals":"several","principals_quote":"multiagent interactions","partners_from_others":"yes"}
+{"id":"y02365","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x00958","policy_setters":"several","policy_quote":"privacy concerns for both clients and servers","principals":"several","principals_quote":"privacy concerns for both clients and servers","partners_from_others":"no"}
+{"id":"x03608","policy_setters":"one","policy_quote":"trains LLMs to Reason with Search via reinforcement learning","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"y03232","policy_setters":"several","policy_quote":"human-AI interactions","principals":"several","principals_quote":"human-AI interactions","partners_from_others":"yes"}
+{"id":"y00368","policy_setters":"several","policy_quote":"52,958 human players across 31,049 games","principals":"na","principals_quote":"","partners_from_others":"no"}
+{"id":"x01792","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x09000","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x06681","policy_setters":"na","policy_quote":"","principals":"na","principals_quote":"","partners_from_others":"na"}
+{"id":"x11665","policy_setters":"one","policy_quote":"pre-training a task-agnostic foundation model","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x06471","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x07425","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x00388","policy_setters":"several","policy_quote":"voting outcomes","principals":"several","principals_quote":"voting outcomes","partners_from_others":"no"}
+{"id":"y01501","policy_setters":"several","policy_quote":"learning from the predictions of a nearby unit that is equipped with an accurate detector","principals":"several","principals_quote":"it may learn from other traffic participants","partners_from_others":"yes"}
+{"id":"y00799","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x10768","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"z00112","policy_setters":"several","policy_quote":"multiple self-interested agents","principals":"several","principals_quote":"multiple self-interested agents","partners_from_others":"yes"}
+{"id":"x08641","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"y01107","policy_setters":"one","policy_quote":"Federated Share-A Low-Rank Adaptation","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"y01719","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x07494","policy_setters":"several","policy_quote":"strategic user behavior in the form of costly feature manipulations","principals":"several","principals_quote":"strategic user behavior","partners_from_others":"yes"}
+{"id":"y00995","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"y00771","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"y02073","policy_setters":"na","policy_quote":"","principals":"na","principals_quote":"","partners_from_others":"na"}
+{"id":"x11446","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x02288","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"y02906","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x05114","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}

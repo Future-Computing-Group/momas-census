@@ -1,0 +1,275 @@
+{"q": "R1", "lit": "L01", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R1", "lit": "L02", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R1", "lit": "L03", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R1", "lit": "L04", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R1", "lit": "L05", "need": "yes", "seeds": ["W2769863042", "W4285092461"], "result": "Optimal auctions against a no-regret buyer (truthful formats not optimal, overbidding can pay) and Q-learning bidders' format-dependent outcomes", "basis": "abstract"}
+{"q": "R1", "lit": "L06", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R1", "lit": "L07", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R1", "lit": "L08", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R1", "lit": "L09", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R1", "lit": "L10", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R1", "lit": "L11", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R2", "lit": "L01", "need": "yes", "seeds": ["W2087530244", "W2067758411"], "result": "Myerson-Satterthwaite impossibility of efficient, IR, budget-balanced bilateral trade, and Cremer-McLean full surplus extraction under correlated values", "basis": "knowledge"}
+{"q": "R2", "lit": "L02", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R2", "lit": "L03", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R2", "lit": "L04", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R2", "lit": "L05", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R2", "lit": "L06", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R2", "lit": "L07", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R2", "lit": "L08", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R2", "lit": "L09", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R2", "lit": "L10", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R2", "lit": "L11", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R3", "lit": "L01", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R3", "lit": "L02", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R3", "lit": "L03", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R3", "lit": "L04", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R3", "lit": "L05", "need": "yes", "seeds": ["W2970365960", "W2769863042", "W4405464720"], "result": "Guarantee of Stackelberg utility against no-regret learners and strictly more against mean-based learners; characterisation of optimal play", "basis": "abstract"}
+{"q": "R3", "lit": "L06", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R3", "lit": "L07", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R3", "lit": "L08", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R3", "lit": "L09", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R3", "lit": "L10", "need": "yes", "seeds": ["W2753984105", "W4229059695"], "result": "Opponent shaping: LOLA exploits naive learners; M-FOS learns long-horizon shaping including ZD extortion", "basis": "abstract"}
+{"q": "R3", "lit": "L11", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R4", "lit": "L01", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R4", "lit": "L02", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R4", "lit": "L03", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R4", "lit": "L04", "need": "yes", "seeds": ["W4410088881", "W2765564115"], "result": "Evaluations of algorithms are biased when data are shaped by other algorithms; confounded data homogenise behaviour without raising utility", "basis": "abstract"}
+{"q": "R4", "lit": "L05", "need": "yes", "seeds": ["W2101379030"], "result": "No sublinear policy regret against adaptive adversary with unbounded memory; conversion for bounded memory", "basis": "abstract"}
+{"q": "R4", "lit": "L06", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R4", "lit": "L07", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R4", "lit": "L08", "need": "yes", "seeds": ["W2070720254", "W3124882988"], "result": "Lucas critique: relationships estimated under fixed policy fail when agents adapt; optimal policy can be unstable under adaptive learning", "basis": "knowledge"}
+{"q": "R4", "lit": "L09", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R4", "lit": "L10", "need": "yes", "seeds": ["W2740377041", "W2623431351"], "result": "Non-stationarity from learning opponents breaks learning against fixed counterparts (Q-learning, policy gradient)", "basis": "abstract"}
+{"q": "R4", "lit": "L11", "need": "yes", "seeds": ["W3034367601"], "result": "Predictions calibrated on past outcomes fail when deployment shifts the distribution; retraining convergence conditions", "basis": "abstract"}
+{"q": "R5", "lit": "L01", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R5", "lit": "L02", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R5", "lit": "L03", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R5", "lit": "L04", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R5", "lit": "L05", "need": "yes", "seeds": ["W2124666512"], "result": "No uncoupled dynamics are guaranteed to converge to Nash equilibrium", "basis": "abstract"}
+{"q": "R5", "lit": "L06", "need": "yes", "seeds": ["W2003214215", "W2035362408"], "result": "Consensus impossibility under asynchrony (FLP) and solvability under partial synchrony with bounded delays", "basis": "abstract"}
+{"q": "R5", "lit": "L07", "need": "yes", "seeds": ["W4206566500", "W2004470537", "W2125812768"], "result": "Asynchronous (chaotic relaxation) iteration convergence under bounded delays; small-gain stability; ODE method for recursive algorithms with feedback", "basis": "knowledge"}
+{"q": "R5", "lit": "L08", "need": "yes", "seeds": ["W2003830355", "W3124614318"], "result": "Convergence of least-squares learning to self-confirming equilibria via an ODE, plus escape dynamics", "basis": "knowledge"}
+{"q": "R5", "lit": "L09", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R5", "lit": "L10", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R5", "lit": "L11", "need": "yes", "seeds": ["W3035048992", "W3099382994", "W3034367601"], "result": "Necessary and sufficient conditions for convergence of retraining to a stable point under update schedules", "basis": "abstract"}
+{"q": "R6", "lit": "L01", "need": "yes", "seeds": ["W2168876164"], "result": "Self-policing cartel under imperfect price information: industry structure conditions for viable noncooperative collusion", "basis": "abstract"}
+{"q": "R6", "lit": "L02", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R6", "lit": "L03", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R6", "lit": "L04", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R6", "lit": "L05", "need": "yes", "seeds": ["W4285092461"], "result": "First-price auctions with no feedback yield tacit collusion among Q-learners, second-price do not; lowest-winning-bid feedback raises competitiveness", "basis": "abstract"}
+{"q": "R6", "lit": "L06", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R6", "lit": "L07", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R6", "lit": "L08", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R6", "lit": "L09", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R6", "lit": "L10", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "R6", "lit": "L11", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D1", "lit": "L01", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D1", "lit": "L02", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D1", "lit": "L03", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D1", "lit": "L04", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D1", "lit": "L05", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D1", "lit": "L06", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D1", "lit": "L07", "need": "yes", "seeds": ["W2980082154", "W2793571563"], "result": "Where external excitation is needed for generic identifiability of dynamic networks, and what is identifiable from partial measurements", "basis": "abstract"}
+{"q": "D1", "lit": "L08", "need": "yes", "seeds": ["W4254875572", "W3123810580", "W2174806087"], "result": "Free-riding makes experimentation inefficiently low; self-confirming equilibria leave off-path responses untested", "basis": "abstract"}
+{"q": "D1", "lit": "L09", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D1", "lit": "L10", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D1", "lit": "L11", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D2", "lit": "L01", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D2", "lit": "L02", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D2", "lit": "L03", "need": "yes", "seeds": ["W4224979542"], "result": "Method to estimate the preference shift a deployed algorithm would induce, separating it from natural drift via a learned dynamics model", "basis": "abstract"}
+{"q": "D2", "lit": "L04", "need": "yes", "seeds": ["W4410088881"], "result": "Experimental designs (randomisation schemes) for separating an algorithm's effect under interference through shared data", "basis": "abstract"}
+{"q": "D2", "lit": "L05", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D2", "lit": "L06", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D2", "lit": "L07", "need": "yes", "seeds": ["W2593163465", "W2980082154", "W1998440482"], "result": "Identifiability conditions of network/closed-loop dynamics requiring external excitation to separate causal paths and noise", "basis": "knowledge"}
+{"q": "D2", "lit": "L08", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D2", "lit": "L09", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D2", "lit": "L10", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D2", "lit": "L11", "need": "yes", "seeds": ["W4297806505"], "result": "Performative power: causal, identifiable measure of an algorithmic firm's induced change in a population via discontinuities", "basis": "abstract"}
+{"q": "D3", "lit": "L01", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D3", "lit": "L02", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D3", "lit": "L03", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D3", "lit": "L04", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D3", "lit": "L05", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D3", "lit": "L06", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D3", "lit": "L07", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D3", "lit": "L08", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D3", "lit": "L09", "need": "yes", "seeds": ["W2909858546", "W4250057676"], "result": "Competition-law treatment of tacit collusion by algorithms and what evidence of agreement is required", "basis": "knowledge"}
+{"q": "D3", "lit": "L10", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D3", "lit": "L11", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D4", "lit": "L01", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D4", "lit": "L02", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D4", "lit": "L03", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D4", "lit": "L04", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D4", "lit": "L05", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D4", "lit": "L06", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D4", "lit": "L07", "need": "yes", "seeds": ["W2965027687"], "result": "Necessary and sufficient conditions on informativity of finite data for analysis and control claims", "basis": "abstract"}
+{"q": "D4", "lit": "L08", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D4", "lit": "L09", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D4", "lit": "L10", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D4", "lit": "L11", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D5", "lit": "L01", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D5", "lit": "L02", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D5", "lit": "L03", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D5", "lit": "L04", "need": "yes", "seeds": ["W4410088881"], "result": "Shared data between compared algorithms biases A/B tests (symbiosis bias); cluster, data-diverted and co-diverted designs reduce it", "basis": "abstract"}
+{"q": "D5", "lit": "L05", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D5", "lit": "L06", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D5", "lit": "L07", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D5", "lit": "L08", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D5", "lit": "L09", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D5", "lit": "L10", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D5", "lit": "L11", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D6", "lit": "L01", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D6", "lit": "L02", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D6", "lit": "L03", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D6", "lit": "L04", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D6", "lit": "L05", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D6", "lit": "L06", "need": "yes", "seeds": ["W3137092842", "W2010939995"], "result": "Unforgeable written messages make agreement solvable for any number of traitors; logic for analysing authentication protocols", "basis": "abstract"}
+{"q": "D6", "lit": "L07", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D6", "lit": "L08", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D6", "lit": "L09", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D6", "lit": "L10", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "D6", "lit": "L11", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "P1", "lit": "L01", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "P1", "lit": "L02", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "P1", "lit": "L03", "need": "yes", "seeds": ["W4392223779"], "result": "In delegation games, principals' welfare is determined by agents' alignment and capability, indicating which interventions restore outcomes", "basis": "abstract"}
+{"q": "P1", "lit": "L04", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "P1", "lit": "L05", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "P1", "lit": "L06", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "P1", "lit": "L07", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "P1", "lit": "L08", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "P1", "lit": "L09", "need": "yes", "seeds": ["W4394828430"], "result": "Agency-law framework for governing AI agents assigning duties to principals and deployers", "basis": "knowledge"}
+{"q": "P1", "lit": "L10", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "P1", "lit": "L11", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "P2", "lit": "L01", "need": "yes", "seeds": ["W2155300024", "W1973465190"], "result": "Optimal subsidy/price and incentive-contract design by a regulator who cannot observe the firm's costs", "basis": "abstract"}
+{"q": "P2", "lit": "L02", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "P2", "lit": "L03", "need": "yes", "seeds": ["W4228997196"], "result": "Two-level RL planner that steers coadapting learning agents via policy, recovering optimal tax in one-step economies", "basis": "abstract"}
+{"q": "P2", "lit": "L04", "need": "yes", "seeds": ["W2726816714"], "result": "Black-box change of inputs to a feedback-loop learning system removes runaway feedback so the true rate is learned", "basis": "abstract"}
+{"q": "P2", "lit": "L05", "need": "yes", "seeds": ["W4405487188"], "result": "Steering no-regret learners to a desired equilibrium with payments: impossible with constant total budget, possible with sublinear budget", "basis": "abstract"}
+{"q": "P2", "lit": "L06", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "P2", "lit": "L07", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "P2", "lit": "L08", "need": "yes", "seeds": ["W3124882988"], "result": "Conditioning policy on observed expectations stabilises learning agents", "basis": "abstract"}
+{"q": "P2", "lit": "L09", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "P2", "lit": "L10", "need": "yes", "seeds": ["W4229059695"], "result": "Model-free shaping of learners without white-box access, reaching socially optimal outcomes in meta-self-play", "basis": "abstract"}
+{"q": "P2", "lit": "L11", "need": "yes", "seeds": ["W3130512562"], "result": "Derivative-free optimisation of the performative risk steers the induced distribution without reading it", "basis": "abstract"}
+{"q": "P3", "lit": "L01", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "P3", "lit": "L02", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "P3", "lit": "L03", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "P3", "lit": "L04", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "P3", "lit": "L05", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "P3", "lit": "L06", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "P3", "lit": "L07", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "P3", "lit": "L08", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "P3", "lit": "L09", "need": "yes", "seeds": ["W4367628156", "W2087710120", "W653546271"], "result": "Accountability allocation in algorithmic supply chains, responsibility gap for learning automata, agency-law treatment of artificial agents", "basis": "abstract"}
+{"q": "P3", "lit": "L10", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "P3", "lit": "L11", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "P4", "lit": "L01", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "P4", "lit": "L02", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "P4", "lit": "L03", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "P4", "lit": "L04", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "P4", "lit": "L05", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "P4", "lit": "L06", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "P4", "lit": "L07", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "P4", "lit": "L08", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "P4", "lit": "L09", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "P4", "lit": "L10", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "P4", "lit": "L11", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "C1", "lit": "L01", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "C1", "lit": "L02", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "C1", "lit": "L03", "need": "yes", "seeds": ["W4228997196"], "result": "Curriculum-stabilised learning when the planner's rules and agents' behaviour coadapt", "basis": "abstract"}
+{"q": "C1", "lit": "L04", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "C1", "lit": "L05", "need": "yes", "seeds": ["W2101379030"], "result": "Policy-regret bound: sublinear policy regret attainable when the adaptive adversary has bounded memory", "basis": "abstract"}
+{"q": "C1", "lit": "L06", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "C1", "lit": "L07", "need": "yes", "seeds": ["W2125812768"], "result": "ODE-method convergence conditions for recursive learning algorithms whose observations depend on their own outputs", "basis": "abstract"}
+{"q": "C1", "lit": "L08", "need": "yes", "seeds": ["W3124614318", "W3124882988"], "result": "Learning dynamics when the rule-setter adapts to agents' expectations and both learn simultaneously", "basis": "abstract"}
+{"q": "C1", "lit": "L09", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "C1", "lit": "L10", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "C1", "lit": "L11", "need": "yes", "seeds": ["W3035048992", "W3034367601"], "result": "Convergence rates of stochastic optimisation when deployed rules shift the data distribution", "basis": "abstract"}
+{"q": "C2", "lit": "L01", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "C2", "lit": "L02", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "C2", "lit": "L03", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "C2", "lit": "L04", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "C2", "lit": "L05", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "C2", "lit": "L06", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "C2", "lit": "L07", "need": "yes", "seeds": ["W2094364653"], "result": "Two-time-scale stochastic approximation convergence under separated step-size rates", "basis": "knowledge"}
+{"q": "C2", "lit": "L08", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "C2", "lit": "L09", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "C2", "lit": "L10", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "C2", "lit": "L11", "need": "yes", "seeds": ["W3177232297", "W3035048992"], "result": "Update-frequency ratios and greedy vs lazy deploy determine convergence rates", "basis": "abstract"}
+{"q": "C3", "lit": "L01", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "C3", "lit": "L02", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "C3", "lit": "L03", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "C3", "lit": "L04", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "C3", "lit": "L05", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "C3", "lit": "L06", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "C3", "lit": "L07", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "C3", "lit": "L08", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "C3", "lit": "L09", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "C3", "lit": "L10", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "C3", "lit": "L11", "need": "yes", "seeds": ["W3177232297"], "result": "Relative update frequencies determine order of play; faster updater reverses leader/follower and can choose the Stackelberg direction", "basis": "abstract"}
+{"q": "C4", "lit": "L01", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "C4", "lit": "L02", "need": "yes", "seeds": ["W4388316013"], "result": "Responsive regulation: graduated escalation of sanctions and participant-involving oversight sustain compliance, with empirical support", "basis": "knowledge"}
+{"q": "C4", "lit": "L03", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "C4", "lit": "L04", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "C4", "lit": "L05", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "C4", "lit": "L06", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "C4", "lit": "L07", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "C4", "lit": "L08", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "C4", "lit": "L09", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "C4", "lit": "L10", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "C4", "lit": "L11", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N1", "lit": "L01", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N1", "lit": "L02", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N1", "lit": "L03", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N1", "lit": "L04", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N1", "lit": "L05", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N1", "lit": "L06", "need": "yes", "seeds": ["W3137092842", "W2114579022", "W4236798639"], "result": "Byzantine agreement iff more than 2/3 loyal (oral messages); BFT replication; BAR model tolerating Byzantine and rational nodes", "basis": "abstract"}
+{"q": "N1", "lit": "L07", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N1", "lit": "L08", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N1", "lit": "L09", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N1", "lit": "L10", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N1", "lit": "L11", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N2", "lit": "L01", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N2", "lit": "L02", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N2", "lit": "L03", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N2", "lit": "L04", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N2", "lit": "L05", "need": "yes", "seeds": ["W2769863042", "W2970365960"], "result": "Gains of a seller/leader who exploits a learner relative to Stackelberg commitment value", "basis": "abstract"}
+{"q": "N2", "lit": "L06", "need": "yes", "seeds": ["W3137092842", "W2114579022"], "result": "Replicated state machines with signed messages keep correct service despite equivocating replicas", "basis": "abstract"}
+{"q": "N2", "lit": "L07", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N2", "lit": "L08", "need": "yes", "seeds": ["W3124614318", "W3124882988"], "result": "Re-optimising policy against learners yields instability/escape dynamics versus commitment (Ramsey) outcomes", "basis": "abstract"}
+{"q": "N2", "lit": "L09", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N2", "lit": "L10", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N2", "lit": "L11", "need": "yes", "seeds": ["W4297806505", "W3130512562"], "result": "Gain from steering population versus optimising on current data; performative optimum differs from stable point", "basis": "abstract"}
+{"q": "N3", "lit": "L01", "need": "yes", "seeds": ["W1516051863"], "result": "Platform pricing and governance model where platforms must get both sides on board", "basis": "abstract"}
+{"q": "N3", "lit": "L02", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N3", "lit": "L03", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N3", "lit": "L04", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N3", "lit": "L05", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N3", "lit": "L06", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N3", "lit": "L07", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N3", "lit": "L08", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N3", "lit": "L09", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N3", "lit": "L10", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N3", "lit": "L11", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N4", "lit": "L01", "need": "yes", "seeds": ["W2099416858", "W4293229472"], "result": "Agency-theoretic capture results (organizational response lowers stakes of interest groups) and Stigler's theory that regulation is acquired by the regulated industry", "basis": "abstract"}
+{"q": "N4", "lit": "L02", "need": "yes", "seeds": ["W2281799576", "W2274887581"], "result": "Capture is diagnosable and preventable; private standard-setting influence depends on domestic institutions and who writes the rules", "basis": "abstract"}
+{"q": "N4", "lit": "L03", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N4", "lit": "L04", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N4", "lit": "L05", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N4", "lit": "L06", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N4", "lit": "L07", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N4", "lit": "L08", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N4", "lit": "L09", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N4", "lit": "L10", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N4", "lit": "L11", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N5", "lit": "L01", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N5", "lit": "L02", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N5", "lit": "L03", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N5", "lit": "L04", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N5", "lit": "L05", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N5", "lit": "L06", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N5", "lit": "L07", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N5", "lit": "L08", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N5", "lit": "L09", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N5", "lit": "L10", "need": "no", "seeds": [], "result": "", "basis": ""}
+{"q": "N5", "lit": "L11", "need": "no", "seeds": [], "result": "", "basis": ""}

@@ -1,0 +1,829 @@
+{
+ "Economics": [
+  [
+   "T11326",
+   "Stock Market Forecasting Methods",
+   85
+  ],
+  [
+   "T14260",
+   "Impact of AI and Big Data on Business and Society",
+   72
+  ],
+  [
+   "T10646",
+   "Experimental Behavioral Economics Studies",
+   42
+  ],
+  [
+   "T11031",
+   "Game Theory and Applications",
+   41
+  ],
+  [
+   "T12101",
+   "Advanced Bandit Algorithms Research",
+   28
+  ],
+  [
+   "T10991",
+   "Game Theory and Voting Systems",
+   19
+  ],
+  [
+   "T10208",
+   "Labor market dynamics and wage inequality",
+   18
+  ],
+  [
+   "T10328",
+   "Supply Chain and Inventory Management",
+   18
+  ],
+  [
+   "T11195",
+   "Simulation Techniques and Applications",
+   14
+  ],
+  [
+   "T11043",
+   "Merger and Competition Analysis",
+   13
+  ],
+  [
+   "T11182",
+   "Auction Theory and Applications",
+   12
+  ],
+  [
+   "T10050",
+   "Multi-Criteria Decision Making",
+   11
+  ],
+  [
+   "T12394",
+   "Insurance and Financial Risk Management",
+   10
+  ],
+  [
+   "T11918",
+   "Forecasting Techniques and Applications",
+   8
+  ],
+  [
+   "T10395",
+   "Construction Project Management and Performance",
+   6
+  ],
+  [
+   "T10467",
+   "Psychometric Methodologies and Testing",
+   6
+  ],
+  [
+   "T11413",
+   "Risk and Portfolio Optimization",
+   6
+  ],
+  [
+   "T10393",
+   "Economic Growth and Productivity",
+   5
+  ],
+  [
+   "T10785",
+   "Economic Theory and Institutions",
+   5
+  ],
+  [
+   "T11773",
+   "Healthcare Operations and Scheduling Optimization",
+   5
+  ],
+  [
+   "T11270",
+   "Complex Systems and Time Series Analysis",
+   4
+  ],
+  [
+   "T10974",
+   "Advanced Queuing Theory Analysis",
+   3
+  ],
+  [
+   "T11798",
+   "Optimal Experimental Design Methods",
+   3
+  ],
+  [
+   "T11810",
+   "Complex Systems and Decision Making",
+   3
+  ],
+  [
+   "T10391",
+   "Healthcare Policy and Management",
+   2
+  ],
+  [
+   "T10438",
+   "Energy, Environment, Economic Growth",
+   2
+  ],
+  [
+   "T10471",
+   "Climate Change Policy and Economics",
+   2
+  ],
+  [
+   "T10804",
+   "Health Systems, Economic Evaluations, Quality of Life",
+   2
+  ],
+  [
+   "T10841",
+   "Economic and Environmental Valuation",
+   2
+  ],
+  [
+   "T11674",
+   "Sports Analytics and Performance",
+   2
+  ],
+  [
+   "T10605",
+   "Historical Economic and Social Studies",
+   1
+  ],
+  [
+   "T10632",
+   "Housing Market and Economics",
+   1
+  ],
+  [
+   "T11257",
+   "Taxation and Compliance Studies",
+   1
+  ],
+  [
+   "T11499",
+   "ICT Impact and Policies",
+   1
+  ],
+  [
+   "T11711",
+   "COVID-19 Pandemic Impacts",
+   1
+  ],
+  [
+   "T11762",
+   "Law, Economics, and Judicial Systems",
+   1
+  ],
+  [
+   "T11792",
+   "Pharmaceutical Economics and Policy",
+   1
+  ],
+  [
+   "T12177",
+   "Resource-Constrained Project Scheduling",
+   1
+  ],
+  [
+   "T12659",
+   "Innovation Diffusion and Forecasting",
+   1
+  ],
+  [
+   "T13867",
+   "Economic Growth and Development",
+   1
+  ],
+  [
+   "T13897",
+   "Historical Economic and Legal Thought",
+   1
+  ],
+  [
+   "T14129",
+   "Economic and Business Studies",
+   1
+  ]
+ ],
+ "Distributed computing": [
+  [
+   "T10400",
+   "Network Security and Intrusion Detection",
+   152
+  ],
+  [
+   "T10270",
+   "Blockchain Technology Applications and Security",
+   145
+  ],
+  [
+   "T12127",
+   "Software System Performance and Reliability",
+   126
+  ],
+  [
+   "T10101",
+   "Cloud Computing and Resource Management",
+   64
+  ],
+  [
+   "T10927",
+   "Access Control and Trust",
+   59
+  ],
+  [
+   "T10679",
+   "Service-Oriented Architecture and Web Services",
+   19
+  ],
+  [
+   "T10237",
+   "Cryptography and Data Security",
+   14
+  ],
+  [
+   "T10772",
+   "Distributed systems and fault tolerance",
+   10
+  ],
+  [
+   "T11614",
+   "Cloud Data Security Solutions",
+   6
+  ],
+  [
+   "T12203",
+   "Mobile Agent-Based Network Management",
+   5
+  ],
+  [
+   "T11504",
+   "Advanced Authentication Protocols Security",
+   3
+  ],
+  [
+   "T14067",
+   "Cloud Computing and Remote Desktop Technologies",
+   3
+  ],
+  [
+   "T10715",
+   "Distributed and Parallel Computing Systems",
+   2
+  ]
+ ],
+ "Law": [
+  [
+   "T13364",
+   "Digitalization, Law, and Regulation",
+   114
+  ],
+  [
+   "T13643",
+   "Artificial Intelligence in Law",
+   60
+  ],
+  [
+   "T14036",
+   "Literary and Philosophical Studies",
+   35
+  ],
+  [
+   "T12519",
+   "Cybercrime and Law Enforcement Studies",
+   9
+  ],
+  [
+   "T14362",
+   "Diverse Legal and Medical Studies",
+   7
+  ],
+  [
+   "T13475",
+   "Digital Transformation in Law",
+   5
+  ],
+  [
+   "T12755",
+   "Legal Education and Practice Innovations",
+   3
+  ],
+  [
+   "T12895",
+   "Environmental law and policy",
+   2
+  ],
+  [
+   "T12040",
+   "International Arbitration and Investment Law",
+   1
+  ],
+  [
+   "T12982",
+   "Legal principles and applications",
+   1
+  ],
+  [
+   "T13191",
+   "Dispute Resolution and Class Actions",
+   1
+  ],
+  [
+   "T13271",
+   "Ukrainian Legal and Forensic Studies",
+   1
+  ],
+  [
+   "T14206",
+   "Animal Law and Welfare",
+   1
+  ],
+  [
+   "T14291",
+   "Indonesian Legal and Regulatory Studies",
+   1
+  ],
+  [
+   "T14432",
+   "Freedom of Expression and Defamation",
+   1
+  ]
+ ],
+ "Political science": [
+  [
+   "T10953",
+   "E-Government and Public Services",
+   30
+  ],
+  [
+   "T12572",
+   "Intelligence, Security, War Strategy",
+   7
+  ],
+  [
+   "T10053",
+   "International Relations and Foreign Policy",
+   6
+  ],
+  [
+   "T12221",
+   "Cybersecurity and Cyber Warfare Studies",
+   6
+  ],
+  [
+   "T12010",
+   "Evaluation and Performance Assessment",
+   4
+  ],
+  [
+   "T10749",
+   "International Law and Human Rights",
+   3
+  ],
+  [
+   "T13291",
+   "Political Theory and Democracy",
+   3
+  ],
+  [
+   "T10289",
+   "European Union Policy and Governance",
+   2
+  ],
+  [
+   "T13120",
+   "Nuclear Issues and Defense",
+   2
+  ],
+  [
+   "T14443",
+   "COVID-19, Geopolitics, Technology, Migration",
+   2
+  ],
+  [
+   "T10718",
+   "Political Philosophy and Ethics",
+   1
+  ],
+  [
+   "T11076",
+   "Policing Practices and Perceptions",
+   1
+  ],
+  [
+   "T11397",
+   "Populism, Right-Wing Movements",
+   1
+  ],
+  [
+   "T12185",
+   "Regulation and Compliance Studies",
+   1
+  ],
+  [
+   "T13369",
+   "European and Russian Geopolitical Military Strategies",
+   1
+  ],
+  [
+   "T13710",
+   "European and International Law Studies",
+   1
+  ],
+  [
+   "T14133",
+   "Border Security and International Relations",
+   1
+  ]
+ ],
+ "Control": [
+  [
+   "T10653",
+   "Robot Manipulation and Learning",
+   107
+  ],
+  [
+   "T12888",
+   "Military Strategy and Technology",
+   21
+  ],
+  [
+   "T13382",
+   "Robotics and Automated Systems",
+   20
+  ],
+  [
+   "T10524",
+   "Traffic control and management",
+   19
+  ],
+  [
+   "T10249",
+   "Distributed Control Multi-Agent Systems",
+   15
+  ],
+  [
+   "T10586",
+   "Robotic Path Planning Algorithms",
+   12
+  ],
+  [
+   "T10220",
+   "Machine Fault Diagnosis Techniques",
+   9
+  ],
+  [
+   "T10876",
+   "Fault Detection and Control Systems",
+   9
+  ],
+  [
+   "T10223",
+   "Microgrid Control and Optimization",
+   7
+  ],
+  [
+   "T12000",
+   "Systems Engineering Methodologies and Applications",
+   5
+  ],
+  [
+   "T10917",
+   "Smart Grid Security and Resilience",
+   4
+  ],
+  [
+   "T10972",
+   "Power Systems Fault Detection",
+   4
+  ],
+  [
+   "T10791",
+   "Advanced Control Systems Optimization",
+   3
+  ],
+  [
+   "T10879",
+   "Robotic Locomotion and Control",
+   3
+  ],
+  [
+   "T11081",
+   "Advanced Control Systems Design",
+   3
+  ],
+  [
+   "T13344",
+   "Industrial Automation and Control Systems",
+   3
+  ],
+  [
+   "T14270",
+   "Simulation and Modeling Applications",
+   3
+  ],
+  [
+   "T10046",
+   "Stability and Control of Uncertain Systems",
+   1
+  ],
+  [
+   "T10571",
+   "Robotic Mechanisms and Dynamics",
+   1
+  ],
+  [
+   "T11053",
+   "Process Optimization and Integration",
+   1
+  ],
+  [
+   "T11110",
+   "Stability and Controllability of Differential Equations",
+   1
+  ],
+  [
+   "T11236",
+   "Control Systems and Identification",
+   1
+  ],
+  [
+   "T11602",
+   "Magnetic Bearings and Levitation Dynamics",
+   1
+  ]
+ ],
+ "Artificial intelligence (reference)": [
+  [
+   "T10028",
+   "Topic Modeling",
+   902
+  ],
+  [
+   "T10883",
+   "Ethics and Social Impacts of AI",
+   900
+  ],
+  [
+   "T13904",
+   "Artificial Intelligence Applications",
+   509
+  ],
+  [
+   "T11689",
+   "Adversarial Robustness in Machine Learning",
+   496
+  ],
+  [
+   "T10462",
+   "Reinforcement Learning in Robotics",
+   430
+  ],
+  [
+   "T10456",
+   "Multi-Agent Systems and Negotiation",
+   319
+  ],
+  [
+   "T10906",
+   "AI-based Problem Solving and Planning",
+   285
+  ],
+  [
+   "T12031",
+   "Speech and dialogue systems",
+   239
+  ],
+  [
+   "T11574",
+   "Artificial Intelligence in Games",
+   157
+  ],
+  [
+   "T12026",
+   "Explainable Artificial Intelligence (XAI)",
+   148
+  ],
+  [
+   "T14381",
+   "Psychiatry, Mental Health, Neuroscience",
+   148
+  ],
+  [
+   "T11902",
+   "Intelligent Tutoring Systems and Adaptive Learning",
+   127
+  ],
+  [
+   "T10181",
+   "Natural Language Processing Techniques",
+   95
+  ],
+  [
+   "T10764",
+   "Privacy-Preserving Technologies in Data",
+   84
+  ],
+  [
+   "T11307",
+   "Domain Adaptation and Few-Shot Learning",
+   52
+  ],
+  [
+   "T10667",
+   "Emotion and Mood Recognition",
+   47
+  ],
+  [
+   "T11975",
+   "Evolutionary Algorithms and Applications",
+   36
+  ],
+  [
+   "T10664",
+   "Sentiment Analysis and Opinion Mining",
+   35
+  ],
+  [
+   "T11010",
+   "Logic, Reasoning, and Knowledge",
+   34
+  ],
+  [
+   "T13851",
+   "Law, AI, and Intellectual Property",
+   30
+  ],
+  [
+   "T11273",
+   "Advanced Graph Neural Networks",
+   25
+  ],
+  [
+   "T13702",
+   "Machine Learning in Healthcare",
+   25
+  ],
+  [
+   "T10215",
+   "Semantic Web and Ontologies",
+   24
+  ],
+  [
+   "T12535",
+   "Machine Learning and Data Classification",
+   22
+  ],
+  [
+   "T10682",
+   "Quantum Computing Algorithms and Architecture",
+   20
+  ],
+  [
+   "T12262",
+   "Hate Speech and Cyberbullying Detection",
+   19
+  ],
+  [
+   "T10201",
+   "Speech Recognition and Synthesis",
+   18
+  ],
+  [
+   "T10100",
+   "Metaheuristic Optimization Algorithms Research",
+   15
+  ],
+  [
+   "T11652",
+   "Imbalanced Data Classification Techniques",
+   15
+  ],
+  [
+   "T13062",
+   "Cognitive Computing and Networks",
+   15
+  ],
+  [
+   "T11303",
+   "Bayesian Modeling and Causal Inference",
+   13
+  ],
+  [
+   "T11512",
+   "Anomaly Detection Techniques and Applications",
+   13
+  ],
+  [
+   "T10862",
+   "AI in cancer detection",
+   9
+  ],
+  [
+   "T12072",
+   "Machine Learning and Algorithms",
+   9
+  ],
+  [
+   "T12380",
+   "Authorship Attribution and Profiling",
+   9
+  ],
+  [
+   "T12761",
+   "Data Stream Mining Techniques",
+   6
+  ],
+  [
+   "T10320",
+   "Neural Networks and Applications",
+   5
+  ],
+  [
+   "T11596",
+   "Constraint Satisfaction and Optimization",
+   4
+  ],
+  [
+   "T11598",
+   "Internet Traffic Analysis and Secure E-voting",
+   4
+  ],
+  [
+   "T13083",
+   "Advanced Text Analysis Techniques",
+   4
+  ],
+  [
+   "T10820",
+   "Fuzzy Logic and Control Systems",
+   2
+  ],
+  [
+   "T13559",
+   "Edcuational Technology Systems",
+   2
+  ],
+  [
+   "T13734",
+   "Advanced Computational Techniques and Applications",
+   2
+  ],
+  [
+   "T10637",
+   "Advanced Clustering Algorithms Research",
+   1
+  ],
+  [
+   "T10711",
+   "Target Tracking and Data Fusion in Sensor Networks",
+   1
+  ],
+  [
+   "T11550",
+   "Text and Document Classification Technologies",
+   1
+  ],
+  [
+   "T11612",
+   "Stochastic Gradient Optimization Techniques",
+   1
+  ],
+  [
+   "T11901",
+   "Bayesian Methods and Mixture Models",
+   1
+  ],
+  [
+   "T12131",
+   "Wireless Signal Modulation Classification",
+   1
+  ],
+  [
+   "T12391",
+   "Artificial Immune Systems Applications",
+   1
+  ],
+  [
+   "T12611",
+   "Neural Networks and Reservoir Computing",
+   1
+  ],
+  [
+   "T13898",
+   "Diverse Interdisciplinary Research Studies",
+   1
+  ],
+  [
+   "T13935",
+   "Mathematical Control Systems and Analysis",
+   1
+  ]
+ ]
+}

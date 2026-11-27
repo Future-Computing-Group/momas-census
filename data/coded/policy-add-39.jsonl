@@ -1,0 +1,70 @@
+{"id": "x12265", "policy_setters": "several", "policy_quote": "defense mechanism against cryptanalytic parameter extraction attacks", "principals": "several", "principals_quote": "Neural networks are valuable intellectual property", "partners_from_others": "yes"}
+{"id": "y00253", "policy_setters": "one", "policy_quote": "DTIL represents each team member with a hierarchical policy", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07261", "policy_setters": "one", "policy_quote": "retaining sensitive information locally and only sharing features that are highly relevant to the task", "principals": "several", "principals_quote": "reducing privacy risks for clients", "partners_from_others": "no"}
+{"id": "y01806", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00149", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "cooperative tasks", "partners_from_others": "no"}
+{"id": "y02174", "policy_setters": "one", "policy_quote": "produce a two-agent team", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05352", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06929", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01951", "policy_setters": "several", "policy_quote": "attack algorithm which automatically fuzzes LLMs for safety vulnerabilities", "principals": "several", "principals_quote": "Our attack is extremely effective on a wide range of frontier language models", "partners_from_others": "yes"}
+{"id": "x02662", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01892", "policy_setters": "several", "policy_quote": "each agent i self-reports a positive skill value v_i", "principals": "several", "principals_quote": "chosen by an adversary aiming to minimize the value of the chosen team", "partners_from_others": "yes"}
+{"id": "x08981", "policy_setters": "one", "policy_quote": "two-player zero-sum", "principals": "several", "principals_quote": "two-player zero-sum", "partners_from_others": "no"}
+{"id": "x10758", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05830", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09205", "policy_setters": "several", "policy_quote": "agents can modify their features in order to improve their classification outcomes", "principals": "several", "principals_quote": "the principal's goals", "partners_from_others": "yes"}
+{"id": "x10962", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05136", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02298", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05492", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06372", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11137", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y02938", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02879", "policy_setters": "several", "policy_quote": "FL remains vulnerable to gradient inversion attacks", "principals": "several", "principals_quote": "reconstructs private document content from gradients", "partners_from_others": "yes"}
+{"id": "x07637", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02829", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00068", "policy_setters": "one", "policy_quote": "an efficient self-play framework for RL agents", "principals": "several", "principals_quote": "competitive tabletop games", "partners_from_others": "no"}
+{"id": "y03722", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x12075", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07136", "policy_setters": "one", "policy_quote": "stochastic optimization algorithm for cost-optimal LLM request routing", "principals": "several", "principals_quote": "inference service providers prioritize minimizing operating costs", "partners_from_others": "no"}
+{"id": "x11001", "policy_setters": "several", "policy_quote": "both the buyer and the seller for their willingness to trade", "principals": "several", "principals_quote": "both the buyer and the seller for their willingness to trade", "partners_from_others": "yes"}
+{"id": "x05641", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09464", "policy_setters": "several", "policy_quote": "A patient player interacts with a sequence of short-run players", "principals": "several", "principals_quote": "A patient player interacts with a sequence of short-run players", "partners_from_others": "no"}
+{"id": "x00960", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09470", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03578", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04118", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02818", "policy_setters": "several", "policy_quote": "black-box jailbreak method", "principals": "several", "principals_quote": "assessing whether LLMs can behave responsibly and safely in adversarial environments", "partners_from_others": "yes"}
+{"id": "x06539", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01004", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00569", "policy_setters": "one", "policy_quote": "voting on multiple independent binary issues", "principals": "several", "principals_quote": "a weighting vector for each voter", "partners_from_others": "no"}
+{"id": "y00756", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01347", "policy_setters": "several", "policy_quote": "these parties are only willing to share their data when given enough incentives", "principals": "several", "principals_quote": "training on the aggregated data from many parties", "partners_from_others": "yes"}
+{"id": "x02721", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00290", "policy_setters": "several", "policy_quote": "decentralized multiagent systems", "principals": "several", "principals_quote": "decentralized multiagent systems", "partners_from_others": "yes"}
+{"id": "y02284", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02121", "policy_setters": "one", "policy_quote": "private data from different parties", "principals": "several", "principals_quote": "private data from different parties", "partners_from_others": "no"}
+{"id": "x10776", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01312", "policy_setters": "one", "policy_quote": "allocation of indivisible goods", "principals": "several", "principals_quote": "each agent receives a bundle with positive utility", "partners_from_others": "no"}
+{"id": "x07072", "policy_setters": "several", "policy_quote": "a platform with a limited budget employs malicious users to misalign a rival", "principals": "several", "principals_quote": "competing platforms may recruit malicious users", "partners_from_others": "yes"}
+{"id": "y02233", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08169", "policy_setters": "several", "policy_quote": "attacker can neither access the model information or the training set nor query the model", "principals": "several", "principals_quote": "On a commercial celebrity recognition system held by clarifai.com", "partners_from_others": "yes"}
+{"id": "z00104", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00510", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02323", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02752", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09311", "policy_setters": "several", "policy_quote": "implant imperceptible triggers during training", "principals": "several", "principals_quote": "implant imperceptible triggers during training", "partners_from_others": "yes"}
+{"id": "x10418", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06132", "policy_setters": "several", "policy_quote": "potential faulty or malicious workers", "principals": "several", "principals_quote": "potential faulty or malicious workers", "partners_from_others": "yes"}
+{"id": "x09229", "policy_setters": "one", "policy_quote": "aligning with a single preference model", "principals": "several", "principals_quote": "users have diverse preferences", "partners_from_others": "no"}
+{"id": "z00146", "policy_setters": "one", "policy_quote": "a team of agents", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00053", "policy_setters": "one", "policy_quote": "an internal market of sub-agents", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02842", "policy_setters": "several", "policy_quote": "multiple agents independently learn their strategies", "principals": "several", "principals_quote": "multiple agents independently learn their strategies", "partners_from_others": "no"}
+{"id": "x01288", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x12274", "policy_setters": "several", "policy_quote": "deciding whether to exert effort when reviewing", "principals": "several", "principals_quote": "each agent acts as both an author and a reviewer", "partners_from_others": "yes"}
+{"id": "x04741", "policy_setters": "one", "policy_quote": "solved by local agents represented by the nodes of a graph", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03121", "policy_setters": "one", "policy_quote": "clients possess non-intersecting feature sets", "principals": "na", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10587", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x12217", "policy_setters": "several", "policy_quote": "accounts for the virus", "principals": "several", "principals_quote": "evolutionarily adaptive opponents", "partners_from_others": "yes"}
+{"id": "x00789", "policy_setters": "several", "policy_quote": "eliciting harmful responses from aligned LLMs", "principals": "several", "principals_quote": "eliciting harmful responses from aligned LLMs", "partners_from_others": "yes"}
+{"id": "x11444", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}

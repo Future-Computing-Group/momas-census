@@ -1,0 +1,70 @@
+{"id": "x04878", "policy_setters": "several", "policy_quote": "collaboratively training Graph Neural Networks (GNNs) while maintaining privacy", "principals": "several", "principals_quote": "we establish a proxy model for each client", "partners_from_others": "no"}
+{"id": "x10077", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x10187", "policy_setters": "several", "policy_quote": "target CLIP during the pre-training phase", "principals": "several", "principals_quote": "bypassing RoCLIP, CleanCLIP and SafeCLIP defenses", "partners_from_others": "no"}
+{"id": "x00547", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y00657", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x00230", "policy_setters": "several", "policy_quote": "how individuals could act to obtain better results", "principals": "several", "principals_quote": "stable recommendations for users", "partners_from_others": "no"}
+{"id": "x02028", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09876", "policy_setters": "several", "policy_quote": "creators within a group collaborate to maximize their collective utility", "principals": "several", "principals_quote": "user welfare", "partners_from_others": "no"}
+{"id": "x05056", "policy_setters": "one", "policy_quote": "allocating T indivisible items that arrive over time to n agents with additive preferences", "principals": "several", "principals_quote": "n agents with additive preferences", "partners_from_others": "no"}
+{"id": "x07495", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x09970", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02034", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01472", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06360", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09562", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03371", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05799", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y00518", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02118", "policy_setters": "several", "policy_quote": "an adversary can slightly perturb the graph structure", "principals": "several", "principals_quote": "an adversary can slightly perturb the graph structure", "partners_from_others": "yes"}
+{"id": "x10984", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02890", "policy_setters": "several", "policy_quote": "an attacker can perturb the environment reward", "principals": "several", "principals_quote": "forcing the RL agent to learn a nefarious policy", "partners_from_others": "yes"}
+{"id": "y01149", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02441", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x12325", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00787", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07471", "policy_setters": "several", "policy_quote": "collaboratively train a global graph neural network (GNN) on multiple private graphs", "principals": "several", "principals_quote": "multiple private graphs", "partners_from_others": "no"}
+{"id": "y03507", "policy_setters": "several", "policy_quote": "each client to maintain a private personalized model", "principals": "several", "principals_quote": "each client to maintain a private personalized model", "partners_from_others": "no"}
+{"id": "x03893", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y03901", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00500", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03200", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03678", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00825", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02628", "policy_setters": "several", "policy_quote": "adversary-specified behaviors", "principals": "several", "principals_quote": "answer harmful questions that it would otherwise refuse", "partners_from_others": "no"}
+{"id": "x02309", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05357", "policy_setters": "several", "policy_quote": "real commercial closed-source models", "principals": "several", "principals_quote": "bypassing the built-in safety filtering mechanisms", "partners_from_others": "yes"}
+{"id": "x06521", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02516", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11757", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09129", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01021", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00807", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01953", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05005", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00045", "policy_setters": "several", "policy_quote": "bullies, victims, and observers", "principals": "several", "principals_quote": "bullies, victims, and observers", "partners_from_others": "yes"}
+{"id": "x00349", "policy_setters": "several", "policy_quote": "coordinated adversarial attacks", "principals": "several", "principals_quote": "coordinated adversarial attacks", "partners_from_others": "no"}
+{"id": "y00416", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01718", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08330", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00098", "policy_setters": "several", "policy_quote": "bidders are \"patient\"", "principals": "several", "principals_quote": "bidders are \"patient\"", "partners_from_others": "no"}
+{"id": "x03150", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00006", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11523", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06563", "policy_setters": "several", "policy_quote": "the agent may select any action that is not too much suboptimal given the principal's payment scheme", "principals": "several", "principals_quote": "principal aims at incentivizing an agent", "partners_from_others": "no"}
+{"id": "x07629", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11796", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y00993", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00026", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01661", "policy_setters": "one", "policy_quote": "Pure proportional voting rules", "principals": "several", "principals_quote": "Pure proportional voting rules", "partners_from_others": "no"}
+{"id": "x05417", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y02805", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09544", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10172", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03310", "policy_setters": "several", "policy_quote": "observe part of her learning process", "principals": "several", "principals_quote": "inferring an expert's reward function from demonstrations", "partners_from_others": "no"}
+{"id": "y02575", "policy_setters": "several", "policy_quote": "clients collaboratively learn", "principals": "several", "principals_quote": "clients collaboratively learn", "partners_from_others": "no"}
+{"id": "x11844", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00031", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03868", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x12336", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08438", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}

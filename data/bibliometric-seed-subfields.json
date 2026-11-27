@@ -1,0 +1,749 @@
+[
+ {
+  "cluster": "C1",
+  "openalex": "W3034367601",
+  "label": "Perdomo et al. 2020, Performative prediction",
+  "subfield": "1702",
+  "subfield_name": "Artificial Intelligence",
+  "field": "Computer Science",
+  "topic": "Ethics and Social Impacts of AI"
+ },
+ {
+  "cluster": "C1",
+  "openalex": "W2913525780",
+  "label": "Hardt et al. 2016, Strategic classification",
+  "subfield": "1702",
+  "subfield_name": "Artificial Intelligence",
+  "field": "Computer Science",
+  "topic": "Privacy-Preserving Technologies in Data"
+ },
+ {
+  "cluster": "C1",
+  "openalex": "W3035048992",
+  "label": "Mendler-Dunner et al. 2020, Stochastic optimization for PP",
+  "subfield": "1702",
+  "subfield_name": "Artificial Intelligence",
+  "field": "Computer Science",
+  "topic": "Stochastic Gradient Optimization Techniques"
+ },
+ {
+  "cluster": "C1",
+  "openalex": "W3130512562",
+  "label": "Miller, Perdomo, Zrnic 2021, Outside the echo chamber",
+  "subfield": "1702",
+  "subfield_name": "Artificial Intelligence",
+  "field": "Computer Science",
+  "topic": "Ethics and Social Impacts of AI"
+ },
+ {
+  "cluster": "C1",
+  "openalex": "W3171333981",
+  "label": "Jagadeesan et al. 2021, Alternative microfoundations",
+  "subfield": "1803",
+  "subfield_name": "Management Science and Operations Research",
+  "field": "Decision Sciences",
+  "topic": "Game Theory and Applications"
+ },
+ {
+  "cluster": "C1",
+  "openalex": "W3099382994",
+  "label": "Brown, Hod, Kalemaj 2022, PP in a stateful world",
+  "subfield": "1702",
+  "subfield_name": "Artificial Intelligence",
+  "field": "Computer Science",
+  "topic": "Ethics and Social Impacts of AI"
+ },
+ {
+  "cluster": "C1",
+  "openalex": "W4297806505",
+  "label": "Hardt, Jagadeesan, Mendler-Dunner 2022, Performative power",
+  "subfield": "1408",
+  "subfield_name": "Strategy and Management",
+  "field": "Business, Management and Accounting",
+  "topic": "Digital Platforms and Economics"
+ },
+ {
+  "cluster": "C1",
+  "openalex": "W3177232297",
+  "label": "Zrnic et al. 2021, Who leads and who follows",
+  "subfield": "1803",
+  "subfield_name": "Management Science and Operations Research",
+  "field": "Decision Sciences",
+  "topic": "Game Theory and Applications"
+ },
+ {
+  "cluster": "C2",
+  "openalex": "W2740377041",
+  "label": "Hernandez-Leal et al. 2017, non-stationarity survey",
+  "subfield": "1702",
+  "subfield_name": "Artificial Intelligence",
+  "field": "Computer Science",
+  "topic": "Reinforcement Learning in Robotics"
+ },
+ {
+  "cluster": "C2",
+  "openalex": "W2753984105",
+  "label": "Foerster et al. 2018, LOLA",
+  "subfield": "1702",
+  "subfield_name": "Artificial Intelligence",
+  "field": "Computer Science",
+  "topic": "Reinforcement Learning in Robotics"
+ },
+ {
+  "cluster": "C2",
+  "openalex": "W3170834283",
+  "label": "Kim et al. 2021, Meta-MAPG",
+  "subfield": "1702",
+  "subfield_name": "Artificial Intelligence",
+  "field": "Computer Science",
+  "topic": "Reinforcement Learning in Robotics"
+ },
+ {
+  "cluster": "C2",
+  "openalex": "W4229059695",
+  "label": "Lu et al. 2022, M-FOS",
+  "subfield": "1702",
+  "subfield_name": "Artificial Intelligence",
+  "field": "Computer Science",
+  "topic": "Reinforcement Learning in Robotics"
+ },
+ {
+  "cluster": "C2",
+  "openalex": "W2623431351",
+  "label": "Lowe et al. 2017, MADDPG",
+  "subfield": "1702",
+  "subfield_name": "Artificial Intelligence",
+  "field": "Computer Science",
+  "topic": "Reinforcement Learning in Robotics"
+ },
+ {
+  "cluster": "C2",
+  "openalex": "W2949464762",
+  "label": "Papoudakis et al. 2019, non-stationarity in MARL",
+  "subfield": "1702",
+  "subfield_name": "Artificial Intelligence",
+  "field": "Computer Science",
+  "topic": "Reinforcement Learning in Robotics"
+ },
+ {
+  "cluster": "C2",
+  "openalex": "W2107544712",
+  "label": "Panait and Luke 2005, cooperative MAL",
+  "subfield": "1702",
+  "subfield_name": "Artificial Intelligence",
+  "field": "Computer Science",
+  "topic": "Reinforcement Learning in Robotics"
+ },
+ {
+  "cluster": "C3",
+  "openalex": "W2970365960",
+  "label": "Deng, Schneider, Sivan 2019, Strategizing vs no-regret",
+  "subfield": "1803",
+  "subfield_name": "Management Science and Operations Research",
+  "field": "Decision Sciences",
+  "topic": "Game Theory and Applications"
+ },
+ {
+  "cluster": "C3",
+  "openalex": "W2769863042",
+  "label": "Braverman et al. 2018, Selling to a no-regret buyer",
+  "subfield": "1803",
+  "subfield_name": "Management Science and Operations Research",
+  "field": "Decision Sciences",
+  "topic": "Auction Theory and Applications"
+ },
+ {
+  "cluster": "C3",
+  "openalex": "W4285092461",
+  "label": "Banchio and Skrzypacz 2022, AI and auction design",
+  "subfield": "1803",
+  "subfield_name": "Management Science and Operations Research",
+  "field": "Decision Sciences",
+  "topic": "Auction Theory and Applications"
+ },
+ {
+  "cluster": "C3",
+  "openalex": "W2101379030",
+  "label": "Arora, Dekel, Tewari 2012, adaptive adversary",
+  "subfield": "1803",
+  "subfield_name": "Management Science and Operations Research",
+  "field": "Decision Sciences",
+  "topic": "Advanced Bandit Algorithms Research"
+ },
+ {
+  "cluster": "C3",
+  "openalex": "W2124666512",
+  "label": "Hart and Mas-Colell 2003, Uncoupled dynamics",
+  "subfield": "1803",
+  "subfield_name": "Management Science and Operations Research",
+  "field": "Decision Sciences",
+  "topic": "Game Theory and Applications"
+ },
+ {
+  "cluster": "C3",
+  "openalex": "W4405464720",
+  "label": "Arunachaleswaran et al. 2024, Pareto-optimal algorithms",
+  "subfield": "1803",
+  "subfield_name": "Management Science and Operations Research",
+  "field": "Decision Sciences",
+  "topic": "Advanced Bandit Algorithms Research"
+ },
+ {
+  "cluster": "C3",
+  "openalex": "W4405487188",
+  "label": "Zhang et al. 2023, Steering no-regret learners",
+  "subfield": "1803",
+  "subfield_name": "Management Science and Operations Research",
+  "field": "Decision Sciences",
+  "topic": "Game Theory and Applications"
+ },
+ {
+  "cluster": "C3",
+  "openalex": "W2156194062",
+  "label": "Shoham, Powers, Grenager 2007, If MAL is the answer",
+  "subfield": "1702",
+  "subfield_name": "Artificial Intelligence",
+  "field": "Computer Science",
+  "topic": "Reinforcement Learning in Robotics"
+ },
+ {
+  "cluster": "C4",
+  "openalex": "W4407806359",
+  "label": "Hammond et al. 2025, Multi-agent risks",
+  "subfield": "1702",
+  "subfield_name": "Artificial Intelligence",
+  "field": "Computer Science",
+  "topic": "Ethics and Social Impacts of AI"
+ },
+ {
+  "cluster": "C4",
+  "openalex": "W2920700222",
+  "label": "Leibo et al. 2019, Autocurricula",
+  "subfield": "3109",
+  "subfield_name": "Statistical and Nonlinear Physics",
+  "field": "Physics and Astronomy",
+  "topic": "Complex Systems and Dynamics"
+ },
+ {
+  "cluster": "C4",
+  "openalex": "W4224979542",
+  "label": "Carroll et al. 2022, induced preference shifts",
+  "subfield": "1710",
+  "subfield_name": "Information Systems",
+  "field": "Computer Science",
+  "topic": "Recommender Systems and Techniques"
+ },
+ {
+  "cluster": "C4",
+  "openalex": "W4312867245",
+  "label": "Mirsky et al. 2022, ad hoc teamwork survey",
+  "subfield": "1702",
+  "subfield_name": "Artificial Intelligence",
+  "field": "Computer Science",
+  "topic": "Multi-Agent Systems and Negotiation"
+ },
+ {
+  "cluster": "C4",
+  "openalex": "W1606056663",
+  "label": "Stone et al. 2010, Ad hoc autonomous agent teams",
+  "subfield": "1702",
+  "subfield_name": "Artificial Intelligence",
+  "field": "Computer Science",
+  "topic": "Multi-Agent Systems and Negotiation"
+ },
+ {
+  "cluster": "C4",
+  "openalex": "W4228997196",
+  "label": "Zheng et al. 2022, AI Economist",
+  "subfield": "1702",
+  "subfield_name": "Artificial Intelligence",
+  "field": "Computer Science",
+  "topic": "Reinforcement Learning in Robotics"
+ },
+ {
+  "cluster": "C4",
+  "openalex": "W4392223779",
+  "label": "Sourbut, Hammond, Wood 2024, delegation games",
+  "subfield": "1803",
+  "subfield_name": "Management Science and Operations Research",
+  "field": "Decision Sciences",
+  "topic": "Game Theory and Applications"
+ },
+ {
+  "cluster": "C5",
+  "openalex": "W4400949264",
+  "label": "Shumailov et al. 2024, AI models collapse (Nature version of the 2023 arXiv paper)",
+  "subfield": "1702",
+  "subfield_name": "Artificial Intelligence",
+  "field": "Computer Science",
+  "topic": "Topic Modeling"
+ },
+ {
+  "cluster": "C5",
+  "openalex": "W4393924649",
+  "label": "Gerstgrasser et al. 2024, Is model collapse inevitable",
+  "subfield": "1707",
+  "subfield_name": "Computer Vision and Pattern Recognition",
+  "field": "Computer Science",
+  "topic": "Generative Adversarial Networks and Image Synthesis"
+ },
+ {
+  "cluster": "C5",
+  "openalex": "W4387355018",
+  "label": "Bertrand et al. 2024, iterative retraining stability",
+  "subfield": "1707",
+  "subfield_name": "Computer Vision and Pattern Recognition",
+  "field": "Computer Science",
+  "topic": "Generative Adversarial Networks and Image Synthesis"
+ },
+ {
+  "cluster": "C5",
+  "openalex": "W4295123801",
+  "label": "Taori and Hashimoto 2023, Data feedback loops",
+  "subfield": "1702",
+  "subfield_name": "Artificial Intelligence",
+  "field": "Computer Science",
+  "topic": "Ethics and Social Impacts of AI"
+ },
+ {
+  "cluster": "C5",
+  "openalex": "W2726816714",
+  "label": "Ensign et al. 2018, Runaway feedback loops",
+  "subfield": "1702",
+  "subfield_name": "Artificial Intelligence",
+  "field": "Computer Science",
+  "topic": "Ethics and Social Impacts of AI"
+ },
+ {
+  "cluster": "C5",
+  "openalex": "W2765564115",
+  "label": "Chaney et al. 2018, Algorithmic confounding",
+  "subfield": "1710",
+  "subfield_name": "Information Systems",
+  "field": "Computer Science",
+  "topic": "Recommender Systems and Techniques"
+ },
+ {
+  "cluster": "C5",
+  "openalex": "W2917760808",
+  "label": "Jiang et al. 2019, Degenerate feedback loops",
+  "subfield": "1710",
+  "subfield_name": "Information Systems",
+  "field": "Computer Science",
+  "topic": "Recommender Systems and Techniques"
+ },
+ {
+  "cluster": "C5",
+  "openalex": "W4410088881",
+  "label": "Brennan et al. 2023, Symbiosis bias in A/B tests",
+  "subfield": "1710",
+  "subfield_name": "Information Systems",
+  "field": "Computer Science",
+  "topic": "Recommender Systems and Techniques"
+ },
+ {
+  "cluster": "C6",
+  "openalex": "W2070720254",
+  "label": "Lucas 1976, Econometric policy evaluation",
+  "subfield": "2000",
+  "subfield_name": "General Economics, Econometrics and Finance",
+  "field": "Economics, Econometrics and Finance",
+  "topic": "Monetary Policy and Economic Impact"
+ },
+ {
+  "cluster": "C6",
+  "openalex": "W2003830355",
+  "label": "Marcet and Sargent 1989, least squares learning",
+  "subfield": "2002",
+  "subfield_name": "Economics and Econometrics",
+  "field": "Economics, Econometrics and Finance",
+  "topic": "Economic theories and models"
+ },
+ {
+  "cluster": "C6",
+  "openalex": "W3124882988",
+  "label": "Evans and Honkapohja 2003, optimal monetary policies",
+  "subfield": "2000",
+  "subfield_name": "General Economics, Econometrics and Finance",
+  "field": "Economics, Econometrics and Finance",
+  "topic": "Monetary Policy and Economic Impact"
+ },
+ {
+  "cluster": "C6",
+  "openalex": "W3124614318",
+  "label": "Cho, Williams, Sargent 2002, Escaping Nash inflation",
+  "subfield": "2002",
+  "subfield_name": "Economics and Econometrics",
+  "field": "Economics, Econometrics and Finance",
+  "topic": "Economic theories and models"
+ },
+ {
+  "cluster": "C6",
+  "openalex": "W1790902864",
+  "label": "Esponda and Pouzo 2016, Berk-Nash equilibrium",
+  "subfield": "1803",
+  "subfield_name": "Management Science and Operations Research",
+  "field": "Decision Sciences",
+  "topic": "Game Theory and Applications"
+ },
+ {
+  "cluster": "C6",
+  "openalex": "W4254875572",
+  "label": "Bolton and Harris 1999, Strategic experimentation",
+  "subfield": "1803",
+  "subfield_name": "Management Science and Operations Research",
+  "field": "Decision Sciences",
+  "topic": "Game Theory and Applications"
+ },
+ {
+  "cluster": "C6",
+  "openalex": "W3123810580",
+  "label": "Keller, Rady, Cripps 2005, exponential bandits",
+  "subfield": "1803",
+  "subfield_name": "Management Science and Operations Research",
+  "field": "Decision Sciences",
+  "topic": "Game Theory and Applications"
+ },
+ {
+  "cluster": "C6",
+  "openalex": "W2174806087",
+  "label": "Fudenberg and Levine 1993, Self-confirming equilibrium",
+  "subfield": "1803",
+  "subfield_name": "Management Science and Operations Research",
+  "field": "Decision Sciences",
+  "topic": "Game Theory and Applications"
+ },
+ {
+  "cluster": "C7",
+  "openalex": "W1998440482",
+  "label": "Forssell and Ljung 1999, Closed-loop identification revisited",
+  "subfield": "2207",
+  "subfield_name": "Control and Systems Engineering",
+  "field": "Engineering",
+  "topic": "Control Systems and Identification"
+ },
+ {
+  "cluster": "C7",
+  "openalex": "W2018691083",
+  "label": "Gevers 2005, Identification for control",
+  "subfield": "2207",
+  "subfield_name": "Control and Systems Engineering",
+  "field": "Engineering",
+  "topic": "Control Systems and Identification"
+ },
+ {
+  "cluster": "C7",
+  "openalex": "W2139341823",
+  "label": "Bombois et al. 2006, Least costly identification",
+  "subfield": "2207",
+  "subfield_name": "Control and Systems Engineering",
+  "field": "Engineering",
+  "topic": "Control Systems and Identification"
+ },
+ {
+  "cluster": "C7",
+  "openalex": "W2144351691",
+  "label": "Rojas et al. 2007, Robust optimal experiment design",
+  "subfield": "2207",
+  "subfield_name": "Control and Systems Engineering",
+  "field": "Engineering",
+  "topic": "Control Systems and Identification"
+ },
+ {
+  "cluster": "C7",
+  "openalex": "W2593163465",
+  "label": "Weerts, Van den Hof, Dankers 2018, network identifiability",
+  "subfield": "2207",
+  "subfield_name": "Control and Systems Engineering",
+  "field": "Engineering",
+  "topic": "Control Systems and Identification"
+ },
+ {
+  "cluster": "C7",
+  "openalex": "W2793571563",
+  "label": "Hendrickx, Gevers, Bazanella 2019, partial node measurements",
+  "subfield": "2207",
+  "subfield_name": "Control and Systems Engineering",
+  "field": "Engineering",
+  "topic": "Control Systems and Identification"
+ },
+ {
+  "cluster": "C7",
+  "openalex": "W2980082154",
+  "label": "Cheng, Shi, Van den Hof 2022, allocation of excitation",
+  "subfield": "2207",
+  "subfield_name": "Control and Systems Engineering",
+  "field": "Engineering",
+  "topic": "Control Systems and Identification"
+ },
+ {
+  "cluster": "C7",
+  "openalex": "W2965027687",
+  "label": "van Waarde et al. 2020, Data informativity",
+  "subfield": "2207",
+  "subfield_name": "Control and Systems Engineering",
+  "field": "Engineering",
+  "topic": "Control Systems and Identification"
+ },
+ {
+  "cluster": "R1",
+  "openalex": "W2029050771",
+  "label": "Myerson 1981, Optimal auction design",
+  "subfield": "1803",
+  "subfield_name": "Management Science and Operations Research",
+  "field": "Decision Sciences",
+  "topic": "Auction Theory and Applications"
+ },
+ {
+  "cluster": "R1",
+  "openalex": "W2087530244",
+  "label": "Myerson and Satterthwaite 1983, Efficient mechanisms for bilateral trading",
+  "subfield": "1803",
+  "subfield_name": "Management Science and Operations Research",
+  "field": "Decision Sciences",
+  "topic": "Auction Theory and Applications"
+ },
+ {
+  "cluster": "R1",
+  "openalex": "W2002849158",
+  "label": "Myerson 1983, Mechanism design by an informed principal",
+  "subfield": "1803",
+  "subfield_name": "Management Science and Operations Research",
+  "field": "Decision Sciences",
+  "topic": "Auction Theory and Applications"
+ },
+ {
+  "cluster": "R1",
+  "openalex": "W2157518489",
+  "label": "McAfee 1993, Mechanism design by competing sellers",
+  "subfield": "1803",
+  "subfield_name": "Management Science and Operations Research",
+  "field": "Decision Sciences",
+  "topic": "Auction Theory and Applications"
+ },
+ {
+  "cluster": "R1",
+  "openalex": "W2015007620",
+  "label": "Vickrey 1961, Counterspeculation, auctions, and competitive sealed tenders",
+  "subfield": "1803",
+  "subfield_name": "Management Science and Operations Research",
+  "field": "Decision Sciences",
+  "topic": "Auction Theory and Applications"
+ },
+ {
+  "cluster": "R1",
+  "openalex": "W2012634103",
+  "label": "Nisan and Ronen 2001, Algorithmic mechanism design (GEB)",
+  "subfield": "2002",
+  "subfield_name": "Economics and Econometrics",
+  "field": "Economics, Econometrics and Finance",
+  "topic": "Game Theory and Voting Systems"
+ },
+ {
+  "cluster": "R1",
+  "openalex": "W4388596127",
+  "label": "Dutting et al. 2024, Optimal auctions through deep learning",
+  "subfield": "1803",
+  "subfield_name": "Management Science and Operations Research",
+  "field": "Decision Sciences",
+  "topic": "Auction Theory and Applications"
+ },
+ {
+  "cluster": "R2",
+  "openalex": "W3137092842",
+  "label": "Lamport, Shostak, Pease 1982, The Byzantine generals problem",
+  "subfield": "1705",
+  "subfield_name": "Computer Networks and Communications",
+  "field": "Computer Science",
+  "topic": "Distributed systems and fault tolerance"
+ },
+ {
+  "cluster": "R2",
+  "openalex": "W2003214215",
+  "label": "Dwork, Lynch, Stockmeyer 1988, Consensus under partial synchrony",
+  "subfield": "1705",
+  "subfield_name": "Computer Networks and Communications",
+  "field": "Computer Science",
+  "topic": "Distributed systems and fault tolerance"
+ },
+ {
+  "cluster": "R2",
+  "openalex": "W2114579022",
+  "label": "Castro and Liskov 2002, PBFT and proactive recovery",
+  "subfield": "1705",
+  "subfield_name": "Computer Networks and Communications",
+  "field": "Computer Science",
+  "topic": "Distributed systems and fault tolerance"
+ },
+ {
+  "cluster": "R2",
+  "openalex": "W2035362408",
+  "label": "Fischer, Lynch, Paterson 1985, Impossibility of consensus",
+  "subfield": "1705",
+  "subfield_name": "Computer Networks and Communications",
+  "field": "Computer Science",
+  "topic": "Distributed systems and fault tolerance"
+ },
+ {
+  "cluster": "R2",
+  "openalex": "W2040940409",
+  "label": "Shneidman and Parkes 2004, Specification faithfulness",
+  "subfield": "1803",
+  "subfield_name": "Management Science and Operations Research",
+  "field": "Decision Sciences",
+  "topic": "Game Theory and Applications"
+ },
+ {
+  "cluster": "R2",
+  "openalex": "W2077734015",
+  "label": "Abraham, Dolev, Gonen, Halpern 2006, Distributed computing meets game theory",
+  "subfield": "1705",
+  "subfield_name": "Computer Networks and Communications",
+  "field": "Computer Science",
+  "topic": "Cryptography and Data Security"
+ },
+ {
+  "cluster": "R2",
+  "openalex": "W4236798639",
+  "label": "Aiyer et al. 2005, BAR fault tolerance",
+  "subfield": "1705",
+  "subfield_name": "Computer Networks and Communications",
+  "field": "Computer Science",
+  "topic": "Distributed systems and fault tolerance"
+ },
+ {
+  "cluster": "R3",
+  "openalex": "W4394828430",
+  "label": "Kolt 2025, Governing AI agents (SSRN record)",
+  "subfield": "3308",
+  "subfield_name": "Law",
+  "field": "Social Sciences",
+  "topic": "Digitalization, Law, and Regulation"
+ },
+ {
+  "cluster": "R3",
+  "openalex": "W3157172840",
+  "label": "Pasquale 2015, The Black Box Society",
+  "subfield": "3312",
+  "subfield_name": "Sociology and Political Science",
+  "field": "Social Sciences",
+  "topic": "Privacy, Security, and Data Protection"
+ },
+ {
+  "cluster": "R3",
+  "openalex": "W653546271",
+  "label": "Chopra and White 2011, A legal theory for autonomous artificial agents",
+  "subfield": "3308",
+  "subfield_name": "Law",
+  "field": "Social Sciences",
+  "topic": "Literary and Philosophical Studies"
+ },
+ {
+  "cluster": "R3",
+  "openalex": "W2909858546",
+  "label": "Harrington 2018, Competition law for collusion by autonomous agents",
+  "subfield": "2002",
+  "subfield_name": "Economics and Econometrics",
+  "field": "Economics, Econometrics and Finance",
+  "topic": "Merger and Competition Analysis"
+ },
+ {
+  "cluster": "R3",
+  "openalex": "W4250057676",
+  "label": "Ezrachi and Stucke 2016, Virtual Competition",
+  "subfield": "3308",
+  "subfield_name": "Law",
+  "field": "Social Sciences",
+  "topic": "Diverse Legal and Medical Studies"
+ },
+ {
+  "cluster": "R3",
+  "openalex": "W4367628156",
+  "label": "Cobbe, Veale, Singh 2023, Accountability in algorithmic supply chains",
+  "subfield": "1702",
+  "subfield_name": "Artificial Intelligence",
+  "field": "Computer Science",
+  "topic": "Ethics and Social Impacts of AI"
+ },
+ {
+  "cluster": "R3",
+  "openalex": "W3124443940",
+  "label": "Wachter, Mittelstadt, Floridi 2017, No right to explanation in the GDPR (SSRN record)",
+  "subfield": "3308",
+  "subfield_name": "Law",
+  "field": "Social Sciences",
+  "topic": "Digitalization, Law, and Regulation"
+ },
+ {
+  "cluster": "R4",
+  "openalex": "W2274887581",
+  "label": "Buthe and Mattli 2011, The New Global Rulers",
+  "subfield": "3321",
+  "subfield_name": "Public Administration",
+  "field": "Social Sciences",
+  "topic": "Regulation and Compliance Studies"
+ },
+ {
+  "cluster": "R4",
+  "openalex": "W2001125730",
+  "label": "Mattli and Buthe 2003, Setting international standards",
+  "subfield": "1408",
+  "subfield_name": "Strategy and Management",
+  "field": "Business, Management and Accounting",
+  "topic": "Global trade, sustainability, and social impact"
+ },
+ {
+  "cluster": "R4",
+  "openalex": "W2501415256",
+  "label": "Abbott and Snidal 2009, The governance triangle",
+  "subfield": "3321",
+  "subfield_name": "Public Administration",
+  "field": "Social Sciences",
+  "topic": "Regulation and Compliance Studies"
+ },
+ {
+  "cluster": "R4",
+  "openalex": "W203245201",
+  "label": "Buthe 2010, Private regulation in the global economy",
+  "subfield": "3321",
+  "subfield_name": "Public Administration",
+  "field": "Social Sciences",
+  "topic": "Regulation and Compliance Studies"
+ },
+ {
+  "cluster": "R4",
+  "openalex": "W3124473989",
+  "label": "Bradford 2020, The Brussels Effect",
+  "subfield": "2003",
+  "subfield_name": "Finance",
+  "field": "Economics, Econometrics and Finance",
+  "topic": "Global Financial Regulation and Crises"
+ },
+ {
+  "cluster": "R4",
+  "openalex": "W2012785533",
+  "label": "Drezner 2004, The global governance of the Internet",
+  "subfield": "3320",
+  "subfield_name": "Political Science and International Relations",
+  "field": "Social Sciences",
+  "topic": "Cybersecurity and Cyber Warfare Studies"
+ },
+ {
+  "cluster": "R4",
+  "openalex": "W3166943242",
+  "label": "Taeihagh 2021, Governance of artificial intelligence",
+  "subfield": "1702",
+  "subfield_name": "Artificial Intelligence",
+  "field": "Computer Science",
+  "topic": "Ethics and Social Impacts of AI"
+ },
+ {
+  "cluster": "R4",
+  "openalex": "W3116658655",
+  "label": "Ulnicane et al. 2021, Framing governance for a contested emerging technology",
+  "subfield": "1702",
+  "subfield_name": "Artificial Intelligence",
+  "field": "Computer Science",
+  "topic": "Ethics and Social Impacts of AI"
+ }
+]

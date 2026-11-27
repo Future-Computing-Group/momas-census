@@ -1,0 +1,70 @@
+{"id":"y00050","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x11717","policy_setters":"na","policy_quote":"","principals":"na","principals_quote":"","partners_from_others":"na"}
+{"id":"y02317","policy_setters":"one","policy_quote":"adaptation of counterfactual regret minimization","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x07522","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x06837","policy_setters":"na","policy_quote":"","principals":"na","principals_quote":"","partners_from_others":"na"}
+{"id":"x06253","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"y01208","policy_setters":"na","policy_quote":"","principals":"na","principals_quote":"","partners_from_others":"na"}
+{"id":"y01883","policy_setters":"several","policy_quote":"one or more powerful but untrusted agents","principals":"several","principals_quote":"powerful but untrusted agents","partners_from_others":"no"}
+{"id":"x00524","policy_setters":"several","policy_quote":"boundedly rational, self-interested agents","principals":"several","principals_quote":"self-interested agents with unknown, complex, and costly-to-evaluate payoff functions","partners_from_others":"yes"}
+{"id":"x05389","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x02324","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x03213","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"y01825","policy_setters":"several","policy_quote":"$n$ agents report their (possibly manipulated) features","principals":"several","principals_quote":"a principal reveals a classifier, and $n$ agents report their (possibly manipulated) features","partners_from_others":"no"}
+{"id":"x03583","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x04225","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x10883","policy_setters":"several","policy_quote":"strategic interactions between buyers (LLM builders) and sellers (human annotators)","principals":"several","principals_quote":"optimizing utility for both buyers and sellers","partners_from_others":"no"}
+{"id":"y02509","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"y00585","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"y01570","policy_setters":"several","policy_quote":"a principal incentivizes an agent by establishing a payment contract","principals":"several","principals_quote":"a Principal-Agent problem","partners_from_others":"no"}
+{"id":"x02704","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x12365","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x04164","policy_setters":"na","policy_quote":"","principals":"na","principals_quote":"","partners_from_others":"na"}
+{"id":"y03753","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x06708","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x02379","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x04930","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"y00531","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"y00003","policy_setters":"several","policy_quote":"an unlearner strives to unlearn specific training data from a model, while an auditor employs MIAs","principals":"several","principals_quote":"an unlearner strives to unlearn specific training data from a model, while an auditor employs MIAs","partners_from_others":"no"}
+{"id":"x05722","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x06999","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x07829","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x12010","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"y01827","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"y02873","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"y03133","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x11439","policy_setters":"na","policy_quote":"","principals":"na","principals_quote":"","partners_from_others":"na"}
+{"id":"x09096","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"y00436","policy_setters":"several","policy_quote":"improves participants' decision accuracy, efficiency, and reliance","principals":"one","principals_quote":"decision support","partners_from_others":"no"}
+{"id":"y00143","policy_setters":"several","policy_quote":"attackers can only query the model and obtain outputs","principals":"several","principals_quote":"reconstruct the private training data by accessing a public model","partners_from_others":"yes"}
+{"id":"y03388","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"allowing for a declarative but structured and accurate expression of user intent","partners_from_others":"no"}
+{"id":"x01659","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x07845","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"y01529","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x00200","policy_setters":"na","policy_quote":"","principals":"na","principals_quote":"","partners_from_others":"na"}
+{"id":"x03468","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x05967","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"y02405","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"y00506","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x01607","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x04263","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x05436","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"y01606","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"y00946","policy_setters":"several","policy_quote":"adversaries capable of poisoning even a single agent's utility observations","principals":"several","principals_quote":"adversaries capable of poisoning even a single agent's utility observations","partners_from_others":"yes"}
+{"id":"y01131","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"y00466","policy_setters":"one","policy_quote":"","principals":"several","principals_quote":"Aggregating preferences of multiple entities","partners_from_others":"no"}
+{"id":"x07836","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x05937","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x10808","policy_setters":"several","policy_quote":"preventing strategic behavior","principals":"several","principals_quote":"$m$ agents aim to estimate a vector","partners_from_others":"no"}
+{"id":"y02476","policy_setters":"several","policy_quote":"Each agent has a static intrinsic opinion as well as a public opinion that is updated asynchronously over time","principals":"several","principals_quote":"Each agent has a static intrinsic opinion","partners_from_others":"no"}
+{"id":"x04869","policy_setters":"one","policy_quote":"","principals":"several","principals_quote":"aligns image edits with user-specific preferences","partners_from_others":"no"}
+{"id":"y00240","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x10654","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x05108","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"y03269","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x03408","policy_setters":"several","policy_quote":"served over 4.5 million suggestions from 10 models","principals":"several","principals_quote":"collect user preferences through native integration into a developer's working environment","partners_from_others":"no"}
+{"id":"x02255","policy_setters":"several","policy_quote":"data that may be distributed across multiple organizations","principals":"several","principals_quote":"distributed across multiple organizations","partners_from_others":"no"}
+{"id":"x04658","policy_setters":"na","policy_quote":"","principals":"na","principals_quote":"","partners_from_others":"na"}
+{"id":"x10878","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x11411","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x07347","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}

@@ -1,0 +1,70 @@
+{"id": "x11198", "policy_setters": "several", "policy_quote": "a single bidder learning to bid against stochastic adversaries", "principals": "several", "principals_quote": "a single bidder learning to bid against stochastic adversaries", "partners_from_others": "yes"}
+{"id": "y01352", "policy_setters": "one", "policy_quote": "have been used as agents", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06373", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y01568", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x06008", "policy_setters": "one", "policy_quote": "embodied agents such as robots", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01957", "policy_setters": "several", "policy_quote": "firms compete repeatedly and can parameterize agents", "principals": "several", "principals_quote": "firms compete repeatedly", "partners_from_others": "no"}
+{"id": "x11181", "policy_setters": "one", "policy_quote": "A seller determines the initial inventory", "principals": "one", "principals_quote": "A seller determines the initial inventory", "partners_from_others": "no"}
+{"id": "x08486", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x06867", "policy_setters": "one", "policy_quote": "A decision maker sequentially choose times", "principals": "one", "principals_quote": "A decision maker sequentially choose times", "partners_from_others": "no"}
+{"id": "x03532", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05195", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00106", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02634", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00880", "policy_setters": "one", "policy_quote": "fairly dividing a set of indivisible items among a set of agents", "principals": "several", "principals_quote": "fairly dividing a set of indivisible items among a set of agents", "partners_from_others": "no"}
+{"id": "x03513", "policy_setters": "several", "policy_quote": "truthtelling strategies are weakly dominant for all agents at once", "principals": "several", "principals_quote": "agents face a single competitive price vector", "partners_from_others": "no"}
+{"id": "y01640", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x08194", "policy_setters": "several", "policy_quote": "the self-interest of agents can be detrimental to the collective good", "principals": "several", "principals_quote": "a central designer may intervene", "partners_from_others": "no"}
+{"id": "x04320", "policy_setters": "one", "policy_quote": "We benchmark multiple open and closed-source LLMs", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02557", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01601", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01138", "policy_setters": "one", "policy_quote": "robots to perform various tasks", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01503", "policy_setters": "one", "policy_quote": "provable best-iterate convergence to a regularized Nash equilibrium in self-play", "principals": "several", "principals_quote": "two-player zero-sum imperfect-information extensive-form games", "partners_from_others": "no"}
+{"id": "y01603", "policy_setters": "one", "policy_quote": "a framework for training language models", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02694", "policy_setters": "one", "policy_quote": "learn experimental design strategies for accelerated MRI with policy gradient methods", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04472", "policy_setters": "several", "policy_quote": "consumers use home energy management systems (HEMS) to autonomously adjust their electricity consumption", "principals": "several", "principals_quote": "demand-response programs", "partners_from_others": "no"}
+{"id": "x02223", "policy_setters": "several", "policy_quote": "enables participants to collaboratively train models on aligned samples", "principals": "several", "principals_quote": "enables participants to collaboratively train models on aligned samples", "partners_from_others": "no"}
+{"id": "x02808", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04341", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08612", "policy_setters": "several", "policy_quote": "the dynamic participation of users", "principals": "several", "principals_quote": "the dynamic participation of users", "partners_from_others": "no"}
+{"id": "x04796", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08502", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04753", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y00922", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07893", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01553", "policy_setters": "several", "policy_quote": "Federated Continual Learning (FCL)", "principals": "several", "principals_quote": "maintaining data confidentiality", "partners_from_others": "no"}
+{"id": "x11901", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x09059", "policy_setters": "several", "policy_quote": "a federated framework using alternating optimization", "principals": "several", "principals_quote": "a federated framework using alternating optimization", "partners_from_others": "no"}
+{"id": "z00072", "policy_setters": "one", "policy_quote": "multiple agents share or update contextual information", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00401", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09463", "policy_setters": "one", "policy_quote": "given individual agents' preferences over candidates", "principals": "several", "principals_quote": "given individual agents' preferences over candidates", "partners_from_others": "no"}
+{"id": "x01117", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x03223", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x07759", "policy_setters": "several", "policy_quote": "human interventions", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11214", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00010", "policy_setters": "one", "policy_quote": "a team of agents must move to their goal locations", "principals": "one", "principals_quote": "a team of agents must move to their goal locations", "partners_from_others": "no"}
+{"id": "x06438", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02812", "policy_setters": "several", "policy_quote": "when they interact with each other", "principals": "several", "principals_quote": "when they interact with each other", "partners_from_others": "no"}
+{"id": "x09012", "policy_setters": "several", "policy_quote": "across clients", "principals": "several", "principals_quote": "across clients", "partners_from_others": "no"}
+{"id": "x09564", "policy_setters": "several", "policy_quote": "interactions between the learned model and user decisions", "principals": "several", "principals_quote": "interactions between the learned model and user decisions", "partners_from_others": "no"}
+{"id": "x05727", "policy_setters": "several", "policy_quote": "Each candidate strategically chooses effort", "principals": "several", "principals_quote": "candidates from different socioeconomic groups", "partners_from_others": "no"}
+{"id": "x02536", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x03120", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11188", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00330", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09382", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03427", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11480", "policy_setters": "several", "policy_quote": "fine-tuning services", "principals": "several", "principals_quote": "fine-tuning services", "partners_from_others": "no"}
+{"id": "y02633", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08401", "policy_setters": "several", "policy_quote": "each facility location is owned by a strategic agent", "principals": "several", "principals_quote": "a company needs to procure a set of facility locations", "partners_from_others": "no"}
+{"id": "x05165", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03968", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x00234", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10236", "policy_setters": "several", "policy_quote": "teacher models from third-party platforms", "principals": "several", "principals_quote": "teacher models from third-party platforms", "partners_from_others": "no"}
+{"id": "y02181", "policy_setters": "several", "policy_quote": "a non-zero-sum Stackelberg game", "principals": "several", "principals_quote": "a non-zero-sum Stackelberg game", "partners_from_others": "yes"}
+{"id": "x08227", "policy_setters": "several", "policy_quote": "collaborative model training across institutions", "principals": "several", "principals_quote": "collaborative model training across institutions", "partners_from_others": "no"}
+{"id": "y03137", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05051", "policy_setters": "several", "policy_quote": "preventing unauthorized users from training single-task learning (STL) models with personal data", "principals": "several", "principals_quote": "preventing unauthorized users from training single-task learning (STL) models with personal data", "partners_from_others": "no"}
+{"id": "x06731", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02227", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01947", "policy_setters": "one", "policy_quote": "orchestrates three specialized agents", "principals": "one", "principals_quote": "", "partners_from_others": "no"}

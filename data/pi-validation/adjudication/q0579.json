@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "interests": {
+      "coders": "one",
+      "mine": "several-aligned",
+      "verdict": "coders"
+    },
+    "owners": {
+      "coders": "one",
+      "mine": "na",
+      "verdict": "coders"
+    }
+  },
+  "id": "q0579",
+  "note": null,
+  "phase": "validation"
+}

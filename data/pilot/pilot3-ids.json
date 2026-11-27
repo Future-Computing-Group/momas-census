@@ -1,0 +1,153 @@
+{
+ "retest": [
+  {
+   "id": "x09188",
+   "reason": "principals-or-cell-disagreement"
+  },
+  {
+   "id": "x02121",
+   "reason": "principals-or-cell-disagreement"
+  },
+  {
+   "id": "x01330",
+   "reason": "principals-or-cell-disagreement"
+  },
+  {
+   "id": "x12002",
+   "reason": "principals-or-cell-disagreement"
+  },
+  {
+   "id": "x07771",
+   "reason": "principals-or-cell-disagreement"
+  },
+  {
+   "id": "x11818",
+   "reason": "principals-or-cell-disagreement"
+  },
+  {
+   "id": "x01063",
+   "reason": "principals-or-cell-disagreement"
+  },
+  {
+   "id": "x09449",
+   "reason": "principals-or-cell-disagreement"
+  },
+  {
+   "id": "x11525",
+   "reason": "principals-or-cell-disagreement"
+  },
+  {
+   "id": "x01189",
+   "reason": "principals-or-cell-disagreement"
+  },
+  {
+   "id": "x10939",
+   "reason": "principals-or-cell-disagreement"
+  },
+  {
+   "id": "x05860",
+   "reason": "principals-or-cell-disagreement"
+  },
+  {
+   "id": "y02502",
+   "reason": "principals-or-cell-disagreement"
+  },
+  {
+   "id": "z00138",
+   "reason": "principals-or-cell-disagreement"
+  },
+  {
+   "id": "x03722",
+   "reason": "principals-or-cell-disagreement"
+  },
+  {
+   "id": "x08605",
+   "reason": "principals-or-cell-disagreement"
+  },
+  {
+   "id": "x09122",
+   "reason": "principals-or-cell-disagreement"
+  },
+  {
+   "id": "x11429",
+   "reason": "principals-or-cell-disagreement"
+  },
+  {
+   "id": "y00148",
+   "reason": "principals-or-cell-disagreement"
+  },
+  {
+   "id": "y03524",
+   "reason": "principals-or-cell-disagreement"
+  },
+  {
+   "id": "x00363",
+   "reason": "conformance-miss"
+  },
+  {
+   "id": "x12217",
+   "reason": "conformance-miss"
+  },
+  {
+   "id": "x04919",
+   "reason": "conformance-miss"
+  },
+  {
+   "id": "x08000",
+   "reason": "conformance-miss"
+  }
+ ],
+ "fresh": [
+  "x11680",
+  "x07316",
+  "x09254",
+  "x04298",
+  "x11986",
+  "x08480",
+  "y03691",
+  "y02184",
+  "x02960",
+  "x04886",
+  "x01786",
+  "x00925",
+  "x12362",
+  "y00046",
+  "x06885",
+  "x03802",
+  "x07824",
+  "x09675",
+  "x03223",
+  "z00092",
+  "y02883",
+  "x07430",
+  "y01684",
+  "x05357",
+  "x01825",
+  "y03362",
+  "x05474",
+  "x01965",
+  "x01205",
+  "x12243",
+  "z00088",
+  "y03372",
+  "x08529",
+  "x02223",
+  "x02959",
+  "x11186",
+  "y03208",
+  "x06573",
+  "x08221",
+  "y00177"
+ ],
+ "fresh_draw": "random.Random(20261111).sample(sorted(confirmed a/b/e/n/z of full, ext, ext-ea minus the 177 pilot ids), 40); 1412 eligible",
+ "orders": {
+  "A": "random.Random(3).shuffle(retest + fresh)",
+  "B": "random.Random(4).shuffle(retest + fresh)"
+ },
+ "codebook": "codebook-policy-v2.2.md",
+ "codebook_sha256": "720acb5b47bb4c0c26e7e9127636a00212ca0b94f380036fd939b26a0411b33a",
+ "implied_sha256": "0bc90333baf0d59e86b660d380d65fa0f125c98f13584ea2c4719ba9eac102ac",
+ "implied_3_sha256": "03ec90566c9c369513015ee93fa2af29c2417dcbec8169dd6685adb79ac0c019",
+ "implied_2b_sha256": "97535c2974e6af8c9e8d5335711178544e56541ba59b56cffbbcc01314446003",
+ "implied_2b_ids": "the 24 retest ids plus the K9 provenance papers x04926, x01284, x04296 (not in the pilot3 batches)"
+}

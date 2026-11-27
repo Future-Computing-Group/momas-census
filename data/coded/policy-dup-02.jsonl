@@ -1,0 +1,70 @@
+{"id": "x03608", "policy_setters": "one", "policy_quote": "trains LLMs to Reason with Search via reinforcement learning", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06303", "policy_setters": "one", "policy_quote": "learning a decision policy from observational data", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02481", "policy_setters": "several", "policy_quote": "poisoning and backdoor attacks", "principals": "several", "principals_quote": "poisoning and backdoor attacks", "partners_from_others": "yes"}
+{"id": "x02635", "policy_setters": "several", "policy_quote": "exert costly effort", "principals": "several", "principals_quote": "A principal delegates a project to a team S from a pool of n agents", "partners_from_others": "no"}
+{"id": "x05482", "policy_setters": "one", "policy_quote": "we propose SafeAuto", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06501", "policy_setters": "several", "policy_quote": "mechanism design and information design problems", "principals": "several", "principals_quote": "two-agent, two-alternative social choice problems", "partners_from_others": "no"}
+{"id": "x08595", "policy_setters": "several", "policy_quote": "adversarial attack framework", "principals": "several", "principals_quote": "adversarial attack framework", "partners_from_others": "yes"}
+{"id": "x01781", "policy_setters": "several", "policy_quote": "human judges with either mainstream or skeptical beliefs", "principals": "several", "principals_quote": "human judges with either mainstream or skeptical beliefs", "partners_from_others": "no"}
+{"id": "x06100", "policy_setters": "one", "policy_quote": "learning in SSP", "principals": "one", "principals_quote": "to achieve a common objective", "partners_from_others": "no"}
+{"id": "x10558", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02219", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x07566", "policy_setters": "several", "policy_quote": "A firm (she) contracts with a worker (he)", "principals": "several", "principals_quote": "They choose a regulation", "partners_from_others": "no"}
+{"id": "y00451", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10265", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04820", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01864", "policy_setters": "several", "policy_quote": "the buyer does not know which specific product they will receive", "principals": "several", "principals_quote": "the buyer does not know which specific product they will receive", "partners_from_others": "no"}
+{"id": "x12068", "policy_setters": "several", "policy_quote": "jailbreak attacks on large language models", "principals": "several", "principals_quote": "jailbreak attacks on large language models", "partners_from_others": "yes"}
+{"id": "x05707", "policy_setters": "several", "policy_quote": "agents have (possibly random) endowments and ordinal preferences", "principals": "several", "principals_quote": "organ exchanges, tuition exchanges", "partners_from_others": "no"}
+{"id": "x01679", "policy_setters": "several", "policy_quote": "data stored on individual clients", "principals": "several", "principals_quote": "data stored on individual clients", "partners_from_others": "no"}
+{"id": "x06468", "policy_setters": "one", "policy_quote": "multiple drones cooperate and compete", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05056", "policy_setters": "one", "policy_quote": "", "principals": "several", "principals_quote": "n agents with additive preferences", "partners_from_others": "no"}
+{"id": "x04919", "policy_setters": "several", "policy_quote": "client-server communication", "principals": "several", "principals_quote": "client-server communication", "partners_from_others": "no"}
+{"id": "y00219", "policy_setters": "several", "policy_quote": "allows a client to perform ANN search", "principals": "several", "principals_quote": "without revealing the query vector to the server", "partners_from_others": "no"}
+{"id": "y00051", "policy_setters": "several", "policy_quote": "all users adopt it", "principals": "several", "principals_quote": "all users adopt it", "partners_from_others": "yes"}
+{"id": "y00506", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11833", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06218", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11501", "policy_setters": "several", "policy_quote": "consumer financial health", "principals": "several", "principals_quote": "consumer financial health", "partners_from_others": "no"}
+{"id": "y01984", "policy_setters": "one", "policy_quote": "decentralised deployment strategy", "principals": "one", "principals_quote": "fleets of UAVs are deployed to fulfil orders", "partners_from_others": "no"}
+{"id": "x04344", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09657", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03639", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y03388", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02517", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07086", "policy_setters": "several", "policy_quote": "CRAs are paid by the issuers", "principals": "several", "principals_quote": "between firms and investors", "partners_from_others": "no"}
+{"id": "x00346", "policy_setters": "several", "policy_quote": "hidden policies of its opponents", "principals": "several", "principals_quote": "hidden policies of its opponents", "partners_from_others": "yes"}
+{"id": "y00351", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01749", "policy_setters": "several", "policy_quote": "agents behave strategically", "principals": "several", "principals_quote": "agents behave strategically", "partners_from_others": "no"}
+{"id": "y03788", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02225", "policy_setters": "several", "policy_quote": "an agent arrives with a private valuation", "principals": "several", "principals_quote": "a designer rents out an indivisible asset", "partners_from_others": "no"}
+{"id": "x05352", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03276", "policy_setters": "one", "policy_quote": "all starting from the same base model", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11186", "policy_setters": "several", "policy_quote": "individuals modify their features", "principals": "several", "principals_quote": "individuals modify their features", "partners_from_others": "no"}
+{"id": "x01547", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00059", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04937", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00204", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11093", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00056", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11536", "policy_setters": "several", "policy_quote": "types who self-select this bundle", "principals": "several", "principals_quote": "types who self-select this bundle", "partners_from_others": "no"}
+{"id": "y01953", "policy_setters": "several", "policy_quote": "adversarial environments", "principals": "several", "principals_quote": "adversarial environments", "partners_from_others": "yes"}
+{"id": "x10119", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03358", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x08668", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x08525", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08274", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02808", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08411", "policy_setters": "several", "policy_quote": "sequentially arriving agents", "principals": "several", "principals_quote": "a principal aims to learn an accurate binary linear classifier", "partners_from_others": "no"}
+{"id": "x00425", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06471", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03028", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03098", "policy_setters": "several", "policy_quote": "n bidders and m items", "principals": "several", "principals_quote": "n bidders and m items", "partners_from_others": "no"}
+{"id": "y00271", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00358", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06701", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02460", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11903", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02208", "policy_setters": "one", "policy_quote": "", "principals": "several", "principals_quote": "multi-player settings", "partners_from_others": "no"}
+{"id": "x11181", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00761", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}

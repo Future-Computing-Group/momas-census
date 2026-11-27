@@ -1,0 +1,70 @@
+{"id": "x00078", "policy_setters": "several", "policy_quote": "AI systems understand their circumstances and reason strategically", "principals": "several", "principals_quote": "evaluation-based safety cases", "partners_from_others": "no"}
+{"id": "x11841", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y02416", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02362", "policy_setters": "several", "policy_quote": "a group of clients collaborate with a server", "principals": "several", "principals_quote": "a group of clients collaborate with a server", "partners_from_others": "no"}
+{"id": "y02104", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04372", "policy_setters": "several", "policy_quote": "poison the training dataset", "principals": "several", "principals_quote": "poison the training dataset", "partners_from_others": "no"}
+{"id": "x05488", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x00735", "policy_setters": "several", "policy_quote": "combines the predictions of multiple forecasters", "principals": "na", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08707", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08729", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01464", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00493", "policy_setters": "several", "policy_quote": "self-interested agents coordinate", "principals": "several", "principals_quote": "self-interested agents coordinate", "partners_from_others": "no"}
+{"id": "y00668", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01845", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00678", "policy_setters": "several", "policy_quote": "adversarial noise in observations", "principals": "several", "principals_quote": "adversarial noise in observations", "partners_from_others": "no"}
+{"id": "x01397", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02205", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x09922", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01540", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06078", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03432", "policy_setters": "one", "policy_quote": "", "principals": "several", "principals_quote": "fair allocation of indivisible items when agents have", "partners_from_others": "no"}
+{"id": "z00105", "policy_setters": "one", "policy_quote": "", "principals": "several", "principals_quote": "fairly allocating indivisible items among agents", "partners_from_others": "no"}
+{"id": "x03207", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02895", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09611", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y00333", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11245", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x00909", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00610", "policy_setters": "several", "policy_quote": "conducting covert attacks on downstream graph data", "principals": "several", "principals_quote": "conducting covert attacks on downstream graph data", "partners_from_others": "no"}
+{"id": "y00219", "policy_setters": "several", "policy_quote": "without revealing the query vector to the server", "principals": "several", "principals_quote": "without revealing the query vector to the server", "partners_from_others": "no"}
+{"id": "x03741", "policy_setters": "several", "policy_quote": "analyzing buyer choices", "principals": "several", "principals_quote": "analyzing buyer choices", "partners_from_others": "no"}
+{"id": "x07999", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y01325", "policy_setters": "several", "policy_quote": "agents have private profiles and may misreport their contexts", "principals": "several", "principals_quote": "agents have private profiles and may misreport their contexts", "partners_from_others": "no"}
+{"id": "x01657", "policy_setters": "several", "policy_quote": "proposed to obtain harmful responses from safety-tuned LLMs", "principals": "several", "principals_quote": "proposed to obtain harmful responses from safety-tuned LLMs", "partners_from_others": "no"}
+{"id": "x10460", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x07224", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00767", "policy_setters": "several", "policy_quote": "each client to process an individual model adapted to its local distribution", "principals": "several", "principals_quote": "each client to process an individual model adapted to its local distribution", "partners_from_others": "no"}
+{"id": "x08117", "policy_setters": "several", "policy_quote": "GenAI could strategically provide inaccurate", "principals": "several", "principals_quote": "driving users to use human-based forums", "partners_from_others": "no"}
+{"id": "x11818", "policy_setters": "several", "policy_quote": "Social predictions do not passively describe the future", "principals": "several", "principals_quote": "Social predictions do not passively describe the future", "partners_from_others": "no"}
+{"id": "x06023", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06448", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03545", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x11219", "policy_setters": "several", "policy_quote": "attack each character in the image", "principals": "several", "principals_quote": "attack each character in the image", "partners_from_others": "no"}
+{"id": "x00013", "policy_setters": "several", "policy_quote": "different types of behavior can be interpreted in a single unifying formalism", "principals": "one", "principals_quote": "reward function", "partners_from_others": "no"}
+{"id": "x06453", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04276", "policy_setters": "several", "policy_quote": "firms' location choices within the visual characteristics space as well as pricing and entry decisions", "principals": "several", "principals_quote": "consumers' heterogeneous preferences for visual attributes", "partners_from_others": "no"}
+{"id": "y02761", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02977", "policy_setters": "several", "policy_quote": "buyers filter out products priced above their valuation", "principals": "several", "principals_quote": "maximize seller revenue", "partners_from_others": "no"}
+{"id": "x12366", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y00452", "policy_setters": "several", "policy_quote": "test-time poisoned data", "principals": "several", "principals_quote": "test-time poisoned data", "partners_from_others": "no"}
+{"id": "x10534", "policy_setters": "several", "policy_quote": "multi-target instance-agnostic adversarial attacks", "principals": "several", "principals_quote": "multi-target instance-agnostic adversarial attacks", "partners_from_others": "no"}
+{"id": "y02003", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x00426", "policy_setters": "several", "policy_quote": "no agent has a profitable manipulation", "principals": "several", "principals_quote": "no agent has a profitable manipulation", "partners_from_others": "no"}
+{"id": "x02297", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x06264", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x02272", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x00369", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00685", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02300", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09236", "policy_setters": "one", "policy_quote": "", "principals": "several", "principals_quote": "user preferences vary significantly across geographical regions, demographics", "partners_from_others": "no"}
+{"id": "x03194", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11284", "policy_setters": "several", "policy_quote": "The seller can specify preferences over partitions of their supply between buyers", "principals": "several", "principals_quote": "between buyers", "partners_from_others": "no"}
+{"id": "x11837", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06790", "policy_setters": "several", "policy_quote": "adversaries", "principals": "several", "principals_quote": "adversaries", "partners_from_others": "no"}
+{"id": "x01730", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09317", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06071", "policy_setters": "several", "policy_quote": "adversarial attacks", "principals": "several", "principals_quote": "adversarial attacks", "partners_from_others": "no"}
+{"id": "z00117", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x00203", "policy_setters": "several", "policy_quote": "black-box red-teaming framework for attacking web agents", "principals": "several", "principals_quote": "black-box red-teaming framework for attacking web agents", "partners_from_others": "yes"}
+{"id": "x00049", "policy_setters": "several", "policy_quote": "firms to collect detailed consumer data", "principals": "several", "principals_quote": "firms to collect detailed consumer data", "partners_from_others": "no"}

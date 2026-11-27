@@ -1,0 +1,43 @@
+{"id": "x04298", "field": "policy_setters", "code": "one", "reason": "multimodal FL with a prescribed protection method", "rule": "protocol-fixed-FL"}
+{"id": "x08480", "field": "policy_setters", "code": "one", "reason": "federated prompt tuning protocol prescribed", "rule": "protocol-fixed-FL"}
+{"id": "y02184", "field": "policy_setters", "code": "one", "reason": "robust FL aggregation with prescribed clipping; misbehaving workers are not setters", "rule": "protocol-fixed-FL"}
+{"id": "x02223", "field": "policy_setters", "code": "one", "reason": "VFL adversarial training framework prescribed for all participants", "rule": "protocol-fixed-FL"}
+{"id": "y03372", "field": "policy_setters", "code": "one", "reason": "federated RLHF protocol run by every client", "rule": "protocol-fixed-FL"}
+{"id": "x12362", "field": "policy_setters", "code": "one", "reason": "self-interested agents all run the derived decentralized RL algorithms", "rule": "prescribed-dynamics-K1"}
+{"id": "y03362", "field": "policy_setters", "code": "one", "reason": "all agents endowed with the same EMA learning rule", "rule": "prescribed-dynamics-K1"}
+{"id": "x08529", "field": "policy_setters", "code": "one", "reason": "agents follow the paper's gradient-free no-regret policy; convergence studied", "rule": "prescribed-dynamics-K1"}
+{"id": "x06885", "field": "policy_setters", "code": "several", "reason": "countries misreport parameters; IC mechanism", "rule": "equilibrium-self-interested"}
+{"id": "x03802", "field": "policy_setters", "code": "several", "reason": "contract design: seller commits, buyer accepts or rejects for own utility", "rule": "equilibrium-self-interested"}
+{"id": "x01825", "field": "policy_setters", "code": "several", "reason": "DSIC auction: bidder maximizes own utility", "rule": "equilibrium-self-interested"}
+{"id": "y03208", "field": "policy_setters", "code": "several", "reason": "IC and IR data-trading mechanism for self-interested data owners", "rule": "equilibrium-self-interested"}
+{"id": "x11186", "field": "policy_setters", "code": "several", "reason": "strategic classification: individuals modify features for own benefit", "rule": "equilibrium-self-interested"}
+{"id": "x02960", "field": "policy_setters", "code": "one", "reason": "buyers' valuations drawn from a distribution; purchase feedback is data", "rule": "K4-data-subjects"}
+{"id": "x01786", "field": "policy_setters", "code": "one", "reason": "group choices modelled by discrete choice models are data", "rule": "K4-data-subjects"}
+{"id": "x11986", "field": "policy_setters", "code": "one", "reason": "users propagate content through a diffusion model; one allocation algorithm", "rule": "K4-data-subjects"}
+{"id": "x02959", "field": "policy_setters", "code": "one", "reason": "authors train both Meta-Attacker and Defender", "rule": "author-run-K2"}
+{"id": "z00092", "field": "policy_setters", "code": "one", "reason": "authors train all MARL agents in a centralized adversarial phase", "rule": "author-run-K2"}
+{"id": "x07316", "field": "outside_attacker", "code": "yes", "reason": "prompt reconstruction from hidden states by a third-party inference service: privacy attack", "rule": "R5-outside"}
+{"id": "x04886", "field": "outside_attacker", "code": "yes", "reason": "black-box membership inference attack on LVLMs: privacy attack", "rule": "R5-outside"}
+{"id": "x07824", "field": "outside_attacker", "code": "yes", "reason": "defence against jailbreak attacks on audio-language models", "rule": "R5-outside"}
+{"id": "x05357", "field": "outside_attacker", "code": "yes", "reason": "jailbreak attack on text-to-video models", "rule": "R5-outside"}
+{"id": "x12243", "field": "outside_attacker", "code": "yes", "reason": "membership inference attacks on data behind released synthetic text: privacy attack", "rule": "R5-outside"}
+{"id": "x08221", "field": "outside_attacker", "code": "yes", "reason": "jailbreak benchmark for audio-language models", "rule": "R5-outside"}
+{"id": "x02959", "field": "outside_attacker", "code": "yes", "reason": "safety alignment against jailbreaking attacks (author-trained Meta-Attacker)", "rule": "R5-outside"}
+{"id": "x04298", "field": "outside_attacker", "code": "yes", "reason": "gradient inversion attack on multimodal FL: privacy attack", "rule": "R5-outside"}
+{"id": "y02184", "field": "outside_attacker", "code": "yes", "reason": "adversarial or misbehaving workers in robust FL: poisoning", "rule": "R5-outside"}
+{"id": "y00046", "field": "outside_attacker", "code": "yes", "reason": "deepfake detector hardened against adversarial attacks", "rule": "R5-outside"}
+{"id": "x07430", "field": "outside_attacker", "code": "yes", "reason": "black-box adversarial attack on image classifiers", "rule": "R5-outside"}
+{"id": "x01965", "field": "outside_attacker", "code": "yes", "reason": "defence against maliciously perturbed input images to LVLMs", "rule": "R5-outside"}
+{"id": "x03223", "field": "outside_attacker", "code": "yes", "reason": "certified robustness against adversarial examples", "rule": "R5-outside"}
+{"id": "x02223", "field": "outside_attacker", "code": "yes", "reason": "adversarial training in VFL against inference-time adversarial attacks", "rule": "R5-outside"}
+{"id": "x05474", "field": "outside_attacker", "code": "yes", "reason": "an adversary perturbs edge weights to degrade a network", "rule": "R5-outside"}
+{"id": "x06573", "field": "outside_attacker", "code": "yes", "reason": "red-teaming attacks that elicit unsafe VLM outputs", "rule": "R5-outside"}
+{"id": "x06885", "field": "rule_breaking", "code": "no", "reason": "countries may misreport parameters to an IC mechanism: strategic behaviour within the rules", "rule": "R5-within"}
+{"id": "x03802", "field": "rule_breaking", "code": "no", "reason": "buyer accepts or rejects for own utility: within the contract's rules", "rule": "R5-within"}
+{"id": "x01825", "field": "rule_breaking", "code": "no", "reason": "DSIC auction: bidding is within the rules", "rule": "R5-within"}
+{"id": "y03208", "field": "rule_breaking", "code": "no", "reason": "IC and IR data-trading mechanism: within the rules", "rule": "R5-within"}
+{"id": "x11186", "field": "rule_breaking", "code": "no", "reason": "strategic classification: feature changes are within the rules", "rule": "R5-within"}
+{"id": "y02184", "field": "rule_breaking", "code": "no", "reason": "poisoning or misbehaving workers are outside attackers, not rule-breaking participants", "rule": "R5-within"}
+{"id": "x12362", "field": "behaviour", "code": "rational", "reason": "self-interested agents all run the derived decentralized RL algorithms", "rule": "R6"}
+{"id": "x08529", "field": "behaviour", "code": "rational", "reason": "strategic agents all follow the paper's no-regret policy", "rule": "R6"}
+{"id": "y03691", "field": "principals", "code": "several", "reason": "LLM deployed to end users and optimized on their feedback", "rule": "R9"}

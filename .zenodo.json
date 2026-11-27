@@ -1,0 +1,9 @@
+{
+  "title": "Multi-owner multi-agent systems: census code and data",
+  "upload_type": "software",
+  "creators": [{"name": "Lovén, Lauri", "affiliation": "University of Oulu", "orcid": "0000-0001-9475-4839"}],
+  "description": "Data, codebooks and code for the census of accepted AI papers and the coded sample of agent deployments in the Perspective 'Multi-owner multi-agent systems: from better agents to the rules between them'. From the committed coded labels and stored query results, the repository regenerates every Supplementary Information number (LaTeX fragments in si/) and Fig. 2, checked from a clean clone by test_clean_clone.sh. Code under MIT; data, coded labels and codebooks under CC BY 4.0.",
+  "license": "MIT",
+  "version": "1.0.0",
+  "keywords": ["multi-agent systems", "mechanism design", "AI agents", "literature census", "content analysis"]
+}

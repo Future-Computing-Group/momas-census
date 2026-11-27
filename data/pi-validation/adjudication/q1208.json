@@ -1,0 +1,17 @@
+{
+  "fields": {
+    "agent": {
+      "coders": "no",
+      "mine": "yes",
+      "verdict": "coders"
+    },
+    "boundary": {
+      "coders": "no",
+      "mine": "yes",
+      "verdict": "coders"
+    }
+  },
+  "id": "q1208",
+  "note": null,
+  "phase": "validation"
+}

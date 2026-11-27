@@ -1,0 +1,164 @@
+{
+ "all-2020": {
+  "n": 2983,
+  "several": {
+   "count": 60,
+   "lo": 50,
+   "hi": 141,
+   "direct": false
+  },
+  "interaction": {
+   "count": 36,
+   "lo": 26,
+   "hi": 117,
+   "direct": false
+  },
+  "simulated": {
+   "count": 19,
+   "lo": 19,
+   "hi": 90,
+   "direct": false
+  },
+  "parties_ai-agents": {
+   "count": 2,
+   "lo": 2,
+   "hi": 73,
+   "direct": false
+  }
+ },
+ "all-2025": {
+  "n": 8545,
+  "several": {
+   "count": 148,
+   "lo": 137,
+   "hi": 238,
+   "direct": false
+  },
+  "interaction": {
+   "count": 81,
+   "lo": 81,
+   "hi": 160,
+   "direct": false
+  },
+  "simulated": {
+   "count": 34,
+   "lo": 27,
+   "hi": 119,
+   "direct": false
+  },
+  "parties_ai-agents": {
+   "count": 10,
+   "lo": 10,
+   "hi": 89,
+   "direct": false
+  }
+ },
+ "all-iclr-2025": {
+  "n": 3708,
+  "several": {
+   "count": 81,
+   "lo": 61,
+   "hi": 151,
+   "direct": false
+  },
+  "interaction": {
+   "count": 16,
+   "lo": 16,
+   "hi": 67,
+   "direct": false
+  },
+  "simulated": {
+   "count": 12,
+   "lo": 11,
+   "hi": 64,
+   "direct": false
+  },
+  "parties_ai-agents": {
+   "count": 6,
+   "lo": 6,
+   "hi": 57,
+   "direct": false
+  }
+ },
+ "all-aamas-2025": {
+  "n": 260,
+  "several": {
+   "count": 56,
+   "lo": 56,
+   "hi": 56,
+   "direct": true
+  },
+  "interaction": {
+   "count": 44,
+   "lo": 44,
+   "hi": 44,
+   "direct": true
+  },
+  "simulated": {
+   "count": 10,
+   "lo": 10,
+   "hi": 10,
+   "direct": true
+  },
+  "parties_ai-agents": {
+   "count": 4,
+   "lo": 4,
+   "hi": 4,
+   "direct": true
+  }
+ },
+ "all-aamas-2025-ea": {
+  "n": 160,
+  "several": {
+   "count": 30,
+   "lo": 30,
+   "hi": 30,
+   "direct": true
+  },
+  "interaction": {
+   "count": 20,
+   "lo": 20,
+   "hi": 20,
+   "direct": true
+  },
+  "simulated": {
+   "count": 12,
+   "lo": 12,
+   "hi": 12,
+   "direct": true
+  },
+  "parties_ai-agents": {
+   "count": 2,
+   "lo": 2,
+   "hi": 2,
+   "direct": true
+  }
+ },
+ "ec-2025": {
+  "n": 203,
+  "several": {
+   "count": 115,
+   "lo": 115,
+   "hi": 115,
+   "direct": true
+  },
+  "interaction": {
+   "count": 108,
+   "lo": 108,
+   "hi": 108,
+   "direct": true
+  },
+  "simulated": {
+   "count": 3,
+   "lo": 3,
+   "hi": 3,
+   "direct": true
+  },
+  "parties_ai-agents": {
+   "count": 2,
+   "lo": 2,
+   "hi": 2,
+   "direct": true
+  }
+ }
+}

@@ -1,0 +1,11 @@
+{"id": "d023", "status": "ok", "live": "live", "agent": "yes", "reach": "internal", "market": "no", "a2a": "no", "confidence": "high", "quote": "applying for leave, booking seats, raising asset requests"}
+{"id": "d026", "status": "ok", "live": "planned", "agent": "no", "reach": null, "market": null, "a2a": null, "confidence": "low", "quote": "Fujitsu is rolling out Agentforce in phases"}
+{"id": "d027", "status": "ok", "live": "live", "agent": "yes", "reach": "internal", "market": "no", "a2a": "no", "confidence": "medium", "quote": "robots complete the final system updates"}
+{"id": "d033", "status": "ok", "live": "live", "agent": "yes", "reach": "cross-owner", "market": "no", "a2a": "no", "confidence": "medium", "quote": "Operations teams communicate design changes with suppliers through AI intermediaries"}
+{"id": "d034", "status": "ok", "live": "live", "agent": "yes", "reach": "internal", "market": "no", "a2a": "no", "confidence": "medium", "quote": "If a ticket is required, users can set this up directly in the agent"}
+{"id": "d035", "status": "ok", "live": "live", "agent": "yes", "reach": "na", "market": "no", "a2a": "no", "confidence": "medium", "quote": "AI agents resolve increasingly complex scenarios"}
+{"id": "d038", "status": "ok", "live": "live", "agent": "yes", "reach": "internal", "market": "no", "a2a": "no", "confidence": "high", "quote": "creates the ticket in a Power App application which works as the internal CRM system"}
+{"id": "d042", "status": "ok", "live": "live", "agent": "yes", "reach": "customer", "market": "no", "a2a": "no", "confidence": "medium", "quote": "automatically updates the contact history in Service Cloud"}
+{"id": "d043", "status": "ok", "live": "live", "agent": "yes", "reach": "customer", "market": "yes", "a2a": "no", "confidence": "medium", "quote": "If the seller approves, Seller Assistant implements the solution"}
+{"id": "d045", "status": "ok", "live": "live", "agent": "yes", "reach": "internal", "market": "no", "a2a": "no", "confidence": "low", "quote": "generates pre-filled support tickets"}
+{"id": "d047", "status": "ok", "live": "live", "agent": "yes", "reach": "customer", "market": "no", "a2a": "no", "confidence": "high", "quote": "solve complete processes like blocking a credit card"}

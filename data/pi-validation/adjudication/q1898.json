@@ -1,0 +1,22 @@
+{
+  "fields": {
+    "boundary": {
+      "coders": "yes",
+      "mine": "no",
+      "verdict": "coders"
+    },
+    "interests": {
+      "coders": "several-conflicting",
+      "mine": "one",
+      "verdict": "coders"
+    },
+    "owners": {
+      "coders": "several",
+      "mine": "one",
+      "verdict": "coders"
+    }
+  },
+  "id": "q1898",
+  "note": null,
+  "phase": "validation"
+}

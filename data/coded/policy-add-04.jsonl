@@ -1,0 +1,70 @@
+{"id": "y01085", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04791", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00012", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10019", "policy_setters": "one", "policy_quote": "independent policy gradient methods", "principals": "several", "principals_quote": "two-player zero-sum", "partners_from_others": "no"}
+{"id": "x04636", "policy_setters": "several", "policy_quote": "a single strategic buyer that seeks to maximize his cumulative discounted surplus", "principals": "several", "principals_quote": "a seller interacts with a single strategic buyer", "partners_from_others": "yes"}
+{"id": "x01957", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09055", "policy_setters": "one", "policy_quote": "learning a Nash equilibrium (NE) of extensive-form games", "principals": "several", "principals_quote": "extensive-form games", "partners_from_others": "no"}
+{"id": "x08525", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04437", "policy_setters": "several", "policy_quote": "adapt the defended model to new adversaries as they arise", "principals": "several", "principals_quote": "defenders may encounter new attacks over time", "partners_from_others": "yes"}
+{"id": "y01479", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00010", "policy_setters": "one", "policy_quote": "a round-robin algorithm produces a class envy-free matching", "principals": "several", "principals_quote": "each class must receive fair treatment", "partners_from_others": "no"}
+{"id": "x02698", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01911", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01616", "policy_setters": "one", "policy_quote": "multi-round learning system for solving partially observable stochastic games", "principals": "several", "principals_quote": "multiplayer", "partners_from_others": "no"}
+{"id": "x07110", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01786", "policy_setters": "several", "policy_quote": "heterogeneous preferences", "principals": "several", "principals_quote": "heterogeneous preferences", "partners_from_others": "no"}
+{"id": "y01593", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09399", "policy_setters": "several", "policy_quote": "competition between two-sided platforms", "principals": "several", "principals_quote": "two-sided platforms", "partners_from_others": "no"}
+{"id": "x09092", "policy_setters": "several", "policy_quote": "players are assigned quasi-randomly to teams", "principals": "several", "principals_quote": "temporary teams in a competitive environment", "partners_from_others": "no"}
+{"id": "x02337", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00217", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02863", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05302", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01155", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02432", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08665", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02374", "policy_setters": "several", "policy_quote": "a human is more likely to be correct than the model", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07518", "policy_setters": "several", "policy_quote": "players run the Hedge algorithm", "principals": "several", "principals_quote": "m-player games", "partners_from_others": "yes"}
+{"id": "x02064", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01987", "policy_setters": "one", "policy_quote": "a final winner is chosen from these representatives", "principals": "several", "principals_quote": "n$ voters are partitioned into $k$ groups", "partners_from_others": "no"}
+{"id": "y01810", "policy_setters": "one", "policy_quote": "", "principals": "several", "principals_quote": "diverse real-world users", "partners_from_others": "no"}
+{"id": "x10493", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10634", "policy_setters": "several", "policy_quote": "only classification confidence of a victim model is available", "principals": "several", "principals_quote": "victim model", "partners_from_others": "yes"}
+{"id": "x00465", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02287", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01235", "policy_setters": "one", "policy_quote": "", "principals": "several", "principals_quote": "individual users", "partners_from_others": "no"}
+{"id": "y03936", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04359", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x07647", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08735", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01014", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00027", "policy_setters": "one", "policy_quote": "a set of agents have to be partitioned into groups", "principals": "several", "principals_quote": "each agent has friends and enemies", "partners_from_others": "no"}
+{"id": "x09941", "policy_setters": "several", "policy_quote": "two traders arrive with secret valuations about an asset", "principals": "several", "principals_quote": "two traders arrive with secret valuations", "partners_from_others": "yes"}
+{"id": "x03755", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05978", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03504", "policy_setters": "several", "policy_quote": "the number of additional bidders the monopoly must attract", "principals": "several", "principals_quote": "bidders", "partners_from_others": "no"}
+{"id": "x10647", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08101", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08779", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02471", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03845", "policy_setters": "several", "policy_quote": "users might act strategically in order to achieve favorable outcomes", "principals": "several", "principals_quote": "their objectives do not always align with the interests of the users they affect", "partners_from_others": "no"}
+{"id": "x03061", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06747", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06303", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10124", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02677", "policy_setters": "one", "policy_quote": "last-iterate behaviours of EG and OG algorithms", "principals": "several", "principals_quote": "multi-player games", "partners_from_others": "no"}
+{"id": "y02946", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09301", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x00588", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03224", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01761", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01089", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06780", "policy_setters": "several", "policy_quote": "a receiver, upon observing a realization of this policy, decides whether to take a particular action", "principals": "several", "principals_quote": "a sender provides an information policy and a receiver", "partners_from_others": "yes"}
+{"id": "z00103", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x12250", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01013", "policy_setters": "several", "policy_quote": "agents who have the ability to improve", "principals": "several", "principals_quote": "data points are agents who have the ability to improve", "partners_from_others": "yes"}
+{"id": "x05528", "policy_setters": "several", "policy_quote": "clients with heterogeneous data to collaboratively train models", "principals": "several", "principals_quote": "clients with heterogeneous data", "partners_from_others": "no"}
+{"id": "y01634", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02184", "policy_setters": "several", "policy_quote": "adversarial or misbehaving workers", "principals": "several", "principals_quote": "adversarial or misbehaving workers", "partners_from_others": "yes"}
+{"id": "x03762", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}

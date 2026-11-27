@@ -1,0 +1,70 @@
+{"id": "y01342", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01071", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x12125", "policy_setters": "one", "policy_quote": "", "principals": "several", "principals_quote": "representation of the broader population", "partners_from_others": "no"}
+{"id": "x09477", "policy_setters": "several", "policy_quote": "determined attackers can mitigate these protective perturbations", "principals": "several", "principals_quote": "determined attackers can mitigate these protective perturbations", "partners_from_others": "yes"}
+{"id": "x06518", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07842", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11265", "policy_setters": "several", "policy_quote": "estimate participants' preferences", "principals": "several", "principals_quote": "estimate participants' preferences", "partners_from_others": "no"}
+{"id": "y01204", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02662", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00589", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00499", "policy_setters": "one", "policy_quote": "fairly allocating a set of indivisible items among agents", "principals": "several", "principals_quote": "fairly allocating a set of indivisible items among agents", "partners_from_others": "no"}
+{"id": "x08650", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03039", "policy_setters": "several", "policy_quote": "selection of instance-specific experts from a pool of multiple human experts", "principals": "one", "principals_quote": "assist human experts in classification tasks", "partners_from_others": "no"}
+{"id": "x07323", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09783", "policy_setters": "several", "policy_quote": "accounts for agents' incentives to ``game'' by changing their features", "principals": "several", "principals_quote": "accounts for agents' incentives to ``game'' by changing their features", "partners_from_others": "no"}
+{"id": "x04441", "policy_setters": "several", "policy_quote": "an unbounded white-box adversary", "principals": "several", "principals_quote": "an unbounded white-box adversary", "partners_from_others": "yes"}
+{"id": "x01584", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00670", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01405", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03077", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01552", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02089", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03539", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00057", "policy_setters": "several", "policy_quote": "maximizing their individual utilities", "principals": "several", "principals_quote": "maximizing their individual utilities", "partners_from_others": "no"}
+{"id": "y01925", "policy_setters": "several", "policy_quote": "proprietary LLMs", "principals": "several", "principals_quote": "red-teaming evaluation for proprietary LLMs", "partners_from_others": "yes"}
+{"id": "x06714", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y02496", "policy_setters": "one", "policy_quote": "an online platform matches the agents", "principals": "several", "principals_quote": "two-sided markets", "partners_from_others": "no"}
+{"id": "x00802", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08905", "policy_setters": "one", "policy_quote": "a stochastic choice rule assigns probabilities to actions", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03693", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03968", "policy_setters": "several", "policy_quote": "distributions over preferences", "principals": "several", "principals_quote": "distributions over preferences", "partners_from_others": "no"}
+{"id": "z00083", "policy_setters": "several", "policy_quote": "hedonic games with common ranking property", "principals": "several", "principals_quote": "all members of a coalition", "partners_from_others": "no"}
+{"id": "y01890", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02656", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03410", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11856", "policy_setters": "one", "policy_quote": "fair allocation of indivisible goods", "principals": "several", "principals_quote": "fair allocation of indivisible goods", "partners_from_others": "no"}
+{"id": "y03543", "policy_setters": "several", "policy_quote": "human-agent interaction scenarios", "principals": "several", "principals_quote": "model opponent behavior", "partners_from_others": "yes"}
+{"id": "x10232", "policy_setters": "several", "policy_quote": "agents have private preferences and private information about a common payoff-relevant state", "principals": "several", "principals_quote": "agents have private preferences and private information about a common payoff-relevant state", "partners_from_others": "no"}
+{"id": "y00177", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02474", "policy_setters": "several", "policy_quote": "approval elections", "principals": "several", "principals_quote": "approval elections", "partners_from_others": "no"}
+{"id": "y03473", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08775", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y00242", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00927", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04468", "policy_setters": "several", "policy_quote": "induce a desirable Nash equilibrium", "principals": "several", "principals_quote": "Designing incentives for a multi-agent system", "partners_from_others": "no"}
+{"id": "x03648", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06856", "policy_setters": "several", "policy_quote": "how individuals select among alternatives", "principals": "several", "principals_quote": "how individuals select among alternatives", "partners_from_others": "no"}
+{"id": "z00111", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09295", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10356", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08349", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04774", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03468", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04175", "policy_setters": "several", "policy_quote": "securely collaborate with an external third-party specialized in model repairing", "principals": "several", "principals_quote": "the service provider’s proprietary model", "partners_from_others": "no"}
+{"id": "y01214", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09082", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09227", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01021", "policy_setters": "several", "policy_quote": "directly interacting with humans", "principals": "several", "principals_quote": "playing against the best human persuader", "partners_from_others": "no"}
+{"id": "x11396", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00539", "policy_setters": "several", "policy_quote": "aligning the AI agent’s model with the human user’s mental model", "principals": "one", "principals_quote": "the human user’s mental model", "partners_from_others": "yes"}
+{"id": "x02272", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11607", "policy_setters": "one", "policy_quote": "among agents with additive valuations", "principals": "several", "principals_quote": "among agents with additive valuations", "partners_from_others": "no"}
+{"id": "y00607", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x07317", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11188", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01452", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02043", "policy_setters": "one", "policy_quote": "fair allocation of m indivisible goods to n agents", "principals": "several", "principals_quote": "fair allocation of m indivisible goods to n agents", "partners_from_others": "no"}
+{"id": "x02159", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10930", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08085", "policy_setters": "several", "policy_quote": "social choice", "principals": "several", "principals_quote": "social choice", "partners_from_others": "no"}

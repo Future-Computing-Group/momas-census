@@ -1,0 +1,70 @@
+{"id": "y01601", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01544", "policy_setters": "several", "policy_quote": "social engineering attacks", "principals": "several", "principals_quote": "benign and malicious LLM prompts", "partners_from_others": "yes"}
+{"id": "x09766", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x05667", "policy_setters": "several", "policy_quote": "students with siblings", "principals": "several", "principals_quote": "students with siblings", "partners_from_others": "no"}
+{"id": "y01000", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02038", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08875", "policy_setters": "several", "policy_quote": "voters to specify replacement votes", "principals": "several", "principals_quote": "parties", "partners_from_others": "no"}
+{"id": "x07563", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x07463", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02684", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08091", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02694", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01232", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00985", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10173", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07098", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x04202", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00173", "policy_setters": "several", "policy_quote": "agents' valuations", "principals": "several", "principals_quote": "truthful in dominant strategies", "partners_from_others": "no"}
+{"id": "x04304", "policy_setters": "several", "policy_quote": "monopolistic seller offers multiple versions of LLMs", "principals": "several", "principals_quote": "high-dimensional user heterogeneity", "partners_from_others": "no"}
+{"id": "x10831", "policy_setters": "several", "policy_quote": "simulated humans, driven by psychological traits and long-term intentions, interact with robots", "principals": "one", "principals_quote": "robots must account for individual human traits", "partners_from_others": "yes"}
+{"id": "y01244", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01152", "policy_setters": "several", "policy_quote": "Jailbreak backdoor attacks on LLMs", "principals": "several", "principals_quote": "safety-aligned LLMs", "partners_from_others": "yes"}
+{"id": "x09519", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11010", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04599", "policy_setters": "several", "policy_quote": "bad actors", "principals": "several", "principals_quote": "users pay a fixed fee for unlimited access to content, and creators receive a share", "partners_from_others": "no"}
+{"id": "x03246", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02787", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00343", "policy_setters": "several", "policy_quote": "models from five leading companies", "principals": "several", "principals_quote": "favor their developers' products", "partners_from_others": "no"}
+{"id": "y00399", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09316", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00122", "policy_setters": "several", "policy_quote": "individual interacting agents", "principals": "several", "principals_quote": "pursuit-evasion game", "partners_from_others": "yes"}
+{"id": "y03363", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00102", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03203", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01938", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03229", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11324", "policy_setters": "several", "policy_quote": "jailbreak", "principals": "several", "principals_quote": "circumvent the alignment of large language models", "partners_from_others": "yes"}
+{"id": "y03612", "policy_setters": "several", "policy_quote": "robot end users possess more scene insight than the robot", "principals": "one", "principals_quote": "robot end users", "partners_from_others": "no"}
+{"id": "y03938", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09423", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01689", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09695", "policy_setters": "several", "policy_quote": "against agents who are", "principals": "several", "principals_quote": "against agents who are", "partners_from_others": "yes"}
+{"id": "x03275", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x02110", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11998", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x12227", "policy_setters": "several", "policy_quote": "adversaries capable of intercepting the samples requested by a learner", "principals": "several", "principals_quote": "adversaries capable of intercepting the samples requested by a learner", "partners_from_others": "yes"}
+{"id": "x04970", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03407", "policy_setters": "several", "policy_quote": "engage with both human and artificial agents", "principals": "several", "principals_quote": "mutual gain across diverse partners", "partners_from_others": "yes"}
+{"id": "x00237", "policy_setters": "several", "policy_quote": "unauthorized third party forges the watermark", "principals": "several", "principals_quote": "unauthorized third party forges the watermark", "partners_from_others": "yes"}
+{"id": "x00331", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10677", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00102", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x07451", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05285", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05900", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07640", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10300", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00925", "policy_setters": "several", "policy_quote": "brains or algorithms", "principals": "na", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04147", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03073", "policy_setters": "several", "policy_quote": "Bad actors in the maritime industry", "principals": "several", "principals_quote": "locating adversarial agents", "partners_from_others": "yes"}
+{"id": "y00498", "policy_setters": "several", "policy_quote": "adversarial attacks that can elicit harmful responses", "principals": "several", "principals_quote": "adversarial attacks", "partners_from_others": "yes"}
+{"id": "x12249", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10234", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09373", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01829", "policy_setters": "several", "policy_quote": "data stream is chosen maliciously, by an adaptive adversary", "principals": "several", "principals_quote": "chosen maliciously, by an adaptive adversary", "partners_from_others": "yes"}
+{"id": "z00071", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07536", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00614", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00300", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x08709", "policy_setters": "several", "policy_quote": "interactive protocol between a verifier and a prover", "principals": "several", "principals_quote": "verifier and a prover", "partners_from_others": "yes"}

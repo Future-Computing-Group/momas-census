@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "Multi-owner multi-agent systems: census code and data"
+authors:
+  - family-names: "Lovén"
+    given-names: "Lauri"
+    affiliation: "University of Oulu"
+    orcid: "https://orcid.org/0000-0001-9475-4839"
+version: 1.0.0
+license: MIT
+type: software
+abstract: "Data, codebooks and code for the census of accepted AI papers and the coded sample of agent deployments in the Perspective 'Multi-owner multi-agent systems: from better agents to the rules between them'. Regenerates the Supplementary Information numbers and Fig. 2 from the coded labels."
+keywords:
+  - multi-agent systems
+  - mechanism design
+  - AI agents
+  - literature census
+  - content analysis

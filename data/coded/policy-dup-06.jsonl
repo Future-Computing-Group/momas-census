@@ -1,0 +1,41 @@
+{"id":"x10788","policy_setters":"one","policy_quote":"A large language model (LLM) serves as a safety-prioritized meta-controller","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x09241","policy_setters":"na","policy_quote":"","principals":"na","principals_quote":"","partners_from_others":"na"}
+{"id":"y01822","policy_setters":"several","policy_quote":"between two players, X and Y","principals":"several","principals_quote":"learning in games between two players","partners_from_others":"no"}
+{"id":"x03456","policy_setters":"one","policy_quote":"goal-conditioned policy","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"y00358","policy_setters":"one","policy_quote":"interdependency-aware Q-learning to make informed decisions","principals":"one","principals_quote":"cater to a student's individual learning progress","partners_from_others":"no"}
+{"id":"y00315","policy_setters":"na","policy_quote":"","principals":"na","principals_quote":"","partners_from_others":"na"}
+{"id":"y03646","policy_setters":"one","policy_quote":"a multi-agent system comprising the Pipeline, Glyph, and Texture agents","principals":"one","principals_quote":"align with user-defined stylistic and thematic preferences","partners_from_others":"no"}
+{"id":"y00176","policy_setters":"several","policy_quote":"predicting people's choices","principals":"na","principals_quote":"","partners_from_others":"no"}
+{"id":"x03541","policy_setters":"one","policy_quote":"Online platforms frequently deploy nudges","principals":"one","principals_quote":"Online platforms frequently deploy nudges","partners_from_others":"no"}
+{"id":"y02595","policy_setters":"one","policy_quote":"cooperative multi-agent policy","principals":"one","principals_quote":"cooperative multi-agent policy","partners_from_others":"no"}
+{"id":"y00564","policy_setters":"one","policy_quote":"centralized routes","principals":"several","principals_quote":"approximate envy-freeness","partners_from_others":"no"}
+{"id":"y00633","policy_setters":"one","policy_quote":"framework to controller design","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x00541","policy_setters":"one","policy_quote":"By prepending a custom-trained denoiser to any off-the-shelf image classifier","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x00917","policy_setters":"one","policy_quote":"we fine-tune four VLMs using our dataset","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x01266","policy_setters":"one","policy_quote":"this work introduces ReliabilityRAG, a framework for adversarial robustness","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x07518","policy_setters":"several","policy_quote":"players run the Hedge algorithm","principals":"several","principals_quote":"the swap regret of each player","partners_from_others":"yes"}
+{"id":"y00553","policy_setters":"na","policy_quote":"","principals":"na","principals_quote":"","partners_from_others":"na"}
+{"id":"y01029","policy_setters":"na","policy_quote":"","principals":"na","principals_quote":"","partners_from_others":"na"}
+{"id":"y00042","policy_setters":"several","policy_quote":"end users cannot effectively steer such prioritization using system prompts","principals":"several","principals_quote":"users increasingly seek guidance from LLMs","partners_from_others":"no"}
+{"id":"x01767","policy_setters":"several","policy_quote":"multiple strategic bidders","principals":"several","principals_quote":"seeks to maximize his expected future cumulative discounted surplus","partners_from_others":"yes"}
+{"id":"y03180","policy_setters":"several","policy_quote":"These games are played between two players","principals":"several","principals_quote":"In bidding games, the players have some monetary budget","partners_from_others":"no"}
+{"id":"y03259","policy_setters":"na","policy_quote":"","principals":"na","principals_quote":"","partners_from_others":"na"}
+{"id":"x03504","policy_setters":"several","policy_quote":"n original bidders","principals":"several","principals_quote":"We quantify the value of the monopoly's bargaining power","partners_from_others":"no"}
+{"id":"x10468","policy_setters":"one","policy_quote":"allocating a set of m goods among n agents in a fair manner","principals":"several","principals_quote":"allocating a set of m goods among n agents in a fair manner","partners_from_others":"no"}
+{"id":"x11369","policy_setters":"one","policy_quote":"a novel end-to-end VLA model","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"y00010","policy_setters":"one","policy_quote":"a round-robin algorithm produces a class envy-free matching","principals":"several","principals_quote":"each class must receive fair treatment","partners_from_others":"no"}
+{"id":"x02131","policy_setters":"na","policy_quote":"","principals":"na","principals_quote":"","partners_from_others":"na"}
+{"id":"y02728","policy_setters":"one","policy_quote":"we propose a novel Text-Guided vision-language Alignment method (TGA)","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"y02243","policy_setters":"several","policy_quote":"to mislead LLMs","principals":"several","principals_quote":"Many red-teaming efforts aim to jailbreak LLMs","partners_from_others":"yes"}
+{"id":"y01091","policy_setters":"one","policy_quote":"Our approach learns a bandit model for the target domain","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"z00016","policy_setters":"one","policy_quote":"DyLam, a robust automated self-curriculum learning framework","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"y02619","policy_setters":"na","policy_quote":"","principals":"na","principals_quote":"","partners_from_others":"na"}
+{"id":"y02597","policy_setters":"one","policy_quote":"Online Reward Selection and Policy Optimization","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x05799","policy_setters":"na","policy_quote":"","principals":"na","principals_quote":"","partners_from_others":"na"}
+{"id":"y00218","policy_setters":"one","policy_quote":"to compute an approximately optimal policy for a hypothesized reward function","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"y02530","policy_setters":"one","policy_quote":"computing envy-free Pareto-efficient allocations","principals":"several","principals_quote":"envy-free Pareto-efficient allocations","partners_from_others":"no"}
+{"id":"x12118","policy_setters":"na","policy_quote":"","principals":"na","principals_quote":"","partners_from_others":"na"}
+{"id":"x12038","policy_setters":"one","policy_quote":"we introduce prototypical neurosymbolic architectures","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x12218","policy_setters":"several","policy_quote":"attackers and defenders","principals":"several","principals_quote":"a game-theoretic framework for studying attacks and defenses","partners_from_others":"no"}
+{"id":"x11339","policy_setters":"one","policy_quote":"summarize their collective preferences as a ranking","principals":"several","principals_quote":"aggregate human preferences","partners_from_others":"no"}
+{"id":"x09416","policy_setters":"na","policy_quote":"","principals":"na","principals_quote":"","partners_from_others":"na"}

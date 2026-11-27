@@ -1,0 +1,4806 @@
+{
+ "retrieved": "2026-11-09",
+ "source": "OpenAlex /topics, no key; selection in bibliometric.DC_AREAS",
+ "areas": {
+  "Architectures": "T10715|T10742|T10101|T10270",
+  "Processes": "T14067|T12203",
+  "Communication": "T10679",
+  "Coordination": "T10772",
+  "Naming": "T10742|T11478",
+  "Consistency and replication": "T10772|T11478",
+  "Fault tolerance": "T10772|T12127",
+  "Security": "T10237|T11504|T10927|T10400|T11614"
+ },
+ "selected": {
+  "T10101": {
+   "name": "Cloud Computing and Resource Management",
+   "subfield": "1710 Information Systems",
+   "works": 161735,
+   "desc": "This cluster of papers covers a wide range of topics related to cloud computing, big data technologies, and data center management. It includes discussions on MapReduce, virtualization, Hadoop, resource management, energy efficiency, scalability, and distributed systems. The papers also address challenges and opportunities in the field of cloud computing and big data.",
+   "kw": [
+    {
+     "id": "https://openalex.org/keywords/cloud-computing",
+     "display_name": "cloud computing",
+     "score": 0.3171
+    },
+    {
+     "id": "https://openalex.org/keywords/virtualization",
+     "display_name": "virtualization",
+     "score": 0.3836
+    },
+    {
+     "id": "https://openalex.org/keywords/virtual-machines",
+     "display_name": "virtual machines",
+     "score": 0.3683
+    },
+    {
+     "id": "https://openalex.org/keywords/resource-utilization",
+     "display_name": "resource utilization",
+     "score": 0.2223
+    },
+    {
+     "id": "https://openalex.org/keywords/mapreduce",
+     "display_name": "MapReduce",
+     "score": 0.3771
+    },
+    {
+     "id": "https://openalex.org/keywords/hadoop",
+     "display_name": "Hadoop",
+     "score": 0.4159
+    },
+    {
+     "id": "https://openalex.org/keywords/virtual-machine-placement",
+     "display_name": "virtual machine placement",
+     "score": 0.8811
+    },
+    {
+     "id": "https://openalex.org/keywords/service-level-agreements",
+     "display_name": "service level agreements",
+     "score": 0.2985
+    },
+    {
+     "id": "https://openalex.org/keywords/microsoft-azure",
+     "display_name": "Microsoft Azure",
+     "score": 0.5838
+    },
+    {
+     "id": "https://openalex.org/keywords/serverless-computing",
+     "display_name": "serverless computing",
+     "score": 0.6927
+    },
+    {
+     "id": "https://openalex.org/keywords/cloud-data-centers",
+     "display_name": "cloud data centers",
+     "score": 0.7518
+    },
+    {
+     "id": "https://openalex.org/keywords/infrastructure-as-a-service",
+     "display_name": "Infrastructure as a Service",
+     "score": 0.673
+    },
+    {
+     "id": "https://openalex.org/keywords/kubernetes",
+     "display_name": "Kubernetes",
+     "score": 0.4202
+    },
+    {
+     "id": "https://openalex.org/keywords/data-centers",
+     "display_name": "data centers",
+     "score": 0.2247
+    },
+    {
+     "id": "https://openalex.org/keywords/software-as-a-service",
+     "display_name": "software as a service",
+     "score": 0.2898
+    },
+    {
+     "id": "https://openalex.org/keywords/big-data-processing",
+     "display_name": "big data processing",
+     "score": 0.3044
+    },
+    {
+     "id": "https://openalex.org/keywords/cloud-services",
+     "display_name": "cloud services",
+     "score": 0.2587
+    },
+    {
+     "id": "https://openalex.org/keywords/cloud-architecture",
+     "display_name": "cloud architecture",
+     "score": 0.5789
+    },
+    {
+     "id": "https://openalex.org/keywords/virtual-machine-migration",
+     "display_name": "virtual machine migration",
+     "score": 0.7954
+    },
+    {
+     "id": "https://openalex.org/keywords/amazon-web-services",
+     "display_name": "Amazon Web Services",
+     "score": 0.4842
+    },
+    {
+     "id": "https://openalex.org/keywords/cloud-service-providers",
+     "display_name": "cloud service providers",
+     "score": 0.4367
+    },
+    {
+     "id": "https://openalex.org/keywords/containerization",
+     "display_name": "containerization",
+     "score": 0.251
+    },
+    {
+     "id": "https://openalex.org/keywords/private-cloud",
+     "display_name": "private cloud",
+     "score": 0.6429
+    },
+    {
+     "id": "https://openalex.org/keywords/container-orchestration",
+     "display_name": "container orchestration",
+     "score": 0.5843
+    },
+    {
+     "id": "https://openalex.org/keywords/cloud-infrastructure",
+     "display_name": "cloud infrastructure",
+     "score": 0.503
+    }
+   ]
+  },
+  "T10237": {
+   "name": "Cryptography and Data Security",
+   "subfield": "1705 Computer Networks and Communications",
+   "works": 115008,
+   "desc": "This cluster of papers covers advanced cryptographic schemes and protocols, including homomorphic encryption, identity-based encryption, attribute-based encryption, lattice-based cryptography, secure multi-party computation, searchable encryption, pairing-based cryptography, privacy-preserving computation, zero-knowledge proofs, and trapdoor functions.",
+   "kw": [
+    {
+     "id": "https://openalex.org/keywords/digital-signatures",
+     "display_name": "digital signatures",
+     "score": 0.4047
+    },
+    {
+     "id": "https://openalex.org/keywords/post-quantum-cryptography",
+     "display_name": "post-quantum cryptography",
+     "score": 0.3563
+    },
+    {
+     "id": "https://openalex.org/keywords/public-key-cryptography",
+     "display_name": "public-key cryptography",
+     "score": 0.3294
+    },
+    {
+     "id": "https://openalex.org/keywords/secure-multi-party-computation",
+     "display_name": "secure multi-party computation",
+     "score": 0.5911
+    },
+    {
+     "id": "https://openalex.org/keywords/lattice-based-cryptography",
+     "display_name": "lattice-based cryptography",
+     "score": 0.6433
+    },
+    {
+     "id": "https://openalex.org/keywords/cryptography",
+     "display_name": "cryptography",
+     "score": 0.205
+    },
+    {
+     "id": "https://openalex.org/keywords/homomorphic-encryption",
+     "display_name": "homomorphic encryption",
+     "score": 0.43
+    },
+    {
+     "id": "https://openalex.org/keywords/cryptanalysis",
+     "display_name": "cryptanalysis",
+     "score": 0.2016
+    },
+    {
+     "id": "https://openalex.org/keywords/random-oracle-model",
+     "display_name": "random oracle model",
+     "score": 0.7331
+    },
+    {
+     "id": "https://openalex.org/keywords/secret-sharing",
+     "display_name": "secret sharing",
+     "score": 0.49
+    },
+    {
+     "id": "https://openalex.org/keywords/zero-knowledge-proofs",
+     "display_name": "zero-knowledge proofs",
+     "score": 0.4237
+    },
+    {
+     "id": "https://openalex.org/keywords/searchable-encryption",
+     "display_name": "searchable encryption",
+     "score": 0.8427
+    },
+    {
+     "id": "https://openalex.org/keywords/public-key-encryption",
+     "display_name": "public-key encryption",
+     "score": 0.6575
+    },
+    {
+     "id": "https://openalex.org/keywords/discrete-logarithm-problem",
+     "display_name": "discrete logarithm problem",
+     "score": 0.475
+    },
+    {
+     "id": "https://openalex.org/keywords/attribute-based-encryption",
+     "display_name": "attribute-based encryption",
+     "score": 0.6239
+    },
+    {
+     "id": "https://openalex.org/keywords/identity-based-cryptography",
+     "display_name": "identity-based cryptography",
+     "score": 0.6245
+    },
+    {
+     "id": "https://openalex.org/keywords/fully-homomorphic-encryption",
+     "display_name": "fully homomorphic encryption",
+     "score": 0.7148
+    },
+    {
+     "id": "https://openalex.org/keywords/privacy-preserving-computation",
+     "display_name": "privacy-preserving computation",
+     "score": 0.5814
+    },
+    {
+     "id": "https://openalex.org/keywords/ciphertext-policy-attribute-based-encryption",
+     "display_name": "ciphertext-policy attribute-based encryption",
+     "score": 0.7076
+    },
+    {
+     "id": "https://openalex.org/keywords/identity-based-encryption",
+     "display_name": "identity-based encryption",
+     "score": 0.7637
+    },
+    {
+     "id": "https://openalex.org/keywords/information-theoretic-security",
+     "display_name": "information-theoretic security",
+     "score": 0.3594
+    },
+    {
+     "id": "https://openalex.org/keywords/threshold-secret-sharing",
+     "display_name": "threshold secret sharing",
+     "score": 0.6733
+    },
+    {
+     "id": "https://openalex.org/keywords/learning-with-errors",
+     "display_name": "learning with errors",
+     "score": 0.8347
+    },
+    {
+     "id": "https://openalex.org/keywords/cryptographic-protocols",
+     "display_name": "cryptographic protocols",
+     "score": 0.3869
+    },
+    {
+     "id": "https://openalex.org/keywords/fine-grained-access-control",
+     "display_name": "fine-grained access control",
+     "score": 0.3816
+    }
+   ]
+  },
+  "T10270": {
+   "name": "Blockchain Technology Applications and Security",
+   "subfield": "1710 Information Systems",
+   "works": 164059,
+   "desc": "This cluster of papers explores the integration of blockchain technology with the Internet of Things (IoT), focusing on topics such as smart contracts, security, supply chain management, decentralization, cryptocurrencies, privacy, energy sector applications, and healthcare. The papers cover a wide range of applications and challenges in utilizing blockchain for IoT-related scenarios.",
+   "kw": [
+    {
+     "id": "https://openalex.org/keywords/blockchain",
+     "display_name": "blockchain",
+     "score": 0.5423
+    },
+    {
+     "id": "https://openalex.org/keywords/smart-contracts",
+     "display_name": "smart contracts",
+     "score": 0.6903
+    },
+    {
+     "id": "https://openalex.org/keywords/cryptocurrency",
+     "display_name": "cryptocurrency",
+     "score": 0.4355
+    },
+    {
+     "id": "https://openalex.org/keywords/distributed-ledger-technology",
+     "display_name": "distributed ledger technology",
+     "score": 0.7451
+    },
+    {
+     "id": "https://openalex.org/keywords/bitcoin",
+     "display_name": "Bitcoin",
+     "score": 0.4563
+    },
+    {
+     "id": "https://openalex.org/keywords/ethereum",
+     "display_name": "Ethereum",
+     "score": 0.6825
+    },
+    {
+     "id": "https://openalex.org/keywords/consensus-algorithms",
+     "display_name": "consensus algorithms",
+     "score": 0.4797
+    },
+    {
+     "id": "https://openalex.org/keywords/blockchain-security",
+     "display_name": "blockchain security",
+     "score": 0.7517
+    },
+    {
+     "id": "https://openalex.org/keywords/decentralization-distributed-systems",
+     "display_name": "decentralization (distributed systems)",
+     "score": 0.6328
+    },
+    {
+     "id": "https://openalex.org/keywords/digital-currency",
+     "display_name": "digital currency",
+     "score": 0.4095
+    },
+    {
+     "id": "https://openalex.org/keywords/decentralized-finance",
+     "display_name": "decentralized finance",
+     "score": 0.6742
+    },
+    {
+     "id": "https://openalex.org/keywords/hyperledger-fabric",
+     "display_name": "Hyperledger Fabric",
+     "score": 0.8252
+    },
+    {
+     "id": "https://openalex.org/keywords/supply-chain-transparency",
+     "display_name": "supply chain transparency",
+     "score": 0.331
+    },
+    {
+     "id": "https://openalex.org/keywords/blockchain-scalability",
+     "display_name": "blockchain scalability",
+     "score": 0.9297
+    },
+    {
+     "id": "https://openalex.org/keywords/cryptocurrency-regulation",
+     "display_name": "cryptocurrency regulation",
+     "score": 0.3545
+    },
+    {
+     "id": "https://openalex.org/keywords/non-fungible-tokens",
+     "display_name": "non-fungible tokens",
+     "score": 0.5039
+    },
+    {
+     "id": "https://openalex.org/keywords/interplanetary-file-system",
+     "display_name": "IPFS",
+     "score": 0.7293
+    },
+    {
+     "id": "https://openalex.org/keywords/decentralized-applications",
+     "display_name": "decentralized applications",
+     "score": 0.7987
+    },
+    {
+     "id": "https://openalex.org/keywords/permissioned-blockchain",
+     "display_name": "permissioned blockchain",
+     "score": 0.81
+    },
+    {
+     "id": "https://openalex.org/keywords/blockchain-adoption",
+     "display_name": "blockchain adoption",
+     "score": 0.6406
+    },
+    {
+     "id": "https://openalex.org/keywords/decentralized-systems",
+     "display_name": "decentralized systems",
+     "score": 0.4774
+    },
+    {
+     "id": "https://openalex.org/keywords/proof-of-work",
+     "display_name": "proof-of-work",
+     "score": 0.803
+    },
+    {
+     "id": "https://openalex.org/keywords/blockchain-applications",
+     "display_name": "blockchain applications",
+     "score": 0.8971
+    },
+    {
+     "id": "https://openalex.org/keywords/decentralized-storage",
+     "display_name": "decentralized storage",
+     "score": 0.6805
+    },
+    {
+     "id": "https://openalex.org/keywords/supply-chain-traceability",
+     "display_name": "supply chain traceability",
+     "score": 0.4146
+    }
+   ]
+  },
+  "T10400": {
+   "name": "Network Security and Intrusion Detection",
+   "subfield": "1705 Computer Networks and Communications",
+   "works": 162763,
+   "desc": "This cluster of papers focuses on the development and application of techniques, models, and systems for network intrusion detection and defense mechanisms. It covers topics such as machine learning, DDoS attacks, anomaly detection, IoT security, and data mining in the context of cybersecurity. The papers explore various approaches to identifying and mitigating security threats in network environments.",
+   "kw": [
+    {
+     "id": "https://openalex.org/keywords/network-security",
+     "display_name": "network security",
+     "score": 0.3251
+    },
+    {
+     "id": "https://openalex.org/keywords/intrusion-detection",
+     "display_name": "intrusion detection",
+     "score": 0.5816
+    },
+    {
+     "id": "https://openalex.org/keywords/intrusion-detection-systems",
+     "display_name": "intrusion detection systems",
+     "score": 0.7381
+    },
+    {
+     "id": "https://openalex.org/keywords/iot-security",
+     "display_name": "Internet of Things security",
+     "score": 0.2667
+    },
+    {
+     "id": "https://openalex.org/keywords/network-intrusion-detection",
+     "display_name": "network intrusion detection",
+     "score": 0.804
+    },
+    {
+     "id": "https://openalex.org/keywords/ddos-attacks",
+     "display_name": "DDoS attacks",
+     "score": 0.7111
+    },
+    {
+     "id": "https://openalex.org/keywords/denial-of-service-attacks",
+     "display_name": "denial-of-service attacks",
+     "score": 0.3381
+    },
+    {
+     "id": "https://openalex.org/keywords/network-traffic-analysis",
+     "display_name": "network traffic analysis",
+     "score": 0.5073
+    },
+    {
+     "id": "https://openalex.org/keywords/network-traffic-classification",
+     "display_name": "network traffic classification",
+     "score": 0.5337
+    },
+    {
+     "id": "https://openalex.org/keywords/attack-detection",
+     "display_name": "attack detection",
+     "score": 0.35
+    },
+    {
+     "id": "https://openalex.org/keywords/ddos-detection",
+     "display_name": "DDoS attack detection",
+     "score": 0.9295
+    },
+    {
+     "id": "https://openalex.org/keywords/cyberattack-detection",
+     "display_name": "cyberattack detection",
+     "score": 0.5728
+    },
+    {
+     "id": "https://openalex.org/keywords/nsl-kdd",
+     "display_name": "NSL-KDD dataset",
+     "score": 0.9203
+    },
+    {
+     "id": "https://openalex.org/keywords/threat-detection",
+     "display_name": "threat detection",
+     "score": 0.2175
+    },
+    {
+     "id": "https://openalex.org/keywords/ddos-mitigation",
+     "display_name": "DDoS mitigation",
+     "score": 0.8238
+    },
+    {
+     "id": "https://openalex.org/keywords/kdd99-dataset",
+     "display_name": "KDD Cup 1999 dataset",
+     "score": 0.8717
+    },
+    {
+     "id": "https://openalex.org/keywords/cicids2017",
+     "display_name": "CICIDS2017",
+     "score": 0.9118
+    },
+    {
+     "id": "https://openalex.org/keywords/unsw-nb15",
+     "display_name": "UNSW-NB15",
+     "score": 0.9237
+    },
+    {
+     "id": "https://openalex.org/keywords/network-anomaly-detection",
+     "display_name": "network anomaly detection",
+     "score": 0.7145
+    },
+    {
+     "id": "https://openalex.org/keywords/honeypots",
+     "display_name": "honeypots",
+     "score": 0.6826
+    },
+    {
+     "id": "https://openalex.org/keywords/attack-classification",
+     "display_name": "attack classification",
+     "score": 0.6479
+    },
+    {
+     "id": "https://openalex.org/keywords/network-attack-detection",
+     "display_name": "network attack detection",
+     "score": 0.8529
+    },
+    {
+     "id": "https://openalex.org/keywords/botnet-detection",
+     "display_name": "botnet detection",
+     "score": 0.7713
+    },
+    {
+     "id": "https://openalex.org/keywords/network-traffic-anomaly-detection",
+     "display_name": "network traffic anomaly detection",
+     "score": 0.8822
+    },
+    {
+     "id": "https://openalex.org/keywords/network-traffic-monitoring",
+     "display_name": "network traffic monitoring",
+     "score": 0.4374
+    }
+   ]
+  },
+  "T10679": {
+   "name": "Service-Oriented Architecture and Web Services",
+   "subfield": "1710 Information Systems",
+   "works": 68491,
+   "desc": "This cluster of papers focuses on Quality of Service (QoS)-aware middleware for Web services composition, semantic matching of Web services, and service-oriented computing. It covers topics such as automated web service discovery, dynamic service composition, and service selection algorithms, with an emphasis on QoS and semantic web services.",
+   "kw": [
+    {
+     "id": "https://openalex.org/keywords/service-oriented-architecture",
+     "display_name": "service-oriented architecture",
+     "score": 0.4414
+    },
+    {
+     "id": "https://openalex.org/keywords/web-services",
+     "display_name": "web services",
+     "score": 0.3166
+    },
+    {
+     "id": "https://openalex.org/keywords/service-composition",
+     "display_name": "service composition",
+     "score": 0.6022
+    },
+    {
+     "id": "https://openalex.org/keywords/web-service-composition",
+     "display_name": "web service composition",
+     "score": 0.8132
+    },
+    {
+     "id": "https://openalex.org/keywords/service-discovery",
+     "display_name": "service discovery",
+     "score": 0.4883
+    },
+    {
+     "id": "https://openalex.org/keywords/semantic-web-services",
+     "display_name": "semantic web services",
+     "score": 0.6789
+    },
+    {
+     "id": "https://openalex.org/keywords/service-selection",
+     "display_name": "service selection",
+     "score": 0.5326
+    },
+    {
+     "id": "https://openalex.org/keywords/service-oriented-computing",
+     "display_name": "service-oriented computing",
+     "score": 0.543
+    },
+    {
+     "id": "https://openalex.org/keywords/web-service-discovery",
+     "display_name": "web service discovery",
+     "score": 0.8738
+    },
+    {
+     "id": "https://openalex.org/keywords/wsdl",
+     "display_name": "WSDL",
+     "score": 0.7214
+    },
+    {
+     "id": "https://openalex.org/keywords/soap",
+     "display_name": "soap",
+     "score": 0.2249
+    },
+    {
+     "id": "https://openalex.org/keywords/bpel",
+     "display_name": "BPEL",
+     "score": 0.5533
+    },
+    {
+     "id": "https://openalex.org/keywords/web-service-selection",
+     "display_name": "web service selection",
+     "score": 0.8754
+    },
+    {
+     "id": "https://openalex.org/keywords/uddi",
+     "display_name": "UDDI",
+     "score": 0.8275
+    },
+    {
+     "id": "https://openalex.org/keywords/enterprise-application-integration",
+     "display_name": "enterprise application integration",
+     "score": 0.3646
+    },
+    {
+     "id": "https://openalex.org/keywords/web-services-security",
+     "display_name": "web service security",
+     "score": 0.3811
+    },
+    {
+     "id": "https://openalex.org/keywords/owl-s",
+     "display_name": "OWL-S",
+     "score": 0.7103
+    },
+    {
+     "id": "https://openalex.org/keywords/service-description",
+     "display_name": "service description",
+     "score": 0.5894
+    },
+    {
+     "id": "https://openalex.org/keywords/service-orchestration",
+     "display_name": "service orchestration",
+     "score": 0.3774
+    },
+    {
+     "id": "https://openalex.org/keywords/enterprise-service-bus",
+     "display_name": "enterprise service bus",
+     "score": 0.6669
+    },
+    {
+     "id": "https://openalex.org/keywords/composite-services",
+     "display_name": "composite services",
+     "score": 0.6724
+    },
+    {
+     "id": "https://openalex.org/keywords/dynamic-service-composition",
+     "display_name": "dynamic service composition",
+     "score": 0.7029
+    },
+    {
+     "id": "https://openalex.org/keywords/service-oriented-systems",
+     "display_name": "service-oriented systems",
+     "score": 0.4451
+    },
+    {
+     "id": "https://openalex.org/keywords/service-matching",
+     "display_name": "service matching",
+     "score": 0.5904
+    },
+    {
+     "id": "https://openalex.org/keywords/service-registry",
+     "display_name": "service registry",
+     "score": 0.6827
+    }
+   ]
+  },
+  "T10715": {
+   "name": "Distributed and Parallel Computing Systems",
+   "subfield": "1705 Computer Networks and Communications",
+   "works": 96919,
+   "desc": "This cluster of papers focuses on distributed grid computing systems, encompassing topics such as resource management, task scheduling, workflow management, computational grids, service-oriented science, data grids, high-performance computing, and virtual organizations.",
+   "kw": [
+    {
+     "id": "https://openalex.org/keywords/grid-computing",
+     "display_name": "grid computing",
+     "score": 0.697
+    },
+    {
+     "id": "https://openalex.org/keywords/distributed-computing",
+     "display_name": "distributed computing",
+     "score": 0.2115
+    },
+    {
+     "id": "https://openalex.org/keywords/job-scheduling",
+     "display_name": "job scheduling",
+     "score": 0.3741
+    },
+    {
+     "id": "https://openalex.org/keywords/cluster-computing",
+     "display_name": "cluster computing",
+     "score": 0.2469
+    },
+    {
+     "id": "https://openalex.org/keywords/grid-middleware",
+     "display_name": "grid middleware",
+     "score": 0.8974
+    },
+    {
+     "id": "https://openalex.org/keywords/grid-services",
+     "display_name": "grid services",
+     "score": 0.526
+    },
+    {
+     "id": "https://openalex.org/keywords/computational-grids",
+     "display_name": "computational grids",
+     "score": 0.6935
+    },
+    {
+     "id": "https://openalex.org/keywords/dynamic-load-balancing",
+     "display_name": "dynamic load balancing",
+     "score": 0.252
+    },
+    {
+     "id": "https://openalex.org/keywords/data-grid",
+     "display_name": "data grid",
+     "score": 0.7055
+    },
+    {
+     "id": "https://openalex.org/keywords/resource-discovery",
+     "display_name": "resource discovery",
+     "score": 0.2348
+    },
+    {
+     "id": "https://openalex.org/keywords/networks-of-workstations",
+     "display_name": "workstation clusters",
+     "score": 0.2062
+    },
+    {
+     "id": "https://openalex.org/keywords/e-science",
+     "display_name": "e-Science",
+     "score": 0.2064
+    },
+    {
+     "id": "https://openalex.org/keywords/globus-toolkit",
+     "display_name": "Globus Toolkit",
+     "score": 0.8414
+    },
+    {
+     "id": "https://openalex.org/keywords/worldwide-lhc-computing-grid",
+     "display_name": "Worldwide LHC Computing Grid",
+     "score": 0.7112
+    },
+    {
+     "id": "https://openalex.org/keywords/distributed-computing-infrastructure",
+     "display_name": "distributed computing infrastructure",
+     "score": 0.7288
+    },
+    {
+     "id": "https://openalex.org/keywords/workflow-scheduling",
+     "display_name": "workflow scheduling",
+     "score": 0.27
+    },
+    {
+     "id": "https://openalex.org/keywords/process-migration",
+     "display_name": "task migration",
+     "score": 0.2374
+    },
+    {
+     "id": "https://openalex.org/keywords/open-grid-services-architecture",
+     "display_name": "OGSA",
+     "score": 0.8779
+    },
+    {
+     "id": "https://openalex.org/keywords/grid-infrastructure",
+     "display_name": "grid infrastructure",
+     "score": 0.299
+    },
+    {
+     "id": "https://openalex.org/keywords/volunteer-computing",
+     "display_name": "volunteer computing",
+     "score": 0.3029
+    },
+    {
+     "id": "https://openalex.org/keywords/parallel-job-scheduling",
+     "display_name": "parallel job scheduling",
+     "score": 0.4363
+    },
+    {
+     "id": "https://openalex.org/keywords/grid-architecture",
+     "display_name": "grid architecture",
+     "score": 0.7331
+    },
+    {
+     "id": "https://openalex.org/keywords/grid-scheduling",
+     "display_name": "grid scheduling",
+     "score": 0.7625
+    },
+    {
+     "id": "https://openalex.org/keywords/gcube",
+     "display_name": "gCube",
+     "score": 0.2011
+    },
+    {
+     "id": "https://openalex.org/keywords/job-submission",
+     "display_name": "job submission",
+     "score": 0.6872
+    }
+   ]
+  },
+  "T10742": {
+   "name": "Peer-to-Peer Network Technologies",
+   "subfield": "1705 Computer Networks and Communications",
+   "works": 39495,
+   "desc": "This cluster of papers focuses on scalable peer-to-peer network architectures, including overlay networks, distributed systems, content delivery, routing protocols, multicast, and resilient networks. It covers topics such as file sharing, internet applications, and efficient data storage and retrieval in large-scale decentralized systems.",
+   "kw": [
+    {
+     "id": "https://openalex.org/keywords/peer-to-peer-networks",
+     "display_name": "peer-to-peer networks",
+     "score": 0.4638
+    },
+    {
+     "id": "https://openalex.org/keywords/overlay-networks",
+     "display_name": "overlay networks",
+     "score": 0.4775
+    },
+    {
+     "id": "https://openalex.org/keywords/distributed-hash-tables",
+     "display_name": "distributed hash tables",
+     "score": 0.6864
+    },
+    {
+     "id": "https://openalex.org/keywords/peer-to-peer-file-sharing",
+     "display_name": "peer-to-peer file sharing",
+     "score": 0.3902
+    },
+    {
+     "id": "https://openalex.org/keywords/bittorrent",
+     "display_name": "BitTorrent",
+     "score": 0.5915
+    },
+    {
+     "id": "https://openalex.org/keywords/peer-to-peer-streaming",
+     "display_name": "peer-to-peer streaming",
+     "score": 0.816
+    },
+    {
+     "id": "https://openalex.org/keywords/peer-to-peer-overlay-networks",
+     "display_name": "peer-to-peer overlay networks",
+     "score": 0.746
+    },
+    {
+     "id": "https://openalex.org/keywords/peer-to-peer",
+     "display_name": "peer-to-peer",
+     "score": 0.4547
+    },
+    {
+     "id": "https://openalex.org/keywords/application-layer-multicast",
+     "display_name": "application layer multicast",
+     "score": 0.8528
+    },
+    {
+     "id": "https://openalex.org/keywords/unstructured-peer-to-peer-networks",
+     "display_name": "unstructured peer-to-peer networks",
+     "score": 0.916
+    },
+    {
+     "id": "https://openalex.org/keywords/chords",
+     "display_name": "chords",
+     "score": 0.2746
+    },
+    {
+     "id": "https://openalex.org/keywords/gnutella",
+     "display_name": "Gnutella",
+     "score": 0.7637
+    },
+    {
+     "id": "https://openalex.org/keywords/peer-to-peer-architecture",
+     "display_name": "peer-to-peer architecture",
+     "score": 0.3767
+    },
+    {
+     "id": "https://openalex.org/keywords/structured-peer-to-peer-networks",
+     "display_name": "structured peer-to-peer networks",
+     "score": 0.9084
+    },
+    {
+     "id": "https://openalex.org/keywords/query-routing",
+     "display_name": "query routing",
+     "score": 0.3314
+    },
+    {
+     "id": "https://openalex.org/keywords/overlay-multicast",
+     "display_name": "overlay multicast",
+     "score": 0.7838
+    },
+    {
+     "id": "https://openalex.org/keywords/unstructured-p2p-networks",
+     "display_name": "unstructured P2P networks",
+     "score": 0.8681
+    },
+    {
+     "id": "https://openalex.org/keywords/ip-multicast",
+     "display_name": "IP multicast",
+     "score": 0.2397
+    },
+    {
+     "id": "https://openalex.org/keywords/jxta",
+     "display_name": "JXTA",
+     "score": 0.5942
+    },
+    {
+     "id": "https://openalex.org/keywords/peer-to-peer-computing",
+     "display_name": "peer-to-peer computing",
+     "score": 0.3708
+    },
+    {
+     "id": "https://openalex.org/keywords/peer-selection",
+     "display_name": "peer selection",
+     "score": 0.2892
+    },
+    {
+     "id": "https://openalex.org/keywords/peer-to-peer-video-streaming",
+     "display_name": "peer-to-peer video streaming",
+     "score": 0.7689
+    },
+    {
+     "id": "https://openalex.org/keywords/structured-overlay-networks",
+     "display_name": "structured overlay networks",
+     "score": 0.8365
+    },
+    {
+     "id": "https://openalex.org/keywords/gossip-protocols",
+     "display_name": "gossip protocols",
+     "score": 0.253
+    },
+    {
+     "id": "https://openalex.org/keywords/planetlab",
+     "display_name": "PlanetLab",
+     "score": 0.2955
+    }
+   ]
+  },
+  "T10772": {
+   "name": "Distributed systems and fault tolerance",
+   "subfield": "1705 Computer Networks and Communications",
+   "works": 84302,
+   "desc": "This cluster of papers focuses on research related to fault tolerance, consistency, and resilience in distributed systems. It covers topics such as Byzantine fault tolerance, transactional memory, checkpointing, replication, concurrency control, and software aging. The papers explore various techniques and algorithms to ensure the reliability and consistency of data and operations in distributed environments.",
+   "kw": [
+    {
+     "id": "https://openalex.org/keywords/fault-tolerance",
+     "display_name": "fault tolerance",
+     "score": 0.2185
+    },
+    {
+     "id": "https://openalex.org/keywords/distributed-algorithms",
+     "display_name": "distributed algorithms",
+     "score": 0.2056
+    },
+    {
+     "id": "https://openalex.org/keywords/concurrency-control",
+     "display_name": "concurrency control",
+     "score": 0.5762
+    },
+    {
+     "id": "https://openalex.org/keywords/high-availability",
+     "display_name": "high availability",
+     "score": 0.2965
+    },
+    {
+     "id": "https://openalex.org/keywords/distributed-databases",
+     "display_name": "distributed databases",
+     "score": 0.203
+    },
+    {
+     "id": "https://openalex.org/keywords/checkpointing",
+     "display_name": "checkpointing",
+     "score": 0.5134
+    },
+    {
+     "id": "https://openalex.org/keywords/byzantine-fault-tolerance",
+     "display_name": "Byzantine fault tolerance",
+     "score": 0.4553
+    },
+    {
+     "id": "https://openalex.org/keywords/data-replication",
+     "display_name": "data replication",
+     "score": 0.2322
+    },
+    {
+     "id": "https://openalex.org/keywords/distributed-transactions",
+     "display_name": "distributed transactions",
+     "score": 0.7366
+    },
+    {
+     "id": "https://openalex.org/keywords/transaction-management",
+     "display_name": "transaction management",
+     "score": 0.3757
+    },
+    {
+     "id": "https://openalex.org/keywords/transactional-memory",
+     "display_name": "transactional memory",
+     "score": 0.7848
+    },
+    {
+     "id": "https://openalex.org/keywords/self-stabilization",
+     "display_name": "self-stabilization",
+     "score": 0.462
+    },
+    {
+     "id": "https://openalex.org/keywords/mutual-exclusion",
+     "display_name": "mutual exclusion",
+     "score": 0.4286
+    },
+    {
+     "id": "https://openalex.org/keywords/serializability",
+     "display_name": "serializability",
+     "score": 0.7631
+    },
+    {
+     "id": "https://openalex.org/keywords/distributed-shared-memory",
+     "display_name": "distributed shared memory",
+     "score": 0.3455
+    },
+    {
+     "id": "https://openalex.org/keywords/software-transactional-memory",
+     "display_name": "software transactional memory",
+     "score": 0.8514
+    },
+    {
+     "id": "https://openalex.org/keywords/transaction-processing",
+     "display_name": "transaction processing",
+     "score": 0.2461
+    },
+    {
+     "id": "https://openalex.org/keywords/message-complexity",
+     "display_name": "message complexity",
+     "score": 0.3653
+    },
+    {
+     "id": "https://openalex.org/keywords/leader-election",
+     "display_name": "leader election",
+     "score": 0.4391
+    },
+    {
+     "id": "https://openalex.org/keywords/database-replication",
+     "display_name": "database replication",
+     "score": 0.4403
+    },
+    {
+     "id": "https://openalex.org/keywords/atomicity",
+     "display_name": "atomicity",
+     "score": 0.4557
+    },
+    {
+     "id": "https://openalex.org/keywords/linearizability",
+     "display_name": "linearizability",
+     "score": 0.6235
+    },
+    {
+     "id": "https://openalex.org/keywords/concurrent-data-structures",
+     "display_name": "concurrent data structures",
+     "score": 0.5364
+    },
+    {
+     "id": "https://openalex.org/keywords/distributed-consensus",
+     "display_name": "distributed consensus",
+     "score": 0.2366
+    },
+    {
+     "id": "https://openalex.org/keywords/transaction-scheduling",
+     "display_name": "transaction scheduling",
+     "score": 0.5525
+    }
+   ]
+  },
+  "T10927": {
+   "name": "Access Control and Trust",
+   "subfield": "1705 Computer Networks and Communications",
+   "works": 64570,
+   "desc": "This cluster of papers explores trust and reputation systems, role-based access control, and security mechanisms in online environments such as P2P networks and electronic communities. It covers topics like trust management, reputation models, access control policies, and their application in semantic web and multi-agent systems.",
+   "kw": [
+    {
+     "id": "https://openalex.org/keywords/access-control",
+     "display_name": "access control",
+     "score": 0.2257
+    },
+    {
+     "id": "https://openalex.org/keywords/role-based-access-control",
+     "display_name": "role-based access control",
+     "score": 0.4968
+    },
+    {
+     "id": "https://openalex.org/keywords/trust-administration",
+     "display_name": "trust management",
+     "score": 0.3182
+    },
+    {
+     "id": "https://openalex.org/keywords/authorization",
+     "display_name": "authorization",
+     "score": 0.3196
+    },
+    {
+     "id": "https://openalex.org/keywords/access-control-policies",
+     "display_name": "access control policies",
+     "score": 0.5257
+    },
+    {
+     "id": "https://openalex.org/keywords/trust-modeling",
+     "display_name": "trust model",
+     "score": 0.4069
+    },
+    {
+     "id": "https://openalex.org/keywords/database-security",
+     "display_name": "database security",
+     "score": 0.2369
+    },
+    {
+     "id": "https://openalex.org/keywords/trust-evaluation",
+     "display_name": "trust evaluation",
+     "score": 0.3861
+    },
+    {
+     "id": "https://openalex.org/keywords/access-control-models",
+     "display_name": "access control models",
+     "score": 0.8419
+    },
+    {
+     "id": "https://openalex.org/keywords/attribute-based-access-control",
+     "display_name": "attribute-based access control",
+     "score": 0.528
+    },
+    {
+     "id": "https://openalex.org/keywords/reputation-systems",
+     "display_name": "reputation systems",
+     "score": 0.3315
+    },
+    {
+     "id": "https://openalex.org/keywords/xacml",
+     "display_name": "XACML",
+     "score": 0.8641
+    },
+    {
+     "id": "https://openalex.org/keywords/fine-grained-access-control",
+     "display_name": "fine-grained access control",
+     "score": 0.2489
+    },
+    {
+     "id": "https://openalex.org/keywords/mandatory-access-control",
+     "display_name": "mandatory access control",
+     "score": 0.579
+    },
+    {
+     "id": "https://openalex.org/keywords/identity-and-access-management",
+     "display_name": "identity and access management",
+     "score": 0.2205
+    },
+    {
+     "id": "https://openalex.org/keywords/dynamic-access-control",
+     "display_name": "dynamic access control",
+     "score": 0.5591
+    },
+    {
+     "id": "https://openalex.org/keywords/discretionary-access-control",
+     "display_name": "discretionary access control",
+     "score": 0.773
+    },
+    {
+     "id": "https://openalex.org/keywords/web-services-security",
+     "display_name": "web service security",
+     "score": 0.2253
+    },
+    {
+     "id": "https://openalex.org/keywords/distributed-systems-security",
+     "display_name": "distributed systems security",
+     "score": 0.249
+    },
+    {
+     "id": "https://openalex.org/keywords/multilevel-security",
+     "display_name": "multilevel security",
+     "score": 0.3114
+    },
+    {
+     "id": "https://openalex.org/keywords/identity-federation",
+     "display_name": "identity federation",
+     "score": 0.3391
+    },
+    {
+     "id": "https://openalex.org/keywords/context-aware-access-control",
+     "display_name": "context-aware access control",
+     "score": 0.7519
+    },
+    {
+     "id": "https://openalex.org/keywords/decentralized-access-control",
+     "display_name": "distributed access control",
+     "score": 0.3543
+    },
+    {
+     "id": "https://openalex.org/keywords/authorization-policies",
+     "display_name": "authorization policies",
+     "score": 0.703
+    },
+    {
+     "id": "https://openalex.org/keywords/access-control-lists",
+     "display_name": "access control lists",
+     "score": 0.215
+    }
+   ]
+  },
+  "T11478": {
+   "name": "Caching and Content Delivery",
+   "subfield": "1705 Computer Networks and Communications",
+   "works": 31538,
+   "desc": "This cluster of papers focuses on content-centric networking, particularly on caching and information delivery in wireless and mobile networks. It explores topics such as named data networking, edge caching, cache-enabled networks, and the design of network architectures for efficient content distribution. The research addresses challenges and opportunities in optimizing content delivery, storage, and retrieval in modern communication systems.",
+   "kw": [
+    {
+     "id": "https://openalex.org/keywords/information-centric-networking",
+     "display_name": "information-centric networking",
+     "score": 0.7347
+    },
+    {
+     "id": "https://openalex.org/keywords/content-delivery-networks",
+     "display_name": "content delivery networks",
+     "score": 0.544
+    },
+    {
+     "id": "https://openalex.org/keywords/content-centric-networking",
+     "display_name": "content-centric networking",
+     "score": 0.7948
+    },
+    {
+     "id": "https://openalex.org/keywords/named-data-networking",
+     "display_name": "Named Data Networking",
+     "score": 0.7842
+    },
+    {
+     "id": "https://openalex.org/keywords/content-caching",
+     "display_name": "content caching",
+     "score": 0.7638
+    },
+    {
+     "id": "https://openalex.org/keywords/content-delivery",
+     "display_name": "content distribution",
+     "score": 0.2602
+    },
+    {
+     "id": "https://openalex.org/keywords/cache-hit-ratio",
+     "display_name": "cache hit rate",
+     "score": 0.5946
+    },
+    {
+     "id": "https://openalex.org/keywords/web-caching",
+     "display_name": "web caching",
+     "score": 0.7438
+    },
+    {
+     "id": "https://openalex.org/keywords/in-network-caching",
+     "display_name": "in-network caching",
+     "score": 0.8676
+    },
+    {
+     "id": "https://openalex.org/keywords/edge-caching",
+     "display_name": "edge caching",
+     "score": 0.7296
+    },
+    {
+     "id": "https://openalex.org/keywords/cache-replacement-policy",
+     "display_name": "cache replacement policy",
+     "score": 0.431
+    },
+    {
+     "id": "https://openalex.org/keywords/cooperative-caching",
+     "display_name": "cooperative caching",
+     "score": 0.7448
+    },
+    {
+     "id": "https://openalex.org/keywords/content-popularity",
+     "display_name": "content popularity",
+     "score": 0.7129
+    },
+    {
+     "id": "https://openalex.org/keywords/distributed-caching",
+     "display_name": "distributed caching",
+     "score": 0.4701
+    },
+    {
+     "id": "https://openalex.org/keywords/hit-rate",
+     "display_name": "hit rate",
+     "score": 0.2277
+    },
+    {
+     "id": "https://openalex.org/keywords/content-placement",
+     "display_name": "content placement",
+     "score": 0.7601
+    },
+    {
+     "id": "https://openalex.org/keywords/coded-caching",
+     "display_name": "coded caching",
+     "score": 0.8552
+    },
+    {
+     "id": "https://openalex.org/keywords/cache-management",
+     "display_name": "cache management",
+     "score": 0.2695
+    },
+    {
+     "id": "https://openalex.org/keywords/video-caching",
+     "display_name": "video caching",
+     "score": 0.7438
+    },
+    {
+     "id": "https://openalex.org/keywords/lru",
+     "display_name": "LRU",
+     "score": 0.3493
+    },
+    {
+     "id": "https://openalex.org/keywords/content-replication",
+     "display_name": "content replication",
+     "score": 0.564
+    },
+    {
+     "id": "https://openalex.org/keywords/cache-placement",
+     "display_name": "cache placement",
+     "score": 0.7184
+    },
+    {
+     "id": "https://openalex.org/keywords/proactive-caching",
+     "display_name": "proactive caching",
+     "score": 0.7892
+    },
+    {
+     "id": "https://openalex.org/keywords/proxy-caching",
+     "display_name": "proxy caching",
+     "score": 0.8234
+    },
+    {
+     "id": "https://openalex.org/keywords/content-popularity-prediction",
+     "display_name": "content popularity prediction",
+     "score": 0.8211
+    }
+   ]
+  },
+  "T11504": {
+   "name": "Advanced Authentication Protocols Security",
+   "subfield": "1705 Computer Networks and Communications",
+   "works": 62285,
+   "desc": "This cluster of papers focuses on the analysis, design, and improvement of security protocols for authentication and key exchange. It covers topics such as smart card security, biometrics-based authentication, cryptographic protocol verification, and secure communication in wireless sensor networks and Internet of Things environments.",
+   "kw": [
+    {
+     "id": "https://openalex.org/keywords/authentication-protocols",
+     "display_name": "authentication protocols",
+     "score": 0.5992
+    },
+    {
+     "id": "https://openalex.org/keywords/mutual-authentication",
+     "display_name": "mutual authentication",
+     "score": 0.6463
+    },
+    {
+     "id": "https://openalex.org/keywords/smart-cards",
+     "display_name": "smart cards",
+     "score": 0.31
+    },
+    {
+     "id": "https://openalex.org/keywords/key-agreement-protocol",
+     "display_name": "key exchange",
+     "score": 0.4171
+    },
+    {
+     "id": "https://openalex.org/keywords/public-key-infrastructure",
+     "display_name": "public key infrastructure",
+     "score": 0.2925
+    },
+    {
+     "id": "https://openalex.org/keywords/man-in-the-middle-attacks",
+     "display_name": "man-in-the-middle attacks",
+     "score": 0.2628
+    },
+    {
+     "id": "https://openalex.org/keywords/replay-attacks",
+     "display_name": "replay attacks",
+     "score": 0.3049
+    },
+    {
+     "id": "https://openalex.org/keywords/digital-certificates",
+     "display_name": "digital certificates",
+     "score": 0.2523
+    },
+    {
+     "id": "https://openalex.org/keywords/password-authentication",
+     "display_name": "password authentication",
+     "score": 0.4127
+    },
+    {
+     "id": "https://openalex.org/keywords/authenticated-key-exchange",
+     "display_name": "authenticated key agreement",
+     "score": 0.7866
+    },
+    {
+     "id": "https://openalex.org/keywords/forward-secrecy",
+     "display_name": "forward secrecy",
+     "score": 0.5919
+    },
+    {
+     "id": "https://openalex.org/keywords/impersonation-attacks",
+     "display_name": "impersonation attacks",
+     "score": 0.4639
+    },
+    {
+     "id": "https://openalex.org/keywords/remote-user-authentication",
+     "display_name": "remote user authentication",
+     "score": 0.735
+    },
+    {
+     "id": "https://openalex.org/keywords/security-protocols",
+     "display_name": "security protocols",
+     "score": 0.263
+    },
+    {
+     "id": "https://openalex.org/keywords/anonymous-authentication",
+     "display_name": "anonymous authentication",
+     "score": 0.5542
+    },
+    {
+     "id": "https://openalex.org/keywords/ban-logic",
+     "display_name": "BAN logic",
+     "score": 0.7867
+    },
+    {
+     "id": "https://openalex.org/keywords/user-anonymity",
+     "display_name": "user anonymity",
+     "score": 0.4529
+    },
+    {
+     "id": "https://openalex.org/keywords/lightweight-authentication",
+     "display_name": "lightweight authentication",
+     "score": 0.5706
+    },
+    {
+     "id": "https://openalex.org/keywords/certificate-authority",
+     "display_name": "certificate authority",
+     "score": 0.2659
+    },
+    {
+     "id": "https://openalex.org/keywords/security-protocol-analysis",
+     "display_name": "protocol security analysis",
+     "score": 0.6557
+    },
+    {
+     "id": "https://openalex.org/keywords/session-key-establishment",
+     "display_name": "session key establishment",
+     "score": 0.8007
+    },
+    {
+     "id": "https://openalex.org/keywords/device-authentication",
+     "display_name": "device authentication",
+     "score": 0.234
+    },
+    {
+     "id": "https://openalex.org/keywords/authentication-methods",
+     "display_name": "authentication mechanisms",
+     "score": 0.2742
+    },
+    {
+     "id": "https://openalex.org/keywords/privacy-preserving-authentication",
+     "display_name": "privacy-preserving authentication",
+     "score": 0.3167
+    },
+    {
+     "id": "https://openalex.org/keywords/authentication-and-key-agreement",
+     "display_name": "authentication and key agreement",
+     "score": 0.8659
+    }
+   ]
+  },
+  "T11614": {
+   "name": "Cloud Data Security Solutions",
+   "subfield": "1710 Information Systems",
+   "works": 36721,
+   "desc": "This cluster of papers focuses on the security challenges in cloud computing, addressing issues such as data privacy, secure storage, auditing, provable data possession, trust management, deduplication, remote data checking, and identity-based security.",
+   "kw": [
+    {
+     "id": "https://openalex.org/keywords/cloud-security",
+     "display_name": "cloud security",
+     "score": 0.388
+    },
+    {
+     "id": "https://openalex.org/keywords/cloud-storage-security",
+     "display_name": "cloud storage security",
+     "score": 0.5758
+    },
+    {
+     "id": "https://openalex.org/keywords/cloud-data-security",
+     "display_name": "cloud data security",
+     "score": 0.5169
+    },
+    {
+     "id": "https://openalex.org/keywords/cloud-service-providers",
+     "display_name": "cloud service providers",
+     "score": 0.2401
+    },
+    {
+     "id": "https://openalex.org/keywords/data-integrity-verification",
+     "display_name": "data integrity verification",
+     "score": 0.4203
+    },
+    {
+     "id": "https://openalex.org/keywords/secure-data-storage",
+     "display_name": "secure data storage",
+     "score": 0.2352
+    },
+    {
+     "id": "https://openalex.org/keywords/outsourced-data",
+     "display_name": "outsourced data",
+     "score": 0.586
+    },
+    {
+     "id": "https://openalex.org/keywords/public-cloud",
+     "display_name": "public cloud",
+     "score": 0.2142
+    },
+    {
+     "id": "https://openalex.org/keywords/third-party-auditor",
+     "display_name": "third-party auditor",
+     "score": 0.8269
+    },
+    {
+     "id": "https://openalex.org/keywords/data-outsourcing",
+     "display_name": "data outsourcing",
+     "score": 0.5368
+    },
+    {
+     "id": "https://openalex.org/keywords/cloud-data-protection",
+     "display_name": "cloud data protection",
+     "score": 0.6424
+    },
+    {
+     "id": "https://openalex.org/keywords/cloud-service-models",
+     "display_name": "cloud service models",
+     "score": 0.2044
+    },
+    {
+     "id": "https://openalex.org/keywords/provable-data-possession",
+     "display_name": "provable data possession",
+     "score": 0.8301
+    },
+    {
+     "id": "https://openalex.org/keywords/user-revocation",
+     "display_name": "user revocation",
+     "score": 0.323
+    },
+    {
+     "id": "https://openalex.org/keywords/cloud-computing-privacy",
+     "display_name": "cloud privacy",
+     "score": 0.5158
+    },
+    {
+     "id": "https://openalex.org/keywords/third-party-auditing",
+     "display_name": "third-party auditing",
+     "score": 0.2945
+    },
+    {
+     "id": "https://openalex.org/keywords/cloud-data-privacy",
+     "display_name": "cloud data privacy",
+     "score": 0.265
+    },
+    {
+     "id": "https://openalex.org/keywords/multi-cloud-storage",
+     "display_name": "multi-cloud storage",
+     "score": 0.6605
+    },
+    {
+     "id": "https://openalex.org/keywords/cloud-deployment-models",
+     "display_name": "cloud deployment models",
+     "score": 0.2443
+    },
+    {
+     "id": "https://openalex.org/keywords/cloud-security-threats",
+     "display_name": "cloud security threats",
+     "score": 0.6684
+    },
+    {
+     "id": "https://openalex.org/keywords/cloud-data-sharing",
+     "display_name": "cloud data sharing",
+     "score": 0.318
+    },
+    {
+     "id": "https://openalex.org/keywords/cloud-data-integrity",
+     "display_name": "cloud data integrity",
+     "score": 0.8281
+    },
+    {
+     "id": "https://openalex.org/keywords/convergent-encryption",
+     "display_name": "convergent encryption",
+     "score": 0.7895
+    },
+    {
+     "id": "https://openalex.org/keywords/shared-responsibility-model",
+     "display_name": "shared responsibility model",
+     "score": 0.5028
+    },
+    {
+     "id": "https://openalex.org/keywords/cloud-storage-auditing",
+     "display_name": "cloud storage auditing",
+     "score": 0.9208
+    }
+   ]
+  },
+  "T12127": {
+   "name": "Software System Performance and Reliability",
+   "subfield": "1705 Computer Networks and Communications",
+   "works": 44265,
+   "desc": "This cluster of papers focuses on log analysis, performance prediction, and system diagnosis in the context of microservices, distributed systems, and cloud-native architectures. It covers techniques for anomaly detection, fault localization, and model-driven performance prediction using system logs.",
+   "kw": [
+    {
+     "id": "https://openalex.org/keywords/microservices",
+     "display_name": "microservices",
+     "score": 0.3159
+    },
+    {
+     "id": "https://openalex.org/keywords/log-analysis",
+     "display_name": "log analysis",
+     "score": 0.2527
+    },
+    {
+     "id": "https://openalex.org/keywords/system-monitoring",
+     "display_name": "system monitoring",
+     "score": 0.2106
+    },
+    {
+     "id": "https://openalex.org/keywords/log-based-anomaly-detection",
+     "display_name": "log anomaly detection",
+     "score": 0.8989
+    },
+    {
+     "id": "https://openalex.org/keywords/aiops",
+     "display_name": "AIOps",
+     "score": 0.6919
+    },
+    {
+     "id": "https://openalex.org/keywords/distributed-tracing",
+     "display_name": "distributed tracing",
+     "score": 0.8267
+    },
+    {
+     "id": "https://openalex.org/keywords/service-mesh",
+     "display_name": "service mesh",
+     "score": 0.5169
+    },
+    {
+     "id": "https://openalex.org/keywords/cloud-native-applications",
+     "display_name": "cloud-native applications",
+     "score": 0.2889
+    },
+    {
+     "id": "https://openalex.org/keywords/log-parsing",
+     "display_name": "log parsing",
+     "score": 0.795
+    },
+    {
+     "id": "https://openalex.org/keywords/site-reliability-engineering",
+     "display_name": "site reliability engineering",
+     "score": 0.7331
+    },
+    {
+     "id": "https://openalex.org/keywords/system-logs",
+     "display_name": "system logs",
+     "score": 0.3984
+    },
+    {
+     "id": "https://openalex.org/keywords/monolithic-architecture",
+     "display_name": "monolithic architecture",
+     "score": 0.4076
+    },
+    {
+     "id": "https://openalex.org/keywords/api-gateway",
+     "display_name": "API gateway",
+     "score": 0.2903
+    },
+    {
+     "id": "https://openalex.org/keywords/chaos-engineering",
+     "display_name": "chaos engineering",
+     "score": 0.6295
+    },
+    {
+     "id": "https://openalex.org/keywords/cloud-native-architecture",
+     "display_name": "cloud-native architecture",
+     "score": 0.2269
+    },
+    {
+     "id": "https://openalex.org/keywords/performance-engineering",
+     "display_name": "performance engineering",
+     "score": 0.3614
+    },
+    {
+     "id": "https://openalex.org/keywords/grafana",
+     "display_name": "Grafana",
+     "score": 0.2568
+    },
+    {
+     "id": "https://openalex.org/keywords/opentelemetry",
+     "display_name": "OpenTelemetry",
+     "score": 0.8206
+    },
+    {
+     "id": "https://openalex.org/keywords/cloud-native-systems",
+     "display_name": "cloud-native systems",
+     "score": 0.5283
+    },
+    {
+     "id": "https://openalex.org/keywords/monolith-to-microservices-migration",
+     "display_name": "monolith to microservices migration",
+     "score": 0.5959
+    },
+    {
+     "id": "https://openalex.org/keywords/it-operations",
+     "display_name": "IT operations",
+     "score": 0.2385
+    },
+    {
+     "id": "https://openalex.org/keywords/log-management",
+     "display_name": "log management",
+     "score": 0.3386
+    },
+    {
+     "id": "https://openalex.org/keywords/it-infrastructure-monitoring",
+     "display_name": "IT infrastructure monitoring",
+     "score": 0.4674
+    },
+    {
+     "id": "https://openalex.org/keywords/application-monitoring",
+     "display_name": "application monitoring",
+     "score": 0.3614
+    },
+    {
+     "id": "https://openalex.org/keywords/server-monitoring",
+     "display_name": "server monitoring",
+     "score": 0.3021
+    }
+   ]
+  },
+  "T12203": {
+   "name": "Mobile Agent-Based Network Management",
+   "subfield": "1705 Computer Networks and Communications",
+   "works": 33508,
+   "desc": "This cluster of papers focuses on the use of mobile agent technology for network management, security, and fault tolerance in distributed systems. It explores applications in Internet and wireless computing, integration with SNMP and Java platform, and the use of XML-based management. The research also delves into the challenges and future directions of mobile agent technology in network management.",
+   "kw": [
+    {
+     "id": "https://openalex.org/keywords/network-management",
+     "display_name": "network management",
+     "score": 0.2617
+    },
+    {
+     "id": "https://openalex.org/keywords/mobile-agents",
+     "display_name": "mobile agents",
+     "score": 0.4331
+    },
+    {
+     "id": "https://openalex.org/keywords/simple-network-management-protocol",
+     "display_name": "SNMP",
+     "score": 0.7031
+    },
+    {
+     "id": "https://openalex.org/keywords/network-management-system",
+     "display_name": "network management system",
+     "score": 0.5561
+    },
+    {
+     "id": "https://openalex.org/keywords/agent-migration",
+     "display_name": "agent migration",
+     "score": 0.596
+    },
+    {
+     "id": "https://openalex.org/keywords/network-management-protocols",
+     "display_name": "network management protocols",
+     "score": 0.6645
+    },
+    {
+     "id": "https://openalex.org/keywords/management-information-base",
+     "display_name": "Management Information Base",
+     "score": 0.683
+    },
+    {
+     "id": "https://openalex.org/keywords/network-management-tools",
+     "display_name": "network management software",
+     "score": 0.4557
+    },
+    {
+     "id": "https://openalex.org/keywords/tmn",
+     "display_name": "TMN",
+     "score": 0.8077
+    },
+    {
+     "id": "https://openalex.org/keywords/telecommunications-management-network",
+     "display_name": "Telecommunications Management Network",
+     "score": 0.8124
+    },
+    {
+     "id": "https://openalex.org/keywords/managed-objects",
+     "display_name": "managed objects",
+     "score": 0.7619
+    },
+    {
+     "id": "https://openalex.org/keywords/network-management-architecture",
+     "display_name": "network management architecture",
+     "score": 0.6438
+    },
+    {
+     "id": "https://openalex.org/keywords/mobile-agent-security",
+     "display_name": "mobile agent security",
+     "score": 0.7689
+    },
+    {
+     "id": "https://openalex.org/keywords/distributed-network-management",
+     "display_name": "distributed network management",
+     "score": 0.6437
+    },
+    {
+     "id": "https://openalex.org/keywords/telecommunications-network-management",
+     "display_name": "telecommunications network management",
+     "score": 0.496
+    },
+    {
+     "id": "https://openalex.org/keywords/mib",
+     "display_name": "MIB",
+     "score": 0.6146
+    },
+    {
+     "id": "https://openalex.org/keywords/mobile-agent-systems",
+     "display_name": "mobile agent systems",
+     "score": 0.773
+    },
+    {
+     "id": "https://openalex.org/keywords/snmpv3",
+     "display_name": "SNMPv3",
+     "score": 0.8161
+    },
+    {
+     "id": "https://openalex.org/keywords/snmp-agent",
+     "display_name": "SNMP agent",
+     "score": 0.8256
+    },
+    {
+     "id": "https://openalex.org/keywords/agent-mobility",
+     "display_name": "agent mobility",
+     "score": 0.4064
+    },
+    {
+     "id": "https://openalex.org/keywords/netconf",
+     "display_name": "NETCONF",
+     "score": 0.5136
+    },
+    {
+     "id": "https://openalex.org/keywords/mobile-code",
+     "display_name": "mobile code",
+     "score": 0.206
+    },
+    {
+     "id": "https://openalex.org/keywords/integrated-network-management",
+     "display_name": "integrated network management",
+     "score": 0.7455
+    },
+    {
+     "id": "https://openalex.org/keywords/agent-security",
+     "display_name": "agent security",
+     "score": 0.3555
+    },
+    {
+     "id": "https://openalex.org/keywords/network-configuration-management",
+     "display_name": "network configuration management",
+     "score": 0.3968
+    }
+   ]
+  },
+  "T14067": {
+   "name": "Cloud Computing and Remote Desktop Technologies",
+   "subfield": "1708 Hardware and Architecture",
+   "works": 12631,
+   "desc": "This cluster of papers focuses on the performance, optimization, and user experience of thin-client computing systems. It covers topics such as remote display, transparent computing, mobile cloud computing, virtualization, multimedia streaming, quality of experience, and network conditions.",
+   "kw": [
+    {
+     "id": "https://openalex.org/keywords/virtual-desktop-infrastructure",
+     "display_name": "virtual desktop infrastructure",
+     "score": 0.7397
+    },
+    {
+     "id": "https://openalex.org/keywords/thin-clients",
+     "display_name": "thin clients",
+     "score": 0.4035
+    },
+    {
+     "id": "https://openalex.org/keywords/cloud-gaming",
+     "display_name": "cloud gaming",
+     "score": 0.4403
+    },
+    {
+     "id": "https://openalex.org/keywords/desktop-virtualization",
+     "display_name": "desktop virtualization",
+     "score": 0.6877
+    },
+    {
+     "id": "https://openalex.org/keywords/remote-desktop",
+     "display_name": "remote desktop",
+     "score": 0.6043
+    },
+    {
+     "id": "https://openalex.org/keywords/remote-administration",
+     "display_name": "remote administration",
+     "score": 0.3038
+    },
+    {
+     "id": "https://openalex.org/keywords/virtual-desktop",
+     "display_name": "virtual desktop",
+     "score": 0.4289
+    },
+    {
+     "id": "https://openalex.org/keywords/terminal-emulation",
+     "display_name": "terminal emulation",
+     "score": 0.3369
+    },
+    {
+     "id": "https://openalex.org/keywords/application-virtualization",
+     "display_name": "application virtualization",
+     "score": 0.5433
+    },
+    {
+     "id": "https://openalex.org/keywords/vnc",
+     "display_name": "VNC",
+     "score": 0.5731
+    },
+    {
+     "id": "https://openalex.org/keywords/network-booting",
+     "display_name": "network booting",
+     "score": 0.5166
+    },
+    {
+     "id": "https://openalex.org/keywords/remote-desktop-access",
+     "display_name": "remote desktop access",
+     "score": 0.6702
+    },
+    {
+     "id": "https://openalex.org/keywords/virtual-terminal",
+     "display_name": "virtual terminal",
+     "score": 0.4777
+    },
+    {
+     "id": "https://openalex.org/keywords/terminal-server",
+     "display_name": "terminal server",
+     "score": 0.5567
+    },
+    {
+     "id": "https://openalex.org/keywords/thin-client-computing",
+     "display_name": "thin client computing",
+     "score": 0.6407
+    },
+    {
+     "id": "https://openalex.org/keywords/citrix",
+     "display_name": "Citrix",
+     "score": 0.5625
+    },
+    {
+     "id": "https://openalex.org/keywords/remote-desktop-protocol",
+     "display_name": "Remote Desktop Protocol",
+     "score": 0.5403
+    },
+    {
+     "id": "https://openalex.org/keywords/remote-rendering",
+     "display_name": "remote rendering",
+     "score": 0.2314
+    },
+    {
+     "id": "https://openalex.org/keywords/virtual-network-computing",
+     "display_name": "Virtual Network Computing",
+     "score": 0.5151
+    },
+    {
+     "id": "https://openalex.org/keywords/network-computers",
+     "display_name": "network computers",
+     "score": 0.33
+    },
+    {
+     "id": "https://openalex.org/keywords/remote-display",
+     "display_name": "remote display",
+     "score": 0.3962
+    },
+    {
+     "id": "https://openalex.org/keywords/remote-computer-control",
+     "display_name": "remote computer control",
+     "score": 0.3604
+    },
+    {
+     "id": "https://openalex.org/keywords/remote-desktop-services",
+     "display_name": "remote desktop services",
+     "score": 0.7381
+    },
+    {
+     "id": "https://openalex.org/keywords/network-boot",
+     "display_name": "network boot",
+     "score": 0.6002
+    },
+    {
+     "id": "https://openalex.org/keywords/server-based-computing",
+     "display_name": "server-based computing",
+     "score": 0.691
+    }
+   ]
+  }
+ },
+ "considered_excluded": {
+  "T12216": {
+   "name": "Network Time Synchronization Technologies",
+   "subfield": "1705 Computer Networks and Communications",
+   "works": 197863,
+   "desc": "This cluster of papers focuses on the various aspects of clock synchronization in networked systems, including wireless sensor networks, time-sensitive networking, industrial communication, IEEE 1588 standard, real-time Ethernet, distributed synchronization, precision time protocol, networked measurement systems, and consensus-based protocols.",
+   "kw": [
+    {
+     "id": "https://openalex.org/keywords/clock-synchronization",
+     "display_name": "clock synchronization",
+     "score": 0.8827
+    },
+    {
+     "id": "https://openalex.org/keywords/timing-distribution-system",
+     "display_name": "timing distribution system",
+     "score": 0.9577
+    },
+    {
+     "id": "https://openalex.org/keywords/time-sensitive-networking",
+     "display_name": "time-sensitive networking",
+     "score": 0.6673
+    },
+    {
+     "id": "https://openalex.org/keywords/precision-time-protocol",
+     "display_name": "Precision Time Protocol",
+     "score": 0.8315
+    },
+    {
+     "id": "https://openalex.org/keywords/industrial-ethernet",
+     "display_name": "industrial Ethernet",
+     "score": 0.2281
+    },
+    {
+     "id": "https://openalex.org/keywords/network-time-protocol",
+     "display_name": "Network Time Protocol",
+     "score": 0.6885
+    },
+    {
+     "id": "https://openalex.org/keywords/synchronization-accuracy",
+     "display_name": "synchronization accuracy",
+     "score": 0.6182
+    },
+    {
+     "id": "https://openalex.org/keywords/ethercat",
+     "display_name": "EtherCAT",
+     "score": 0.4364
+    },
+    {
+     "id": "https://openalex.org/keywords/real-time-ethernet",
+     "display_name": "real-time Ethernet",
+     "score": 0.5863
+    },
+    {
+     "id": "https://openalex.org/keywords/clock-drift",
+     "display_name": "clock drift",
+     "score": 0.282
+    },
+    {
+     "id": "https://openalex.org/keywords/deterministic-communication",
+     "display_name": "deterministic communication",
+     "score": 0.4097
+    },
+    {
+     "id": "https://openalex.org/keywords/clock-offset-estimation",
+     "display_name": "clock offset estimation",
+     "score": 0.5341
+    },
+    {
+     "id": "https://openalex.org/keywords/time-aware-shaper",
+     "display_name": "time-aware shaper",
+     "score": 0.9016
+    },
+    {
+     "id": "https://openalex.org/keywords/network-time-synchronization",
+     "display_name": "network time synchronization",
+     "score": 0.7488
+    },
+    {
+     "id": "https://openalex.org/keywords/ntp",
+     "display_name": "NTP",
+     "score": 0.4125
+    },
+    {
+     "id": "https://openalex.org/keywords/deterministic-networking",
+     "display_name": "deterministic networking",
+     "score": 0.4506
+    },
+    {
+     "id": "https://openalex.org/keywords/time-server",
+     "display_name": "time server",
+     "score": 0.556
+    },
+    {
+     "id": "https://openalex.org/keywords/ieee-802-1qbv",
+     "display_name": "IEEE 802.1Qbv",
+     "score": 0.8953
+    },
+    {
+     "id": "https://openalex.org/keywords/clock-skew-estimation",
+     "display_name": "clock skew estimation",
+     "score": 0.6821
+    },
+    {
+     "id": "https://openalex.org/keywords/white-rabbit",
+     "display_name": "White Rabbit",
+     "score": 0.2535
+    },
+    {
+     "id": "https://openalex.org/keywords/ieee-802-1as",
+     "display_name": "IEEE 802.1AS",
+     "score": 0.8867
+    },
+    {
+     "id": "https://openalex.org/keywords/synchronization-precision",
+     "display_name": "synchronization precision",
+     "score": 0.5698
+    },
+    {
+     "id": "https://openalex.org/keywords/automotive-ethernet",
+     "display_name": "automotive Ethernet",
+     "score": 0.2573
+    },
+    {
+     "id": "https://openalex.org/keywords/switched-ethernet",
+     "display_name": "switched Ethernet",
+     "score": 0.2174
+    },
+    {
+     "id": "https://openalex.org/keywords/audio-video-bridging",
+     "display_name": "Audio Video Bridging",
+     "score": 0.7695
+    }
+   ]
+  },
+  "T10273": {
+   "name": "IoT and Edge/Fog Computing",
+   "subfield": "1705 Computer Networks and Communications",
+   "works": 80172,
+   "desc": "This cluster of papers explores the intersection of Internet of Things (IoT) and edge computing, including topics such as fog computing, mobile edge computing, security and privacy challenges, applications in smart cities and healthcare, 5G networks, and the integration of deep learning with IoT. The papers also discuss the potential of IoT in enabling technologies, the challenges in architecture, and the future directions for IoT development.",
+   "kw": [
+    {
+     "id": "https://openalex.org/keywords/edge-computing",
+     "display_name": "edge computing",
+     "score": 0.308
+    },
+    {
+     "id": "https://openalex.org/keywords/fog-computing",
+     "display_name": "fog computing",
+     "score": 0.5787
+    },
+    {
+     "id": "https://openalex.org/keywords/mobile-edge-computing",
+     "display_name": "mobile edge computing",
+     "score": 0.6243
+    },
+    {
+     "id": "https://openalex.org/keywords/task-offloading",
+     "display_name": "task offloading",
+     "score": 0.7496
+    },
+    {
+     "id": "https://openalex.org/keywords/computation-offloading",
+     "display_name": "computation offloading",
+     "score": 0.6455
+    },
+    {
+     "id": "https://openalex.org/keywords/latency-reduction",
+     "display_name": "latency reduction",
+     "score": 0.2811
+    },
+    {
+     "id": "https://openalex.org/keywords/edge-intelligence",
+     "display_name": "edge AI",
+     "score": 0.2489
+    },
+    {
+     "id": "https://openalex.org/keywords/cloud-edge-collaboration",
+     "display_name": "cloud-edge collaboration",
+     "score": 0.4244
+    },
+    {
+     "id": "https://openalex.org/keywords/iot-architecture",
+     "display_name": "IoT architecture",
+     "score": 0.3355
+    },
+    {
+     "id": "https://openalex.org/keywords/edge-cloud-computing",
+     "display_name": "edge-cloud computing",
+     "score": 0.3736
+    },
+    {
+     "id": "https://openalex.org/keywords/mobile-cloud-computing",
+     "display_name": "mobile cloud computing",
+     "score": 0.2705
+    },
+    {
+     "id": "https://openalex.org/keywords/vehicular-edge-computing",
+     "display_name": "vehicular edge computing",
+     "score": 0.7183
+    },
+    {
+     "id": "https://openalex.org/keywords/edge-servers",
+     "display_name": "edge servers",
+     "score": 0.5308
+    },
+    {
+     "id": "https://openalex.org/keywords/iot-applications",
+     "display_name": "IoT applications",
+     "score": 0.2323
+    },
+    {
+     "id": "https://openalex.org/keywords/latency-sensitive-applications",
+     "display_name": "delay-sensitive applications",
+     "score": 0.3426
+    },
+    {
+     "id": "https://openalex.org/keywords/cloudlets",
+     "display_name": "cloudlets",
+     "score": 0.5982
+    },
+    {
+     "id": "https://openalex.org/keywords/computational-resource-allocation",
+     "display_name": "computing resource allocation",
+     "score": 0.297
+    },
+    {
+     "id": "https://openalex.org/keywords/lyapunov-optimization",
+     "display_name": "Lyapunov optimization",
+     "score": 0.2762
+    },
+    {
+     "id": "https://openalex.org/keywords/iot-vulnerabilities",
+     "display_name": "IoT vulnerabilities",
+     "score": 0.3246
+    },
+    {
+     "id": "https://openalex.org/keywords/iot-platforms",
+     "display_name": "IoT platforms",
+     "score": 0.2421
+    },
+    {
+     "id": "https://openalex.org/keywords/edge-cloud-continuum",
+     "display_name": "edge-cloud continuum",
+     "score": 0.5164
+    },
+    {
+     "id": "https://openalex.org/keywords/service-placement",
+     "display_name": "service placement",
+     "score": 0.5357
+    },
+    {
+     "id": "https://openalex.org/keywords/service-migration",
+     "display_name": "service migration",
+     "score": 0.336
+    },
+    {
+     "id": "https://openalex.org/keywords/fog-computing-architecture",
+     "display_name": "fog computing architecture",
+     "score": 0.9077
+    },
+    {
+     "id": "https://openalex.org/keywords/edge-computing-architecture",
+     "display_name": "edge computing architecture",
+     "score": 0.8533
+    }
+   ]
+  },
+  "T11181": {
+   "name": "Advanced Data Storage Technologies",
+   "subfield": "1705 Computer Networks and Communications",
+   "works": 74784,
+   "desc": "This cluster of papers focuses on distributed storage systems, network coding, and flash memory technologies. It explores topics such as erasure coding, solid state drives, regenerating codes, NAND flash memory, and file systems for parallel computing.",
+   "kw": [
+    {
+     "id": "https://openalex.org/keywords/distributed-storage",
+     "display_name": "distributed storage",
+     "score": 0.2935
+    },
+    {
+     "id": "https://openalex.org/keywords/solid-state-drives",
+     "display_name": "solid-state drives",
+     "score": 0.7487
+    },
+    {
+     "id": "https://openalex.org/keywords/nand-flash-memory",
+     "display_name": "NAND flash memory",
+     "score": 0.5475
+    },
+    {
+     "id": "https://openalex.org/keywords/hard-disk-drives",
+     "display_name": "hard disk drives",
+     "score": 0.2414
+    },
+    {
+     "id": "https://openalex.org/keywords/distributed-file-systems",
+     "display_name": "distributed file systems",
+     "score": 0.379
+    },
+    {
+     "id": "https://openalex.org/keywords/flash-memory",
+     "display_name": "flash memory",
+     "score": 0.3266
+    },
+    {
+     "id": "https://openalex.org/keywords/storage-systems",
+     "display_name": "storage systems",
+     "score": 0.4791
+    },
+    {
+     "id": "https://openalex.org/keywords/i-o-performance",
+     "display_name": "I/O performance",
+     "score": 0.5383
+    },
+    {
+     "id": "https://openalex.org/keywords/storage-performance",
+     "display_name": "storage performance",
+     "score": 0.7384
+    },
+    {
+     "id": "https://openalex.org/keywords/file-systems",
+     "display_name": "file systems",
+     "score": 0.3994
+    },
+    {
+     "id": "https://openalex.org/keywords/storage-area-networks",
+     "display_name": "storage area networks",
+     "score": 0.5732
+    },
+    {
+     "id": "https://openalex.org/keywords/erasure-codes",
+     "display_name": "erasure coding",
+     "score": 0.4753
+    },
+    {
+     "id": "https://openalex.org/keywords/storage-management",
+     "display_name": "storage management",
+     "score": 0.368
+    },
+    {
+     "id": "https://openalex.org/keywords/parallel-file-systems",
+     "display_name": "parallel file systems",
+     "score": 0.679
+    },
+    {
+     "id": "https://openalex.org/keywords/storage-system-reliability",
+     "display_name": "storage reliability",
+     "score": 0.6187
+    },
+    {
+     "id": "https://openalex.org/keywords/parallel-i-o",
+     "display_name": "parallel I/O",
+     "score": 0.4282
+    },
+    {
+     "id": "https://openalex.org/keywords/raid",
+     "display_name": "RAID",
+     "score": 0.4545
+    },
+    {
+     "id": "https://openalex.org/keywords/flash-translation-layer",
+     "display_name": "flash translation layer",
+     "score": 0.9455
+    },
+    {
+     "id": "https://openalex.org/keywords/storage-devices",
+     "display_name": "storage devices",
+     "score": 0.4324
+    },
+    {
+     "id": "https://openalex.org/keywords/network-attached-storage",
+     "display_name": "network attached storage",
+     "score": 0.6277
+    },
+    {
+     "id": "https://openalex.org/keywords/storage-virtualization",
+     "display_name": "storage virtualization",
+     "score": 0.645
+    },
+    {
+     "id": "https://openalex.org/keywords/optical-drive",
+     "display_name": "optical disc drive",
+     "score": 0.3463
+    },
+    {
+     "id": "https://openalex.org/keywords/file-system-performance",
+     "display_name": "file system performance",
+     "score": 0.8278
+    },
+    {
+     "id": "https://openalex.org/keywords/disk-arrays",
+     "display_name": "disk arrays",
+     "score": 0.7828
+    },
+    {
+     "id": "https://openalex.org/keywords/storage-architecture",
+     "display_name": "storage architecture",
+     "score": 0.6617
+    }
+   ]
+  },
+  "T10317": {
+   "name": "Advanced Database Systems and Queries",
+   "subfield": "1710 Information Systems",
+   "works": 155850,
+   "desc": "This cluster of papers focuses on data stream management systems and techniques, including continuous queries, XML and relational database systems, query optimization, stream processing, approximate query processing, column-oriented database systems, complex event processing, and main memory databases.",
+   "kw": [
+    {
+     "id": "https://openalex.org/keywords/relational-databases",
+     "display_name": "relational databases",
+     "score": 0.3519
+    },
+    {
+     "id": "https://openalex.org/keywords/database-management-systems",
+     "display_name": "database management systems",
+     "score": 0.3947
+    },
+    {
+     "id": "https://openalex.org/keywords/query-optimization",
+     "display_name": "query optimization",
+     "score": 0.6844
+    },
+    {
+     "id": "https://openalex.org/keywords/query-processing",
+     "display_name": "query processing",
+     "score": 0.4659
+    },
+    {
+     "id": "https://openalex.org/keywords/object-oriented-databases",
+     "display_name": "object-oriented databases",
+     "score": 0.6359
+    },
+    {
+     "id": "https://openalex.org/keywords/distributed-databases",
+     "display_name": "distributed databases",
+     "score": 0.3751
+    },
+    {
+     "id": "https://openalex.org/keywords/nosql-databases",
+     "display_name": "NoSQL databases",
+     "score": 0.4712
+    },
+    {
+     "id": "https://openalex.org/keywords/stream-processing",
+     "display_name": "stream processing",
+     "score": 0.3453
+    },
+    {
+     "id": "https://openalex.org/keywords/sql",
+     "display_name": "SQL",
+     "score": 0.4735
+    },
+    {
+     "id": "https://openalex.org/keywords/query-performance",
+     "display_name": "query performance",
+     "score": 0.5376
+    },
+    {
+     "id": "https://openalex.org/keywords/query-languages",
+     "display_name": "query languages",
+     "score": 0.4434
+    },
+    {
+     "id": "https://openalex.org/keywords/relational-database-management-systems",
+     "display_name": "relational database management systems",
+     "score": 0.5019
+    },
+    {
+     "id": "https://openalex.org/keywords/relational-model",
+     "display_name": "relational model",
+     "score": 0.4208
+    },
+    {
+     "id": "https://openalex.org/keywords/database-performance",
+     "display_name": "database performance",
+     "score": 0.6691
+    },
+    {
+     "id": "https://openalex.org/keywords/database-administration",
+     "display_name": "database administration",
+     "score": 0.5609
+    },
+    {
+     "id": "https://openalex.org/keywords/xquery",
+     "display_name": "XQuery",
+     "score": 0.7452
+    },
+    {
+     "id": "https://openalex.org/keywords/xml-databases",
+     "display_name": "XML databases",
+     "score": 0.6967
+    },
+    {
+     "id": "https://openalex.org/keywords/temporal-databases",
+     "display_name": "temporal databases",
+     "score": 0.6335
+    },
+    {
+     "id": "https://openalex.org/keywords/postgresql",
+     "display_name": "PostgreSQL",
+     "score": 0.2616
+    },
+    {
+     "id": "https://openalex.org/keywords/database-tuning",
+     "display_name": "database performance tuning",
+     "score": 0.7979
+    },
+    {
+     "id": "https://openalex.org/keywords/relational-algebra",
+     "display_name": "relational algebra",
+     "score": 0.5955
+    },
+    {
+     "id": "https://openalex.org/keywords/database-architecture",
+     "display_name": "database architecture",
+     "score": 0.5499
+    },
+    {
+     "id": "https://openalex.org/keywords/oracle-database",
+     "display_name": "Oracle database",
+     "score": 0.3724
+    },
+    {
+     "id": "https://openalex.org/keywords/functional-dependencies",
+     "display_name": "functional dependencies",
+     "score": 0.36
+    },
+    {
+     "id": "https://openalex.org/keywords/parallel-query-processing",
+     "display_name": "parallel query processing",
+     "score": 0.6219
+    }
+   ]
+  },
+  "T10138": {
+   "name": "Network Traffic and Congestion Control",
+   "subfield": "1705 Computer Networks and Communications",
+   "works": 170987,
+   "desc": "This cluster of papers focuses on various aspects of congestion control in computer networks, including TCP performance, active queue management, bandwidth estimation, internet topology, multicast routing, delay analysis, wireless networks, and quality of service (QoS) routing.",
+   "kw": [
+    {
+     "id": "https://openalex.org/keywords/congestion-control",
+     "display_name": "congestion control",
+     "score": 0.7085
+    },
+    {
+     "id": "https://openalex.org/keywords/packet-loss",
+     "display_name": "packet loss",
+     "score": 0.2708
+    },
+    {
+     "id": "https://openalex.org/keywords/atm-networks",
+     "display_name": "ATM networks",
+     "score": 0.6061
+    },
+    {
+     "id": "https://openalex.org/keywords/transmission-control-protocol",
+     "display_name": "TCP",
+     "score": 0.6253
+    },
+    {
+     "id": "https://openalex.org/keywords/network-congestion",
+     "display_name": "network congestion",
+     "score": 0.317
+    },
+    {
+     "id": "https://openalex.org/keywords/tcp-congestion-control",
+     "display_name": "TCP congestion control",
+     "score": 0.9026
+    },
+    {
+     "id": "https://openalex.org/keywords/differentiated-services",
+     "display_name": "differentiated services",
+     "score": 0.6492
+    },
+    {
+     "id": "https://openalex.org/keywords/network-performance",
+     "display_name": "network performance",
+     "score": 0.2684
+    },
+    {
+     "id": "https://openalex.org/keywords/mpls",
+     "display_name": "MPLS",
+     "score": 0.5799
+    },
+    {
+     "id": "https://openalex.org/keywords/bandwidth-allocation",
+     "display_name": "bandwidth allocation",
+     "score": 0.3005
+    },
+    {
+     "id": "https://openalex.org/keywords/traffic-engineering",
+     "display_name": "traffic engineering",
+     "score": 0.3063
+    },
+    {
+     "id": "https://openalex.org/keywords/ip-networks",
+     "display_name": "IP networks",
+     "score": 0.4412
+    },
+    {
+     "id": "https://openalex.org/keywords/active-queue-management",
+     "display_name": "active queue management",
+     "score": 0.8783
+    },
+    {
+     "id": "https://openalex.org/keywords/network-performance-evaluation",
+     "display_name": "network performance evaluation",
+     "score": 0.2519
+    },
+    {
+     "id": "https://openalex.org/keywords/tcp-performance",
+     "display_name": "TCP performance",
+     "score": 0.8173
+    },
+    {
+     "id": "https://openalex.org/keywords/round-trip-time",
+     "display_name": "round-trip time",
+     "score": 0.39
+    },
+    {
+     "id": "https://openalex.org/keywords/transport-protocols",
+     "display_name": "transport protocols",
+     "score": 0.5506
+    },
+    {
+     "id": "https://openalex.org/keywords/high-speed-networks",
+     "display_name": "high-speed networks",
+     "score": 0.3967
+    },
+    {
+     "id": "https://openalex.org/keywords/border-gateway-protocol",
+     "display_name": "BGP",
+     "score": 0.503
+    },
+    {
+     "id": "https://openalex.org/keywords/bursty-traffic",
+     "display_name": "bursty traffic",
+     "score": 0.3953
+    },
+    {
+     "id": "https://openalex.org/keywords/multicast-routing",
+     "display_name": "multicast routing",
+     "score": 0.295
+    },
+    {
+     "id": "https://openalex.org/keywords/admission-control",
+     "display_name": "admission control",
+     "score": 0.2497
+    },
+    {
+     "id": "https://openalex.org/keywords/packet-scheduling",
+     "display_name": "packet scheduling",
+     "score": 0.3091
+    },
+    {
+     "id": "https://openalex.org/keywords/wide-area-networks",
+     "display_name": "wide area networks",
+     "score": 0.2171
+    },
+    {
+     "id": "https://openalex.org/keywords/bandwidth-utilization",
+     "display_name": "bandwidth utilization",
+     "score": 0.2543
+    }
+   ]
+  },
+  "T10829": {
+   "name": "Interconnection Networks and Systems",
+   "subfield": "1705 Computer Networks and Communications",
+   "works": 55219,
+   "desc": "This cluster of papers focuses on the design, architecture, and optimization of Networks on Chip (NoC) within System-on-Chip (SoC) designs. It covers topics such as interconnection networks, routing algorithms, performance evaluation, power optimization, wireless interconnects, fault tolerance, and multi-core processors.",
+   "kw": [
+    {
+     "id": "https://openalex.org/keywords/network-on-chip",
+     "display_name": "network-on-chip",
+     "score": 0.7824
+    },
+    {
+     "id": "https://openalex.org/keywords/interconnection-networks",
+     "display_name": "interconnection networks",
+     "score": 0.6989
+    },
+    {
+     "id": "https://openalex.org/keywords/on-chip-interconnects",
+     "display_name": "on-chip interconnects",
+     "score": 0.5041
+    },
+    {
+     "id": "https://openalex.org/keywords/routing-algorithms",
+     "display_name": "routing algorithms",
+     "score": 0.2076
+    },
+    {
+     "id": "https://openalex.org/keywords/hypercube",
+     "display_name": "hypercube",
+     "score": 0.2784
+    },
+    {
+     "id": "https://openalex.org/keywords/wormhole-routing",
+     "display_name": "wormhole routing",
+     "score": 0.9044
+    },
+    {
+     "id": "https://openalex.org/keywords/adaptive-routing",
+     "display_name": "adaptive routing",
+     "score": 0.2806
+    },
+    {
+     "id": "https://openalex.org/keywords/multistage-interconnection-networks",
+     "display_name": "multistage interconnection networks",
+     "score": 0.8579
+    },
+    {
+     "id": "https://openalex.org/keywords/multi-processor-systems-on-chip",
+     "display_name": "MPSoC",
+     "score": 0.2653
+    },
+    {
+     "id": "https://openalex.org/keywords/fault-tolerant-routing",
+     "display_name": "fault-tolerant routing",
+     "score": 0.6624
+    },
+    {
+     "id": "https://openalex.org/keywords/deadlock-free-routing",
+     "display_name": "deadlock-free routing",
+     "score": 0.9347
+    },
+    {
+     "id": "https://openalex.org/keywords/network-diameter",
+     "display_name": "network diameter",
+     "score": 0.3404
+    },
+    {
+     "id": "https://openalex.org/keywords/hypercube-networks",
+     "display_name": "hypercube networks",
+     "score": 0.698
+    },
+    {
+     "id": "https://openalex.org/keywords/virtual-channels",
+     "display_name": "virtual channels",
+     "score": 0.5434
+    },
+    {
+     "id": "https://openalex.org/keywords/atm-switch",
+     "display_name": "ATM switch",
+     "score": 0.3598
+    },
+    {
+     "id": "https://openalex.org/keywords/mesh-topology",
+     "display_name": "mesh topology",
+     "score": 0.2416
+    },
+    {
+     "id": "https://openalex.org/keywords/on-chip-communication",
+     "display_name": "on-chip communication",
+     "score": 0.6609
+    },
+    {
+     "id": "https://openalex.org/keywords/crossbar-switch",
+     "display_name": "crossbar switch",
+     "score": 0.5836
+    },
+    {
+     "id": "https://openalex.org/keywords/optical-interconnection-networks",
+     "display_name": "optical interconnection networks",
+     "score": 0.3403
+    },
+    {
+     "id": "https://openalex.org/keywords/optical-network-on-chip",
+     "display_name": "optical network-on-chip",
+     "score": 0.6999
+    },
+    {
+     "id": "https://openalex.org/keywords/switching-architecture",
+     "display_name": "switch architecture",
+     "score": 0.4924
+    },
+    {
+     "id": "https://openalex.org/keywords/switch-fabric",
+     "display_name": "switch fabric",
+     "score": 0.5353
+    },
+    {
+     "id": "https://openalex.org/keywords/interconnect-architecture",
+     "display_name": "interconnect architecture",
+     "score": 0.644
+    },
+    {
+     "id": "https://openalex.org/keywords/multiprocessor-interconnection-networks",
+     "display_name": "multiprocessor interconnection networks",
+     "score": 0.7168
+    },
+    {
+     "id": "https://openalex.org/keywords/interconnection-network-topology",
+     "display_name": "interconnection topology",
+     "score": 0.4617
+    }
+   ]
+  },
+  "T10714": {
+   "name": "Software-Defined Networks and 5G",
+   "subfield": "1705 Computer Networks and Communications",
+   "works": 71455,
+   "desc": "This cluster of papers covers a wide range of topics related to Software-Defined Networking (SDN) and Network Virtualization, including OpenFlow, SDN controllers, Network Function Virtualization, 5G networks, traffic engineering, virtual network embedding, machine learning for networking, and security in SDN.",
+   "kw": [
+    {
+     "id": "https://openalex.org/keywords/software-defined-networking",
+     "display_name": "software-defined networking",
+     "score": 0.6045
+    },
+    {
+     "id": "https://openalex.org/keywords/network-function-virtualization",
+     "display_name": "network function virtualization",
+     "score": 0.7738
+    },
+    {
+     "id": "https://openalex.org/keywords/network-virtualization",
+     "display_name": "network virtualization",
+     "score": 0.6361
+    },
+    {
+     "id": "https://openalex.org/keywords/network-slicing",
+     "display_name": "network slicing",
+     "score": 0.6789
+    },
+    {
+     "id": "https://openalex.org/keywords/openflow",
+     "display_name": "OpenFlow",
+     "score": 0.7181
+    },
+    {
+     "id": "https://openalex.org/keywords/virtual-network-functions",
+     "display_name": "virtual network functions",
+     "score": 0.8348
+    },
+    {
+     "id": "https://openalex.org/keywords/sdn-controller",
+     "display_name": "SDN controller",
+     "score": 0.7141
+    },
+    {
+     "id": "https://openalex.org/keywords/service-function-chaining",
+     "display_name": "service function chaining",
+     "score": 0.8251
+    },
+    {
+     "id": "https://openalex.org/keywords/virtual-network-embedding",
+     "display_name": "virtual network embedding",
+     "score": 0.7934
+    },
+    {
+     "id": "https://openalex.org/keywords/data-center-networks",
+     "display_name": "data center networks",
+     "score": 0.2138
+    },
+    {
+     "id": "https://openalex.org/keywords/network-automation",
+     "display_name": "network automation",
+     "score": 0.4512
+    },
+    {
+     "id": "https://openalex.org/keywords/control-plane",
+     "display_name": "control plane",
+     "score": 0.4368
+    },
+    {
+     "id": "https://openalex.org/keywords/network-orchestration",
+     "display_name": "network orchestration",
+     "score": 0.6196
+    },
+    {
+     "id": "https://openalex.org/keywords/virtual-networks",
+     "display_name": "virtual networks",
+     "score": 0.2905
+    },
+    {
+     "id": "https://openalex.org/keywords/data-plane",
+     "display_name": "data plane",
+     "score": 0.5561
+    },
+    {
+     "id": "https://openalex.org/keywords/future-internet",
+     "display_name": "Future Internet",
+     "score": 0.3307
+    },
+    {
+     "id": "https://openalex.org/keywords/network-programmability",
+     "display_name": "network programmability",
+     "score": 0.7684
+    },
+    {
+     "id": "https://openalex.org/keywords/radio-access-network",
+     "display_name": "radio access network",
+     "score": 0.2111
+    },
+    {
+     "id": "https://openalex.org/keywords/p4",
+     "display_name": "P4",
+     "score": 0.408
+    },
+    {
+     "id": "https://openalex.org/keywords/5g-core-network",
+     "display_name": "5G core network",
+     "score": 0.5831
+    },
+    {
+     "id": "https://openalex.org/keywords/mininet",
+     "display_name": "Mininet",
+     "score": 0.6907
+    },
+    {
+     "id": "https://openalex.org/keywords/segment-routing",
+     "display_name": "segment routing",
+     "score": 0.7803
+    },
+    {
+     "id": "https://openalex.org/keywords/open-ran",
+     "display_name": "Open RAN",
+     "score": 0.5262
+    },
+    {
+     "id": "https://openalex.org/keywords/o-ran",
+     "display_name": "O-RAN",
+     "score": 0.5689
+    },
+    {
+     "id": "https://openalex.org/keywords/virtual-network-function-placement",
+     "display_name": "virtual network function placement",
+     "score": 0.9129
+    }
+   ]
+  },
+  "T10734": {
+   "name": "Information and Cyber Security",
+   "subfield": "1710 Information Systems",
+   "works": 158392,
+   "desc": "This cluster of papers focuses on information security policy compliance, awareness, and behavioral intentions in organizations. It covers topics such as deterrence, attack graphs, risk management, insider threats, game theory, and cybersecurity. The papers explore the influence of rationality-based beliefs, fear appeals, and protection motivation on security behaviors, as well as the role of top management and organizational culture in improving compliance with information security policies.",
+   "kw": [
+    {
+     "id": "https://openalex.org/keywords/information-security",
+     "display_name": "information security",
+     "score": 0.2671
+    },
+    {
+     "id": "https://openalex.org/keywords/cybersecurity",
+     "display_name": "cybersecurity",
+     "score": 0.2034
+    },
+    {
+     "id": "https://openalex.org/keywords/information-security-management",
+     "display_name": "information security management",
+     "score": 0.7185
+    },
+    {
+     "id": "https://openalex.org/keywords/cyber-threats",
+     "display_name": "cyber threats",
+     "score": 0.2403
+    },
+    {
+     "id": "https://openalex.org/keywords/incident-response",
+     "display_name": "incident response",
+     "score": 0.3408
+    },
+    {
+     "id": "https://openalex.org/keywords/cybersecurity-awareness",
+     "display_name": "cybersecurity awareness",
+     "score": 0.5447
+    },
+    {
+     "id": "https://openalex.org/keywords/information-security-management-system",
+     "display_name": "information security management system",
+     "score": 0.7813
+    },
+    {
+     "id": "https://openalex.org/keywords/data-breaches",
+     "display_name": "data breaches",
+     "score": 0.237
+    },
+    {
+     "id": "https://openalex.org/keywords/cybersecurity-education",
+     "display_name": "cybersecurity education",
+     "score": 0.3694
+    },
+    {
+     "id": "https://openalex.org/keywords/insider-threats",
+     "display_name": "insider threats",
+     "score": 0.4356
+    },
+    {
+     "id": "https://openalex.org/keywords/security-awareness",
+     "display_name": "security awareness",
+     "score": 0.5357
+    },
+    {
+     "id": "https://openalex.org/keywords/security-controls",
+     "display_name": "security countermeasures",
+     "score": 0.3774
+    },
+    {
+     "id": "https://openalex.org/keywords/information-systems-security",
+     "display_name": "information systems security",
+     "score": 0.4262
+    },
+    {
+     "id": "https://openalex.org/keywords/iso-iec-27001",
+     "display_name": "ISO/IEC 27001",
+     "score": 0.6225
+    },
+    {
+     "id": "https://openalex.org/keywords/information-security-policy",
+     "display_name": "information security policy",
+     "score": 0.6431
+    },
+    {
+     "id": "https://openalex.org/keywords/cybersecurity-risk-management",
+     "display_name": "cyber risk management",
+     "score": 0.6765
+    },
+    {
+     "id": "https://openalex.org/keywords/cyber-resilience",
+     "display_name": "cyber resilience",
+     "score": 0.366
+    },
+    {
+     "id": "https://openalex.org/keywords/ransomware",
+     "display_name": "ransomware",
+     "score": 0.264
+    },
+    {
+     "id": "https://openalex.org/keywords/cybersecurity-risks",
+     "display_name": "cybersecurity risks",
+     "score": 0.2203
+    },
+    {
+     "id": "https://openalex.org/keywords/security-management",
+     "display_name": "security management",
+     "score": 0.2619
+    },
+    {
+     "id": "https://openalex.org/keywords/organizational-security",
+     "display_name": "organizational security",
+     "score": 0.5707
+    },
+    {
+     "id": "https://openalex.org/keywords/physical-security",
+     "display_name": "physical security",
+     "score": 0.2498
+    },
+    {
+     "id": "https://openalex.org/keywords/information-security-awareness",
+     "display_name": "information security awareness",
+     "score": 0.6742
+    },
+    {
+     "id": "https://openalex.org/keywords/cybersecurity-training",
+     "display_name": "cybersecurity training",
+     "score": 0.5864
+    },
+    {
+     "id": "https://openalex.org/keywords/security-awareness-training",
+     "display_name": "security awareness training",
+     "score": 0.658
+    }
+   ]
+  },
+  "T13983": {
+   "name": "Cybersecurity and Information Systems",
+   "subfield": "1705 Computer Networks and Communications",
+   "works": 34080,
+   "desc": "This cluster of papers focuses on network security and communication technologies, including IoT networks, telecommunication networks, machine learning, SDN/NFV, cloud services, UAV path planning, big data centers, and information risks.",
+   "kw": [
+    {
+     "id": "https://openalex.org/keywords/virtual-private-networks",
+     "display_name": "virtual private networks",
+     "score": 0.3508
+    },
+    {
+     "id": "https://openalex.org/keywords/ipsec",
+     "display_name": "IPsec",
+     "score": 0.2468
+    },
+    {
+     "id": "https://openalex.org/keywords/network-security-threats",
+     "display_name": "network security threats",
+     "score": 0.2039
+    },
+    {
+     "id": "https://openalex.org/keywords/telecommunications-security",
+     "display_name": "telecommunications security",
+     "score": 0.2483
+    },
+    {
+     "id": "https://openalex.org/keywords/campus-network-security",
+     "display_name": "campus network security",
+     "score": 0.2622
+    },
+    {
+     "id": "https://openalex.org/keywords/openvpn",
+     "display_name": "OpenVPN",
+     "score": 0.5247
+    },
+    {
+     "id": "https://openalex.org/keywords/network-information-security",
+     "display_name": "network information security",
+     "score": 0.243
+    },
+    {
+     "id": "https://openalex.org/keywords/network-security-management",
+     "display_name": "network security management",
+     "score": 0.2112
+    },
+    {
+     "id": "https://openalex.org/keywords/ssl-vpn",
+     "display_name": "SSL VPN",
+     "score": 0.6342
+    },
+    {
+     "id": "https://openalex.org/keywords/corporate-network-security",
+     "display_name": "corporate network security",
+     "score": 0.2398
+    },
+    {
+     "id": "https://openalex.org/keywords/network-security-architecture",
+     "display_name": "network security architecture",
+     "score": 0.201
+    },
+    {
+     "id": "https://openalex.org/keywords/l2tp",
+     "display_name": "L2TP",
+     "score": 0.5244
+    },
+    {
+     "id": "https://openalex.org/keywords/vpn-security",
+     "display_name": "VPN security",
+     "score": 0.5399
+    },
+    {
+     "id": "https://openalex.org/keywords/remote-access-security",
+     "display_name": "remote access security",
+     "score": 0.242
+    },
+    {
+     "id": "https://openalex.org/keywords/secure-remote-access",
+     "display_name": "secure remote access",
+     "score": 0.4246
+    },
+    {
+     "id": "https://openalex.org/keywords/pptp",
+     "display_name": "PPTP",
+     "score": 0.6434
+    },
+    {
+     "id": "https://openalex.org/keywords/site-to-site-vpn",
+     "display_name": "site-to-site VPN",
+     "score": 0.742
+    },
+    {
+     "id": "https://openalex.org/keywords/local-area-network-security",
+     "display_name": "local area network security",
+     "score": 0.2178
+    },
+    {
+     "id": "https://openalex.org/keywords/tunneling-protocols",
+     "display_name": "tunneling protocols",
+     "score": 0.4074
+    },
+    {
+     "id": "https://openalex.org/keywords/mpls-vpn",
+     "display_name": "MPLS VPN",
+     "score": 0.2143
+    },
+    {
+     "id": "https://openalex.org/keywords/wireguard",
+     "display_name": "WireGuard",
+     "score": 0.3671
+    },
+    {
+     "id": "https://openalex.org/keywords/ipsec-vpn",
+     "display_name": "IPsec VPN",
+     "score": 0.4951
+    },
+    {
+     "id": "https://openalex.org/keywords/vpn-implementation",
+     "display_name": "VPN implementation",
+     "score": 0.8283
+    },
+    {
+     "id": "https://openalex.org/keywords/network-security-technology",
+     "display_name": "network security technology",
+     "score": 0.5471
+    },
+    {
+     "id": "https://openalex.org/keywords/information-protection-systems",
+     "display_name": "information protection systems",
+     "score": 0.2882
+    }
+   ]
+  },
+  "T11424": {
+   "name": "Security and Verification in Computing",
+   "subfield": "1708 Hardware and Architecture",
+   "works": 59140,
+   "desc": "This cluster of papers focuses on language-based information flow security, addressing topics such as enforceable security policies, control-flow integrity, side-channel attacks, dynamic taint analysis, and trusted execution environments. It also explores techniques for memory protection, virtualization, software diversity, and hardware security.",
+   "kw": [
+    {
+     "id": "https://openalex.org/keywords/hardware-security",
+     "display_name": "hardware security",
+     "score": 0.2046
+    },
+    {
+     "id": "https://openalex.org/keywords/trusted-execution-environment",
+     "display_name": "trusted execution environments",
+     "score": 0.5873
+    },
+    {
+     "id": "https://openalex.org/keywords/trusted-computing",
+     "display_name": "trusted computing",
+     "score": 0.5864
+    },
+    {
+     "id": "https://openalex.org/keywords/operating-system-security",
+     "display_name": "operating system security",
+     "score": 0.5633
+    },
+    {
+     "id": "https://openalex.org/keywords/hypervisor",
+     "display_name": "hypervisor",
+     "score": 0.3098
+    },
+    {
+     "id": "https://openalex.org/keywords/code-obfuscation",
+     "display_name": "code obfuscation",
+     "score": 0.3832
+    },
+    {
+     "id": "https://openalex.org/keywords/intel-sgx",
+     "display_name": "Intel SGX",
+     "score": 0.677
+    },
+    {
+     "id": "https://openalex.org/keywords/trusted-platform-module",
+     "display_name": "Trusted Platform Module",
+     "score": 0.5692
+    },
+    {
+     "id": "https://openalex.org/keywords/embedded-systems-security",
+     "display_name": "embedded systems security",
+     "score": 0.3332
+    },
+    {
+     "id": "https://openalex.org/keywords/performance-overhead",
+     "display_name": "performance overhead",
+     "score": 0.3146
+    },
+    {
+     "id": "https://openalex.org/keywords/remote-attestation",
+     "display_name": "remote attestation",
+     "score": 0.7059
+    },
+    {
+     "id": "https://openalex.org/keywords/sandboxing",
+     "display_name": "sandboxing",
+     "score": 0.4128
+    },
+    {
+     "id": "https://openalex.org/keywords/software-protection",
+     "display_name": "software protection",
+     "score": 0.3024
+    },
+    {
+     "id": "https://openalex.org/keywords/binary-code-analysis",
+     "display_name": "binary analysis",
+     "score": 0.3612
+    },
+    {
+     "id": "https://openalex.org/keywords/secure-boot",
+     "display_name": "secure boot",
+     "score": 0.6502
+    },
+    {
+     "id": "https://openalex.org/keywords/virtualization-security",
+     "display_name": "virtualization security",
+     "score": 0.5295
+    },
+    {
+     "id": "https://openalex.org/keywords/control-flow-integrity",
+     "display_name": "control-flow integrity",
+     "score": 0.9165
+    },
+    {
+     "id": "https://openalex.org/keywords/buffer-overflow",
+     "display_name": "buffer overflow",
+     "score": 0.2143
+    },
+    {
+     "id": "https://openalex.org/keywords/privilege-escalation",
+     "display_name": "privilege escalation",
+     "score": 0.3615
+    },
+    {
+     "id": "https://openalex.org/keywords/android-security",
+     "display_name": "Android security",
+     "score": 0.3486
+    },
+    {
+     "id": "https://openalex.org/keywords/trusted-computing-base",
+     "display_name": "trusted computing base",
+     "score": 0.6989
+    },
+    {
+     "id": "https://openalex.org/keywords/covert-channels",
+     "display_name": "covert channels",
+     "score": 0.2569
+    },
+    {
+     "id": "https://openalex.org/keywords/container-security",
+     "display_name": "container security",
+     "score": 0.33
+    },
+    {
+     "id": "https://openalex.org/keywords/memory-safety",
+     "display_name": "memory safety",
+     "score": 0.2502
+    },
+    {
+     "id": "https://openalex.org/keywords/return-oriented-programming",
+     "display_name": "return-oriented programming",
+     "score": 0.9405
+    }
+   ]
+  },
+  "T10054": {
+   "name": "Parallel Computing and Optimization Techniques",
+   "subfield": "1708 Hardware and Architecture",
+   "works": 270179,
+   "desc": "This cluster of papers focuses on parallel computing, performance optimization, and various aspects of multicore and heterogeneous computing. It covers topics such as GPU computing, memory systems, benchmarking, power management, simulation platforms, and high-performance computing.",
+   "kw": [
+    {
+     "id": "https://openalex.org/keywords/parallel-computing",
+     "display_name": "parallel computing",
+     "score": 0.2482
+    },
+    {
+     "id": "https://openalex.org/keywords/multi-core-processors",
+     "display_name": "multi-core processors",
+     "score": 0.4887
+    },
+    {
+     "id": "https://openalex.org/keywords/high-performance-computing",
+     "display_name": "high-performance computing",
+     "score": 0.266
+    },
+    {
+     "id": "https://openalex.org/keywords/parallel-algorithms",
+     "display_name": "parallel algorithms",
+     "score": 0.2539
+    },
+    {
+     "id": "https://openalex.org/keywords/parallel-programming",
+     "display_name": "parallel programming",
+     "score": 0.6413
+    },
+    {
+     "id": "https://openalex.org/keywords/gpu-computing",
+     "display_name": "GPU computing",
+     "score": 0.4105
+    },
+    {
+     "id": "https://openalex.org/keywords/gpu-acceleration",
+     "display_name": "GPU acceleration",
+     "score": 0.2614
+    },
+    {
+     "id": "https://openalex.org/keywords/cuda",
+     "display_name": "CUDA",
+     "score": 0.447
+    },
+    {
+     "id": "https://openalex.org/keywords/openmp",
+     "display_name": "OpenMP",
+     "score": 0.6289
+    },
+    {
+     "id": "https://openalex.org/keywords/compiler-optimization",
+     "display_name": "compiler optimization",
+     "score": 0.4891
+    },
+    {
+     "id": "https://openalex.org/keywords/mpi",
+     "display_name": "MPI",
+     "score": 0.4641
+    },
+    {
+     "id": "https://openalex.org/keywords/processor-architecture",
+     "display_name": "processor architecture",
+     "score": 0.4569
+    },
+    {
+     "id": "https://openalex.org/keywords/computer-architecture",
+     "display_name": "computer architecture",
+     "score": 0.2832
+    },
+    {
+     "id": "https://openalex.org/keywords/speedup",
+     "display_name": "speedup",
+     "score": 0.3048
+    },
+    {
+     "id": "https://openalex.org/keywords/multiprocessor-systems",
+     "display_name": "multiprocessor systems",
+     "score": 0.3551
+    },
+    {
+     "id": "https://openalex.org/keywords/heterogeneous-computing",
+     "display_name": "heterogeneous computing",
+     "score": 0.4907
+    },
+    {
+     "id": "https://openalex.org/keywords/memory-hierarchy",
+     "display_name": "memory hierarchy",
+     "score": 0.6013
+    },
+    {
+     "id": "https://openalex.org/keywords/message-passing",
+     "display_name": "message passing",
+     "score": 0.209
+    },
+    {
+     "id": "https://openalex.org/keywords/parallelization",
+     "display_name": "parallelization",
+     "score": 0.3018
+    },
+    {
+     "id": "https://openalex.org/keywords/shared-memory-multiprocessors",
+     "display_name": "shared-memory multiprocessors",
+     "score": 0.5945
+    },
+    {
+     "id": "https://openalex.org/keywords/multithreading",
+     "display_name": "multithreading",
+     "score": 0.2982
+    },
+    {
+     "id": "https://openalex.org/keywords/instruction-level-parallelism",
+     "display_name": "instruction-level parallelism",
+     "score": 0.7718
+    },
+    {
+     "id": "https://openalex.org/keywords/supercomputers",
+     "display_name": "supercomputers",
+     "score": 0.3487
+    },
+    {
+     "id": "https://openalex.org/keywords/parallel-programming-languages",
+     "display_name": "parallel programming languages",
+     "score": 0.6899
+    },
+    {
+     "id": "https://openalex.org/keywords/memory-bandwidth",
+     "display_name": "memory bandwidth",
+     "score": 0.5624
+    }
+   ]
+  },
+  "T11498": {
+   "name": "Security in Wireless Sensor Networks",
+   "subfield": "1705 Computer Networks and Communications",
+   "works": 27819,
+   "desc": "This cluster of papers focuses on security measures and challenges in wireless sensor networks, including key management, secure routing, detection of attacks like jamming and denial of service, data aggregation, elliptic curve cryptography, group communication, trust management, and intrusion detection.",
+   "kw": [
+    {
+     "id": "https://openalex.org/keywords/malicious-node-detection",
+     "display_name": "malicious node detection",
+     "score": 0.3202
+    },
+    {
+     "id": "https://openalex.org/keywords/secure-routing",
+     "display_name": "secure routing",
+     "score": 0.2921
+    },
+    {
+     "id": "https://openalex.org/keywords/key-pre-distribution",
+     "display_name": "key pre-distribution",
+     "score": 0.8527
+    },
+    {
+     "id": "https://openalex.org/keywords/blackhole-attack",
+     "display_name": "black hole attack",
+     "score": 0.2687
+    },
+    {
+     "id": "https://openalex.org/keywords/wormhole-attack",
+     "display_name": "wormhole attack",
+     "score": 0.4517
+    },
+    {
+     "id": "https://openalex.org/keywords/routing-attacks",
+     "display_name": "routing attacks",
+     "score": 0.3318
+    },
+    {
+     "id": "https://openalex.org/keywords/sybil-attack",
+     "display_name": "Sybil attack",
+     "score": 0.2055
+    },
+    {
+     "id": "https://openalex.org/keywords/trust-based-routing",
+     "display_name": "trust-based routing",
+     "score": 0.3356
+    },
+    {
+     "id": "https://openalex.org/keywords/resource-constrained-sensor-nodes",
+     "display_name": "resource-constrained sensor nodes",
+     "score": 0.4031
+    },
+    {
+     "id": "https://openalex.org/keywords/sensor-network-security",
+     "display_name": "sensor network security",
+     "score": 0.6767
+    },
+    {
+     "id": "https://openalex.org/keywords/rpl-protocol",
+     "display_name": "RPL routing protocol",
+     "score": 0.3168
+    },
+    {
+     "id": "https://openalex.org/keywords/group-key-management",
+     "display_name": "group key management",
+     "score": 0.3234
+    },
+    {
+     "id": "https://openalex.org/keywords/sinkhole-attack",
+     "display_name": "sinkhole attack",
+     "score": 0.779
+    },
+    {
+     "id": "https://openalex.org/keywords/selective-forwarding-attack",
+     "display_name": "selective forwarding attack",
+     "score": 0.7405
+    },
+    {
+     "id": "https://openalex.org/keywords/low-power-and-lossy-networks",
+     "display_name": "low-power and lossy networks",
+     "score": 0.2547
+    },
+    {
+     "id": "https://openalex.org/keywords/jamming-attacks",
+     "display_name": "jamming attacks",
+     "score": 0.201
+    },
+    {
+     "id": "https://openalex.org/keywords/sensor-node-security",
+     "display_name": "sensor node security",
+     "score": 0.7384
+    },
+    {
+     "id": "https://openalex.org/keywords/secure-routing-protocols",
+     "display_name": "secure routing protocols",
+     "score": 0.3256
+    },
+    {
+     "id": "https://openalex.org/keywords/compromised-nodes",
+     "display_name": "compromised nodes",
+     "score": 0.6275
+    },
+    {
+     "id": "https://openalex.org/keywords/multicast-security",
+     "display_name": "multicast security",
+     "score": 0.2564
+    },
+    {
+     "id": "https://openalex.org/keywords/node-authentication",
+     "display_name": "node authentication",
+     "score": 0.3616
+    },
+    {
+     "id": "https://openalex.org/keywords/resource-constrained-nodes",
+     "display_name": "resource-constrained nodes",
+     "score": 0.3119
+    },
+    {
+     "id": "https://openalex.org/keywords/node-capture-attacks",
+     "display_name": "node capture attacks",
+     "score": 0.8583
+    },
+    {
+     "id": "https://openalex.org/keywords/key-establishment",
+     "display_name": "key establishment",
+     "score": 0.294
+    },
+    {
+     "id": "https://openalex.org/keywords/pairwise-key-establishment",
+     "display_name": "pairwise key establishment",
+     "score": 0.8608
+    }
+   ]
+  },
+  "T10080": {
+   "name": "Energy Efficient Wireless Sensor Networks",
+   "subfield": "1705 Computer Networks and Communications",
+   "works": 114555,
+   "desc": "This cluster of papers focuses on the survey, energy-efficient protocols, routing techniques, clustering algorithms, data aggregation, coverage and connectivity, mobile sensor deployment, MAC protocols, environmental monitoring, and healthcare applications in wireless sensor networks.",
+   "kw": [
+    {
+     "id": "https://openalex.org/keywords/wireless-sensor-networks",
+     "display_name": "wireless sensor networks",
+     "score": 0.4083
+    },
+    {
+     "id": "https://openalex.org/keywords/network-lifetime",
+     "display_name": "network lifetime",
+     "score": 0.7349
+    },
+    {
+     "id": "https://openalex.org/keywords/cluster-head-selection",
+     "display_name": "cluster head selection",
+     "score": 0.7144
+    },
+    {
+     "id": "https://openalex.org/keywords/energy-efficient-routing",
+     "display_name": "energy-efficient routing",
+     "score": 0.5337
+    },
+    {
+     "id": "https://openalex.org/keywords/routing-protocols",
+     "display_name": "routing protocols",
+     "score": 0.247
+    },
+    {
+     "id": "https://openalex.org/keywords/data-aggregation",
+     "display_name": "data aggregation",
+     "score": 0.2706
+    },
+    {
+     "id": "https://openalex.org/keywords/residual-energy",
+     "display_name": "residual energy",
+     "score": 0.6218
+    },
+    {
+     "id": "https://openalex.org/keywords/packet-delivery-ratio",
+     "display_name": "packet delivery ratio",
+     "score": 0.2038
+    },
+    {
+     "id": "https://openalex.org/keywords/ieee-802-15-4",
+     "display_name": "IEEE 802.15.4",
+     "score": 0.3597
+    },
+    {
+     "id": "https://openalex.org/keywords/cluster-based-routing",
+     "display_name": "cluster-based routing",
+     "score": 0.6405
+    },
+    {
+     "id": "https://openalex.org/keywords/leach",
+     "display_name": "LEACH",
+     "score": 0.8941
+    },
+    {
+     "id": "https://openalex.org/keywords/sensor-node-deployment",
+     "display_name": "sensor deployment",
+     "score": 0.5073
+    },
+    {
+     "id": "https://openalex.org/keywords/leach-protocol",
+     "display_name": "LEACH protocol",
+     "score": 0.8653
+    },
+    {
+     "id": "https://openalex.org/keywords/mobile-sink",
+     "display_name": "mobile sink",
+     "score": 0.8518
+    },
+    {
+     "id": "https://openalex.org/keywords/mobile-sensor-networks",
+     "display_name": "mobile sensor networks",
+     "score": 0.4479
+    },
+    {
+     "id": "https://openalex.org/keywords/multihop-routing",
+     "display_name": "multi-hop routing",
+     "score": 0.4083
+    },
+    {
+     "id": "https://openalex.org/keywords/sleep-scheduling",
+     "display_name": "sleep scheduling",
+     "score": 0.6887
+    },
+    {
+     "id": "https://openalex.org/keywords/cluster-head",
+     "display_name": "cluster head",
+     "score": 0.4587
+    },
+    {
+     "id": "https://openalex.org/keywords/sensor-nodes",
+     "display_name": "sensor nodes",
+     "score": 0.258
+    },
+    {
+     "id": "https://openalex.org/keywords/energy-balancing",
+     "display_name": "energy balancing",
+     "score": 0.5888
+    },
+    {
+     "id": "https://openalex.org/keywords/multi-hop-communication",
+     "display_name": "multi-hop communication",
+     "score": 0.3131
+    },
+    {
+     "id": "https://openalex.org/keywords/energy-demand-balancing",
+     "display_name": "energy consumption balancing",
+     "score": 0.7633
+    },
+    {
+     "id": "https://openalex.org/keywords/duty-cycling",
+     "display_name": "duty cycling",
+     "score": 0.5564
+    },
+    {
+     "id": "https://openalex.org/keywords/clustering-protocols",
+     "display_name": "clustering protocols",
+     "score": 0.8096
+    },
+    {
+     "id": "https://openalex.org/keywords/topology-control",
+     "display_name": "topology control",
+     "score": 0.3479
+    }
+   ]
+  },
+  "T10246": {
+   "name": "Mobile Ad Hoc Networks",
+   "subfield": "1705 Computer Networks and Communications",
+   "works": 85964,
+   "desc": "This cluster of papers focuses on research related to ad hoc wireless networks, including topics such as routing protocols, mobile ad hoc networks, security, multi-hop wireless routing, and mobility models. It covers various aspects of network capacity, performance analysis, and optimization techniques for ad hoc wireless communication. Additionally, it explores challenges and solutions in areas like interference management, topology control, and channel assignment in wireless mesh networks.",
+   "kw": [
+    {
+     "id": "https://openalex.org/keywords/mobile-ad-hoc-networks",
+     "display_name": "mobile ad hoc networks",
+     "score": 0.7451
+    },
+    {
+     "id": "https://openalex.org/keywords/ad-hoc-networks",
+     "display_name": "ad hoc networks",
+     "score": 0.4183
+    },
+    {
+     "id": "https://openalex.org/keywords/routing-protocols",
+     "display_name": "routing protocols",
+     "score": 0.3533
+    },
+    {
+     "id": "https://openalex.org/keywords/aodv",
+     "display_name": "AODV",
+     "score": 0.7538
+    },
+    {
+     "id": "https://openalex.org/keywords/wireless-mesh-networks",
+     "display_name": "wireless mesh networks",
+     "score": 0.5571
+    },
+    {
+     "id": "https://openalex.org/keywords/packet-delivery-ratio",
+     "display_name": "packet delivery ratio",
+     "score": 0.3651
+    },
+    {
+     "id": "https://openalex.org/keywords/end-to-end-delay",
+     "display_name": "end-to-end delay",
+     "score": 0.2437
+    },
+    {
+     "id": "https://openalex.org/keywords/wireless-ad-hoc-networks",
+     "display_name": "wireless ad hoc networks",
+     "score": 0.5191
+    },
+    {
+     "id": "https://openalex.org/keywords/node-mobility",
+     "display_name": "node mobility",
+     "score": 0.5401
+    },
+    {
+     "id": "https://openalex.org/keywords/secure-routing",
+     "display_name": "secure routing",
+     "score": 0.4451
+    },
+    {
+     "id": "https://openalex.org/keywords/routing-overhead",
+     "display_name": "routing overhead",
+     "score": 0.592
+    },
+    {
+     "id": "https://openalex.org/keywords/energy-efficient-routing",
+     "display_name": "energy-efficient routing",
+     "score": 0.2186
+    },
+    {
+     "id": "https://openalex.org/keywords/on-demand-routing",
+     "display_name": "on-demand routing",
+     "score": 0.7572
+    },
+    {
+     "id": "https://openalex.org/keywords/multipath-routing",
+     "display_name": "multipath routing",
+     "score": 0.342
+    },
+    {
+     "id": "https://openalex.org/keywords/olsr",
+     "display_name": "OLSR",
+     "score": 0.7709
+    },
+    {
+     "id": "https://openalex.org/keywords/multi-hop-wireless-networks",
+     "display_name": "multi-hop wireless networks",
+     "score": 0.3024
+    },
+    {
+     "id": "https://openalex.org/keywords/dynamic-topology",
+     "display_name": "dynamic topology",
+     "score": 0.2995
+    },
+    {
+     "id": "https://openalex.org/keywords/route-discovery",
+     "display_name": "route discovery",
+     "score": 0.7322
+    },
+    {
+     "id": "https://openalex.org/keywords/malicious-node-detection",
+     "display_name": "malicious node detection",
+     "score": 0.3103
+    },
+    {
+     "id": "https://openalex.org/keywords/dsr",
+     "display_name": "DSR",
+     "score": 0.398
+    },
+    {
+     "id": "https://openalex.org/keywords/manet-security",
+     "display_name": "MANET security",
+     "score": 0.9164
+    },
+    {
+     "id": "https://openalex.org/keywords/proactive-routing-protocols",
+     "display_name": "proactive routing",
+     "score": 0.7503
+    },
+    {
+     "id": "https://openalex.org/keywords/blackhole-attack",
+     "display_name": "black hole attack",
+     "score": 0.5509
+    },
+    {
+     "id": "https://openalex.org/keywords/multicast-routing",
+     "display_name": "multicast routing",
+     "score": 0.2849
+    },
+    {
+     "id": "https://openalex.org/keywords/geographic-routing",
+     "display_name": "geographic routing",
+     "score": 0.3701
+    }
+   ]
+  },
+  "T10575": {
+   "name": "Wireless Communication Networks Research",
+   "subfield": "1705 Computer Networks and Communications",
+   "works": 81140,
+   "desc": "This cluster of papers focuses on efficient power control, resource allocation, and interference suppression techniques in wireless networks, particularly CDMA systems. It also addresses topics such as multiuser detection, QoS provisioning, and call admission control for mobile communications. The research emphasizes the optimization of wireless network performance through intelligent power management and allocation.",
+   "kw": [
+    {
+     "id": "https://openalex.org/keywords/cdma",
+     "display_name": "CDMA",
+     "score": 0.5303
+    },
+    {
+     "id": "https://openalex.org/keywords/ds-cdma",
+     "display_name": "DS-CDMA",
+     "score": 0.7412
+    },
+    {
+     "id": "https://openalex.org/keywords/multiple-access-interference",
+     "display_name": "multiple access interference",
+     "score": 0.4731
+    },
+    {
+     "id": "https://openalex.org/keywords/wcdma",
+     "display_name": "WCDMA",
+     "score": 0.4557
+    },
+    {
+     "id": "https://openalex.org/keywords/multiuser-detection",
+     "display_name": "multiuser detection",
+     "score": 0.5131
+    },
+    {
+     "id": "https://openalex.org/keywords/direct-sequence-spread-spectrum",
+     "display_name": "direct-sequence spread spectrum",
+     "score": 0.4805
+    },
+    {
+     "id": "https://openalex.org/keywords/umts",
+     "display_name": "UMTS",
+     "score": 0.2796
+    },
+    {
+     "id": "https://openalex.org/keywords/channel-allocation",
+     "display_name": "channel assignment",
+     "score": 0.2171
+    },
+    {
+     "id": "https://openalex.org/keywords/3g-networks",
+     "display_name": "3G",
+     "score": 0.2328
+    },
+    {
+     "id": "https://openalex.org/keywords/call-admission-control",
+     "display_name": "call admission control",
+     "score": 0.3947
+    },
+    {
+     "id": "https://openalex.org/keywords/cellular-systems",
+     "display_name": "cellular systems",
+     "score": 0.3977
+    },
+    {
+     "id": "https://openalex.org/keywords/system-capacity",
+     "display_name": "system capacity",
+     "score": 0.288
+    },
+    {
+     "id": "https://openalex.org/keywords/spread-spectrum",
+     "display_name": "spread spectrum",
+     "score": 0.2383
+    },
+    {
+     "id": "https://openalex.org/keywords/uplink",
+     "display_name": "uplink",
+     "score": 0.2517
+    },
+    {
+     "id": "https://openalex.org/keywords/rake-receiver",
+     "display_name": "RAKE receiver",
+     "score": 0.4618
+    },
+    {
+     "id": "https://openalex.org/keywords/radio-resource-management",
+     "display_name": "radio resource management",
+     "score": 0.2333
+    },
+    {
+     "id": "https://openalex.org/keywords/dynamic-channel-assignment",
+     "display_name": "dynamic channel allocation",
+     "score": 0.5469
+    },
+    {
+     "id": "https://openalex.org/keywords/signal-to-interference-ratio",
+     "display_name": "signal-to-interference ratio",
+     "score": 0.2569
+    },
+    {
+     "id": "https://openalex.org/keywords/td-scdma",
+     "display_name": "TD-SCDMA",
+     "score": 0.4628
+    },
+    {
+     "id": "https://openalex.org/keywords/multiple-access",
+     "display_name": "multiple access",
+     "score": 0.2297
+    },
+    {
+     "id": "https://openalex.org/keywords/frequency-hopping",
+     "display_name": "frequency hopping",
+     "score": 0.2093
+    },
+    {
+     "id": "https://openalex.org/keywords/call-blocking-probability",
+     "display_name": "call blocking probability",
+     "score": 0.5173
+    },
+    {
+     "id": "https://openalex.org/keywords/soft-handover",
+     "display_name": "soft handoff",
+     "score": 0.648
+    },
+    {
+     "id": "https://openalex.org/keywords/asynchronous-cdma",
+     "display_name": "asynchronous CDMA",
+     "score": 0.7726
+    },
+    {
+     "id": "https://openalex.org/keywords/mobile-radio",
+     "display_name": "mobile radio",
+     "score": 0.2956
+    }
+   ]
+  },
+  "T11158": {
+   "name": "Wireless Networks and Protocols",
+   "subfield": "1705 Computer Networks and Communications",
+   "works": 65304,
+   "desc": "This cluster of papers focuses on the performance analysis, optimization, and enhancement of medium access control (MAC) protocols for wireless LANs, particularly the IEEE 802.11 standard. It covers topics such as rate adaptation, quality of service (QoS) support, multi-hop network behavior, interference mitigation, and coexistence with other wireless systems.",
+   "kw": [
+    {
+     "id": "https://openalex.org/keywords/wireless-lan",
+     "display_name": "wireless LAN",
+     "score": 0.363
+    },
+    {
+     "id": "https://openalex.org/keywords/medium-access-control",
+     "display_name": "medium access control",
+     "score": 0.3654
+    },
+    {
+     "id": "https://openalex.org/keywords/ieee-802-11",
+     "display_name": "IEEE 802.11",
+     "score": 0.5669
+    },
+    {
+     "id": "https://openalex.org/keywords/wireless-local-area-networks",
+     "display_name": "wireless local area networks",
+     "score": 0.4747
+    },
+    {
+     "id": "https://openalex.org/keywords/ieee-802-11e",
+     "display_name": "IEEE 802.11e",
+     "score": 0.8436
+    },
+    {
+     "id": "https://openalex.org/keywords/csma-ca",
+     "display_name": "CSMA/CA",
+     "score": 0.4809
+    },
+    {
+     "id": "https://openalex.org/keywords/ieee-802-11n",
+     "display_name": "IEEE 802.11n",
+     "score": 0.4924
+    },
+    {
+     "id": "https://openalex.org/keywords/distributed-coordination-function",
+     "display_name": "distributed coordination function",
+     "score": 0.8947
+    },
+    {
+     "id": "https://openalex.org/keywords/ieee-802-11b",
+     "display_name": "IEEE 802.11b",
+     "score": 0.4697
+    },
+    {
+     "id": "https://openalex.org/keywords/access-points",
+     "display_name": "access points",
+     "score": 0.3362
+    },
+    {
+     "id": "https://openalex.org/keywords/hidden-terminal-problem",
+     "display_name": "hidden terminal problem",
+     "score": 0.4637
+    },
+    {
+     "id": "https://openalex.org/keywords/mac-layer",
+     "display_name": "MAC layer",
+     "score": 0.2739
+    },
+    {
+     "id": "https://openalex.org/keywords/throughput-analysis",
+     "display_name": "throughput analysis",
+     "score": 0.2444
+    },
+    {
+     "id": "https://openalex.org/keywords/wlan-security",
+     "display_name": "wireless LAN security",
+     "score": 0.342
+    },
+    {
+     "id": "https://openalex.org/keywords/ieee-802-11ac",
+     "display_name": "IEEE 802.11ac",
+     "score": 0.5449
+    },
+    {
+     "id": "https://openalex.org/keywords/channel-utilization",
+     "display_name": "channel utilization",
+     "score": 0.2551
+    },
+    {
+     "id": "https://openalex.org/keywords/contention-window",
+     "display_name": "contention window",
+     "score": 0.6782
+    },
+    {
+     "id": "https://openalex.org/keywords/rts-cts",
+     "display_name": "RTS/CTS",
+     "score": 0.6807
+    },
+    {
+     "id": "https://openalex.org/keywords/ieee-802-11g",
+     "display_name": "IEEE 802.11g",
+     "score": 0.5108
+    },
+    {
+     "id": "https://openalex.org/keywords/csma",
+     "display_name": "CSMA",
+     "score": 0.4055
+    },
+    {
+     "id": "https://openalex.org/keywords/unlicensed-spectrum",
+     "display_name": "unlicensed spectrum",
+     "score": 0.287
+    },
+    {
+     "id": "https://openalex.org/keywords/ieee-802-11ax",
+     "display_name": "IEEE 802.11ax",
+     "score": 0.6756
+    },
+    {
+     "id": "https://openalex.org/keywords/wireless-network-planning",
+     "display_name": "wireless network design",
+     "score": 0.3132
+    },
+    {
+     "id": "https://openalex.org/keywords/slotted-aloha",
+     "display_name": "slotted ALOHA",
+     "score": 0.3218
+    },
+    {
+     "id": "https://openalex.org/keywords/edca",
+     "display_name": "EDCA",
+     "score": 0.8749
+    }
+   ]
+  },
+  "T10579": {
+   "name": "Cognitive Radio Networks and Spectrum Sensing",
+   "subfield": "1705 Computer Networks and Communications",
+   "works": 54728,
+   "desc": "This cluster of papers focuses on cognitive radio networks, spectrum sensing, dynamic spectrum access, cooperative sensing, and opportunistic spectrum access. It covers topics such as spectrum sharing, MAC protocols, security threats, and game theory in the context of cognitive radio and wireless networks.",
+   "kw": [
+    {
+     "id": "https://openalex.org/keywords/cognitive-radio",
+     "display_name": "cognitive radio",
+     "score": 0.7435
+    },
+    {
+     "id": "https://openalex.org/keywords/spectrum-sharing",
+     "display_name": "spectrum sharing",
+     "score": 0.5715
+    },
+    {
+     "id": "https://openalex.org/keywords/spectrum-sensing",
+     "display_name": "spectrum sensing",
+     "score": 0.8714
+    },
+    {
+     "id": "https://openalex.org/keywords/cognitive-radio-networks",
+     "display_name": "cognitive radio networks",
+     "score": 0.8632
+    },
+    {
+     "id": "https://openalex.org/keywords/secondary-users",
+     "display_name": "secondary users",
+     "score": 0.8918
+    },
+    {
+     "id": "https://openalex.org/keywords/dynamic-spectrum-access",
+     "display_name": "dynamic spectrum access",
+     "score": 0.8748
+    },
+    {
+     "id": "https://openalex.org/keywords/cooperative-spectrum-sensing",
+     "display_name": "cooperative spectrum sensing",
+     "score": 0.8641
+    },
+    {
+     "id": "https://openalex.org/keywords/primary-users",
+     "display_name": "primary users",
+     "score": 0.8727
+    },
+    {
+     "id": "https://openalex.org/keywords/energy-detection",
+     "display_name": "energy detection",
+     "score": 0.7269
+    },
+    {
+     "id": "https://openalex.org/keywords/opportunistic-spectrum-access",
+     "display_name": "opportunistic spectrum access",
+     "score": 0.9098
+    },
+    {
+     "id": "https://openalex.org/keywords/primary-user-detection",
+     "display_name": "primary user detection",
+     "score": 0.9772
+    },
+    {
+     "id": "https://openalex.org/keywords/spectrum-utilization",
+     "display_name": "spectrum utilization",
+     "score": 0.5213
+    },
+    {
+     "id": "https://openalex.org/keywords/spectrum-management",
+     "display_name": "spectrum management",
+     "score": 0.2798
+    },
+    {
+     "id": "https://openalex.org/keywords/spectrum-allocation",
+     "display_name": "spectrum allocation",
+     "score": 0.2086
+    },
+    {
+     "id": "https://openalex.org/keywords/spectrum-scarcity",
+     "display_name": "spectrum scarcity",
+     "score": 0.605
+    },
+    {
+     "id": "https://openalex.org/keywords/probability-of-false-alarm",
+     "display_name": "false alarm probability",
+     "score": 0.2791
+    },
+    {
+     "id": "https://openalex.org/keywords/tv-white-space",
+     "display_name": "TV white space",
+     "score": 0.7459
+    },
+    {
+     "id": "https://openalex.org/keywords/primary-user-interference",
+     "display_name": "primary user interference",
+     "score": 0.8372
+    },
+    {
+     "id": "https://openalex.org/keywords/spectrum-holes",
+     "display_name": "spectrum holes",
+     "score": 0.9499
+    },
+    {
+     "id": "https://openalex.org/keywords/primary-and-secondary-users",
+     "display_name": "primary and secondary users",
+     "score": 0.7573
+    },
+    {
+     "id": "https://openalex.org/keywords/interference-constraints",
+     "display_name": "interference constraints",
+     "score": 0.476
+    },
+    {
+     "id": "https://openalex.org/keywords/fusion-center",
+     "display_name": "fusion center",
+     "score": 0.2742
+    },
+    {
+     "id": "https://openalex.org/keywords/primary-user-protection",
+     "display_name": "primary user protection",
+     "score": 0.8778
+    },
+    {
+     "id": "https://openalex.org/keywords/dynamic-spectrum-sharing",
+     "display_name": "dynamic spectrum sharing",
+     "score": 0.7311
+    },
+    {
+     "id": "https://openalex.org/keywords/interference-avoidance",
+     "display_name": "interference avoidance",
+     "score": 0.2505
+    }
+   ]
+  },
+  "T10796": {
+   "name": "Cooperative Communication and Network Coding",
+   "subfield": "1705 Computer Networks and Communications",
+   "works": 35712,
+   "desc": "This cluster of papers focuses on cooperative diversity in wireless networks, exploring efficient protocols, outage behavior, network coding, relay networks, space-time coding, and amplify-and-forward techniques. It delves into topics such as physical layer network coding, MIMO relay channels, and the analysis of outage probability in multiuser communication scenarios.",
+   "kw": [
+    {
+     "id": "https://openalex.org/keywords/cooperative-communication",
+     "display_name": "cooperative communication",
+     "score": 0.5042
+    },
+    {
+     "id": "https://openalex.org/keywords/amplify-and-forward-relaying",
+     "display_name": "amplify-and-forward relaying",
+     "score": 0.5829
+    },
+    {
+     "id": "https://openalex.org/keywords/network-coding",
+     "display_name": "network coding",
+     "score": 0.4476
+    },
+    {
+     "id": "https://openalex.org/keywords/decode-and-forward-relaying",
+     "display_name": "decode-and-forward relaying",
+     "score": 0.5254
+    },
+    {
+     "id": "https://openalex.org/keywords/outage-probability",
+     "display_name": "outage probability",
+     "score": 0.2043
+    },
+    {
+     "id": "https://openalex.org/keywords/relay-selection",
+     "display_name": "relay selection",
+     "score": 0.4892
+    },
+    {
+     "id": "https://openalex.org/keywords/cooperative-relaying",
+     "display_name": "cooperative relaying",
+     "score": 0.4486
+    },
+    {
+     "id": "https://openalex.org/keywords/relay-networks",
+     "display_name": "relay networks",
+     "score": 0.5347
+    },
+    {
+     "id": "https://openalex.org/keywords/diversity-gain",
+     "display_name": "diversity gain",
+     "score": 0.2011
+    },
+    {
+     "id": "https://openalex.org/keywords/cooperative-diversity",
+     "display_name": "cooperative diversity",
+     "score": 0.7532
+    },
+    {
+     "id": "https://openalex.org/keywords/two-way-relaying",
+     "display_name": "two-way relaying",
+     "score": 0.5591
+    },
+    {
+     "id": "https://openalex.org/keywords/wireless-relay-networks",
+     "display_name": "wireless relay networks",
+     "score": 0.631
+    },
+    {
+     "id": "https://openalex.org/keywords/dual-hop-relaying",
+     "display_name": "dual-hop relay",
+     "score": 0.4229
+    },
+    {
+     "id": "https://openalex.org/keywords/physical-layer-network-coding",
+     "display_name": "physical-layer network coding",
+     "score": 0.6763
+    },
+    {
+     "id": "https://openalex.org/keywords/capacity-region",
+     "display_name": "capacity region",
+     "score": 0.4002
+    },
+    {
+     "id": "https://openalex.org/keywords/half-duplex-relay",
+     "display_name": "half-duplex relaying",
+     "score": 0.571
+    },
+    {
+     "id": "https://openalex.org/keywords/opportunistic-relaying",
+     "display_name": "opportunistic relaying",
+     "score": 0.6293
+    },
+    {
+     "id": "https://openalex.org/keywords/random-linear-network-coding",
+     "display_name": "random linear network coding",
+     "score": 0.5066
+    },
+    {
+     "id": "https://openalex.org/keywords/cooperative-transmission",
+     "display_name": "cooperative transmission",
+     "score": 0.3759
+    },
+    {
+     "id": "https://openalex.org/keywords/relay-channel",
+     "display_name": "relay channel",
+     "score": 0.607
+    },
+    {
+     "id": "https://openalex.org/keywords/achievable-rate-region",
+     "display_name": "achievable rate region",
+     "score": 0.4553
+    },
+    {
+     "id": "https://openalex.org/keywords/broadcast-channel",
+     "display_name": "broadcast channel",
+     "score": 0.2122
+    },
+    {
+     "id": "https://openalex.org/keywords/cooperative-wireless-networks",
+     "display_name": "cooperative wireless networks",
+     "score": 0.6115
+    },
+    {
+     "id": "https://openalex.org/keywords/cooperative-relay-networks",
+     "display_name": "cooperative relay networks",
+     "score": 0.6355
+    },
+    {
+     "id": "https://openalex.org/keywords/multi-hop-relaying",
+     "display_name": "multi-hop relaying",
+     "score": 0.2841
+    }
+   ]
+  },
+  "T12801": {
+   "name": "Bluetooth and Wireless Communication Technologies",
+   "subfield": "1705 Computer Networks and Communications",
+   "works": 12569,
+   "desc": "This cluster of papers focuses on the overview, evaluation, and various aspects of Bluetooth Low Energy (BLE) technology, including its applications in IoT, security vulnerabilities, scatternet formation, interference mitigation, mesh networks, and performance analysis. It also explores device discovery, coexistence mechanisms with other wireless protocols, and energy consumption estimation for smart manufacturing.",
+   "kw": [
+    {
+     "id": "https://openalex.org/keywords/bluetooth",
+     "display_name": "Bluetooth",
+     "score": 0.2963
+    },
+    {
+     "id": "https://openalex.org/keywords/bluetooth-low-energy",
+     "display_name": "Bluetooth Low Energy",
+     "score": 0.2689
+    },
+    {
+     "id": "https://openalex.org/keywords/piconet",
+     "display_name": "piconet",
+     "score": 0.79
+    },
+    {
+     "id": "https://openalex.org/keywords/bluetooth-security",
+     "display_name": "Bluetooth security",
+     "score": 0.7742
+    },
+    {
+     "id": "https://openalex.org/keywords/scatternet",
+     "display_name": "scatternet",
+     "score": 0.8783
+    },
+    {
+     "id": "https://openalex.org/keywords/personal-area-networks",
+     "display_name": "personal area networks",
+     "score": 0.2007
+    },
+    {
+     "id": "https://openalex.org/keywords/scatternet-formation",
+     "display_name": "scatternet formation",
+     "score": 0.9623
+    },
+    {
+     "id": "https://openalex.org/keywords/bluetooth-protocol",
+     "display_name": "Bluetooth protocol",
+     "score": 0.8875
+    },
+    {
+     "id": "https://openalex.org/keywords/bluetooth-mesh",
+     "display_name": "Bluetooth Mesh",
+     "score": 0.675
+    },
+    {
+     "id": "https://openalex.org/keywords/bluetooth-module",
+     "display_name": "Bluetooth module",
+     "score": 0.2496
+    },
+    {
+     "id": "https://openalex.org/keywords/bluetooth-protocol-stack",
+     "display_name": "Bluetooth protocol stack",
+     "score": 0.9592
+    },
+    {
+     "id": "https://openalex.org/keywords/bluetooth-pairing",
+     "display_name": "Bluetooth pairing",
+     "score": 0.3869
+    },
+    {
+     "id": "https://openalex.org/keywords/adaptive-frequency-hopping",
+     "display_name": "adaptive frequency hopping",
+     "score": 0.3335
+    },
+    {
+     "id": "https://openalex.org/keywords/bluetooth-scatternet",
+     "display_name": "Bluetooth scatternet",
+     "score": 0.8787
+    },
+    {
+     "id": "https://openalex.org/keywords/bluetooth-4-0",
+     "display_name": "Bluetooth 4.0",
+     "score": 0.451
+    },
+    {
+     "id": "https://openalex.org/keywords/bluetooth-piconet",
+     "display_name": "Bluetooth piconet",
+     "score": 0.7577
+    },
+    {
+     "id": "https://openalex.org/keywords/bluetooth-vulnerabilities",
+     "display_name": "Bluetooth vulnerabilities",
+     "score": 0.7467
+    },
+    {
+     "id": "https://openalex.org/keywords/wireless-audio",
+     "display_name": "wireless audio",
+     "score": 0.386
+    },
+    {
+     "id": "https://openalex.org/keywords/bluetooth-headphones",
+     "display_name": "Bluetooth headphones",
+     "score": 0.5543
+    },
+    {
+     "id": "https://openalex.org/keywords/bluetooth-profiles",
+     "display_name": "Bluetooth profiles",
+     "score": 0.8904
+    },
+    {
+     "id": "https://openalex.org/keywords/bluetooth-speaker",
+     "display_name": "Bluetooth speaker",
+     "score": 0.3229
+    },
+    {
+     "id": "https://openalex.org/keywords/bluetooth-attacks",
+     "display_name": "Bluetooth attacks",
+     "score": 0.5979
+    },
+    {
+     "id": "https://openalex.org/keywords/wireless-headphones",
+     "display_name": "wireless headphones",
+     "score": 0.2966
+    },
+    {
+     "id": "https://openalex.org/keywords/bluetooth-5-0",
+     "display_name": "Bluetooth 5.0",
+     "score": 0.4384
+    },
+    {
+     "id": "https://openalex.org/keywords/bluetooth-5",
+     "display_name": "Bluetooth 5",
+     "score": 0.5046
+    }
+   ]
+  },
+  "T10986": {
+   "name": "RFID technology advancements",
+   "subfield": "1705 Computer Networks and Communications",
+   "works": 62217,
+   "desc": "This cluster of papers explores RFID technology and its applications in various domains such as supply chain management, security, privacy, and wireless sensor networks. It covers topics including antenna design, authentication protocols, inventory management, and the impact of RFID on supply chain operations.",
+   "kw": [
+    {
+     "id": "https://openalex.org/keywords/rfid",
+     "display_name": "RFID",
+     "score": 0.5538
+    },
+    {
+     "id": "https://openalex.org/keywords/radio-frequency-identification",
+     "display_name": "radio frequency identification",
+     "score": 0.6197
+    },
+    {
+     "id": "https://openalex.org/keywords/rfid-tags",
+     "display_name": "RFID tags",
+     "score": 0.5779
+    },
+    {
+     "id": "https://openalex.org/keywords/uhf-rfid",
+     "display_name": "UHF RFID",
+     "score": 0.753
+    },
+    {
+     "id": "https://openalex.org/keywords/rfid-reader",
+     "display_name": "RFID reader",
+     "score": 0.7415
+    },
+    {
+     "id": "https://openalex.org/keywords/rfid-security",
+     "display_name": "RFID security",
+     "score": 0.7731
+    },
+    {
+     "id": "https://openalex.org/keywords/near-field-communication",
+     "display_name": "near field communication",
+     "score": 0.3225
+    },
+    {
+     "id": "https://openalex.org/keywords/passive-rfid-tags",
+     "display_name": "passive RFID tags",
+     "score": 0.7508
+    },
+    {
+     "id": "https://openalex.org/keywords/rfid-technology",
+     "display_name": "RFID technology",
+     "score": 0.7146
+    },
+    {
+     "id": "https://openalex.org/keywords/passive-rfid",
+     "display_name": "passive RFID",
+     "score": 0.7144
+    },
+    {
+     "id": "https://openalex.org/keywords/read-range",
+     "display_name": "read range",
+     "score": 0.857
+    },
+    {
+     "id": "https://openalex.org/keywords/nfc",
+     "display_name": "NFC",
+     "score": 0.4227
+    },
+    {
+     "id": "https://openalex.org/keywords/tag-identification",
+     "display_name": "tag identification",
+     "score": 0.9356
+    },
+    {
+     "id": "https://openalex.org/keywords/chipless-rfid",
+     "display_name": "chipless RFID",
+     "score": 0.8624
+    },
+    {
+     "id": "https://openalex.org/keywords/automatic-identification",
+     "display_name": "automatic identification",
+     "score": 0.3331
+    },
+    {
+     "id": "https://openalex.org/keywords/rfid-applications",
+     "display_name": "RFID applications",
+     "score": 0.9375
+    },
+    {
+     "id": "https://openalex.org/keywords/rfid-tag-antenna",
+     "display_name": "RFID tag antenna",
+     "score": 0.8332
+    },
+    {
+     "id": "https://openalex.org/keywords/rfid-adoption",
+     "display_name": "RFID adoption",
+     "score": 0.8361
+    },
+    {
+     "id": "https://openalex.org/keywords/asset-tracking",
+     "display_name": "asset tracking",
+     "score": 0.289
+    },
+    {
+     "id": "https://openalex.org/keywords/anti-collision-algorithm",
+     "display_name": "anti-collision algorithm",
+     "score": 0.935
+    },
+    {
+     "id": "https://openalex.org/keywords/rfid-privacy",
+     "display_name": "RFID privacy",
+     "score": 0.8995
+    },
+    {
+     "id": "https://openalex.org/keywords/rfid-authentication",
+     "display_name": "RFID authentication",
+     "score": 0.6275
+    },
+    {
+     "id": "https://openalex.org/keywords/uhf-rfid-tags",
+     "display_name": "UHF RFID tags",
+     "score": 0.7962
+    },
+    {
+     "id": "https://openalex.org/keywords/contactless-payment",
+     "display_name": "contactless payment",
+     "score": 0.2371
+    },
+    {
+     "id": "https://openalex.org/keywords/rfid-middleware",
+     "display_name": "RFID middleware",
+     "score": 0.9125
+    }
+   ]
+  },
+  "T11321": {
+   "name": "Error Correcting Code Techniques",
+   "subfield": "1705 Computer Networks and Communications",
+   "works": 58590,
+   "desc": "This cluster of papers focuses on the design, analysis, and implementation of Low-Density Parity-Check (LDPC) codes and Polar codes for efficient and reliable channel coding. The papers cover topics such as factor graphs, sum-product algorithm, belief propagation, iterative decoding, capacity-achieving codes, stochastic computing, and error correction techniques.",
+   "kw": [
+    {
+     "id": "https://openalex.org/keywords/low-density-parity-check-codes",
+     "display_name": "LDPC codes",
+     "score": 0.7044
+    },
+    {
+     "id": "https://openalex.org/keywords/error-correcting-codes",
+     "display_name": "error-correcting codes",
+     "score": 0.2861
+    },
+    {
+     "id": "https://openalex.org/keywords/iterative-decoding",
+     "display_name": "iterative decoding",
+     "score": 0.7033
+    },
+    {
+     "id": "https://openalex.org/keywords/channel-coding",
+     "display_name": "channel coding",
+     "score": 0.3706
+    },
+    {
+     "id": "https://openalex.org/keywords/turbo-codes",
+     "display_name": "turbo codes",
+     "score": 0.561
+    },
+    {
+     "id": "https://openalex.org/keywords/convolutional-codes",
+     "display_name": "convolutional codes",
+     "score": 0.5011
+    },
+    {
+     "id": "https://openalex.org/keywords/awgn-channel",
+     "display_name": "AWGN channel",
+     "score": 0.2813
+    },
+    {
+     "id": "https://openalex.org/keywords/polar-codes",
+     "display_name": "polar codes",
+     "score": 0.6527
+    },
+    {
+     "id": "https://openalex.org/keywords/forward-error-correction",
+     "display_name": "forward error correction",
+     "score": 0.2409
+    },
+    {
+     "id": "https://openalex.org/keywords/decoding-complexity",
+     "display_name": "decoding complexity",
+     "score": 0.4893
+    },
+    {
+     "id": "https://openalex.org/keywords/soft-decision-decoding",
+     "display_name": "soft-decision decoding",
+     "score": 0.5003
+    },
+    {
+     "id": "https://openalex.org/keywords/low-complexity-decoding",
+     "display_name": "low-complexity decoding",
+     "score": 0.5748
+    },
+    {
+     "id": "https://openalex.org/keywords/reed-solomon-codes",
+     "display_name": "Reed-Solomon codes",
+     "score": 0.2165
+    },
+    {
+     "id": "https://openalex.org/keywords/maximum-likelihood-decoding",
+     "display_name": "maximum likelihood decoding",
+     "score": 0.4231
+    },
+    {
+     "id": "https://openalex.org/keywords/viterbi-decoding",
+     "display_name": "Viterbi decoding",
+     "score": 0.3661
+    },
+    {
+     "id": "https://openalex.org/keywords/concatenated-codes",
+     "display_name": "concatenated codes",
+     "score": 0.5035
+    },
+    {
+     "id": "https://openalex.org/keywords/error-floor",
+     "display_name": "error floor",
+     "score": 0.5058
+    },
+    {
+     "id": "https://openalex.org/keywords/decoding-complexity-reduction",
+     "display_name": "decoding complexity reduction",
+     "score": 0.6466
+    },
+    {
+     "id": "https://openalex.org/keywords/ldpc-decoding",
+     "display_name": "LDPC decoding",
+     "score": 0.7473
+    },
+    {
+     "id": "https://openalex.org/keywords/coding-gain",
+     "display_name": "coding gain",
+     "score": 0.2617
+    },
+    {
+     "id": "https://openalex.org/keywords/turbo-decoding",
+     "display_name": "turbo decoding",
+     "score": 0.6118
+    },
+    {
+     "id": "https://openalex.org/keywords/belief-propagation",
+     "display_name": "belief propagation",
+     "score": 0.2106
+    },
+    {
+     "id": "https://openalex.org/keywords/binary-symmetric-channel",
+     "display_name": "binary symmetric channel",
+     "score": 0.4989
+    },
+    {
+     "id": "https://openalex.org/keywords/quasi-cyclic-ldpc-codes",
+     "display_name": "quasi-cyclic LDPC codes",
+     "score": 0.8778
+    },
+    {
+     "id": "https://openalex.org/keywords/ldpc-decoder",
+     "display_name": "LDPC decoder",
+     "score": 0.8985
+    }
+   ]
+  }
+ }
+}

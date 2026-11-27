@@ -1,0 +1,261 @@
+{
+ "partners": {
+  "groups": {
+   "partitioned-data": {
+    "screen_2025": 240,
+    "confirmer_coded": 194,
+    "cell": 12,
+    "simulated": 2
+   },
+   "partners-from-others": {
+    "screen_2025": 28,
+    "confirmer_coded": 32,
+    "cell": 18,
+    "simulated": 0
+   }
+  },
+  "table": {
+   "all-2020": {
+    "n": 2983,
+    "screened": 339,
+    "neg_agent": 544,
+    "neg_other": 2100,
+    "several": {
+     "confirmed": 48,
+     "share": 0.020185072882562483,
+     "lo": 0.016814356602556348,
+     "hi": 0.04730492973638871
+    },
+    "without-partitioned-data": {
+     "confirmed": 43,
+     "share": 0.018508907947932914,
+     "lo": 0.01513819166792678,
+     "hi": 0.04562876480175914
+    },
+    "without-partners-from-others": {
+     "confirmed": 36,
+     "share": 0.01616227703945152,
+     "lo": 0.012791560759445385,
+     "hi": 0.04328213389327775
+    },
+    "partners-from-others": {
+     "confirmed": 16,
+     "share": 0.0053637277908146165,
+     "lo": 0.0053637277908146165,
+     "hi": 0.029291725221164095
+    }
+   },
+   "all-2025": {
+    "n": 8545,
+    "screened": 948,
+    "neg_agent": 1227,
+    "neg_other": 6370,
+    "several": {
+     "confirmed": 135,
+     "share": 0.017368464675879592,
+     "lo": 0.016075888657159268,
+     "hi": 0.02790553130727634
+    },
+    "without-partitioned-data": {
+     "confirmed": 123,
+     "share": 0.01596413465832547,
+     "lo": 0.01467155863960514,
+     "hi": 0.026501201289722217
+    },
+    "without-partners-from-others": {
+     "confirmed": 117,
+     "share": 0.015261969649548407,
+     "lo": 0.013969393630828076,
+     "hi": 0.025799036280945153
+    },
+    "partners-from-others": {
+     "confirmed": 32,
+     "share": 0.0037448800468110007,
+     "lo": 0.0037448800468110007,
+     "hi": 0.013018322440979302
+    }
+   },
+   "agent-2020": {
+    "n": 669,
+    "screened": 125,
+    "neg_agent": 544,
+    "neg_other": 0,
+    "several": {
+     "confirmed": 27,
+     "share": 0.04036288502705904,
+     "lo": 0.04035947554944081,
+     "hi": 0.07848078563350107
+    },
+    "without-partitioned-data": {
+     "confirmed": 27,
+     "share": 0.04036288502705904,
+     "lo": 0.04035947554944081,
+     "hi": 0.07848078563350107
+    },
+    "without-partners-from-others": {
+     "confirmed": 16,
+     "share": 0.02392043360702914,
+     "lo": 0.023917024129410915,
+     "hi": 0.06203833421347117
+    },
+    "partners-from-others": {
+     "confirmed": 15,
+     "share": 0.02242152466367713,
+     "lo": 0.02242152466367713,
+     "hi": 0.06053610299008795
+    }
+   },
+   "agent-2025": {
+    "n": 1566,
+    "screened": 339,
+    "neg_agent": 1227,
+    "neg_other": 0,
+    "several": {
+     "confirmed": 70,
+     "share": 0.04598862185069082,
+     "lo": 0.04492753298109632,
+     "hi": 0.0698288581126644
+    },
+    "without-partitioned-data": {
+     "confirmed": 64,
+     "share": 0.04215720422616974,
+     "lo": 0.041096115356575244,
+     "hi": 0.06599744048814332
+    },
+    "without-partners-from-others": {
+     "confirmed": 53,
+     "share": 0.03513293858121444,
+     "lo": 0.034071849711619945,
+     "hi": 0.05897317484318802
+    },
+    "partners-from-others": {
+     "confirmed": 31,
+     "share": 0.01979565772669221,
+     "lo": 0.01979565772669221,
+     "hi": 0.04263345014882003
+    }
+   },
+   "llm-agent-2025": {
+    "n": 461,
+    "screened": 128,
+    "neg_agent": 333,
+    "neg_other": 0,
+    "several": {
+     "confirmed": 7,
+     "share": 0.019562216525340168,
+     "lo": 0.0159577367644183,
+     "hi": 0.03940271906674222
+    },
+    "without-partitioned-data": {
+     "confirmed": 6,
+     "share": 0.017393019128377044,
+     "lo": 0.013788539367455175,
+     "hi": 0.0372335216697791
+    },
+    "without-partners-from-others": {
+     "confirmed": 5,
+     "share": 0.015223821731413921,
+     "lo": 0.011619341970492051,
+     "hi": 0.03506432427281597
+    },
+    "partners-from-others": {
+     "confirmed": 6,
+     "share": 0.013015184381778741,
+     "lo": 0.013015184381778741,
+     "hi": 0.0294504221657004
+    }
+   },
+   "other-agent-2025": {
+    "n": 1105,
+    "screened": 211,
+    "neg_agent": 894,
+    "neg_other": 0,
+    "several": {
+     "confirmed": 63,
+     "share": 0.05701357466063348,
+     "lo": 0.05701357466063348,
+     "hi": 0.08252247811281835
+    },
+    "without-partitioned-data": {
+     "confirmed": 58,
+     "share": 0.05248868778280543,
+     "lo": 0.05248868778280543,
+     "hi": 0.0779975912349903
+    },
+    "without-partners-from-others": {
+     "confirmed": 48,
+     "share": 0.04343891402714932,
+     "lo": 0.04343891402714932,
+     "hi": 0.06894781747933418
+    },
+    "partners-from-others": {
+     "confirmed": 25,
+     "share": 0.02262443438914027,
+     "lo": 0.02262443438914027,
+     "hi": 0.04813333784132513
+    }
+   },
+   "ec-2025": {
+    "n": 203,
+    "screened": 146,
+    "neg_agent": 10,
+    "neg_other": 47,
+    "several": {
+     "confirmed": 115,
+     "share": 0.5665024630541872,
+     "lo": 0.5665024630541872,
+     "hi": 0.5665024630541872
+    },
+    "without-partitioned-data": {
+     "confirmed": 112,
+     "share": 0.5517241379310345,
+     "lo": 0.5517241379310345,
+     "hi": 0.5517241379310345
+    },
+    "without-partners-from-others": {
+     "confirmed": 111,
+     "share": 0.5467980295566502,
+     "lo": 0.5467980295566502,
+     "hi": 0.5467980295566502
+    },
+    "partners-from-others": {
+     "confirmed": 4,
+     "share": 0.019704433497536946,
+     "lo": 0.019704433497536946,
+     "hi": 0.019704433497536946
+    },
+    "census": true
+   }
+  }
+ },
+ "setters_by_parties": {
+  "ai-agents": {
+   "n": 56,
+   "one": 26,
+   "several": 28,
+   "na": 2,
+   "cell": 28
+  },
+  "humans": {
+   "n": 125,
+   "one": 44,
+   "several": 73,
+   "na": 8,
+   "cell": 56
+  },
+  "formal-model": {
+   "n": 410,
+   "one": 98,
+   "several": 286,
+   "na": 26,
+   "cell": 285
+  },
+  "other": {
+   "n": 212,
+   "one": 111,
+   "several": 98,
+   "na": 3,
+   "cell": 83
+  }
+ }
+}

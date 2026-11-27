@@ -1,0 +1,12 @@
+{
+  "fields": {
+    "agent": {
+      "coders": "yes",
+      "mine": "no",
+      "verdict": "coders"
+    }
+  },
+  "id": "q1437",
+  "note": null,
+  "phase": "validation"
+}

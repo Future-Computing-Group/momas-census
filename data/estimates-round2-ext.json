@@ -1,0 +1,336 @@
+{
+ "ext": {
+  "parties": {
+   "all-iclr-2025": {
+    "parties_ai-agents": {
+     "confirmed": 7,
+     "share": 0.0025134843581445525,
+     "lo": 0.0020597478736652745,
+     "hi": 0.01673997245567701
+    },
+    "parties_humans": {
+     "confirmed": 11,
+     "share": 0.0039482200647249195,
+     "lo": 0.003139984622068734,
+     "hi": 0.018511428315864515
+    },
+    "parties_formal-model": {
+     "confirmed": 12,
+     "share": 0.0039050701186623517,
+     "lo": 0.003354404212676819,
+     "hi": 0.01822633263108655
+    },
+    "parties_other": {
+     "confirmed": 5,
+     "share": 0.0032686084142394827,
+     "lo": 0.0019554539372324364,
+     "hi": 0.01828986430586419
+    }
+   },
+   "agent-iclr-2025": {
+    "parties_ai-agents": {
+     "confirmed": 7,
+     "share": 0.015481727574750831,
+     "lo": 0.01268695201918744,
+     "hi": 0.04073227703052399
+    },
+    "parties_humans": {
+     "confirmed": 9,
+     "share": 0.02099667774086379,
+     "lo": 0.01601837704091506,
+     "hi": 0.04832124435539986
+    },
+    "parties_formal-model": {
+     "confirmed": 8,
+     "share": 0.017408637873754153,
+     "lo": 0.014016828605657217,
+     "hi": 0.0432429473468339
+    },
+    "parties_other": {
+     "confirmed": 3,
+     "share": 0.016810631229235883,
+     "lo": 0.008722297673185837,
+     "hi": 0.046956527828686895
+    }
+   },
+   "llm-agent-iclr-2025": {
+    "parties_ai-agents": {
+     "confirmed": 3,
+     "share": 0.02620689655172414,
+     "lo": 0.01791894145591546,
+     "hi": 0.055327916306246706
+    },
+    "parties_humans": {
+     "confirmed": 5,
+     "share": 0.030344827586206897,
+     "lo": 0.025640059891749858,
+     "hi": 0.056168044386757474
+    },
+    "parties_formal-model": {
+     "confirmed": 0,
+     "share": 0.0,
+     "lo": 0.0,
+     "hi": 0.02140383355347318
+    },
+    "parties_other": {
+     "confirmed": 2,
+     "share": 0.032709359605911335,
+     "lo": 0.0187817358554297,
+     "hi": 0.06689927912034757
+    }
+   },
+   "other-agent-iclr-2025": {
+    "parties_ai-agents": {
+     "confirmed": 4,
+     "share": 0.010025062656641603,
+     "lo": 0.010025062656641603,
+     "hi": 0.03330642546919138
+    },
+    "parties_humans": {
+     "confirmed": 4,
+     "share": 0.0162406015037594,
+     "lo": 0.011123134888735953,
+     "hi": 0.04432901276049863
+    },
+    "parties_formal-model": {
+     "confirmed": 8,
+     "share": 0.026265664160401003,
+     "lo": 0.021148197545377556,
+     "hi": 0.054354075417140234
+    },
+    "parties_other": {
+     "confirmed": 1,
+     "share": 0.008721804511278195,
+     "lo": 0.0036043378962547492,
+     "hi": 0.03681021576801742
+    }
+   },
+   "all-aamas-2025": {
+    "parties_ai-agents": {
+     "confirmed": 7,
+     "share": 0.026923076923076925,
+     "lo": 0.026923076923076925,
+     "hi": 0.026923076923076925
+    },
+    "parties_humans": {
+     "confirmed": 14,
+     "share": 0.05384615384615385,
+     "lo": 0.05384615384615385,
+     "hi": 0.05384615384615385
+    },
+    "parties_formal-model": {
+     "confirmed": 62,
+     "share": 0.23846153846153847,
+     "lo": 0.23846153846153847,
+     "hi": 0.23846153846153847
+    },
+    "parties_other": {
+     "confirmed": 9,
+     "share": 0.03461538461538462,
+     "lo": 0.03461538461538462,
+     "hi": 0.03461538461538462
+    }
+   },
+   "agent-aamas-2025": {
+    "parties_ai-agents": {
+     "confirmed": 7,
+     "share": 0.03825136612021858,
+     "lo": 0.03825136612021858,
+     "hi": 0.03825136612021858
+    },
+    "parties_humans": {
+     "confirmed": 10,
+     "share": 0.0546448087431694,
+     "lo": 0.0546448087431694,
+     "hi": 0.0546448087431694
+    },
+    "parties_formal-model": {
+     "confirmed": 28,
+     "share": 0.15300546448087432,
+     "lo": 0.15300546448087432,
+     "hi": 0.15300546448087432
+    },
+    "parties_other": {
+     "confirmed": 8,
+     "share": 0.04371584699453552,
+     "lo": 0.04371584699453552,
+     "hi": 0.04371584699453552
+    }
+   },
+   "llm-agent-aamas-2025": {
+    "parties_ai-agents": {
+     "confirmed": 1,
+     "share": 0.07142857142857142,
+     "lo": 0.07142857142857142,
+     "hi": 0.07142857142857142
+    },
+    "parties_humans": {
+     "confirmed": 2,
+     "share": 0.14285714285714285,
+     "lo": 0.14285714285714285,
+     "hi": 0.14285714285714285
+    },
+    "parties_formal-model": {
+     "confirmed": 0,
+     "share": 0.0,
+     "lo": 0.0,
+     "hi": 0.0
+    },
+    "parties_other": {
+     "confirmed": 2,
+     "share": 0.14285714285714285,
+     "lo": 0.14285714285714285,
+     "hi": 0.14285714285714285
+    }
+   },
+   "other-agent-aamas-2025": {
+    "parties_ai-agents": {
+     "confirmed": 6,
+     "share": 0.03550295857988166,
+     "lo": 0.03550295857988166,
+     "hi": 0.03550295857988166
+    },
+    "parties_humans": {
+     "confirmed": 8,
+     "share": 0.047337278106508875,
+     "lo": 0.047337278106508875,
+     "hi": 0.047337278106508875
+    },
+    "parties_formal-model": {
+     "confirmed": 28,
+     "share": 0.16568047337278108,
+     "lo": 0.16568047337278108,
+     "hi": 0.16568047337278108
+    },
+    "parties_other": {
+     "confirmed": 6,
+     "share": 0.03550295857988166,
+     "lo": 0.03550295857988166,
+     "hi": 0.03550295857988166
+    }
+   }
+  },
+  "parties_agreement": {
+   "n": 27,
+   "agree": 25,
+   "kappa": 0.855614973262032,
+   "agree_ai": 27,
+   "kappa_ai": 1.0
+  }
+ },
+ "ext-ea": {
+  "parties": {
+   "all-aamas-2025-ea": {
+    "parties_ai-agents": {
+     "confirmed": 10,
+     "share": 0.0625,
+     "lo": 0.0625,
+     "hi": 0.0625
+    },
+    "parties_humans": {
+     "confirmed": 6,
+     "share": 0.0375,
+     "lo": 0.0375,
+     "hi": 0.0375
+    },
+    "parties_formal-model": {
+     "confirmed": 29,
+     "share": 0.18125,
+     "lo": 0.18125,
+     "hi": 0.18125
+    },
+    "parties_other": {
+     "confirmed": 10,
+     "share": 0.0625,
+     "lo": 0.0625,
+     "hi": 0.0625
+    }
+   },
+   "agent-aamas-2025-ea": {
+    "parties_ai-agents": {
+     "confirmed": 10,
+     "share": 0.08,
+     "lo": 0.08,
+     "hi": 0.08
+    },
+    "parties_humans": {
+     "confirmed": 5,
+     "share": 0.04,
+     "lo": 0.04,
+     "hi": 0.04
+    },
+    "parties_formal-model": {
+     "confirmed": 12,
+     "share": 0.096,
+     "lo": 0.096,
+     "hi": 0.096
+    },
+    "parties_other": {
+     "confirmed": 9,
+     "share": 0.072,
+     "lo": 0.072,
+     "hi": 0.072
+    }
+   },
+   "llm-agent-aamas-2025-ea": {
+    "parties_ai-agents": {
+     "confirmed": 6,
+     "share": 0.375,
+     "lo": 0.375,
+     "hi": 0.375
+    },
+    "parties_humans": {
+     "confirmed": 0,
+     "share": 0.0,
+     "lo": 0.0,
+     "hi": 0.0
+    },
+    "parties_formal-model": {
+     "confirmed": 1,
+     "share": 0.0625,
+     "lo": 0.0625,
+     "hi": 0.0625
+    },
+    "parties_other": {
+     "confirmed": 2,
+     "share": 0.125,
+     "lo": 0.125,
+     "hi": 0.125
+    }
+   },
+   "other-agent-aamas-2025-ea": {
+    "parties_ai-agents": {
+     "confirmed": 4,
+     "share": 0.03669724770642202,
+     "lo": 0.03669724770642202,
+     "hi": 0.03669724770642202
+    },
+    "parties_humans": {
+     "confirmed": 5,
+     "share": 0.045871559633027525,
+     "lo": 0.045871559633027525,
+     "hi": 0.045871559633027525
+    },
+    "parties_formal-model": {
+     "confirmed": 11,
+     "share": 0.10091743119266056,
+     "lo": 0.10091743119266056,
+     "hi": 0.10091743119266056
+    },
+    "parties_other": {
+     "confirmed": 7,
+     "share": 0.06422018348623854,
+     "lo": 0.06422018348623854,
+     "hi": 0.06422018348623854
+    }
+   }
+  },
+  "parties_agreement": {
+   "n": 11,
+   "agree": 8,
+   "kappa": 0.5540540540540542,
+   "agree_ai": 9,
+   "kappa_ai": 0.0
+  }
+ }
+}

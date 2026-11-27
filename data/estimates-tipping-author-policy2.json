@@ -1,0 +1,14 @@
+{
+ "population": "agent-2025",
+ "n": 20,
+ "papers": {
+  "x01765": "leave",
+  "x00773": "leave",
+  "x07107": "lower",
+  "x01469": "leave"
+ },
+ "m": 4,
+ "raise": 0,
+ "lower": 1,
+ "leave": 3
+}

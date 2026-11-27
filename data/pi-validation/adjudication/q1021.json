@@ -1,0 +1,12 @@
+{
+  "fields": {
+    "interests": {
+      "coders": "several-aligned",
+      "mine": "several-conflicting",
+      "verdict": "coders"
+    }
+  },
+  "id": "q1021",
+  "note": null,
+  "phase": "validation"
+}

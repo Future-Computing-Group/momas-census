@@ -1,0 +1,12 @@
+{
+  "fields": {
+    "boundary": {
+      "coders": "yes",
+      "mine": "no",
+      "verdict": "coders"
+    }
+  },
+  "id": "q0533",
+  "note": null,
+  "phase": "validation"
+}

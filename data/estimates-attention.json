@@ -1,0 +1,82 @@
+{
+ "neurips-2025": {
+  "n": 5287,
+  "matched": 5235,
+  "total": 59117,
+  "median": 2,
+  "cell": {
+   "papers": 96,
+   "paper_share": 0.01833810888252149,
+   "citations": 455,
+   "citation_share": 0.007696601654346466
+  },
+  "sub": {
+   "papers": 12,
+   "paper_share": 0.002292263610315186,
+   "citations": 180,
+   "citation_share": 0.003044809445675525
+  },
+  "retrieved": "2026-11-09",
+  "method": "source S4363606243, publication_year 2025, matched by space-free normalised title"
+ },
+ "aamas-2025": {
+  "n": 260,
+  "matched": 249,
+  "total": 609,
+  "median": 1,
+  "cell": {
+   "papers": 89,
+   "paper_share": 0.357429718875502,
+   "citations": 173,
+   "citation_share": 0.28407224958949095
+  },
+  "sub": {
+   "papers": 7,
+   "paper_share": 0.028112449799196786,
+   "citations": 32,
+   "citation_share": 0.052545155993431854
+  },
+  "retrieved": "2026-11-09",
+  "method": "IFAAMAS DOI (filter doi:)"
+ },
+ "aamas-2025-ea": {
+  "n": 160,
+  "matched": 158,
+  "total": 261,
+  "median": 0.0,
+  "cell": {
+   "papers": 53,
+   "paper_share": 0.33544303797468356,
+   "citations": 100,
+   "citation_share": 0.3831417624521073
+  },
+  "sub": {
+   "papers": 8,
+   "paper_share": 0.05063291139240506,
+   "citations": 46,
+   "citation_share": 0.17624521072796934
+  },
+  "retrieved": "2026-11-09",
+  "method": "IFAAMAS DOI (filter doi:)"
+ },
+ "ec-2025": {
+  "n": 203,
+  "matched": 203,
+  "total": 463,
+  "median": 1,
+  "cell": {
+   "papers": 163,
+   "paper_share": 0.8029556650246306,
+   "citations": 351,
+   "citation_share": 0.7580993520518359
+  },
+  "sub": {
+   "papers": 3,
+   "paper_share": 0.014778325123152709,
+   "citations": 7,
+   "citation_share": 0.01511879049676026
+  },
+  "retrieved": "2026-11-09",
+  "method": "frame OpenAlex id (filter openalex:)"
+ }
+}

@@ -1,0 +1,70 @@
+{"id": "q0026", "llm_basis": "yes", "confidence": "high", "note": "VLM agents: \"fine-tuning vision-language model (VLM) agents\"", "last_words": "code is available at https://github.com/langfengQ/CoSo."}
+{"id": "q1777", "llm_basis": "yes", "confidence": "high", "note": "\"Computer use agents are LLM-based agents\"", "last_words": "benchmark is available at https://github.com/tml-epfl/os-harm."}
+{"id": "q1952", "llm_basis": "no", "confidence": "high", "note": "\"vision-based reinforcement learning (RL) agents\"", "last_words": "the implications of this insight."}
+{"id": "q1961", "llm_basis": "no", "confidence": "high", "note": "VAE-based cooperator agent with regret minimization in Overcooked", "last_words": "novel human, and agent teammates."}
+{"id": "q0007", "llm_basis": "no", "confidence": "high", "note": "\"deep reinforcement learning\" PSRO game solver", "last_words": "policy choice and algorithmic performance."}
+{"id": "q0361", "llm_basis": "yes", "confidence": "medium", "note": "\"xLAM-2-fc-r series\" models outperforming GPT-4o as AI agents", "last_words": "agents.Dataset: https://huggingface.co/datasets/Salesforce/APIGen-MT-5k & Models: https://huggingface.co/collections/Salesforce/xlam-2-67ef5be12949d8dcdae354c4"}
+{"id": "q2053", "llm_basis": "no", "confidence": "high", "note": "POMDP belief approximation with SVGD particles", "last_words": "accuracy and downstream decision quality."}
+{"id": "q1352", "llm_basis": "no", "confidence": "high", "note": "\"model-free and model-based RL algorithms\"", "last_words": "in robust, generalizable decision-making systems."}
+{"id": "q0996", "llm_basis": "no", "confidence": "high", "note": "\"multi-agent reinforcement learning\" with atoms as agents", "last_words": "and the lowest failure rate."}
+{"id": "q0958", "llm_basis": "no", "confidence": "high", "note": "Bayesian optimization with a physics-informed kernel", "last_words": "challenging, even for human problem-solvers."}
+{"id": "q1251", "llm_basis": "no", "confidence": "high", "note": "\"model-based RL algorithm\" learning from pixels", "last_words": "are available at https:// slot-latent-dynamics.github.io."}
+{"id": "q1596", "llm_basis": "yes", "confidence": "high", "note": "\"language model based SWE agents\"", "last_words": "SWE-Gym, models, and agent trajectories."}
+{"id": "q0270", "llm_basis": "no", "confidence": "high", "note": "multi-view reinforcement learning representations", "last_words": "code is available at [https://github.com/zpwdev/MFSC](https://github.com/zpwdev/MFSC)."}
+{"id": "q0698", "llm_basis": "no", "confidence": "medium", "note": "\"long-context generative model\" behavioral cloning on robot control, no language model stated", "last_words": "to learn adaptive, exploratory behavior."}
+{"id": "q1324", "llm_basis": "no", "confidence": "high", "note": "best arm identification bandit algorithms", "last_words": "for contemporary fixed confidence algorithms."}
+{"id": "q1944", "llm_basis": "no", "confidence": "high", "note": "stochastic bandit algorithms", "last_words": "efficiency of the proposed methods."}
+{"id": "q1788", "llm_basis": "yes", "confidence": "high", "note": "\"We benchmark multiple open and closed-source LLMs\" in an agentic benchmark", "last_words": "MTB environments in precision oncology."}
+{"id": "q0240", "llm_basis": "yes", "confidence": "medium", "note": "\"language agents\" / \"open language agents\" with Q-guided generation", "last_words": "decision making through qualitative analysis."}
+{"id": "q1487", "llm_basis": "no", "confidence": "high", "note": "goal-conditioned RL with beta-VAE", "last_words": "pre-training nor prior environment knowledge."}
+{"id": "q1983", "llm_basis": "no", "confidence": "high", "note": "\"Multi-Agent Reinforcement Learning\" on StarCraft II", "last_words": "it outperforms the state-of-the-art methods."}
+{"id": "q0795", "llm_basis": "yes", "confidence": "high", "note": "\"code LLMs and code agents\" evaluated", "last_words": "agents in realistic development settings."}
+{"id": "q0220", "llm_basis": "yes", "confidence": "high", "note": "\"evolve LLMs into effective conversational data analysis agents\"", "last_words": "improvement of up to 35.14%."}
+{"id": "q1383", "llm_basis": "yes", "confidence": "high", "note": "\"LLM-based reading comprehension\" autonomous reading agents", "last_words": "query-based summarization, and claim verification."}
+{"id": "q0943", "llm_basis": "no", "confidence": "high", "note": "\"training RL agents\" to control production lines", "last_words": "curriculum learning, and hierarchical control."}
+{"id": "q1076", "llm_basis": "no", "confidence": "high", "note": "DRL agents such as DQN and SAC", "last_words": "efficiency at a negligible cost*."}
+{"id": "q0127", "llm_basis": "yes", "confidence": "high", "note": "\"LLM agents\" doing experiment design", "last_words": "scientific capabilities of LLM agents."}
+{"id": "q1970", "llm_basis": "yes", "confidence": "high", "note": "\"multi-agent LLM framework\" with specialized LLM agents", "last_words": "performance throughout the diverse domains."}
+{"id": "q1661", "llm_basis": "no", "confidence": "high", "note": "agents are hedonic game players", "last_words": "and applications in both areas."}
+{"id": "q0802", "llm_basis": "no", "confidence": "high", "note": "decision tree policies in MDPs via MILP", "last_words": "magnitude faster than existing approaches."}
+{"id": "q1687", "llm_basis": "yes", "confidence": "high", "note": "\"LLM-based agents\" evaluated for safety", "last_words": "is openly accessible at https://github.com/Astarojth/AgentAuditor."}
+{"id": "q1921", "llm_basis": "no", "confidence": "high", "note": "value iteration for MDPs", "last_words": "theoretical foundations of VI approaches."}
+{"id": "q0680", "llm_basis": "yes", "confidence": "high", "note": "VLA models \"built on pre-trained Vision-Language Models\"", "last_words": "by 2.8$\\times$ compared to OpenVLA."}
+{"id": "q0286", "llm_basis": "no", "confidence": "high", "note": "Bayesian optimization regret bounds", "last_words": "find a nearly optimal solution."}
+{"id": "q1524", "llm_basis": "no", "confidence": "high", "note": "deep reinforcement learning networks", "last_words": "agents and suites of environments."}
+{"id": "q1296", "llm_basis": "yes", "confidence": "high", "note": "\"ReAct-based agent\" boosting Llama-3.1-8B", "last_words": "Our code is publicly available."}
+{"id": "q0205", "llm_basis": "no", "confidence": "high", "note": "object-centric world model with hierarchical RL policy", "last_words": "is crucial for robust control."}
+{"id": "q1384", "llm_basis": "no", "confidence": "high", "note": "mean-field optimal stopping with neural networks", "last_words": "directions for scalable MAOS methods."}
+{"id": "q1545", "llm_basis": "no", "confidence": "high", "note": "MARL with decision transformer on SMAC/MPE", "last_words": "generalization to previously unseen tasks."}
+{"id": "q1880", "llm_basis": "no", "confidence": "high", "note": "\"transformer-based decision models\" for in-context RL", "last_words": "code is available at [https://github.com/NJU-RL/T2MIR](https://github.com/NJU-RL/T2MIR)."}
+{"id": "q1680", "llm_basis": "yes", "confidence": "high", "note": "\"Multi-Agent Systems of Large Language Models (MAS LLMs)\"", "last_words": "avoid mischaracterisation and missed opportunities."}
+{"id": "q0809", "llm_basis": "yes", "confidence": "high", "note": "\"program equilibria reached by LLM agents\"", "last_words": "cooperative strategy in multi-agent dilemmas."}
+{"id": "q0594", "llm_basis": "yes", "confidence": "medium", "note": "\"Large Vision-Language Models\" predict keypoints for robot control", "last_words": "as spatial and movement reasoning."}
+{"id": "q1365", "llm_basis": "yes", "confidence": "high", "note": "\"multimodal large language models\" GUI agent", "last_words": "in developing advanced GUI agents."}
+{"id": "q1887", "llm_basis": "no", "confidence": "high", "note": "Gaussian process bandit algorithms", "last_words": "matches our regret lower bound."}
+{"id": "q0725", "llm_basis": "no", "confidence": "high", "note": "reward learning in reinforcement learning", "last_words": "to measure their quality reliably."}
+{"id": "q0218", "llm_basis": "yes", "confidence": "high", "note": "\"LLM-based agent applications\"", "last_words": "complements existing LLM serving infrastructures."}
+{"id": "q0310", "llm_basis": "yes", "confidence": "high", "note": "\"LLM-based agents\" in Concordia", "last_words": "demanding persuasion and norm enforcement."}
+{"id": "q0392", "llm_basis": "yes", "confidence": "high", "note": "\"reinforcement learning for training LLMs\" as goal-directed language agents", "last_words": "open-ended dialogue and text games."}
+{"id": "q0987", "llm_basis": "no", "confidence": "high", "note": "parallel RL agents maximizing state entropy", "last_words": "may be of independent interest."}
+{"id": "q1625", "llm_basis": "na", "confidence": "medium", "note": "\"autonomous AI agents\" with no statement of what they are built on", "last_words": "a roadmap for achieving this."}
+{"id": "q1529", "llm_basis": "no", "confidence": "high", "note": "world models with latent actions learned from video", "last_words": "simulation quality and visual planning."}
+{"id": "q1224", "llm_basis": "yes", "confidence": "medium", "note": "\"Large Vision Language Models\" drive GUI agents trained by SFT and RL", "last_words": "capable and generalizable GUI agents."}
+{"id": "q1803", "llm_basis": "no", "confidence": "high", "note": "quantum-classical path finding algorithms", "last_words": "formulations and state-of-the-art MAPF solvers."}
+{"id": "q0751", "llm_basis": "no", "confidence": "high", "note": "offline RL agent with PERM and PPPO", "last_words": "phenomenon in offline reinforcement learning."}
+{"id": "q1673", "llm_basis": "no", "confidence": "high", "note": "cooperative bandit agents", "last_words": "${O}(\\mathcal{R} / m+A \\log T)$."}
+{"id": "q1492", "llm_basis": "yes", "confidence": "high", "note": "\"leverage the advanced reasoning capability of LLM to plan\"", "last_words": "improves to $\\textbf{76.0\\%}$ with transcripts."}
+{"id": "q1798", "llm_basis": "no", "confidence": "high", "note": "state entropy regularization in RL", "last_words": "rollouts used for policy evaluation."}
+{"id": "q1023", "llm_basis": "no", "confidence": "high", "note": "continual reinforcement learning agents", "last_words": "code is available at https://github.com/Fhujinwu/CKA-RL."}
+{"id": "q1418", "llm_basis": "no", "confidence": "high", "note": "Thompson Sampling linear bandit learner", "last_words": "analysis that avoids convexity considerations."}
+{"id": "q0248", "llm_basis": "na", "confidence": "low", "note": "GUI agents unspecified; MLLM only serves as trajectory evaluator", "last_words": "improvements in training GUI agents."}
+{"id": "q1878", "llm_basis": "yes", "confidence": "high", "note": "\"training base LLMs to spontaneously generate and execute Python code\"", "last_words": "Code is released at \\href{https://github.com/yyht/openrlhf_async_pipline}{https://github.com/yyht/openrlhf\\_async\\_pipline}."}
+{"id": "q1556", "llm_basis": "no", "confidence": "high", "note": "offline RL with diffusion and time-series foundation models", "last_words": "complexity of real-world, non-stationary environments."}
+{"id": "q1501", "llm_basis": "yes", "confidence": "high", "note": "\"apply CoLA to the Llama-3.1-8B model\"", "last_words": "model is available at \\url{https://huggingface.co/LAMDA-RL/Llama-3.1-CoLA-10B}."}
+{"id": "q1506", "llm_basis": "yes", "confidence": "high", "note": "\"Embodied agents powered by large language models (LLMs)\"", "last_words": "tasks through accumulated cultural experiences."}
+{"id": "q1349", "llm_basis": "yes", "confidence": "high", "note": "\"enhances multiturn human-LLM collaboration\" by fine-tuning LLMs", "last_words": "user spent time by 10.4%."}
+{"id": "q0260", "llm_basis": "no", "confidence": "high", "note": "RL agent for multi-step lookahead Bayesian optimization", "last_words": "lookahead and high-dimensional BO methods."}
+{"id": "q1985", "llm_basis": "no", "confidence": "high", "note": "strategic classification, game-theoretic agents", "last_words": "performance in online strategic classification."}
+{"id": "q1211", "llm_basis": "yes", "confidence": "medium", "note": "vision-based GUI agents with \"inner monologue\" reasoning, no named model", "last_words": "https://aguvis-project.github.io to advance future research."}
+{"id": "q0214", "llm_basis": "yes", "confidence": "low", "note": "multi-agent system generating code from natural language specs, LLM implied but unnamed", "last_words": "comparison of model checking performance."}
+{"id": "q0607", "llm_basis": "no", "confidence": "high", "note": "convex Markov games, MARL equilibria", "last_words": "orders of magnitude less exploitable."}

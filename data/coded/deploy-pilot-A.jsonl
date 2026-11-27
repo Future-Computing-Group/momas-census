@@ -1,0 +1,20 @@
+{"id": "d000", "agent": "no", "reach": "na", "a2a": "no", "confidence": "low", "quote": "MAIRE made its engineering and project data usable through natural language"}
+{"id": "d001", "agent": "no", "reach": "na", "a2a": "no", "confidence": "low", "quote": "blocked"}
+{"id": "d002", "agent": "no", "reach": "na", "a2a": "no", "confidence": "low", "quote": "sorting customer inquiries, summarizing calls, and drafting service and email replies"}
+{"id": "d003", "agent": "no", "reach": "na", "a2a": "no", "confidence": "medium", "quote": "simply type a query into the agent"}
+{"id": "d004", "agent": "yes", "reach": "internal", "a2a": "no", "confidence": "medium", "quote": "files the email into the right category so it reaches the correct staff"}
+{"id": "d005", "agent": "yes", "reach": "customer", "a2a": "no", "confidence": "high", "quote": "verifies the shopper's identity, and returns order and tracking details"}
+{"id": "d006", "agent": "yes", "reach": "customer", "a2a": "no", "confidence": "medium", "quote": "generates tour quotes, answers questions about tour options, and assists with bookings"}
+{"id": "d007", "agent": "yes", "reach": "customer", "a2a": "no", "confidence": "medium", "quote": "automatically adjust the orders"}
+{"id": "d008", "agent": "yes", "reach": "customer", "a2a": "no", "confidence": "medium", "quote": "Agentforce seamlessly sends a request to ENGIE's SAP enterprise resource planning (ERP) system via API"}
+{"id": "d009", "agent": "yes", "reach": "customer", "a2a": "no", "confidence": "low", "quote": "Mark, an Agentforce-powered virtual agent for customer service"}
+{"id": "d010", "agent": "no", "reach": "na", "a2a": "no", "confidence": "medium", "quote": "Medical staff review every response for accuracy and compliance before sending it to the HCP"}
+{"id": "d011", "agent": "yes", "reach": "internal", "a2a": "no", "confidence": "medium", "quote": "processes PDF invoices from email, automatically detecting and routing mismatches for correction"}
+{"id": "d012", "agent": "yes", "reach": "customer", "a2a": "no", "confidence": "medium", "quote": "sends personalized outreach, queues follow-ups by time zone"}
+{"id": "d013", "agent": "no", "reach": "na", "a2a": "no", "confidence": "low", "quote": "blocked"}
+{"id": "d014", "agent": "yes", "reach": "customer", "a2a": "no", "confidence": "medium", "quote": "Agentforce can then use that data to schedule and dispatch the closest truck"}
+{"id": "d015", "agent": "yes", "reach": "internal", "a2a": "no", "confidence": "low", "quote": "published them to Kantar's Microsoft Teams for internal employee use"}
+{"id": "d016", "agent": "no", "reach": "na", "a2a": "no", "confidence": "medium", "quote": "surfaces customer history, technical knowledge"}
+{"id": "d017", "agent": "yes", "reach": "customer", "a2a": "no", "confidence": "low", "quote": "Agents will autonomously schedule meetings and craft personalized follow-up emails"}
+{"id": "d018", "agent": "yes", "reach": "customer", "a2a": "no", "confidence": "low", "quote": "qualify and triage leads, and schedule follow-ups for sales reps"}
+{"id": "d019", "agent": "yes", "reach": "customer", "a2a": "no", "confidence": "medium", "quote": "every conversation can become a case, routed and tracked properly"}

@@ -1,0 +1,70 @@
+{"id": "x02281", "policy_setters": "several", "policy_quote": "against black-box LLMs", "principals": "several", "principals_quote": "jailbreak attack named FlipAttack against black-box LLMs", "partners_from_others": "yes"}
+{"id": "y03889", "policy_setters": "one", "policy_quote": "we train language models", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02501", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03302", "policy_setters": "several", "policy_quote": "proprietary state-of-the-art detectors", "principals": "several", "principals_quote": "black-box access to the SID", "partners_from_others": "yes"}
+{"id": "x04165", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02860", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05004", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00123", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00468", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y01489", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09674", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x00901", "policy_setters": "several", "policy_quote": "user-submitted datasets adapt general-purpose models", "principals": "several", "principals_quote": "user-submitted datasets adapt general-purpose models", "partners_from_others": "no"}
+{"id": "x12345", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08647", "policy_setters": "one", "policy_quote": "train an RL policy across different graph structures against the equilibrium policy", "principals": "several", "principals_quote": "both pursuer and evader sides", "partners_from_others": "no"}
+{"id": "x08561", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01413", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x08905", "policy_setters": "one", "policy_quote": "a stochastic choice rule assigns probabilities to actions", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01265", "policy_setters": "several", "policy_quote": "model-heterogeneous FL", "principals": "several", "principals_quote": "enables multiple clients to collaboratively train a shared model", "partners_from_others": "no"}
+{"id": "y02820", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08630", "policy_setters": "several", "policy_quote": "A seller sells an object over time but is uncertain how the buyer learns", "principals": "several", "principals_quote": "A seller sells an object over time but is uncertain how the buyer learns", "partners_from_others": "no"}
+{"id": "x07241", "policy_setters": "one", "policy_quote": "design a voting rule", "principals": "several", "principals_quote": "voters and candidates", "partners_from_others": "no"}
+{"id": "x08425", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11999", "policy_setters": "several", "policy_quote": "preserving the privacy of all participants", "principals": "several", "principals_quote": "preserving the privacy of all participants", "partners_from_others": "no"}
+{"id": "x12021", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03738", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06664", "policy_setters": "several", "policy_quote": "circumvents existing defense mechanisms", "principals": "several", "principals_quote": "adversarial image attacks targeting Image-to-Image (I2I) diffusion models", "partners_from_others": "yes"}
+{"id": "x10354", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04749", "policy_setters": "several", "policy_quote": "modeling distributed graph data", "principals": "several", "principals_quote": "across clients", "partners_from_others": "no"}
+{"id": "x01991", "policy_setters": "several", "policy_quote": "clients with diverse model architectures", "principals": "several", "principals_quote": "collaborative learning across clients with diverse model architectures", "partners_from_others": "no"}
+{"id": "x04541", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02316", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00127", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02881", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04302", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01077", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x07960", "policy_setters": "several", "policy_quote": "people find it costly to evaluate the options", "principals": "several", "principals_quote": "If people find it costly to evaluate the options available to them", "partners_from_others": "no"}
+{"id": "x11820", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x10819", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03728", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02486", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07270", "policy_setters": "several", "policy_quote": "LLM developers deploy technical mitigations", "principals": "several", "principals_quote": "adversaries evade safeguards by fine-tuning the model using a public API", "partners_from_others": "yes"}
+{"id": "x08286", "policy_setters": "one", "policy_quote": "we propose Latent Space Policy Optimization", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09942", "policy_setters": "several", "policy_quote": "strategic player who can modify its own reward whenever pulled", "principals": "several", "principals_quote": "in order to maximize its own expected number of times of being pulled", "partners_from_others": "yes"}
+{"id": "y01124", "policy_setters": "one", "policy_quote": "", "principals": "several", "principals_quote": "agents have no information about future items", "partners_from_others": "no"}
+{"id": "x06994", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03045", "policy_setters": "one", "policy_quote": "solve games too complex for traditional analytic methods", "principals": "several", "principals_quote": "alternating-offer bargaining game", "partners_from_others": "no"}
+{"id": "z00140", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03923", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08809", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y01684", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x07582", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x10350", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02638", "policy_setters": "one", "policy_quote": "training reinforcement learning agents in multi-agent economic environments", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10854", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01433", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x09482", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06914", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01596", "policy_setters": "several", "policy_quote": "equips each client with multiple groups", "principals": "several", "principals_quote": "personalized federated prompt learning", "partners_from_others": "no"}
+{"id": "x03345", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03131", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09336", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01794", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x01924", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y00666", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00090", "policy_setters": "one", "policy_quote": "The agent has to choose its strategy", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02075", "policy_setters": "several", "policy_quote": "players can be grouped into a small number of teams of identical interest", "principals": "several", "principals_quote": "teams of identical interest", "partners_from_others": "no"}
+{"id": "x02103", "policy_setters": "several", "policy_quote": "organizations to assist each other in supervised learning tasks without revealing any organization's algorithm", "principals": "several", "principals_quote": "collaborations among different organizations or agents", "partners_from_others": "no"}
+{"id": "x01936", "policy_setters": "one", "policy_quote": "", "principals": "several", "principals_quote": "limited resources must be allocated to sequentially arriving agents", "partners_from_others": "no"}
+{"id": "y02974", "policy_setters": "several", "policy_quote": "jailbreak *all* Claude models", "principals": "several", "principals_quote": "Claude models", "partners_from_others": "yes"}
+{"id": "x00621", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}

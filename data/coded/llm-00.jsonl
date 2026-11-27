@@ -1,0 +1,70 @@
+{"id":"q0176","llm_basis":"yes","confidence":"high","note":"\"medical agents powered by LLMs\" and ClinicalAgent built on LLMs.","last_words":"practices in designing medical agents."}
+{"id":"q1811","llm_basis":"no","confidence":"high","note":"GP-UCB bandit learner, no language model.","last_words":"gain in a refined manner."}
+{"id":"q0689","llm_basis":"yes","confidence":"high","note":"GUI agent model trained \"with Qwen2.5-VL-3B-Instruct\".","last_words":"state-of-the-art in GUI agent grounding."}
+{"id":"q1522","llm_basis":"yes","confidence":"medium","note":"\"most LLM-based multi-agent systems still rely solely on natural language\", the framework targets LLM agents though it \"extends beyond LLMs\".","last_words":"of compute or data scale."}
+{"id":"q0608","llm_basis":"no","confidence":"high","note":"Imitation-learning agent with goal sampling, no language model.","last_words":"outperforming existing learning from-demonstrations baselines."}
+{"id":"q0565","llm_basis":"no","confidence":"high","note":"\"multi-agent linear bandit\" learners.","last_words":"our algorithm accurately recovers them."}
+{"id":"q0952","llm_basis":"no","confidence":"high","note":"Mean-field Q-learning MARL agents.","last_words":"the number of agents $n$."}
+{"id":"q0317","llm_basis":"no","confidence":"high","note":"Value-based RL on control tasks; language modeling only mentioned as motivation.","last_words":"sample-efficient transfer to new tasks."}
+{"id":"q0793","llm_basis":"no","confidence":"high","note":"Zero-shot imitation with world model and goal-conditioned value function.","last_words":"code is available at https://github.com/martius-lab/zilot."}
+{"id":"q0447","llm_basis":"yes","confidence":"medium","note":"\"two vision-language-based modules (VLM), AnalyzerVLM and EvaluatorVLM ... in an agentic way\" plan and execute analyses.","last_words":"roles in discovering favorable models."}
+{"id":"q1366","llm_basis":"yes","confidence":"high","note":"\"Grounding Language Models as Efficient Decision-Making Agents\", \"LLM policies\".","last_words":"along with enhanced generalization capabilities."}
+{"id":"q1572","llm_basis":"no","confidence":"high","note":"Visual deep RL agents with MoE backbone for robot manipulation.","last_words":"videos are available at https://suninghuang19.github.io/mentor_page/."}
+{"id":"q1694","llm_basis":"no","confidence":"high","note":"Combinatorial semi-bandit learner.","last_words":"time, with strong theoretical guarantees."}
+{"id":"q0831","llm_basis":"no","confidence":"high","note":"Online strategic RL with information asymmetry, theoretical learner.","last_words":"tight sample complexity of $\\tilde{O}(1/\\epsilon^2)$."}
+{"id":"q1201","llm_basis":"no","confidence":"high","note":"Deep continual RL on Gym, ProcGen, DMC.","last_words":"Control Suite, and MinAtar benchmarks."}
+{"id":"q0273","llm_basis":"yes","confidence":"high","note":"\"transferring ... task-solving behavior from LLM-based agents into sLMs with retrieval and code tools\".","last_words":"building practical, tool-using small agents."}
+{"id":"q0111","llm_basis":"no","confidence":"medium","note":"The agent is a KL-regularized contextual bandit/RL learner analysed theoretically; LLMs only motivate (\"RL fine-tuning for large language models\").","last_words":"a similar logarithmic regret bound."}
+{"id":"q0843","llm_basis":"yes","confidence":"high","note":"\"enables LLM-based agents to autonomously evolve their capabilities\".","last_words":"next-generation autonomous, privacy-respecting multi-agent ecosystems."}
+{"id":"q0773","llm_basis":"na","confidence":"low","note":"GUI agent \"7B-parameter model\" compared with UI-TARS-72B, but the abstract never says a language or vision-language model drives it.","last_words":"particularly in high-resolution, complex environments."}
+{"id":"q0536","llm_basis":"yes","confidence":"high","note":"\"leverages multiple LLM agents\", \"a team of small LLMs\".","last_words":"and other multi-LLM collaboration methods."}
+{"id":"q2011","llm_basis":"no","confidence":"high","note":"Batched linear bandit algorithm.","last_words":"superiority in batched linear bandits."}
+{"id":"q0617","llm_basis":"yes","confidence":"medium","note":"\"A Perception Agent, which leverages vision-language models ... to analyze the input image and make a tailored restoration plan\".","last_words":"models, and results at: https://4kagent.github.io."}
+{"id":"q1807","llm_basis":"na","confidence":"medium","note":"Benchmarks for \"AI agents\" (SWE-bench-Verified, tau-bench) but the abstract never states a language model drives them.","last_words":"reduces performance overestimation by 33%."}
+{"id":"q1744","llm_basis":"no","confidence":"high","note":"Imitation learning with world model and reward model, compared to Diffusion Policies.","last_words":"code is available at [https://github.com/arnavkj1995/SAILOR](https://github.com/arnavkj1995/SAILOR)."}
+{"id":"q0752","llm_basis":"yes","confidence":"high","note":"\"Abstract Counterfactuals for Language Model Agents\".","last_words":"both token-level and latent-space interventions."}
+{"id":"q1509","llm_basis":"no","confidence":"high","note":"Robust Markov games MARL with game-theoretic solutions.","last_words":"of the uncertainty set formulation."}
+{"id":"q0786","llm_basis":"no","confidence":"medium","note":"LLM only generates behaviors and reward functions for teammates; agents are MARL policies (\"translates it into a reward function to train a teammate policy\").","last_words":"code is available at https://github.com/lilh76/SemDiv."}
+{"id":"q0970","llm_basis":"yes","confidence":"high","note":"\"efficient LLM-based multi-agent systems\".","last_words":"Code is available at https://github.com/FastMAS/KVCOMM."}
+{"id":"q0728","llm_basis":"yes","confidence":"high","note":"\"MLLM-based agents\" as computer-use agents.","last_words":"for developing trustworthy computer-use agents."}
+{"id":"q1966","llm_basis":"no","confidence":"high","note":"Actor-critic RL theory.","last_words":"experiments support our theoretical findings."}
+{"id":"q1058","llm_basis":"no","confidence":"high","note":"Policy optimization in online MDPs.","last_words":"factor of $H^2 S^5 A^2$."}
+{"id":"q1704","llm_basis":"yes","confidence":"high","note":"\"Embodied agents equipped with large language models\", \"LLM-based zero-shot ObjNav\".","last_words":"code is available on https://github.com/PKU-SEC-Lab/EfficientNav."}
+{"id":"q0522","llm_basis":"no","confidence":"high","note":"JAX re-implementation of MiniGrid RL environments.","last_words":"more scalable RL model development."}
+{"id":"q0457","llm_basis":"yes","confidence":"high","note":"\"the first LLM-based agent aiming at automating the building of executable test environments\".","last_words":"Repo2Run are available at https://github.com/bytedance/Repo2Run."}
+{"id":"q1430","llm_basis":"yes","confidence":"high","note":"\"the LLM decides what to retrieve (thinking), triggers an external retriever\".","last_words":"scenarios, to facilitate future work."}
+{"id":"q0257","llm_basis":"no","confidence":"high","note":"RL reward shaping, Montezuma's Revenge.","last_words":"environments where other methods struggle."}
+{"id":"q1924","llm_basis":"yes","confidence":"high","note":"\"adaptive self-improvement agentic system that enables LLMs to perform such complex reasoning\".","last_words":"over a baseline single LLM."}
+{"id":"q1904","llm_basis":"yes","confidence":"high","note":"\"multi-LLM coordination\", \"each LLM independently selects responses\".","last_words":"is publicly available at: https://github.com/tmlr-group/ECON."}
+{"id":"q1312","llm_basis":"no","confidence":"high","note":"Model-based RL in Monitored MDPs.","last_words":"some rewards are never observable."}
+{"id":"q0597","llm_basis":"yes","confidence":"high","note":"\"World Model-based LLM Agents\", \"an LLM agent as an efficient look-ahead optimizer\".","last_words":"rate after only 4 iterations."}
+{"id":"q1991","llm_basis":"no","confidence":"high","note":"Learning in games with delayed feedback, OFTRL.","last_words":"and strengthened by our experiments."}
+{"id":"q1693","llm_basis":"no","confidence":"high","note":"\"reinforcement learning agent equipped with a Transformer-based architecture\" for quantum circuits, not a language model.","last_words":"utilizing a simple linear model."}
+{"id":"q1534","llm_basis":"no","confidence":"high","note":"Mean field control MARL on sparse graphs.","last_words":"solve class of MARL problems."}
+{"id":"q1380","llm_basis":"no","confidence":"high","note":"Decoder-only Transformer for driving motion tasks, not a language model.","last_words":"scalable solution for autonomous driving."}
+{"id":"q0017","llm_basis":"yes","confidence":"high","note":"\"an LLM-based agent, RepoAudit\".","last_words":"have open-sourced RepoAudit at https://github.com/PurCL/RepoAudit."}
+{"id":"q0430","llm_basis":"no","confidence":"high","note":"\"training RL agents directly from high-level task specifications\" (Reward Machines).","last_words":"in pretraining—while non-compositional approaches fail."}
+{"id":"q1761","llm_basis":"no","confidence":"high","note":"Principal-agent bandit game with learning agents.","last_words":"improving upon their $\\widetilde{O}(T^{\\frac{11}{12}})$ bound."}
+{"id":"q1391","llm_basis":"no","confidence":"high","note":"Mean Field Games with TRPO.","last_words":"to solving complex multi-agent problems."}
+{"id":"q1237","llm_basis":"no","confidence":"high","note":"\"dual-agent reinforcement learning system\" for optimizer design.","last_words":"provide DesignX's Python project at~\\url{https://github.com/MetaEvo/DesignX}."}
+{"id":"q1308","llm_basis":"no","confidence":"high","note":"Robust MDP theory.","last_words":"for $L_1$-normed non-rectangular robust MDPs."}
+{"id":"q1393","llm_basis":"yes","confidence":"high","note":"\"a minimax agent powered by Large Language Models (LLMs)\".","last_words":"and dataset are available online."}
+{"id":"q0980","llm_basis":"no","confidence":"high","note":"Continual model-based RL agent with generative rehearsal.","last_words":"in various continual learning scenarios."}
+{"id":"q1513","llm_basis":"no","confidence":"high","note":"Robust offline RL theory.","last_words":"efficiency compared to baseline methods."}
+{"id":"q0614","llm_basis":"no","confidence":"high","note":"Distributionally robust MARL for chute mapping.","last_words":"80% in the simulation scenario."}
+{"id":"q1877","llm_basis":"yes","confidence":"high","note":"\"developing and evaluating LLM/VLM agents\", deploys \"frontier LLM agents (e.g., Gemini-2.5-Flash, Claude-3.5, GPT-4o)\".","last_words":"the most up-to-date information: http://simworld.org/."}
+{"id":"q0590","llm_basis":"no","confidence":"high","note":"\"transformer-based policies\" trained with RL on embodied tasks, no language model.","last_words":"truncated to fit inference constraints."}
+{"id":"q0217","llm_basis":"no","confidence":"high","note":"Stochastic linear bandit regret bounds.","last_words":"reduce the dependence on $d$."}
+{"id":"q0544","llm_basis":"no","confidence":"high","note":"Non-stationary multi-armed bandits.","last_words":"capturing the degree of non-stationarity."}
+{"id":"q0354","llm_basis":"no","confidence":"high","note":"Robot control policy learning from human videos, no language model.","last_words":"fine-grained manipulation skills like insertion."}
+{"id":"q0406","llm_basis":"no","confidence":"high","note":"Incentivized exploration with self-interested agents in a linear bandit model.","last_words":"the dimension and other parameters."}
+{"id":"q1707","llm_basis":"yes","confidence":"medium","note":"\"agentic video understanding framework\" built on \"large vision-language models (LVLMs)\".","last_words":"versatility of the proposed framework."}
+{"id":"q1194","llm_basis":"yes","confidence":"high","note":"\"Securing LLM Agents\", agents interacting with tools.","last_words":"code is released at https://github.com/SaFoLab-WISC/DRIFT."}
+{"id":"q0331","llm_basis":"yes","confidence":"high","note":"\"Large Language Models (LLMs) have demonstrated impressive capabilities as intelligent agents\", benchmark for \"open-weight and proprietary large language models\".","last_words":"reason in complex, tool-dependent scenarios."}
+{"id":"q1719","llm_basis":"yes","confidence":"high","note":"\"reasoning capabilities of Large Language Models (LLMs) ... through agentic frameworks\" drive AI-Researcher.","last_words":"solution spaces beyond cognitive limitations."}
+{"id":"q0497","llm_basis":"yes","confidence":"high","note":"\"an LLM-based multi-agent system\".","last_words":"agentic systems for cloud reliability."}
+{"id":"q0992","llm_basis":"yes","confidence":"high","note":"\"Language model agents are poised to mediate how people navigate and act online\".","last_words":"prevents platforms from foreclosing competition."}
+{"id":"q1853","llm_basis":"no","confidence":"high","note":"Federated Q-learning in tabular MDPs.","last_words":"from the $\\log T$ term."}
+{"id":"q0296","llm_basis":"no","confidence":"high","note":"RL with memory traces in partially observable environments.","last_words":"both value prediction and control."}
+{"id":"q0448","llm_basis":"no","confidence":"high","note":"Exploration in RL via Laplacian representations.","last_words":"directed domains with varying structures."}
+{"id":"q1692","llm_basis":"yes","confidence":"high","note":"\"autotelic LLM agents\", \"LLM agents trained with online RL\".","last_words":"learning to open-ended goal spaces."}

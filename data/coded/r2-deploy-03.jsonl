@@ -1,0 +1,21 @@
+{"id": "d004", "reach": "internal", "vendor_layer": "yes", "confidence": "medium", "quote": "routing them to Ignitis Group employees responsible for those areas"}
+{"id": "d011", "reach": "internal", "vendor_layer": "yes", "confidence": "medium", "quote": "processes PDF invoices from email, automatically detecting and routing mismatches for correction around the clock"}
+{"id": "d020", "reach": "internal", "vendor_layer": "yes", "confidence": "medium", "quote": "One internal agent, for example, helps new hires find the templates and historical context they need"}
+{"id": "d025", "reach": "counterparty", "vendor_layer": "yes", "confidence": "high", "quote": "a customer-facing agent embedded on the company’s website"}
+{"id": "d030", "reach": "internal", "vendor_layer": "yes", "confidence": "medium", "quote": "enabling the agent to read from and write to those systems"}
+{"id": "d038", "reach": "internal", "vendor_layer": "yes", "confidence": "high", "quote": "sends a message via Power Automate flow that creates the ticket in a Power App application which works as the internal CRM system"}
+{"id": "d047", "reach": "counterparty", "vendor_layer": "yes", "confidence": "high", "quote": "three Copilot Studio agents for customer self-service"}
+{"id": "d054", "reach": "counterparty", "vendor_layer": "yes", "confidence": "high", "quote": "AI-powered agents help customers resolve common issues on their own"}
+{"id": "d059", "reach": "counterparty", "vendor_layer": "yes", "confidence": "high", "quote": "a single agent for customers that could guide product discovery"}
+{"id": "d068", "reach": "internal", "vendor_layer": "yes", "confidence": "medium", "quote": "designed to support its strategic activities"}
+{"id": "d073", "reach": "counterparty", "vendor_layer": "yes", "confidence": "high", "quote": "offers guided shopping and customer service in one conversation"}
+{"id": "d080", "reach": "counterparty", "vendor_layer": "yes", "confidence": "high", "quote": "enables autonomous communication with suppliers and vendors"}
+{"id": "d090", "reach": "internal", "vendor_layer": "yes", "confidence": "high", "quote": "seven internal applications running on older .NET Frameworks"}
+{"id": "d095", "reach": "internal", "vendor_layer": "yes", "confidence": "medium", "quote": "A supplier agent reads contracts"}
+{"id": "d102", "reach": "internal", "vendor_layer": "yes", "confidence": "medium", "quote": "creates a draft sales order"}
+{"id": "d113", "reach": "counterparty", "vendor_layer": "yes", "confidence": "high", "quote": "help organizations maintain resilience"}
+{"id": "d120", "reach": "counterparty", "vendor_layer": "yes", "confidence": "high", "quote": "Agentforce autonomously answers verification questions, resolves issues, and handles administrative tasks"}
+{"id": "d131", "reach": "counterparty", "vendor_layer": "yes", "confidence": "high", "quote": "autonomously take action to assist customers with routine requests"}
+{"id": "d139", "reach": "counterparty", "vendor_layer": "yes", "confidence": "high", "quote": "acts as a digital concierge called “Anna,” which customers access from the company’s website"}
+{"id": "d144", "reach": "counterparty", "vendor_layer": "yes", "confidence": "medium", "quote": "Generates a composed email and form for the insurance provider"}
+{"id": "d152", "reach": "counterparty", "vendor_layer": "yes", "confidence": "medium", "quote": "manage voice and digital conversations end-to-end"}

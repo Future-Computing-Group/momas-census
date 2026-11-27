@@ -1,0 +1,1002 @@
+[
+ {
+  "cluster": "C1",
+  "label": "Perdomo et al. 2020, Performative prediction",
+  "doi_tried": "10.48550/arxiv.2002.06673",
+  "how": "doi",
+  "openalex": "W3034367601",
+  "oa_title": "Performative Prediction",
+  "oa_year": 2020,
+  "cited_by": 118
+ },
+ {
+  "cluster": "C1",
+  "label": "Hardt et al. 2016, Strategic classification",
+  "doi_tried": "10.1145/2840728.2840730",
+  "how": "doi",
+  "openalex": "W2913525780",
+  "oa_title": "Strategic Classification",
+  "oa_year": 2016,
+  "cited_by": 292
+ },
+ {
+  "cluster": "C1",
+  "label": "Mendler-Dunner et al. 2020, Stochastic optimization for PP",
+  "doi_tried": "10.48550/arxiv.2006.06887",
+  "how": "doi",
+  "openalex": "W3035048992",
+  "oa_title": "Stochastic Optimization for Performative Prediction",
+  "oa_year": 2020,
+  "cited_by": 30
+ },
+ {
+  "cluster": "C1",
+  "label": "Miller, Perdomo, Zrnic 2021, Outside the echo chamber",
+  "doi_tried": "10.48550/arxiv.2102.08570",
+  "how": "doi",
+  "openalex": "W3130512562",
+  "oa_title": "Outside the Echo Chamber: Optimizing the Performative Risk",
+  "oa_year": 2021,
+  "cited_by": 30
+ },
+ {
+  "cluster": "C1",
+  "label": "Jagadeesan et al. 2021, Alternative microfoundations",
+  "doi_tried": "10.48550/arxiv.2106.12705",
+  "how": "doi",
+  "openalex": "W3171333981",
+  "oa_title": "Alternative Microfoundations for Strategic Classification",
+  "oa_year": 2021,
+  "cited_by": 5
+ },
+ {
+  "cluster": "C1",
+  "label": "Brown, Hod, Kalemaj 2022, PP in a stateful world",
+  "doi_tried": "10.48550/arxiv.2011.03885",
+  "how": "doi",
+  "openalex": "W3099382994",
+  "oa_title": "Performative Prediction in a Stateful World",
+  "oa_year": 2020,
+  "cited_by": 27
+ },
+ {
+  "cluster": "C1",
+  "label": "Hardt, Jagadeesan, Mendler-Dunner 2022, Performative power",
+  "doi_tried": "10.48550/arxiv.2203.17232",
+  "how": "doi",
+  "openalex": "W4297806505",
+  "oa_title": "Performative Power",
+  "oa_year": 2022,
+  "cited_by": 33
+ },
+ {
+  "cluster": "C1",
+  "label": "Zrnic et al. 2021, Who leads and who follows",
+  "doi_tried": "10.48550/arxiv.2106.12529",
+  "how": "doi",
+  "openalex": "W3177232297",
+  "oa_title": "Who Leads and Who Follows in Strategic Classification?",
+  "oa_year": 2021,
+  "cited_by": 11
+ },
+ {
+  "cluster": "C2",
+  "label": "Hernandez-Leal et al. 2017, non-stationarity survey",
+  "doi_tried": "10.48550/arxiv.1707.09183",
+  "how": "doi",
+  "openalex": "W2740377041",
+  "oa_title": "A Survey of Learning in Multiagent Environments: Dealing with Non-Stationarity",
+  "oa_year": 2017,
+  "cited_by": 347
+ },
+ {
+  "cluster": "C2",
+  "label": "Foerster et al. 2018, LOLA",
+  "doi_tried": "10.48550/arxiv.1709.04326",
+  "how": "doi",
+  "openalex": "W2753984105",
+  "oa_title": "Learning with Opponent-Learning Awareness",
+  "oa_year": 2018,
+  "cited_by": 334
+ },
+ {
+  "cluster": "C2",
+  "label": "Kim et al. 2021, Meta-MAPG",
+  "doi_tried": "10.48550/arxiv.2011.00382",
+  "how": "doi",
+  "openalex": "W3170834283",
+  "oa_title": "A Policy Gradient Algorithm for Learning to Learn in Multiagent Reinforcement Learning",
+  "oa_year": 2020,
+  "cited_by": 25
+ },
+ {
+  "cluster": "C2",
+  "label": "Lu et al. 2022, M-FOS",
+  "doi_tried": "10.48550/arxiv.2205.01447",
+  "how": "doi",
+  "openalex": "W4229059695",
+  "oa_title": "Model-Free Opponent Shaping",
+  "oa_year": 2022,
+  "cited_by": 14
+ },
+ {
+  "cluster": "C2",
+  "label": "Lowe et al. 2017, MADDPG",
+  "doi_tried": "10.48550/arxiv.1706.02275",
+  "how": "doi",
+  "openalex": "W2623431351",
+  "oa_title": "Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments",
+  "oa_year": 2017,
+  "cited_by": 3711
+ },
+ {
+  "cluster": "C2",
+  "label": "Papoudakis et al. 2019, non-stationarity in MARL",
+  "doi_tried": "10.48550/arxiv.1906.04737",
+  "how": "doi",
+  "openalex": "W2949464762",
+  "oa_title": "Dealing with Non-Stationarity in Multi-Agent Deep Reinforcement Learning",
+  "oa_year": 2019,
+  "cited_by": 239
+ },
+ {
+  "cluster": "C2",
+  "label": "Panait and Luke 2005, cooperative MAL",
+  "doi_tried": "10.1007/s10458-005-2631-2",
+  "how": "doi",
+  "openalex": "W2107544712",
+  "oa_title": "Cooperative Multi-Agent Learning: The State of the Art",
+  "oa_year": 2005,
+  "cited_by": 1276
+ },
+ {
+  "cluster": "C3",
+  "label": "Deng, Schneider, Sivan 2019, Strategizing vs no-regret",
+  "doi_tried": "10.48550/arxiv.1909.13861",
+  "how": "doi",
+  "openalex": "W2970365960",
+  "oa_title": "Strategizing against No-regret Learners",
+  "oa_year": 2019,
+  "cited_by": 17
+ },
+ {
+  "cluster": "C3",
+  "label": "Braverman et al. 2018, Selling to a no-regret buyer",
+  "doi_tried": "10.1145/3219166.3219233",
+  "how": "doi",
+  "openalex": "W2769863042",
+  "oa_title": "Selling to a No-Regret Buyer",
+  "oa_year": 2018,
+  "cited_by": 60
+ },
+ {
+  "cluster": "C3",
+  "label": "Banchio and Skrzypacz 2022, AI and auction design",
+  "doi_tried": "10.1145/3490486.3538244",
+  "how": "doi",
+  "openalex": "W4285092461",
+  "oa_title": "Artificial Intelligence and Auction Design",
+  "oa_year": 2022,
+  "cited_by": 35
+ },
+ {
+  "cluster": "C3",
+  "label": "Arora, Dekel, Tewari 2012, adaptive adversary",
+  "doi_tried": "10.48550/arxiv.1206.6400",
+  "how": "doi",
+  "openalex": "W2101379030",
+  "oa_title": "Online Bandit Learning against an Adaptive Adversary: from Regret to Policy Regret",
+  "oa_year": 2012,
+  "cited_by": 150
+ },
+ {
+  "cluster": "C3",
+  "label": "Hart and Mas-Colell 2003, Uncoupled dynamics",
+  "doi_tried": "10.1257/000282803322655581",
+  "how": "doi",
+  "openalex": "W2124666512",
+  "oa_title": "Uncoupled Dynamics Do Not Lead to Nash Equilibrium",
+  "oa_year": 2003,
+  "cited_by": 363
+ },
+ {
+  "cluster": "C3",
+  "label": "Arunachaleswaran et al. 2024, Pareto-optimal algorithms",
+  "doi_tried": "10.48550/arxiv.2402.09549",
+  "how": "doi",
+  "openalex": "W4405464720",
+  "oa_title": "Pareto-Optimal Algorithms for Learning in Games",
+  "oa_year": 2024,
+  "cited_by": 14
+ },
+ {
+  "cluster": "C3",
+  "label": "Zhang et al. 2023, Steering no-regret learners",
+  "doi_tried": "10.48550/arxiv.2306.05221",
+  "how": "doi",
+  "openalex": "W4405487188",
+  "oa_title": "Steering No-Regret Learners to a Desired Equilibrium",
+  "oa_year": 2024,
+  "cited_by": 23
+ },
+ {
+  "cluster": "C3",
+  "label": "Shoham, Powers, Grenager 2007, If MAL is the answer",
+  "doi_tried": "10.1016/j.artint.2006.02.006",
+  "how": "doi",
+  "openalex": "W2156194062",
+  "oa_title": "If multi-agent learning is the answer, what is the question?",
+  "oa_year": 2007,
+  "cited_by": 431
+ },
+ {
+  "cluster": "C4",
+  "label": "Hammond et al. 2025, Multi-agent risks",
+  "doi_tried": "10.48550/arxiv.2502.14143",
+  "how": "doi",
+  "openalex": "W4407806359",
+  "oa_title": "Multi-Agent Risks from Advanced AI",
+  "oa_year": 2025,
+  "cited_by": 303
+ },
+ {
+  "cluster": "C4",
+  "label": "Leibo et al. 2019, Autocurricula",
+  "doi_tried": "10.48550/arxiv.1903.00742",
+  "how": "doi",
+  "openalex": "W2920700222",
+  "oa_title": "Autocurricula and the Emergence of Innovation from Social Interaction: A Manifesto for Multi-Agent Intelligence Research",
+  "oa_year": 2019,
+  "cited_by": 149
+ },
+ {
+  "cluster": "C4",
+  "label": "Carroll et al. 2022, induced preference shifts",
+  "doi_tried": "10.48550/arxiv.2204.11966",
+  "how": "doi",
+  "openalex": "W4224979542",
+  "oa_title": "Estimating and Penalizing Induced Preference Shifts in Recommender Systems",
+  "oa_year": 2022,
+  "cited_by": 18
+ },
+ {
+  "cluster": "C4",
+  "label": "Mirsky et al. 2022, ad hoc teamwork survey",
+  "doi_tried": "10.48550/arxiv.2202.10450",
+  "how": "doi",
+  "openalex": "W4312867245",
+  "oa_title": "A Survey of Ad Hoc Teamwork Research",
+  "oa_year": 2022,
+  "cited_by": 69
+ },
+ {
+  "cluster": "C4",
+  "label": "Stone et al. 2010, Ad hoc autonomous agent teams",
+  "doi_tried": "10.1609/aaai.v24i1.7529",
+  "how": "doi",
+  "openalex": "W1606056663",
+  "oa_title": "Ad Hoc Autonomous Agent Teams: Collaboration without Pre-Coordination",
+  "oa_year": 2010,
+  "cited_by": 350
+ },
+ {
+  "cluster": "C4",
+  "label": "Zheng et al. 2022, AI Economist",
+  "doi_tried": "10.1126/sciadv.abk2607",
+  "how": "doi",
+  "openalex": "W4228997196",
+  "oa_title": "The AI Economist: Taxation policy design via two-level deep multiagent reinforcement learning",
+  "oa_year": 2022,
+  "cited_by": 146
+ },
+ {
+  "cluster": "C4",
+  "label": "Sourbut, Hammond, Wood 2024, delegation games",
+  "doi_tried": "10.48550/arxiv.2402.15821",
+  "how": "doi",
+  "openalex": "W4392223779",
+  "oa_title": "Cooperation and Control in Delegation Games",
+  "oa_year": 2024,
+  "cited_by": 2
+ },
+ {
+  "cluster": "C5",
+  "label": "Shumailov et al. 2024, AI models collapse (Nature version of the 2023 arXiv paper)",
+  "doi_tried": "10.1038/s41586-024-07566-y",
+  "how": "doi",
+  "openalex": "W4400949264",
+  "oa_title": "AI models collapse when trained on recursively generated data",
+  "oa_year": 2024,
+  "cited_by": 1778
+ },
+ {
+  "cluster": "C5",
+  "label": "Gerstgrasser et al. 2024, Is model collapse inevitable",
+  "doi_tried": "10.48550/arxiv.2404.01413",
+  "how": "doi",
+  "openalex": "W4393924649",
+  "oa_title": "Is Model Collapse Inevitable? Breaking the Curse of Recursion by Accumulating Real and Synthetic Data",
+  "oa_year": 2024,
+  "cited_by": 195
+ },
+ {
+  "cluster": "C5",
+  "label": "Bertrand et al. 2024, iterative retraining stability",
+  "doi_tried": "10.48550/arxiv.2310.00429",
+  "how": "doi",
+  "openalex": "W4387355018",
+  "oa_title": "On the Stability of Iterative Retraining of Generative Models on their own Data",
+  "oa_year": 2023,
+  "cited_by": 55
+ },
+ {
+  "cluster": "C5",
+  "label": "Taori and Hashimoto 2023, Data feedback loops",
+  "doi_tried": "10.48550/arxiv.2209.03942",
+  "how": "doi",
+  "openalex": "W4295123801",
+  "oa_title": "Data Feedback Loops: Model-driven Amplification of Dataset Biases",
+  "oa_year": 2022,
+  "cited_by": 24
+ },
+ {
+  "cluster": "C5",
+  "label": "Ensign et al. 2018, Runaway feedback loops",
+  "doi_tried": "10.48550/arxiv.1706.09847",
+  "how": "doi",
+  "openalex": "W2726816714",
+  "oa_title": "Runaway Feedback Loops in Predictive Policing",
+  "oa_year": 2017,
+  "cited_by": 209
+ },
+ {
+  "cluster": "C5",
+  "label": "Chaney et al. 2018, Algorithmic confounding",
+  "doi_tried": "10.1145/3240323.3240370",
+  "how": "doi",
+  "openalex": "W2765564115",
+  "oa_title": "How algorithmic confounding in recommendation systems increases homogeneity and decreases utility",
+  "oa_year": 2018,
+  "cited_by": 415
+ },
+ {
+  "cluster": "C5",
+  "label": "Jiang et al. 2019, Degenerate feedback loops",
+  "doi_tried": "10.1145/3306618.3314288",
+  "how": "doi",
+  "openalex": "W2917760808",
+  "oa_title": "Degenerate Feedback Loops in Recommender Systems",
+  "oa_year": 2019,
+  "cited_by": 270
+ },
+ {
+  "cluster": "C5",
+  "label": "Brennan et al. 2023, Symbiosis bias in A/B tests",
+  "doi_tried": "10.48550/arxiv.2309.07107",
+  "how": "doi",
+  "openalex": "W4410088881",
+  "oa_title": "Reducing Symbiosis Bias through Better A/B Tests of Recommendation Algorithms",
+  "oa_year": 2025,
+  "cited_by": 8
+ },
+ {
+  "cluster": "C6",
+  "label": "Lucas 1976, Econometric policy evaluation",
+  "doi_tried": "10.1016/s0167-2231(76)80003-6",
+  "how": "doi",
+  "openalex": "W2070720254",
+  "oa_title": "Econometric policy evaluation: A critique",
+  "oa_year": 1976,
+  "cited_by": 6175
+ },
+ {
+  "cluster": "C6",
+  "label": "Marcet and Sargent 1989, least squares learning",
+  "doi_tried": "10.1016/0022-0531(89)90123-0",
+  "how": "title-search",
+  "openalex": "W2003830355",
+  "oa_title": "Convergence of least squares learning mechanisms in self-referential linear stochastic models",
+  "oa_year": 1989,
+  "cited_by": 853
+ },
+ {
+  "cluster": "C6",
+  "label": "Evans and Honkapohja 2003, optimal monetary policies",
+  "doi_tried": "10.1111/1467-937x.00270",
+  "how": "title-search",
+  "openalex": "W3124882988",
+  "oa_title": "Expectations and the Stability Problem for Optimal Monetary Policies",
+  "oa_year": 2003,
+  "cited_by": 331
+ },
+ {
+  "cluster": "C6",
+  "label": "Cho, Williams, Sargent 2002, Escaping Nash inflation",
+  "doi_tried": "10.1111/1467-937x.00196",
+  "how": "doi",
+  "openalex": "W3124614318",
+  "oa_title": "Escaping Nash Inflation",
+  "oa_year": 2002,
+  "cited_by": 199
+ },
+ {
+  "cluster": "C6",
+  "label": "Esponda and Pouzo 2016, Berk-Nash equilibrium",
+  "doi_tried": "10.3982/ecta12609",
+  "how": "doi",
+  "openalex": "W1790902864",
+  "oa_title": "Berk-Nash Equilibrium: A Framework for Modeling Agents With Misspecified Models",
+  "oa_year": 2016,
+  "cited_by": 197
+ },
+ {
+  "cluster": "C6",
+  "label": "Bolton and Harris 1999, Strategic experimentation",
+  "doi_tried": "10.1111/1468-0262.00022",
+  "how": "doi",
+  "openalex": "W4254875572",
+  "oa_title": "Strategic Experimentation",
+  "oa_year": 1999,
+  "cited_by": 447
+ },
+ {
+  "cluster": "C6",
+  "label": "Keller, Rady, Cripps 2005, exponential bandits",
+  "doi_tried": "10.1111/j.1468-0262.2005.00564.x",
+  "how": "doi",
+  "openalex": "W3123810580",
+  "oa_title": "Strategic Experimentation with Exponential Bandits",
+  "oa_year": 2004,
+  "cited_by": 449
+ },
+ {
+  "cluster": "C6",
+  "label": "Fudenberg and Levine 1993, Self-confirming equilibrium",
+  "doi_tried": "10.2307/2951716",
+  "how": "doi",
+  "openalex": "W2174806087",
+  "oa_title": "Self-Confirming Equilibrium",
+  "oa_year": 1993,
+  "cited_by": 511
+ },
+ {
+  "cluster": "C7",
+  "label": "Forssell and Ljung 1999, Closed-loop identification revisited",
+  "doi_tried": "10.1016/s0005-1098(99)00022-9",
+  "how": "doi",
+  "openalex": "W1998440482",
+  "oa_title": "Closed-loop identification revisited",
+  "oa_year": 1999,
+  "cited_by": 763
+ },
+ {
+  "cluster": "C7",
+  "label": "Gevers 2005, Identification for control",
+  "doi_tried": "10.3166/ejc.11.335-352",
+  "how": "doi",
+  "openalex": "W2018691083",
+  "oa_title": "Identification for Control: From the Early Achievements to the Revival of Experiment Design*",
+  "oa_year": 2005,
+  "cited_by": 338
+ },
+ {
+  "cluster": "C7",
+  "label": "Bombois et al. 2006, Least costly identification",
+  "doi_tried": "10.1016/j.automatica.2006.05.016",
+  "how": "doi",
+  "openalex": "W2139341823",
+  "oa_title": "Least costly identification experiment for control",
+  "oa_year": 2006,
+  "cited_by": 241
+ },
+ {
+  "cluster": "C7",
+  "label": "Rojas et al. 2007, Robust optimal experiment design",
+  "doi_tried": "10.1016/j.automatica.2006.12.013",
+  "how": "doi",
+  "openalex": "W2144351691",
+  "oa_title": "Robust optimal experiment design for system identification",
+  "oa_year": 2007,
+  "cited_by": 211
+ },
+ {
+  "cluster": "C7",
+  "label": "Weerts, Van den Hof, Dankers 2018, network identifiability",
+  "doi_tried": "10.1016/j.automatica.2017.12.013",
+  "how": "doi",
+  "openalex": "W2593163465",
+  "oa_title": "Identifiability of linear dynamic networks",
+  "oa_year": 2017,
+  "cited_by": 88
+ },
+ {
+  "cluster": "C7",
+  "label": "Hendrickx, Gevers, Bazanella 2019, partial node measurements",
+  "doi_tried": "10.1109/tac.2018.2867336",
+  "how": "doi",
+  "openalex": "W2793571563",
+  "oa_title": "Identifiability of Dynamical Networks With Partial Node Measurements",
+  "oa_year": 2018,
+  "cited_by": 80
+ },
+ {
+  "cluster": "C7",
+  "label": "Cheng, Shi, Van den Hof 2022, allocation of excitation",
+  "doi_tried": "10.1109/tac.2021.3063237",
+  "how": "title-search",
+  "openalex": "W2980082154",
+  "oa_title": "Allocation of Excitation Signals for Generic Identifiability of Linear Dynamic Networks",
+  "oa_year": 2021,
+  "cited_by": 21
+ },
+ {
+  "cluster": "C7",
+  "label": "van Waarde et al. 2020, Data informativity",
+  "doi_tried": "10.1109/tac.2019.2959924",
+  "how": "title-search",
+  "openalex": "W2965027687",
+  "oa_title": "Data Informativity: A New Perspective on Data-Driven Analysis and Control",
+  "oa_year": 2020,
+  "cited_by": 549
+ },
+ {
+  "cluster": "F1",
+  "label": "Pedreschi, Ruggieri, Turini 2008, Discrimination-aware data mining",
+  "doi_tried": "10.1145/1401890.1401959",
+  "how": "doi",
+  "openalex": "W2026019770",
+  "oa_title": "Discrimination-aware data mining",
+  "oa_year": 2008,
+  "cited_by": 729
+ },
+ {
+  "cluster": "F1",
+  "label": "Kamiran and Calders 2012, Data preprocessing without discrimination",
+  "doi_tried": "10.1007/s10115-011-0463-8",
+  "how": "doi",
+  "openalex": "W2116984840",
+  "oa_title": "Data preprocessing techniques for classification without discrimination",
+  "oa_year": 2011,
+  "cited_by": 1443
+ },
+ {
+  "cluster": "F2",
+  "label": "Dwork et al. 2012, Fairness through awareness",
+  "doi_tried": "10.1145/2090236.2090255",
+  "how": "doi",
+  "openalex": "W2100960835",
+  "oa_title": "Fairness through awareness",
+  "oa_year": 2012,
+  "cited_by": 3848
+ },
+ {
+  "cluster": "F2",
+  "label": "Zemel et al. 2013, Learning fair representations",
+  "doi_tried": null,
+  "how": "title-search",
+  "openalex": "W2162670686",
+  "oa_title": "Learning Fair Representations",
+  "oa_year": 2013,
+  "cited_by": 1155
+ },
+ {
+  "cluster": "F3",
+  "label": "Barocas and Selbst 2016, Big data's disparate impact",
+  "doi_tried": "10.15779/z38bg31",
+  "how": "doi",
+  "openalex": "W3123374861",
+  "oa_title": "Big Data's Disparate Impact",
+  "oa_year": 2014,
+  "cited_by": 3513
+ },
+ {
+  "cluster": "F3",
+  "label": "Sweeney 2013, Discrimination in online ad delivery",
+  "doi_tried": "10.1145/2460276.2460278",
+  "how": "doi",
+  "openalex": "W2953001331",
+  "oa_title": "Discrimination in Online Ad Delivery",
+  "oa_year": 2013,
+  "cited_by": 574
+ },
+ {
+  "cluster": "R1",
+  "label": "Myerson 1981, Optimal auction design",
+  "doi_tried": "10.1287/moor.6.1.58",
+  "how": "doi",
+  "openalex": "W2029050771",
+  "oa_title": "Optimal Auction Design",
+  "oa_year": 1981,
+  "cited_by": 5899
+ },
+ {
+  "cluster": "R1",
+  "label": "Myerson and Satterthwaite 1983, Efficient mechanisms for bilateral trading",
+  "doi_tried": "10.1016/0022-0531(83)90048-0",
+  "how": "doi",
+  "openalex": "W2087530244",
+  "oa_title": "Efficient mechanisms for bilateral trading",
+  "oa_year": 1983,
+  "cited_by": 2488
+ },
+ {
+  "cluster": "R1",
+  "label": "Myerson 1983, Mechanism design by an informed principal",
+  "doi_tried": "10.2307/1912116",
+  "how": "doi",
+  "openalex": "W2002849158",
+  "oa_title": "Mechanism Design by an Informed Principal",
+  "oa_year": 1983,
+  "cited_by": 429
+ },
+ {
+  "cluster": "R1",
+  "label": "McAfee 1993, Mechanism design by competing sellers",
+  "doi_tried": "10.2307/2951643",
+  "how": "doi",
+  "openalex": "W2157518489",
+  "oa_title": "Mechanism Design by Competing Sellers",
+  "oa_year": 1993,
+  "cited_by": 380
+ },
+ {
+  "cluster": "R1",
+  "label": "Vickrey 1961, Counterspeculation, auctions, and competitive sealed tenders",
+  "doi_tried": "10.1111/j.1540-6261.1961.tb02789.x",
+  "how": "doi",
+  "openalex": "W2015007620",
+  "oa_title": "COUNTERSPECULATION, AUCTIONS, AND COMPETITIVE SEALED TENDERS",
+  "oa_year": 1961,
+  "cited_by": 7737
+ },
+ {
+  "cluster": "R1",
+  "label": "Nisan and Ronen 2001, Algorithmic mechanism design (GEB)",
+  "doi_tried": "10.1006/game.1999.0790",
+  "how": "doi",
+  "openalex": "W2012634103",
+  "oa_title": "Algorithmic Mechanism Design",
+  "oa_year": 2001,
+  "cited_by": 1361
+ },
+ {
+  "cluster": "R1",
+  "label": "Dutting et al. 2024, Optimal auctions through deep learning",
+  "doi_tried": "10.1145/3630749",
+  "how": "doi",
+  "openalex": "W4388596127",
+  "oa_title": "Optimal Auctions through Deep Learning: Advances in Differentiable Economics",
+  "oa_year": 2023,
+  "cited_by": 89
+ },
+ {
+  "cluster": "R2",
+  "label": "Lamport, Shostak, Pease 1982, The Byzantine generals problem",
+  "doi_tried": "10.1145/357172.357176",
+  "how": "doi",
+  "openalex": "W3137092842",
+  "oa_title": "The Byzantine Generals Problem",
+  "oa_year": 1982,
+  "cited_by": 6294
+ },
+ {
+  "cluster": "R2",
+  "label": "Dwork, Lynch, Stockmeyer 1988, Consensus under partial synchrony",
+  "doi_tried": "10.1145/42282.42283",
+  "how": "doi",
+  "openalex": "W2003214215",
+  "oa_title": "Consensus in the presence of partial synchrony",
+  "oa_year": 1988,
+  "cited_by": 2024
+ },
+ {
+  "cluster": "R2",
+  "label": "Castro and Liskov 2002, PBFT and proactive recovery",
+  "doi_tried": "10.1145/571637.571640",
+  "how": "doi",
+  "openalex": "W2114579022",
+  "oa_title": "Practical byzantine fault tolerance and proactive recovery",
+  "oa_year": 2002,
+  "cited_by": 2587
+ },
+ {
+  "cluster": "R2",
+  "label": "Fischer, Lynch, Paterson 1985, Impossibility of consensus",
+  "doi_tried": "10.1145/3149.214121",
+  "how": "doi",
+  "openalex": "W2035362408",
+  "oa_title": "Impossibility of distributed consensus with one faulty process",
+  "oa_year": 1985,
+  "cited_by": 4753
+ },
+ {
+  "cluster": "R2",
+  "label": "Shneidman and Parkes 2004, Specification faithfulness",
+  "doi_tried": "10.1145/1011767.1011781",
+  "how": "doi",
+  "openalex": "W2040940409",
+  "oa_title": "Specification faithfulness in networks with rational nodes",
+  "oa_year": 2004,
+  "cited_by": 84
+ },
+ {
+  "cluster": "R2",
+  "label": "Abraham, Dolev, Gonen, Halpern 2006, Distributed computing meets game theory",
+  "doi_tried": "10.1145/1146381.1146393",
+  "how": "doi",
+  "openalex": "W2077734015",
+  "oa_title": "Distributed computing meets game theory",
+  "oa_year": 2006,
+  "cited_by": 349
+ },
+ {
+  "cluster": "R2",
+  "label": "Aiyer et al. 2005, BAR fault tolerance",
+  "doi_tried": "10.1145/1095810.1095816",
+  "how": "doi",
+  "openalex": "W4236798639",
+  "oa_title": "BAR fault tolerance for cooperative services",
+  "oa_year": 2005,
+  "cited_by": 155
+ },
+ {
+  "cluster": "R3",
+  "label": "Kolt 2025, Governing AI agents (SSRN record)",
+  "doi_tried": "10.2139/ssrn.4772956",
+  "how": "doi",
+  "openalex": "W4394828430",
+  "oa_title": "Governing AI Agents",
+  "oa_year": 2024,
+  "cited_by": 139
+ },
+ {
+  "cluster": "R3",
+  "label": "Pasquale 2015, The Black Box Society",
+  "doi_tried": "10.4159/harvard.9780674736061",
+  "how": "doi",
+  "openalex": "W3157172840",
+  "oa_title": "The Black Box Society",
+  "oa_year": 2015,
+  "cited_by": 3983
+ },
+ {
+  "cluster": "R3",
+  "label": "Chopra and White 2011, A legal theory for autonomous artificial agents",
+  "doi_tried": "10.3998/mpub.356801",
+  "how": "doi",
+  "openalex": "W653546271",
+  "oa_title": "A Legal Theory for Autonomous Artificial Agents",
+  "oa_year": 2011,
+  "cited_by": 251
+ },
+ {
+  "cluster": "R3",
+  "label": "Harrington 2018, Competition law for collusion by autonomous agents",
+  "doi_tried": "10.1093/joclec/nhy016",
+  "how": "doi",
+  "openalex": "W2909858546",
+  "oa_title": "DEVELOPING COMPETITION LAW FOR COLLUSION BY AUTONOMOUS ARTIFICIAL AGENTS\u2020",
+  "oa_year": 2017,
+  "cited_by": 166
+ },
+ {
+  "cluster": "R3",
+  "label": "Ezrachi and Stucke 2016, Virtual Competition",
+  "doi_tried": "10.4159/9780674973336",
+  "how": "doi",
+  "openalex": "W4250057676",
+  "oa_title": "Virtual Competition",
+  "oa_year": 2016,
+  "cited_by": 304
+ },
+ {
+  "cluster": "R3",
+  "label": "Cobbe, Veale, Singh 2023, Accountability in algorithmic supply chains",
+  "doi_tried": "10.1145/3593013.3594073",
+  "how": "doi",
+  "openalex": "W4367628156",
+  "oa_title": "Understanding accountability in algorithmic supply chains",
+  "oa_year": 2023,
+  "cited_by": 191
+ },
+ {
+  "cluster": "R3",
+  "label": "Wachter, Mittelstadt, Floridi 2017, No right to explanation in the GDPR (SSRN record)",
+  "doi_tried": "10.2139/ssrn.2903469",
+  "how": "doi",
+  "openalex": "W3124443940",
+  "oa_title": "Why a Right to Explanation of Automated Decision-Making Does Not Exist in the General Data Protection Regulation",
+  "oa_year": 2016,
+  "cited_by": 1875
+ },
+ {
+  "cluster": "R4",
+  "label": "Buthe and Mattli 2011, The New Global Rulers",
+  "doi_tried": "10.23943/princeton/9780691144795.001.0001",
+  "how": "doi",
+  "openalex": "W2274887581",
+  "oa_title": "The New Global Rulers",
+  "oa_year": 2011,
+  "cited_by": 435
+ },
+ {
+  "cluster": "R4",
+  "label": "Mattli and Buthe 2003, Setting international standards",
+  "doi_tried": "10.1353/wp.2004.0006",
+  "how": "doi",
+  "openalex": "W2001125730",
+  "oa_title": "Setting International Standards: Technological Rationality or Primacy of Power?",
+  "oa_year": 2003,
+  "cited_by": 473
+ },
+ {
+  "cluster": "R4",
+  "label": "Abbott and Snidal 2009, The governance triangle",
+  "doi_tried": "10.2307/j.ctt7rgmj.6",
+  "how": "doi",
+  "openalex": "W2501415256",
+  "oa_title": "CHAPTER TWO. The Governance Triangle: Regulatory Standards Institutions and the Shadow of the State",
+  "oa_year": 2009,
+  "cited_by": 473
+ },
+ {
+  "cluster": "R4",
+  "label": "Buthe 2010, Private regulation in the global economy",
+  "doi_tried": "10.2202/1469-3569.1328",
+  "how": "doi",
+  "openalex": "W203245201",
+  "oa_title": "Private Regulation in the Global Economy: A (P)Review",
+  "oa_year": 2010,
+  "cited_by": 203
+ },
+ {
+  "cluster": "R4",
+  "label": "Bradford 2020, The Brussels Effect",
+  "doi_tried": "10.1093/oso/9780190088583.001.0001",
+  "how": "doi",
+  "openalex": "W3124473989",
+  "oa_title": "The Brussels Effect",
+  "oa_year": 2019,
+  "cited_by": 1669
+ },
+ {
+  "cluster": "R4",
+  "label": "Drezner 2004, The global governance of the Internet",
+  "doi_tried": "10.2307/20202392",
+  "how": "doi",
+  "openalex": "W2012785533",
+  "oa_title": "The Global Governance of the Internet: Bringing the State Back in",
+  "oa_year": 2004,
+  "cited_by": 221
+ },
+ {
+  "cluster": "R4",
+  "label": "Taeihagh 2021, Governance of artificial intelligence",
+  "doi_tried": "10.1080/14494035.2021.1928377",
+  "how": "doi",
+  "openalex": "W3166943242",
+  "oa_title": "Governance of artificial intelligence",
+  "oa_year": 2021,
+  "cited_by": 741
+ },
+ {
+  "cluster": "R4",
+  "label": "Ulnicane et al. 2021, Framing governance for a contested emerging technology",
+  "doi_tried": "10.1080/14494035.2020.1855800",
+  "how": "doi",
+  "openalex": "W3116658655",
+  "oa_title": "Framing governance for a contested emerging technology:insights from AI policy",
+  "oa_year": 2020,
+  "cited_by": 282
+ },
+ {
+  "cluster": "R2",
+  "label": "Saltzer, Reed, Clark 1984, End-to-end arguments (architectures)",
+  "doi_tried": "10.1145/357401.357402",
+  "how": "doi",
+  "openalex": "W238861864",
+  "oa_title": "End-to-end arguments in system design",
+  "oa_year": 1984,
+  "cited_by": 2198
+ },
+ {
+  "cluster": "R2",
+  "label": "Barham et al. 2003, Xen and the art of virtualization (processes)",
+  "doi_tried": "10.1145/945445.945462",
+  "how": "doi",
+  "openalex": "W4244704438",
+  "oa_title": "Xen and the art of virtualization",
+  "oa_year": 2003,
+  "cited_by": 2201
+ },
+ {
+  "cluster": "R2",
+  "label": "Birrell and Nelson 1984, Implementing remote procedure calls (communication)",
+  "doi_tried": "10.1145/2080.357392",
+  "how": "doi",
+  "openalex": "W2106035061",
+  "oa_title": "Implementing remote procedure calls",
+  "oa_year": 1984,
+  "cited_by": 1852
+ },
+ {
+  "cluster": "R2",
+  "label": "Lamport 1978, Time, clocks, and the ordering of events (coordination)",
+  "doi_tried": "10.1145/359545.359563",
+  "how": "doi",
+  "openalex": "W3137220996",
+  "oa_title": "Time, clocks, and the ordering of events in a distributed system",
+  "oa_year": 1978,
+  "cited_by": 8796
+ },
+ {
+  "cluster": "R2",
+  "label": "Chandy and Lamport 1985, Distributed snapshots (coordination)",
+  "doi_tried": "10.1145/214451.214456",
+  "how": "doi",
+  "openalex": "W2131053137",
+  "oa_title": "Distributed snapshots",
+  "oa_year": 1985,
+  "cited_by": 2493
+ },
+ {
+  "cluster": "R2",
+  "label": "Stoica et al. 2001, Chord (naming)",
+  "doi_tried": "10.1145/383059.383071",
+  "how": "doi",
+  "openalex": "W2158049821",
+  "oa_title": "Chord",
+  "oa_year": 2001,
+  "cited_by": 9693
+ },
+ {
+  "cluster": "R2",
+  "label": "Mockapetris and Dunlap 1988, Development of the domain name system (naming)",
+  "doi_tried": "10.1145/52324.52338",
+  "how": "doi",
+  "openalex": "W4205883304",
+  "oa_title": "Development of the domain name system",
+  "oa_year": 1988,
+  "cited_by": 170
+ },
+ {
+  "cluster": "R2",
+  "label": "Gilbert and Lynch 2002, Brewer's conjecture (CAP) (consistency and replication)",
+  "doi_tried": "10.1145/564585.564601",
+  "how": "doi",
+  "openalex": "W2054584570",
+  "oa_title": "Brewer's conjecture and the feasibility of consistent, available, partition-tolerant web services",
+  "oa_year": 2002,
+  "cited_by": 1937
+ },
+ {
+  "cluster": "R2",
+  "label": "Herlihy and Wing 1990, Linearizability (consistency and replication)",
+  "doi_tried": "10.1145/78969.78972",
+  "how": "doi",
+  "openalex": "W2101939036",
+  "oa_title": "Linearizability: a correctness condition for concurrent objects",
+  "oa_year": 1990,
+  "cited_by": 3339
+ },
+ {
+  "cluster": "R2",
+  "label": "Needham and Schroeder 1978, Using encryption for authentication (security)",
+  "doi_tried": "10.1145/359657.359659",
+  "how": "doi",
+  "openalex": "W2146973388",
+  "oa_title": "Using encryption for authentication in large networks of computers",
+  "oa_year": 1978,
+  "cited_by": 2409
+ },
+ {
+  "cluster": "R2",
+  "label": "Burrows, Abadi, Needham 1990, A logic of authentication (security)",
+  "doi_tried": "10.1145/77648.77649",
+  "how": "doi",
+  "openalex": "W2010939995",
+  "oa_title": "A logic of authentication",
+  "oa_year": 1990,
+  "cited_by": 2738
+ }
+]

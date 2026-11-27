@@ -1,0 +1,277 @@
+[
+{
+"id": "x00120",
+"title": "Extreme Points in Multi-Dimensional Screening",
+"abstract": "Multi-dimensional mechanism design problems stand out as some of the most difficult problems in contemporary economic theory. Despite their clear importance in applications and more than four decades of research in economics and computer science, they remain poorly understood."
+},
+{
+"id": "x00149",
+"title": "Match Made with Matrix Completion: Efficient Offline and Online Learning in Matching Markets",
+"abstract": "Online matching markets face increasing needs to accurately learn the matching qualities between demand and supply for effective design of matching policies. However, the growing diversity of participants introduces a high-dimensional challenge in practice, as there are a substantial number of unknown matching rewards and learning all rewards requires a large amount of data. We leverage a natural low-rank matrix structure of the matching rewards in these two-sided markets, and propose to utilize matrix completion (specifically the nuclear norm regularization approach) to accelerate the reward learning process with only a small amount of offline data. A key challenge in our setting is that the matrix entries are observed with matching interference, distinct from the independent sampling assumed in existing matrix completion literature. We propose a new proof technique and prove a near-optimal average accuracy guarantee with improved dependence on the matrix dimensions. Furthermore, to guide matching decisions, we develop a novel \"double-enhancement\" procedure that refines the nuclear norm regularized estimates and further provides near-optimal entry-wise estimations. Our paper makes the first investigation into adopting matrix completion techniques for matching problems. We also extend our approach to online learning settings for optimal matching and stable matching by incorporating matrix completion in multi-armed bandit algorithms. We present improved regret bounds in matrix dimensions through reduced costs during the exploration phase. Finally, we demonstrate the practical value of our methods using both synthetic data and real data of labor markets."
+},
+{
+"id": "x00369",
+"title": "Dynamic Resource Allocation with Recovering Rewards under Non-Stationary Arrivals",
+"abstract": "In many resource allocation settings, the value derived from resources depends on their usage history, with resources that have sufficient recovery or idle periods between allocations often providing greater utility or reward. This paper studies a resource allocation problem in which resource rewards recover over time following each use. Motivated by settings such as content recommendation, service platforms, and renewable energy management, we consider a dynamic matching problem with non-stationary arrivals, where customer types and matching preferences vary over time. Each arriving customer must be immediately and irrevocably matched to a resource or lost. The reward from matching a resource is non-decreasing in the time since its previous use. The goal is to maximize the expected reward collected from all arrivals over a finite time horizon."
+},
+{
+"id": "x00731",
+"title": "Robust Dynamic Staffing with Predictions",
+"abstract": "Motivated by the challenges in last-mile delivery operations, we consider a natural dynamic staffing problem in which a decision-maker sequentially hires staff over a finite time horizon to meet an unknown target demand at the end. The decision-maker also receives a sequence of predictions about the demand that become increasingly more accurate over time. Consequently, the decision-maker prefers to delay hiring decisions to avoid overstaffing. However, workers' availability decreases over time, resulting in a fundamental trade-off between securing staff early (thus risking overstaffing) versus hiring later based on more accurate predictions (but risking understaffing)."
+},
+{
+"id": "x00735",
+"title": "Algorithmic Robust Forecast Aggregation",
+"abstract": "Forecast aggregation combines the predictions of multiple forecasters to improve accuracy. However, the lack of knowledge about forecasters' information structure hinders optimal aggregation. Given a family of information structures, robust forecast aggregation aims to find the aggregator with minimal worst-case regret compared to the omniscient aggregator. Previous approaches for robust forecast aggregation rely on heuristic observations and parameter tuning. We propose an algorithmic framework for robust forecast aggregation. Our framework provides efficient approximation schemes for general information aggregation with a finite family of possible information structures. In the setting considered by Arieli et al. [2018] where two agents receive independent signals conditioned on a binary state, our framework also provides efficient approximation schemes by imposing Lipschitz conditions on the aggregator or discrete conditions on agents' reports. Numerical experiments demonstrate the effectiveness of our method by providing a nearly optimal aggregator in the setting considered by Arieli et al. [2018]."
+},
+{
+"id": "x01002",
+"title": "Admissibility of Completely Randomized Trials: A Large-Deviation Approach",
+"abstract": "When an experimenter has the option of running an adaptive trial, is it admissible to ignore this option and run a non-adaptive trial instead? We provide a negative answer to this question in the best-arm identification problem, where the experimenter aims to allocate measurement efforts judiciously to confidently deploy the most effective treatment arm. We find that, whenever there are at least three treatment arms, there exist simple adaptive designs that universally and strictly dominate non-adaptive completely randomized trials. This dominance is characterized by a notion called efficiency exponent, which quantifies a design's statistical efficiency when the experimental sample is large. Our analysis focuses on the class of batched arm elimination designs, which progressively eliminate underperforming arms at pre-specified batch intervals. We characterize simple sufficient conditions under which these designs universally and strictly dominate completely randomized trials. These results resolve the second open problem posed in Qin [2022]. The full version of this paper is available at https://arxiv.org/pdf/2506.05329."
+},
+{
+"id": "x01338",
+"title": "Robust Committee Voting, or The Other Side of Representation",
+"abstract": "We study approval-based committee voting from a novel perspective. While extant work largely centers around proportional representation of the voters, we shift our focus to the candidates while preserving proportionality. Intuitively, candidates supported by similar voter groups should receive comparable representation. Since deterministic voting rules cannot achieve this ideal, we develop randomized voting rules that satisfy ex-ante neutrality, monotonicity, and continuity, while maintaining strong ex-post proportionality guarantees."
+},
+{
+"id": "x01423",
+"title": "Rationalizing Path-Independent Choice Rules",
+"abstract": "Path independence is arguably one of the most important choice rule properties in economic theory. We show that a choice rule is path independent if and only if it is rationalizable by a utility function satisfying ordinal concavity, a concept closely related to concavity notions in discrete mathematics. We also provide a rationalization result for choice rules that satisfy path independence and the law of aggregate demand. A full version is available at https://arxiv.org/abs/2303.00892."
+},
+{
+"id": "x01431",
+"title": "Markets for Models",
+"abstract": "Prediction problems are ubiquitous in the economy. To give a few examples, firms selling products often want to predict customers' willingness to pay and may use business analytics tools to do so. In science and engineering, researchers want to predict the viability of compounds in domains ranging from drug discovery to materials science. Campaigns and observers want to predict elections, and may commission polls to do so."
+},
+{
+"id": "x02122",
+"title": "Managing Cybersecurity: Data Access & Protection",
+"abstract": "Digital businesses are increasingly adopting data-sharing practices, granting employees broader access to internal datasets to improve operational efficiency. Yet, many organizations may be sharing too much: a recent survey found that 33% of firms give employees access to all company data, and another 35% grant more access than is strictly necessary for their roles. Such overexposure increases cybersecurity risk, particularly when adversaries exploit employee access (e.g., through phishing attacks). Such overexposure exposes firms to cybersecurity risks such as data breaches"
+},
+{
+"id": "x02631",
+"title": "Beating the Logarithmic Barrier for the Subadditive Maximin Share Problem",
+"abstract": "We study the problem of fair allocation of indivisible goods for subadditive agents. While constant-MMS bounds have been given for additive and fractionally subadditive agents, the best existential bound for the case of subadditive agents is 1/O(log n log log n). In this work, we improve this bound to a 1/O((log log n)2)-MMS guarantee. To this end, we introduce new matching techniques and rounding methods for subadditive valuations that we believe are of independent interest and will find their applications in future work."
+},
+{
+"id": "x02970",
+"title": "Does Firm Size Influence the Collection of Sensitive Data?: A Study of Child-Orientated Apps",
+"abstract": "How does firm size affect the privacy protections offered to customers? On the one hand, it could be that larger firms use their size to amass more data. On the other hand, smaller firms may be less careful in their data protection practices, because they have a different perception of risk. Using data from the Google Play Store over a three-year period, we explore this empirical question in the U.S. children's app market. Our findings indicate that larger app developers consistently implement stronger privacy protections, requesting less sensitive data compared to smaller developers. These results hold across empirical approaches, including instrumental variables and the propensity-score matching approach. Additionally, our analysis shows that mergers between developers and sudden increases in size of the user-bases of the product are associated with reduced data collection. We show that newly created and updated apps produced by large developers collect less data compared to existing apps. Our findings indicate a trend toward standardized privacy practices across different national regulatory regimes. This research highlights the potential for growth-driven improvements in data privacy practices among app developers, regardless of their regulatory context."
+},
+{
+"id": "x03186",
+"title": "Tournament Robustness via Redundancy",
+"abstract": "A knockout tournament is one of the most simple and popular forms of competition. Here, we are a given binary tournament tree where all leaves are labeled with seed position names. The players participating in the tournament are assigned to the seed positions. In each round, the two players assigned to leaves of the tournament tree with a common parent compete, and the winner is promoted to the parent. The last remaining player is the winner of the tournament."
+},
+{
+"id": "x03303",
+"title": "Constructive Blackwell\u2019s Theorem",
+"abstract": "Blackwell's celebrated theorem is a cornerstone of information economics, establishing a necessary and sufficient condition for when a distribution F of posterior means can be induced from a prior G: namely, if and only if F majorizes G. While this result provides a deep understanding of the structure of feasible belief distributions, it is non-constructive and does not explain how to design a signal that achieves a given F."
+},
+{
+"id": "x03306",
+"title": "The Transfer Performance of Economic Models",
+"abstract": "Economists routinely make predictions in environments where data is unavailable, relying on evidence from related but distinct contexts. For example, an economist at a development agency may need to predict diffusion of microfinance takeup in one Indian village given data on diffusion in others. Or an economist at an insurance company may need to predict willingness-to-pay for certain insurance plans given data on willingness-to-pay for others."
+},
+{
+"id": "x03529",
+"title": "Latent Neural Coupling of Risk and Time Preferences in LLMs Mirrors Human Biases",
+"abstract": "Large language models (LLMs) now stand in for human decision makers in many settings, but it is unclear whether their choices arise from structured internal representations or surface-level pattern matching\u2014and whether the economic preferences they express are correlated as in humans. We address these questions by analyzing three canonical preference domains - risk, time, and social - across several current LLMs."
+},
+{
+"id": "x03625",
+"title": "Externally Valid Selection of Experimental Sites via the k-Median Problem",
+"abstract": "We present a decision-theoretic justification for viewing the question of how to best choose where to experiment in order to optimize external validity as a k-median (clustering) problem, a popular problem in computer science and operations research. We present conditions under which minimizing the worst-case, welfare-based regret among all nonrandom schemes that select k sites to experiment is approximately equal\u2014and sometimes exactly equal\u2014to finding the k most central vectors of baseline site-level covariates. The k-median problem can be formulated as a linear integer program. Two empirical applications illustrate the theoretical and computational benefits of the suggested procedure."
+},
+{
+"id": "x03779",
+"title": "Human Learning about AI",
+"abstract": "Beliefs about the performance of new technologies strongly condition their usage. Among new technologies, artificial intelligence (AI)\u2014and in particular LLMs\u2014stand out because they can be used for extremely diverse sets of tasks. This versatility, however, complicates the problem of learning about AI capabilities, especially since the technological frontier created by AI is often \"jagged\": among seemingly similar tasks, AI can vastly out-perform humans on some, yet under-perform on others. Inaccurate perceptions of performance could lead to productivity losses, if AI is used for tasks on which it performs poorly."
+},
+{
+"id": "x03968",
+"title": "Identifying Restrictions on the Random Utility Model",
+"abstract": "We study identifying assumptions in the random utility model, the standard empirical paradigm in modern economics. Our main result characterizes those ex-ante restrictions which lead to identification. Our characterization utilizes a simple class of mass preserving swaps. These swaps take in two preferences which share a common upper and lower contour set but disagree on their ordering within these two sets. The output of this procedure is two preferences which are created by swapping the matching between the ordering of the upper and lower contour sets of the two input preferences. Any two distributions over preferences are observationally equivalent if and only if one can be recovered from the other by a finite sequences of such swaps. It follows that a random utility model is identified if it does not contain any two such distributions over preferences."
+},
+{
+"id": "x03983",
+"title": "Forward-backward Contention Resolution Schemes for Fair Rationing",
+"abstract": "We use contention resolution schemes (CRS) to derive algorithms for the fair rationing of a single resource when agents have stochastic demands. We aim to provide ex-ante guarantees on the level of service provided to each agent, who may measure service in different ways (Type-I, II, or III), calling for CRS under different feasibility constraints (rank-1 matroid or knapsack). We are particularly interested in two-order CRS where the agents are equally likely to arrive in a known forward order or its reverse, which is motivated by online rationing at food banks. Indeed, for a mobile pantry driving along cities to ration food, it is equally efficient to drive that route in reverse on half of the days, and we show that doing so significantly improves the service guarantees that are possible, being more \"fair\" to the cities at the back of the route."
+},
+{
+"id": "x04610",
+"title": "A Stochastic Growth Model for Online Platforms",
+"abstract": "Motivated by applications in online marketplaces, we propose a growth model of platforms operating as market markers in two-sided matching markets, such as between service providers and customers. The growth of these platforms, often dubbed the \"chicken and egg dilemma\" in the literature, poses an inherent challenge; service providers find value in joining the platform due to the presence of customers, while customers are drawn to the platform by the availability of diverse services. This endogenous network effect, created by the two sides of the market, influences the growth trajectory and propels emerging platforms towards \"get big fast\" strategies to rapidly achieve critical mass on both sides."
+},
+{
+"id": "x05056",
+"title": "Online Envy Minimization and Multicolor Discrepancy: Equivalences and Separations",
+"abstract": "We consider the fundamental problem of allocating T indivisible items that arrive over time to n agents with additive preferences, with the goal of minimizing envy. This problem is tightly connected to the online multicolor discrepancy problem: vectors v1,...,vT \u2208 \u211dd with ||vi||2 \u2264 1 arrive online and must be, immediately and irrevocably, assigned to one of n colors to minimize [EQUATION] at each step, where S\u2113 is the set of vectors having color \u2113. The special case of n = 2 is called online vector balancing. It is known that envy minimization reduces to multicolor discrepancy minimization. For an adaptive adversary, both problems have the same optimal bound: [EQUATION]; it is not known, however, whether this matches for weaker adversaries. Against an oblivious adversary, Alweiss et al. [2021] give a bound of O (log T), with high probability, for online multicolor discrepancy. Recently, Kulkarni et al. [2024] improve this to a tight [EQUATION] bound for online vector balancing. However, it has remained an open problem whether a [EQUATION] bound is possible for multicolor discrepancy. Furthermore, these results imply the state-of-the-art upper bounds for online envy minimization (for an oblivious adversary) for n and two agents, respectively; it is open whether better bounds are possible. We resolve all the aforementioned open problems. We establish that online envy minimization is, in fact, equivalent to online multicolor discrepancy for oblivious adversary: we give an [EQUATION] bound, for multicolor discrepancy, and a lower bound of [EQUATION] for envy minimization, resolving both problems. For weaker adversaries we prove that the two problems are no longer equivalent. Against an i.i.d. adversary, for online vector balancing, we give a [EQUATION] lower bound, while for envy minimization, we give an algorithm that guarantees a constant upper bound. Full version: https://arxiv.org/abs/2502.14624."
+},
+{
+"id": "x05274",
+"title": "Human Misperception of Generative-AI Alignment: A Laboratory Experiment",
+"abstract": "We conduct an incentivized laboratory experiment to study people's perception of generative artificial intelligence (GenAI) alignment in the context of economic decision-making. Using a panel of economic problems spanning the domains of risk, time preference, social preference, and strategic interactions, we ask human subjects to make choices for themselves and to predict the choices made by GenAI on behalf of a human user. These problems confront agents with trade-offs (e.g., higher payoff vs. earlier payoff, efficiency vs. equity, riskier but potentially higher rewards vs. safer but lower rewards) and the optimal choices depend on the agent's preferences. We find that people overestimate the degree to which GenAI choices are aligned with human preferences in general (anthropomorphic projection), and with their personal references in particular (self projection). On average, human subjects' predictions about GenAI's choices in every decision environment are much closer to the average human-subject choice than to the average GenAI choice. At the individual level, human subjects' predictions about GenAI's choices in a given environment are highly correlated with their own choices in the same environment."
+},
+{
+"id": "x05508",
+"title": "A Quasi-Bayes Approach to Nonparametric Demand Estimation with Economic Constraints",
+"abstract": "This paper offers a new estimation approach for balancing statistical flexibility and economic regularity in structural econometric models. We focus our analysis on nonparametric demand systems for differentiated goods where such trade-offs are especially salient. Our framework is based on a quasi-Bayes model that transforms a sieve-based estimator of the inverse demand function into a quasi-likelihood, and then uses priors to regularize and enforce economic constraints. The induced quasi-posterior is defined over a complex domain which poses challenges for off-the-shelf sampling methods. We implement novel sampling procedures that (i) repose the heavily constrained target as the limit of a sequence of softly constrained targets, and then (ii) utilize Sequential Monte Carlo algorithms to push and filter samples through this sequence. We evaluate the performance of our approach using both simulations and retail scanner data. We find that our proposed quasi-Bayes framework can more effectively enforce constraints relative to previous methods and, by doing so, improves finite sample performance. Finally, we introduce an accompanying Julia package (NPDemand.jl) to help make nonparametric demand estimation more feasible in applied work."
+},
+{
+"id": "x05688",
+"title": "Epsilon-Minimax Solutions of Statistical Decision Problems via the Hedge Algorithm",
+"abstract": "We present an algorithm for obtaining \u03f5-minimax solutions of statistical decision problems. We are interested in problems where i) the statistician is allowed to choose randomly among I decision rules, and ii) the statistical model may have an infinite dimensional parameter space. The minimax solution of these problems admits a convex programming representation over the (I - 1)-simplex, and the algorithm suggested herein to obtain an \u03f5-approximation of the minimax solution is a version of mirror subgradient descent, initialized with uniform weights and stopped after a finite number of iterations. The resulting iterative procedure is known in the computer science literature as the hedge algorithm (a particular case of the multiplicative weights update method) and it is used in algorithmic game theory as a practical tool to find approximate solutions of two-person zero-sum games. We apply the suggested algorithm to different minimax problems in the econometrics literature. An empirical application to the problem of optimally selecting sites to maximize the external validity of an experimental policy evaluation illustrates the usefulness of the suggested procedure. The full paper can be found at https://joseluismontielolea.com/epsilon_minimax_v2.pdf."
+},
+{
+"id": "x05981",
+"title": "Visual Polarization Measurement Using Counterfactual Image Generation",
+"abstract": "Political polarization is a significant issue in American politics, influencing public discourse, policy, and consumer behavior. While studies on polarization in news media have extensively focused on verbal content, non-verbal elements, particularly visual content, have received less attention due to the complexity and high dimensionality of image data. Traditional descriptive approaches often rely on feature extraction from images, leading to biased polarization estimates due to information loss. In this paper, we introduce the Polarization Measurement using Counterfactual Image Generation (PMCIG) method, which combines economic theory with generative models and multi-modal deep learning to fully utilize the richness of image data and provide a theoretically grounded measure of polarization in visual content. Applying this framework to a decade-long dataset featuring 30 prominent politicians across 20 major news outlets, we identify significant polarization in visual content, with notable variations across outlets and politicians. At the news outlet level, we observe significant heterogeneity in visual slant. Outlets such as Daily Mail, Fox News, and Newsmax tend to favor Republican politicians in their visual content, while The Washington Post, USA Today, and The New York Times exhibit a slant in favor of Democratic politicians. At the politician level, our results reveal substantial variation in polarized coverage, with Donald Trump and Barack Obama among the most polarizing figures, while Joe Manchin and Susan Collins are among the least. Finally, we conduct a series of validation tests demonstrating the consistency of our proposed measures with external measures of media slant that rely on non-image-based sources."
+},
+{
+"id": "x06017",
+"title": "Regret Minimization for Piecewise Linear Rewards: Contracts, Auctions, and Beyond",
+"abstract": "Many microeconomic models involve optimizing a piecewise linear function, such as in contract design, posted-price auctions, and first-price auctions. When key parameters are unknown and stochastic, the task becomes learning to optimize an unknown piecewise linear reward function. This is typically cast as an online learning problem, where the goal is to minimize regret relative to the best fixed decision in hindsight."
+},
+{
+"id": "x06081",
+"title": "Minimization I.I.D. Prophet Inequality via Extreme Value Theory: A Unified Approach",
+"abstract": "The I.I.D. Prophet Inequality is a fundamental problem in optimal stopping theory where, given n independent random variables X1, ..., Xn drawn from a known distribution D, one has to decide at every step i whether to stop and accept Xi; or discard it forever and continue. The goal is to maximize (or minimize) the selected value and compete against the all-knowing prophet. For the maximization setting, a tight constant-competitive guarantee of \u2248 0.745 is well-known [Correa, Foncea, Hoeksma, Oosterwijk, Vredeveld, 2019], whereas the minimization setting is qualitatively different: the optimal constant is distribution-dependent and can be arbitrarily large [Livanos and Mehta, 2024]."
+},
+{
+"id": "x06199",
+"title": "Experiments in the Linear Convex Order",
+"abstract": "This paper proposes two rankings of statistical experiments based on the linear convex order, providing simpler and more tractable characterizations than Blackwell order, which relies on the convex order. We apply these rankings to compare statistical experiments in decision problems with a binary-action space and in decision problems that aggregate payoffs over a collection of binary-action decision problems. Furthermore, these rankings can be used to compare statistical experiments in moral hazard problems without requiring the first-order approach to be valid, thereby complementing the results in Holmstr\u00f6m (1979) and Kim (1995). The full paper is available at: https://arxiv.org/abs/2505.14639"
+},
+{
+"id": "x06453",
+"title": "Optimality of Non-Adaptive Algorithms in Online Submodular Welfare Maximization with Stochastic Outcomes",
+"abstract": "Simplicity Meets Optimality in Online Resource Allocation Online platforms frequently manage sequential allocation decisions where outcomes are uncertain, such as selecting which products to display to a user. While it is often assumed that complex \u201cadaptive\u201d algorithms\u2014those reacting to real-time feedback like user choices\u2014are necessary for optimal performance, Rajan Udwani\u2019s paper, \u201cOptimality of Nonadaptive Algorithms in Online Submodular Welfare Maximization with Stochastic Outcomes,\u201d challenges this assumption. The paper introduces a general framework and a \u201clifting\u201d technique that translates established results from deterministic settings to those involving stochastic outcomes. Using this framework, Udwani demonstrates that nonadaptive Greedy-like algorithms, which remain oblivious to specific outcome realizations, achieve the best possible competitive ratios across diverse settings and arrival models. The findings suggest that for a broad class of objectives, including submodular functions, adaptivity offers no theoretical advantage. This allows for the use of simpler, more robust algorithms in environments where outcomes may be delayed or difficult to monitor."
+},
+{
+"id": "x06501",
+"title": "Multidimensional Monotonicity and Economic Applications",
+"abstract": "We study the set of multidimensional monotone functions from [0, 1]n to [0, 1] as well as their one-dimensional marginals. We characterize the extreme points of these convex sets subject to finitely many linear constraints. These characterizations lead to new results in various mechanism design and information design problems, including public good provision with interdependent values; interim efficient bilateral trade mechanisms; asymmetric reduced form auctions; and optimal private private information structure. As another application, we also present a mechanism anti-equivalence theorem for two-agent, two-alternative social choice problems: A mechanism is payoff-equivalent to a deterministic DIC mechanism if and only if they are ex-post equivalent."
+},
+{
+"id": "x06556",
+"title": "Relative Monte Carlo for Reinforcement Learning",
+"abstract": "We propose and analyze a new policy gradient algorithm for reinforcement learning (RL), relative Monte Carlo (rMC). The method estimates policy gradients using relative returns between a root sample path and counterfactual simulated paths, instantiated by taking a different action from the root. The resulting gradient estimate is both unbiased and has low variance. rMC is compatible with any differentiable policy, including neural networks, and is guaranteed to converge even for infinite horizon tasks. The method utilizes common random number coupling of the simulated paths to reduce variance and increase the likelihood that paths merge, thereby reducing simulation complexity. It is particularly well suited to discrete event control problems where actions have a \"local\" effect, such as queueing, supply chain, or ride-hailing problems. Indeed, we show that it has provably low complexity for a family of inventory control problems. Numerical tests on a challenging inventory and fulfillment problem show that compared to traditional RL approaches, rMC converges in far fewer iterations (lower variance), has better policy performance (unbiased), and requires minimal hyperparameter tuning."
+},
+{
+"id": "x06750",
+"title": "Residual Prophet Inequalities",
+"abstract": "A typical goal for a gambler facing an online selection problem is to choose the best element, particularly in comparison to the best hindsight-optimal selection. This objective is nontrivial when there is high competition for top elements. For example, highly skilled job candidates are often recruited by top companies, leaving less competitive companies with the remaining candidates. This phenomenon introduces nontrivial correlations among the remaining candidates; hence, a gambler facing this problem with misaligned beliefs might act sub optimally if she expects a top element to still be available for selection. Motivated by these considerations, we introduce the residual prophet inequality (k-RPI) problem. In the k-RPI problem, we consider a finite sequence of n nonnegative independent random values with known distributions and a known integer 0 \u2264 k \u2264 n - 1. Before the gambler observes the sequence, the top k values are removed from the sequence whereas the remaining n - k values are streamed sequentially to the gambler. Upon observing a value, the gambler must decide irrevocably if to accept/reject a value without the possibility of revisiting past values. We study two variants of k-RPI, according to whether the gambler learns online of the identity of the variable that he sees (FI-model) or not (NI-model). Our main result is a randomized algorithm in the FI-model with competitive ratio of at least 1/(k + 2), which we show is tight. Our algorithm is data-driven and requires access only to the k + 1 largest values of a single sample from the n input distributions. In the NI-model, we provide a similar algorithm that guarantees a competitive ratio of 1/(2k + 2). We further analyze independent and identically distributed instances when k = 1. We build a single-threshold algorithm with a competitive ratio of at least 0.4901, and show that no single-threshold strategy can get a competitive ratio greater than 0.5464."
+},
+{
+"id": "x06856",
+"title": "Reproducing Kernel Hilbert Space Choice Model",
+"abstract": "Discrete choice models are fundamental for predicting how individuals select among alternatives based on their preferences and the attributes of the options. Traditional Random Utility Models assume stochastic rationality, often failing to capture context-dependent behavior\u2014where the presence of certain alternatives alters the perceived utility of others."
+},
+{
+"id": "x06867",
+"title": "When and what to learn in a changing world",
+"abstract": "The world is constantly changing, yet decision makers do not continuously update their worldview. When should one acquire new information and what should they learn? This paper develops a tractable framework to study the tradeoff between the timing and content of information acquisition. A decision maker sequentially choose times at which to acquire information (entailing a fixed cost) and what to learn (entailing a variable cost) about a changing state. I characterize optimal policies, using an appropriate Bellman equation that decomposes the problem into a static optimal information acquisition problem and an optimal stopping problem. Optimal information acquisition must eventually either stop or settle into a simple cycle in which information is acquired at regular intervals (when uncertainty reaches specific thresholds) and updates lead to two possible outcomes, captured by two target posterior beliefs. The convergence result enables the study of properties of long run optimal information acquisition. Optimal policies may exhibit path dependency in the form of \"learning traps\". The world becoming more volatile has generically ambiguous effects on the frequency of information acquisition. In the limit as fixed costs vanish, the agent optimally either waits or acquires infinitesimal amounts of information so as to confirm the current belief until rare news prompts a jump to an alternative belief; in the long run, the agent's belief jumps between two possible beliefs (and actions). In an application to a portfolio problem, optimal behavior exhibits continuous rebalancing towards diversification, punctuated by periodic shifts to more extreme allocations. With asymmetry between a safe and a risky action, optimal information acquisition can generate distortions between good and bad news, typically leading to better quality but more frequent updating for information which suggests undertaking risky actions."
+},
+{
+"id": "x07063",
+"title": "Information Design for Many Parameters",
+"abstract": "A stochastic mapping from states to signals induces a distribution over possible posteriors. For a variety of purposes one is interested in parameters of these posteriors, possibly multi-dimensional, such as their quartiles or whether they first-order stochastically dominate some given distribution. Many parameters of interest can be encoded by requiring the posterior at each signal lie point-wise between two given distributions. Given a collection of these bounding pairs, one for each signal, we characterize the set of posteriors that can be realized by some stochastic mapping of states to signals. We provide applications of this result to, among others, the design of securities, price, and statistical discrimination."
+},
+{
+"id": "x08372",
+"title": "Enhancing the Merger Simulation Toolkit with ML/AI",
+"abstract": "This paper develops a flexible approach to predict the price effects of horizontal mergers using ML/AI methods. While standard merger simulation techniques rely on restrictive assumptions about firm conduct, we propose a data-driven framework that relaxes these constraints when rich market data are available. We develop and identify a flexible nonparametric model of supply that nests a broad range of conduct models and cost functions. To overcome the curse of dimensionality, we adapt the Variational Method of Moments (VMM) [Bennett and Kallus, 2023] to estimate the model, allowing for various forms of strategic interaction. Monte Carlo simulations show that our method significantly outperforms an array of misspecified models and rivals the performance of the true model, both in predictive performance and counterfactual merger simulations. As a way to interpret the economics of the estimated function, we simulate pass-through and reveal that the model learns markup and cost functions that imply approximately correct pass-through behavior. Applied to the American Airlines-US Airways merger, our method produces more accurate post-merger price predictions than traditional approaches. The results demonstrate the potential for machine learning techniques to enhance merger analysis while maintaining economic structure."
+},
+{
+"id": "x08561",
+"title": "Optimizing Returns from Experimentation Programs",
+"abstract": "Experimentation in online digital platforms is often used to inform decision making. Specifically, the goal of many experiments is to optimize a metric of interest. Null hypothesis statistical testing can be ill-suited to this task, as it is indifferent to the magnitude of effect sizes and opportunity costs. Moreover, in practice, related experiments can often be grouped into portfolios called experimentation programs where the goal is to optimize a single metric. Past tests in an experimentation program inform useful priors on treatment effects. In these settings, we discuss how experimentation practice should change when the goal is optimization. We survey the literature on Bayesian and empirical Bayes analyses of A/B test portfolios, and single out the A/B Testing Problem [Azevedo et al., 2020] as a starting point, which treats experimentation as a constrained optimization problem. We emphasize that the framework can be implemented by appropriately tuning p-value thresholds, a result which seems under-utilized by practitioners. Furthermore, we develop several extensions of the A/B testing problem to managing multiple experimentation programs, managing a single program over time, and allowing units to be enrolled in multiple tests. Each of these can be solved by dynamic programming, and together they extend the utility of the framework in practice. We also consider the case of new experimentation programs without a strong prior on treatment effects. Finally, we discuss the implications of these results on experimentation programs in industry. For example, under no-cost assumptions, firms should be testing many more ideas, reducing test allocation sizes, and relaxing p-value thresholds away from p = 0.05. These results are exemplified with an application to data from Netflix experimentation programs. A draft of the paper may be found at https://arxiv.org/abs/2412.05508."
+},
+{
+"id": "x08905",
+"title": "Independence of Irrelevant Decisions in Stochastic Choice",
+"abstract": "We investigate stochasticity in choice behavior across diverse decisions. Each decision is modeled as a menu of actions with associated outcomes, and a stochastic choice rule assigns probabilities to actions based on the outcome profile. We characterize rules whose predictions are not affected by whether or not additional, irrelevant decisions are included in the model. Our main result is that such rules form the parametric family of mixed-logit rules."
+},
+{
+"id": "x09086",
+"title": "On Monotone Persuasion",
+"abstract": "We study monotone persuasion in the linear case, where posterior distributions over states are summarized by their mean. We develop a novel methodological approach to solve the two leading cases where optimal unrestricted signals can be nonmonotone. First, if the objective is s-shaped and the state is discrete, then optimal monotone signals are upper censorship, whereas optimal unrestricted signals may require randomization. Second, if the objective is m-shaped and the state is continuous, then optimal monotone signals are interval disclosure, whereas optimal unrestricted signals may require nonmonotone pooling. Unlike with unrestricted persuasion, the value of monotone persuasion can decrease with the informativeness of the prior. We illustrate our results with an application to media censorship."
+},
+{
+"id": "x09227",
+"title": "The Competition Complexity of Prophet Inequalities with Correlations",
+"abstract": "We initiate the study of the prophet inequality problem through the resource augmentation framework in scenarios when the values of the rewards are correlated. Our goal is to determine the number of additional rewards an online algorithm requires to approximate the maximum value of the original instance. While the independent reward case is well understood, we extend this research to account for correlations among rewards. Our results demonstrate that, unlike in the independent case, the required number of additional rewards for approximation depends on the number of original rewards, and that block-threshold algorithms, which are optimal in the independent case, may require an infinite number of additional rewards when correlations are present. We develop asymptotically optimal algorithms for the following three scenarios: (1) where rewards arrive in blocks corresponding to the different copies of the original instance; (2) where rewards across all copies are arbitrarily shuffled; and (3) where rewards arrive in blocks corresponding to the different copies of the original instance, and values within each block are pairwise independent rather than fully correlated."
+},
+{
+"id": "x09548",
+"title": "An Empirical Risk Minimization Approach for Offline Inverse Reinforcement Learning and Dynamic Discrete Choice Models",
+"abstract": "We study the problem of estimating Dynamic Discrete Choice (DDC) models, also known as offline Maximum Entropy-Regularized Inverse Reinforcement Learning (offline MaxEnt-IRL) in machine learning. The objective is to recover reward or Q functions that govern agent behavior from offline behavior data. In this paper, we propose a globally convergent gradient-based method for solving these problems without the restrictive assumption of linearly parameterized rewards. The novelty of our approach lies in introducing the Empirical Risk Minimization (ERM) based IRL/DDC framework, which circumvents the need for explicit state transition probability estimation in the Bellman equation. Furthermore, our method is compatible with non-parametric estimation techniques such as neural networks. Therefore, the proposed method has the potential to be scaled to high-dimensional, infinite state spaces. A key theoretical insight underlying our approach is that the Bellman residual satisfies the Polyak-\u0141ojasiewicz (PL) condition-a property that, while weaker than strong convexity, is sufficient to ensure fast global convergence guarantees. Through a series of synthetic experiments, we demonstrate that our approach consistently outperforms benchmark methods and state-of-the-art alternatives."
+},
+{
+"id": "x09617",
+"title": "Properties of Path-Independent Choice Correspondences and Their Applications to Efficient and Stable Matchings",
+"abstract": "Choice correspondences are crucial in decision-making, especially when faced with indifferences or ties. While tie-breaking can transform a choice correspondence into a choice function, it often introduces inefficiencies. This paper introduces a novel notion of path-independence (PI) for choice correspondences, extending the existing concept of PI for choice functions. Intuitively, a choice correspondence is PI if any consistent tie-breaking produces a PI choice function. This new notion yields several important properties. First, PI choice correspondences are rationalizabile, meaning they can be represented as the maximization of a utility function. This extends a core feature of PI in choice functions. Second, we demonstrate that the set of choices selected by a PI choice correspondence for any subset forms a generalized matroid. This property reveals that PI choice correspondences exhibit a nice structural property. Third, we establish that choice correspondences rationalized by ordinally concave functions inherently satisfy the PI condition. This aligns with recent findings that a choice function satisfies PI if and only if it can be rationalized by an ordinally concave function."
+},
+{
+"id": "x10023",
+"title": "Maximal Extractable Value in Batch Auctions",
+"abstract": "In the ever-evolving blockchain ecosystem, decentralized exchanges (DEXs) have seen significant growth, which, however, has also brought challenges of Maximal Extractable Value (MEV). DEXs offer a decentralized platform for cryptocurrency trading. Such trading mechanisms primarily include Constant Function Market Makers (CFMMs) and batch auctions."
+},
+{
+"id": "x10592",
+"title": "Differences-in-Neighbors for Network Interference in Experiments",
+"abstract": "Experiments in online platforms frequently suffer from network interference, where treatments applied to one unit affect outcomes of connected ones, violating the Stable Unit Treatment Value Assumption (SUTVA) and substantially biasing treatment effect estimations. A common solution is to cluster connected units and randomize treatments at the cluster level, typically followed by estimation using either a simple difference-in-means (DM) estimator, which ignores remaining interference and suffers from O(\u03b4) bias where \u03b4 measures interference strength; or the unbiased Horvitz-Thompson (HT) estimator, which eliminates bias through importance sampling but incurs exponentially high variance scaling with d, the maximum network degree. This fundamental limitation persists even with sophisticated clustering designs, creating narrow bias-variance tradeoffs often inadequate for practical applications."
+},
+{
+"id": "x11085",
+"title": "Explaining Models",
+"abstract": "We study when and how explanations of complex models can aid a decision maker (DM) whose payoff depends on a state of the world described by inputs and outputs. The DM cannot directly understand the true model linking inputs to outputs and must instead rely on an explanation from a class of simpler intelligible models. We analyze mappings from the infinite-dimensional space of possible true models to the finite-dimensional space of intelligible ones \u2014 what we call explainers \u2014 and focus on those that yield explanations which are robustly useful: that is, they allow the DM to improve their worst-case payoff across all models that are consistent with the explanation received."
+},
+{
+"id": "x11097",
+"title": "Revisiting Ranking for Online Bipartite Matching with Random Arrivals: the Primal-Dual Analysis",
+"abstract": "We revisit the celebrated Ranking algorithm by Karp, Vazirani, and Vazirani (STOC 1990) for online bipartite matching under the random arrival model, that is shown to be 0.696-competitive for unweighted graphs by Mahdian and Yan (STOC 2011) and 0.662-competitive for vertex-weighted graphs by Jin and Williamson (WINE 2021)."
+},
+{
+"id": "x11137",
+"title": "Distributed Load Balancing with Workload-Dependent Service Rates",
+"abstract": "In many real-world applications such as data centers and cloud computing, the systems often consist of multiple frontends (routers) that receive job requests and backends (servers) that process these jobs. Efficient resource management is becoming increasingly important given the growing demand for serving machine learning inference queries, which incur high latencies and require expensive computational resources."
+},
+{
+"id": "x11181",
+"title": "Distributionally Robust Newsvendor on a Metric",
+"abstract": "We consider a generalization of the classical newsvendor problem to a multi-location setting. A seller determines the initial inventory of a product across multiple locations on a metric. Then, the seller decides a fulfillment policy to satisfy uncertain demand that realizes sequentially over time. The goal is to minimize the expected inventory and shipping costs. To address the distributional ambiguity, we consider a distributionally robust model where only the mean and variance of the demand are known and the goal is to minimize costs under the worst-case realization of the demand distribution."
+},
+{
+"id": "x11501",
+"title": "The Financial Consequences of Legalized Sports Gambling",
+"abstract": "We study the impact on consumer financial health of the widespread legalization of sports betting in the United States, which began in 2018. We use the state-by-state rollout of legal betting combined with a large representative dataset on consumer credit outcomes to identify effects. We find that states with legal sports betting, particularly online or mobile betting, experienced small decreases in credit scores, as well as large increases in some indicators of excessive debt, including bankruptcies and debt sent to collection agencies. These adverse outcomes are overwhelmingly concentrated among consumers with poor financial health prior to gambling legalization."
+},
+{
+"id": "x11536",
+"title": "A Tale of Two Monopolies",
+"abstract": "We propose to solve revenue-maximizing selling mechanisms for a multiproduct monopoly based on nonlinear pricing \u00e0 la Bulow and Roberts [1989]. We derive the marginal revenue change due to a price perturbation on any subset of bundles, holding the prices of other bundles fixed. We show that the MR of any bundle can be expressed as the integral of an \"MR density\" over the set of types who self-select this bundle (demand set), minus the mass of types on the boundary of its intersection with the type space. Given any optimal taxation mechanism, the revenue must not increase with any small price change for bundles with positive demand (MR = 0), nor with a small price decrease for bundles with zero demand (MR \u2265 0)."
+},
+{
+"id": "x12021",
+"title": "Learning treatment effects while treating those in need",
+"abstract": "Many social programs attempt to allocate scarce resources to people with the greatest need. Indeed, public services increasingly use algorithmic risk assessments motivated by this goal. However, targeting the highest-need recipients often conflicts with attempting to evaluate the causal effect of the program as a whole, as the best evaluations would be obtained by randomizing the allocation. We propose a framework to design randomized allocation rules which optimally balance targeting high-need individuals with learning treatment effects, presenting policymakers with a Pareto frontier between the two goals. We give sample complexity guarantees for the policy learning problem and provide a computationally efficient strategy to implement it. We then collaborate with the human services department of Allegheny County, Pennsylvania to evaluate our methods on data from real service delivery settings. Optimized policies can substantially mitigate the tradeoff between learning and targeting. For example, it is often possible to obtain 90% of the optimal utility in targeting high-need individuals while ensuring that the average treatment effect can be estimated with less than 2 times the samples that a randomized controlled trial would require. Mechanisms for targeting public services often focus on measuring need as accurately as possible. However, our results suggest that algorithmic systems in public services can be most impactful if they incorporate program evaluation as an explicit goal alongside targeting."
+},
+{
+"id": "x12109",
+"title": "Robust One-Shot Price Experiment",
+"abstract": "We study the benefits of a one-shot price experiment for a seller who has limited information about customer valuations of a product. The seller only knows the exact purchase probability associated with a single historical price and aims to maximize the worst-case revenue ratio compared to an oracle with complete knowledge of the value distribution. The seller conducts a one-shot price experiment by first choosing an experiment price and then setting a final price based on the realized purchase probabilities from both the historical and experimental prices. We assume that the customer's virtual value function is non-decreasing. Our main findings are threefold:"
+},
+{
+"id": "x12118",
+"title": "Contextual Learning for Stochastic Optimization",
+"abstract": "Motivated by stochastic optimization, we introduce the problem of learning from samples of contextual value distributions. A contextual value distribution can be understood as a family of real-valued distributions, where each sample consists of a context x and a random variable drawn from the corresponding real-valued distribution Dx. By minimizing a convex surrogate loss, we learn an empirical distribution D'x for each context, ensuring a small Levy distance to Dx."
+},
+{
+"id": "x12125",
+"title": "Alternates, Assemble! Selecting Optimal Alternates for Citizens\u2019 Assemblies",
+"abstract": "An increasingly influential form of deliberative democracy centers on citizens' assemblies, where randomly selected people discuss policy questions. The legitimacy of these panels hinges on their representation of the broader population, but panelists often drop out, leading to an unbalanced composition. Although participant attrition is mitigated in practice by alternates, their selection is not taken into account by existing methods. To address this gap, we introduce an optimization framework for alternate selection. Our algorithmic approach, which leverages learning-theoretic machinery, estimates dropout probabilities using historical data and selects alternates to minimize expected misrepresentation. We establish theoretical guarantees for our approach, including worst-case bounds on sample complexity (with implications for computational efficiency) and on loss when panelists' probabilities of dropping out are mis-estimated. Empirical evaluation using real-world data demonstrates that, compared to the status quo, our method significantly improves representation while requiring fewer alternates."
+}
+]

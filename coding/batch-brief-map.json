@@ -1,0 +1,702 @@
+{
+ "deploy-00.jsonl": {
+  "template": "df21b0dc8c7d",
+  "brief": 47
+ },
+ "deploy-01.jsonl": {
+  "template": "df21b0dc8c7d",
+  "brief": 48
+ },
+ "deploy-02.jsonl": {
+  "template": "df21b0dc8c7d",
+  "brief": 49
+ },
+ "deploy-03.jsonl": {
+  "template": "df21b0dc8c7d",
+  "brief": 50
+ },
+ "deploy-04.jsonl": {
+  "template": "df21b0dc8c7d",
+  "brief": 51
+ },
+ "deploy-05.jsonl": {
+  "template": "df21b0dc8c7d",
+  "brief": 52
+ },
+ "deploy-overlap-00.jsonl": {
+  "template": "8b4cf2a9f3db",
+  "brief": 53
+ },
+ "deploy-overlap-01.jsonl": {
+  "template": "8b4cf2a9f3db",
+  "brief": 54
+ },
+ "deploy-pilot-A.jsonl": {
+  "template": "aacad133a59b",
+  "brief": 45
+ },
+ "deploy-pilot-B.jsonl": {
+  "template": "cfc393274166",
+  "brief": 46
+ },
+ "deploy-second-00.jsonl": {
+  "template": "695b43f973d5",
+  "brief": 80
+ },
+ "deploy-second-01.jsonl": {
+  "template": "695b43f973d5",
+  "brief": 81
+ },
+ "deploy-second-02.jsonl": {
+  "template": "695b43f973d5",
+  "brief": 82
+ },
+ "deploy-second-03.jsonl": {
+  "template": "695b43f973d5",
+  "brief": 83
+ },
+ "deploy-second-04.jsonl": {
+  "template": "695b43f973d5",
+  "brief": 84
+ },
+ "deploy-second-05.jsonl": {
+  "template": "695b43f973d5",
+  "brief": 85
+ },
+ "llm-00.jsonl": {
+  "template": "f03c1410f162",
+  "brief": 70
+ },
+ "llm-01.jsonl": {
+  "template": "f03c1410f162",
+  "brief": 71
+ },
+ "llm-02.jsonl": {
+  "template": "f03c1410f162",
+  "brief": 72
+ },
+ "llm-03.jsonl": {
+  "template": "f03c1410f162",
+  "brief": 73
+ },
+ "llm-04.jsonl": {
+  "template": "f03c1410f162",
+  "brief": 74
+ },
+ "llm-05.jsonl": {
+  "template": "f03c1410f162",
+  "brief": 75
+ },
+ "llm-06.jsonl": {
+  "template": "f03c1410f162",
+  "brief": 76
+ },
+ "llm-overlap-00.jsonl": {
+  "template": "f03c1410f162",
+  "brief": 77
+ },
+ "llm-overlap-01.jsonl": {
+  "template": "f03c1410f162",
+  "brief": 78
+ },
+ "llm-pilot-A.jsonl": {
+  "template": "2333fbbeda4d",
+  "brief": 68
+ },
+ "llm-pilot-B.jsonl": {
+  "template": "2333fbbeda4d",
+  "brief": 69
+ },
+ "overlap-00.jsonl": {
+  "template": "09aafc41cbec",
+  "brief": 39
+ },
+ "overlap-01.jsonl": {
+  "template": "09aafc41cbec",
+  "brief": 40
+ },
+ "overlap-02.jsonl": {
+  "template": "09aafc41cbec",
+  "brief": 41
+ },
+ "overlap-03.jsonl": {
+  "template": "09aafc41cbec",
+  "brief": 42
+ },
+ "overlap-04.jsonl": {
+  "template": "09aafc41cbec",
+  "brief": 43
+ },
+ "overlap-05.jsonl": {
+  "template": "09aafc41cbec",
+  "brief": 44
+ },
+ "primary-00.jsonl": {
+  "template": "e21be6c2e6c2",
+  "brief": 19
+ },
+ "primary-01.jsonl": {
+  "template": "8cad415ed535",
+  "brief": 55
+ },
+ "primary-02.jsonl": {
+  "template": "8cad415ed535",
+  "brief": 56
+ },
+ "primary-03.jsonl": {
+  "template": "8cad415ed535",
+  "brief": 57
+ },
+ "primary-04.jsonl": {
+  "template": "8cad415ed535",
+  "brief": 58
+ },
+ "primary-05.jsonl": {
+  "template": "8cad415ed535",
+  "brief": 59
+ },
+ "primary-06.jsonl": {
+  "template": "8cad415ed535",
+  "brief": 60
+ },
+ "primary-07.jsonl": {
+  "template": "8cad415ed535",
+  "brief": 61
+ },
+ "primary-08.jsonl": {
+  "template": "8cad415ed535",
+  "brief": 62
+ },
+ "primary-09.jsonl": {
+  "template": "8cad415ed535",
+  "brief": 63
+ },
+ "primary-10.jsonl": {
+  "template": "8cad415ed535",
+  "brief": 64
+ },
+ "primary-11.jsonl": {
+  "template": "8cad415ed535",
+  "brief": 65
+ },
+ "primary-12.jsonl": {
+  "template": "8cad415ed535",
+  "brief": 66
+ },
+ "primary-13.jsonl": {
+  "template": "8cad415ed535",
+  "brief": 67
+ },
+ "primary-14.jsonl": {
+  "template": "f6320b5660fe",
+  "brief": 23
+ },
+ "primary-15.jsonl": {
+  "template": "f6320b5660fe",
+  "brief": 24
+ },
+ "primary-16.jsonl": {
+  "template": "f6320b5660fe",
+  "brief": 25
+ },
+ "primary-17.jsonl": {
+  "template": "f6320b5660fe",
+  "brief": 26
+ },
+ "primary-18.jsonl": {
+  "template": "f6320b5660fe",
+  "brief": 27
+ },
+ "primary-19.jsonl": {
+  "template": "f6320b5660fe",
+  "brief": 28
+ },
+ "primary-20.jsonl": {
+  "template": "f6320b5660fe",
+  "brief": 29
+ },
+ "primary-21.jsonl": {
+  "template": "f6320b5660fe",
+  "brief": 30
+ },
+ "primary-22.jsonl": {
+  "template": "f6320b5660fe",
+  "brief": 31
+ },
+ "primary-23.jsonl": {
+  "template": "f6320b5660fe",
+  "brief": 32
+ },
+ "primary-24.jsonl": {
+  "template": "f6320b5660fe",
+  "brief": 33
+ },
+ "primary-25.jsonl": {
+  "template": "f6320b5660fe",
+  "brief": 34
+ },
+ "primary-26.jsonl": {
+  "template": "f6320b5660fe",
+  "brief": 35
+ },
+ "primary-27.jsonl": {
+  "template": "f6320b5660fe",
+  "brief": 36
+ },
+ "primary-28.jsonl": {
+  "template": "f6320b5660fe",
+  "brief": 37
+ },
+ "primary-29.jsonl": {
+  "template": "f6320b5660fe",
+  "brief": 38
+ },
+ "primary-ec-addendum.jsonl": {
+  "template": "574be7e9b374",
+  "brief": 79
+ },
+ "r2-parties-01.jsonl": {
+  "template": "b9eb78723f81",
+  "brief": 86
+ },
+ "r2-parties-02.jsonl": {
+  "template": "b9eb78723f81",
+  "brief": 87
+ },
+ "r2-parties-03.jsonl": {
+  "template": "b9eb78723f81",
+  "brief": 88
+ },
+ "r2-parties-04.jsonl": {
+  "template": "b9eb78723f81",
+  "brief": 89
+ },
+ "r2-parties-dup.jsonl": {
+  "template": "b9eb78723f81",
+  "brief": 90
+ },
+ "r2-deploy-01.jsonl": {
+  "template": "b9eb78723f81",
+  "brief": 91
+ },
+ "r2-deploy-02.jsonl": {
+  "template": "b9eb78723f81",
+  "brief": 92
+ },
+ "r2-deploy-03.jsonl": {
+  "template": "b9eb78723f81",
+  "brief": 93
+ },
+ "r2-deploy-04.jsonl": {
+  "template": "b9eb78723f81",
+  "brief": 94
+ },
+ "ext-confirm-00.jsonl": {
+  "template": "3b74d3751fec",
+  "brief": 126
+ },
+ "ext-confirm-01.jsonl": {
+  "template": "3b74d3751fec",
+  "brief": 127
+ },
+ "ext-confirm-02.jsonl": {
+  "template": "3b74d3751fec",
+  "brief": 128
+ },
+ "ext-confirm-03.jsonl": {
+  "template": "3b74d3751fec",
+  "brief": 129
+ },
+ "ext-confirm-04.jsonl": {
+  "template": "3b74d3751fec",
+  "brief": 130
+ },
+ "ext-confirm-05.jsonl": {
+  "template": "3b74d3751fec",
+  "brief": 131
+ },
+ "ext-confirm-06.jsonl": {
+  "template": "3b74d3751fec",
+  "brief": 132
+ },
+ "ext-confirm-07.jsonl": {
+  "template": "3b74d3751fec",
+  "brief": 133
+ },
+ "ext-confirm-08.jsonl": {
+  "template": "3b74d3751fec",
+  "brief": 134
+ },
+ "ext-confirm-09.jsonl": {
+  "template": "3b74d3751fec",
+  "brief": 135
+ },
+ "ext-confirm-10.jsonl": {
+  "template": "3b74d3751fec",
+  "brief": 136
+ },
+ "ext-confirm-11.jsonl": {
+  "template": "3b74d3751fec",
+  "brief": 137
+ },
+ "ext-confirm-12.jsonl": {
+  "template": "3b74d3751fec",
+  "brief": 138
+ },
+ "ext-confirm-13.jsonl": {
+  "template": "3b74d3751fec",
+  "brief": 139
+ },
+ "ext-confirm-14.jsonl": {
+  "template": "3b74d3751fec",
+  "brief": 140
+ },
+ "ext-confirm-15.jsonl": {
+  "template": "3b74d3751fec",
+  "brief": 141
+ },
+ "ext-ea-confirm-00.jsonl": {
+  "template": "3b74d3751fec",
+  "brief": 142
+ },
+ "ext-ea-confirm-01.jsonl": {
+  "template": "3b74d3751fec",
+  "brief": 143
+ },
+ "ext-ea-confirm-02.jsonl": {
+  "template": "3b74d3751fec",
+  "brief": 144
+ },
+ "ext-dup-aamas.jsonl": {
+  "template": "3b74d3751fec",
+  "brief": 145
+ },
+ "r2-parties-ext-01.jsonl": {
+  "template": "c5d03733c72d",
+  "brief": 146
+ },
+ "r2-parties-ext-02.jsonl": {
+  "template": "c5d03733c72d",
+  "brief": 147
+ },
+ "r2-parties-ext-dup.jsonl": {
+  "template": "c5d03733c72d",
+  "brief": 148
+ },
+ "r2-parties-ext-ea-01.jsonl": {
+  "template": "c5d03733c72d",
+  "brief": 149
+ },
+ "r2-parties-ext-ea-dup.jsonl": {
+  "template": "c5d03733c72d",
+  "brief": 150
+ },
+ "layers-01-c1.jsonl": {
+  "template": "043cc6302923",
+  "brief": 151
+ },
+ "layers-01-c2.jsonl": {
+  "template": "043cc6302923",
+  "brief": 152
+ },
+ "layers-02-c1.jsonl": {
+  "template": "68d7c70ab127",
+  "brief": 153
+ },
+ "layers-02-c2.jsonl": {
+  "template": "68d7c70ab127",
+  "brief": 154
+ },
+ "layers-03-c1.jsonl": {
+  "template": "a9bb3bd0d14d",
+  "brief": 155
+ },
+ "layers-03-c2.jsonl": {
+  "template": "a9bb3bd0d14d",
+  "brief": 156
+ },
+ "layers-04-c1.jsonl": {
+  "template": "7f8fdcfeca5c",
+  "brief": 157
+ },
+ "layers-04-c2.jsonl": {
+  "template": "7f8fdcfeca5c",
+  "brief": 158
+ },
+ "layers-05-c1.jsonl": {
+  "template": "99713488e71f",
+  "brief": 159
+ },
+ "layers-05-c2.jsonl": {
+  "template": "99713488e71f",
+  "brief": 160
+ },
+ "needs-c1.jsonl": {
+  "template": "8071e3155615",
+  "brief": 161
+ },
+ "needs-c2.jsonl": {
+  "template": "8071e3155615",
+  "brief": 162
+ },
+ "policy-add-00.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 163
+ },
+ "policy-add-01.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 164
+ },
+ "policy-add-02.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 165
+ },
+ "policy-add-03.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 166
+ },
+ "policy-add-04.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 167
+ },
+ "policy-add-05.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 168
+ },
+ "policy-add-06.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 169
+ },
+ "policy-add-07.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 170
+ },
+ "policy-add-08.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 171
+ },
+ "policy-add-09.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 172
+ },
+ "policy-add-10.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 173
+ },
+ "policy-add-11.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 174
+ },
+ "policy-add-12.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 175
+ },
+ "policy-add-13.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 176
+ },
+ "policy-add-14.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 177
+ },
+ "policy-add-15.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 178
+ },
+ "policy-add-16.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 179
+ },
+ "policy-add-17.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 180
+ },
+ "policy-add-18.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 181
+ },
+ "policy-add-19.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 182
+ },
+ "policy-add-20.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 183
+ },
+ "policy-add-21.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 184
+ },
+ "policy-add-22.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 185
+ },
+ "policy-add-23.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 186
+ },
+ "policy-add-24.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 187
+ },
+ "policy-add-25.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 188
+ },
+ "policy-add-26.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 189
+ },
+ "policy-add-27.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 190
+ },
+ "policy-add-28.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 191
+ },
+ "policy-add-29.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 192
+ },
+ "policy-add-30.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 193
+ },
+ "policy-add-31.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 194
+ },
+ "policy-add-32.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 195
+ },
+ "policy-add-33.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 196
+ },
+ "policy-add-34.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 197
+ },
+ "policy-add-35.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 198
+ },
+ "policy-add-36.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 199
+ },
+ "policy-add-37.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 200
+ },
+ "policy-add-38.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 201
+ },
+ "policy-add-39.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 202
+ },
+ "policy-add-40.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 203
+ },
+ "policy-add-41.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 204
+ },
+ "policy-add-42.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 205
+ },
+ "policy-add-43.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 206
+ },
+ "policy-add-44.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 207
+ },
+ "policy-add-45.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 208
+ },
+ "policy-add-46.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 209
+ },
+ "policy-add-47.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 210
+ },
+ "policy-add-48.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 211
+ },
+ "policy-add-49.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 212
+ },
+ "policy-add-50.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 213
+ },
+ "policy-add-51.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 214
+ },
+ "policy-add-52.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 215
+ },
+ "policy-v34-00.jsonl": {
+  "template": "622125608b81",
+  "brief": 216
+ },
+ "policy-v34-01.jsonl": {
+  "template": "622125608b81",
+  "brief": 217
+ },
+ "policy-v34-02.jsonl": {
+  "template": "622125608b81",
+  "brief": 218
+ },
+ "policy-v34-03.jsonl": {
+  "template": "622125608b81",
+  "brief": 219
+ },
+ "policy-v34-04.jsonl": {
+  "template": "622125608b81",
+  "brief": 220
+ },
+ "policy-dup-00.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 221
+ },
+ "policy-dup-01.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 222
+ },
+ "policy-dup-02.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 223
+ },
+ "policy-dup-03.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 224
+ },
+ "policy-dup-04.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 225
+ },
+ "policy-dup-05.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 226
+ },
+ "policy-dup-06.jsonl": {
+  "template": "0a59e028d958",
+  "brief": 227
+ }
+}

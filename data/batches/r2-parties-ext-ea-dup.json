@@ -1,0 +1,57 @@
+[
+{
+"id": "z00043",
+"title": "Predicting Team Performance from Communications in Simulated Search-and-Rescue",
+"abstract": "Understanding how individual traits influence team performance is valuable, but these traits are not always directly observable. Prior research has inferred traits like trust from behavioral data. We analyze conversational data to identify team traits and their correlation with teaming outcomes. Using transcripts from a Minecraft-based search-and-rescue experiment, we apply topic modeling and clustering to uncover key interaction patterns. Our findings show that variations in teaming outcomes can be explained through these inferences, with different levels of predictive power derived from individual traits and team dynamics."
+},
+{
+"id": "z00131",
+"title": "Tackling the Protocol Problem in Automated Negotiation",
+"abstract": "Automated Negotiation (AN) is a research field with roots extending back to the mid-twentieth century. There are two dominant AN research directions pursued by the AAMAS community in recent years: (1) designing new heuristic or ML/RL/MARL-based strategies for the simplest bargaining mechanism called the Alternating Offers Protocol (AOP) and its extensions and (2) defining new mediated mechanisms that require a trusted third party. Intelligence lies in the strategy in the first direction and the mechanism in the latter. Either way, evaluation is almost always conducted in terms of empirical evaluation in some chosen set of negotiation scenarios. This paper argues for more efforts towards tackling the problem of protocol design in automated negotiation more rigorously by integrating ideas from mechanism-design literature. This requires, as a first step, a common language for expressing different negotiation protocols and strategies. We provide such a language which can represent a wide variety of negotiation protocols (both mediated and unmediated). We briefly outline our early effort in using this approach to provide a novel protocol with a provable Perfect Bayesian Equilibrium strategy that is also empirically effective."
+},
+{
+"id": "z00138",
+"title": "Local Anomaly Detection with Partial Observation in Multi-agent Systems as a Data Matching Game",
+"abstract": "Local anomaly detection in a multi-agent system is a pervasive but challenging problem. The challenge entails how agents with heterogeneous objectives and partial data collection train local anomaly detectors for heterogeneous domain-specific tasks. This paper proposes a distributed training method to address this question. Our approach involves a game-theoretic framework to address agents' heterogeneous objectives and a transformer-based model to handle partial data observation. Our game, conditionally proven as a potential game, guides agents under the same local objectives into a data-sharing group for local training. Compared to other top-performing SOTAs, our evaluation outcomes empirically reflect the efficiency and robustness of our method in multi-agent scenarios."
+},
+{
+"id": "z00107",
+"title": "Matching Markets with Chores",
+"abstract": "The fair division of chores, as well as mixed manna (goods and chores), has received substantial recent attention in the fair division literature; however, ours is the first paper to extend this research to matching markets. Indeed, our contention is that matching markets are a natural setting for this purpose, since the manna that fit into the limited number of hours available in a day can be viewed as one unit of allocation. We extend several well-known results that hold for goods to the settings of chores and mixed manna. In addition, we show that the natural notion of an earnings-based equilibrium, which is more natural in the case of all chores, is equivalent to the pricing-based equilibrium given by Hylland and Zeckhauser for the case of goods."
+},
+{
+"id": "z00041",
+"title": "Group Fairness in Multi-period Mobile Facility Location Problems",
+"abstract": "We study the group-fair multi-period mobile facility location problems, where agents from different groups are located on a real line and arrive in different periods. Our goal is to locate k mobile facilities at each period to serve the arriving agents in order to minimize the maximum total group-fair cost and the maximum average group-fair cost objectives that measure the costs or distances of groups of agents to their corresponding facilities across all periods. We first consider the problems from the algorithmic perspective for both group-fair cost objectives. We then consider the problems from the mechanism design perspective, where the agents' locations and arrival periods are private. For both objectives, we design deterministic strategyproof mechanisms to elicit the agents' locations and arrival periods truthfully while optimizing the group-fair cost objectives and show that our mechanisms have almost tight bounds on the approximation ratios for certain periods and settings. Finally, we discuss the extensions of our results to the online setting where agent arrival information is only known at each period."
+},
+{
+"id": "z00048",
+"title": "Adapting Beyond the Depth Limit: Counter Strategies in Large Imperfect Information Games",
+"abstract": "We investigate how to adapt against known sub-optimal opponents while maintaining robustness against rational players in large imperfect-information zero-sum games. Previous approaches to large games use depth-limited search since examining the complete game tree is computationally infeasible. In computing a robust strategy against an opponent, the latest methods assume rational play beyond the search depth limit, restricting their ability to adapt to the opponent's behavior. To address this limitation, we introduce Adapting Beyond Depth-limit (ABD). This algorithm employs a strategy-portfolio approach -- which is called matrix-valued states -- for depth-limited search. ABD is the first robust adaptation method capable of fully utilizing all available information about opponent models in large imperfect-information games. The matrix-valued states approach also simplifies the algorithm compared to previous methods that rely on optimal value functions. Our experiments demonstrate that ABD may double the utility when facing opponents who make mistakes beyond the depth and significantly improves utility against randomly generated opponents while maintaining safety against worst-case rational adversaries."
+},
+{
+"id": "z00073",
+"title": "Equilibrium Selection via Communication Partition",
+"abstract": "Coordinating the behaviour of self-interested agents in the presence of multiple Nash equilibria is a major research challenge for multi-agent systems. Pre-game communication between all the players can aid coordination in cases where the Pareto-optimal payoff is unique, but can lead to deadlocks when there are multiple payoffs on the Pareto frontier. We consider a communication partition where only players within the same coalition can communicate with each other. We show that under some natural assumptions about symmetry and the conditions under which players within the same coalition can reach an agreement about their joint actions, certain communication partitions can induce socially optimal outcomes in singleton congestion games. This game is a reasonable model for a decentralised, anonymous system where players are required to choose from a range of identical resources, and incur costs that are increasing and convex in the total number of players sharing the same resource. The communication partition can be seen as a mechanism for inducing efficient outcomes in this context."
+},
+{
+"id": "z00029",
+"title": "Egalitarianism in Online Coalition Formation",
+"abstract": "We investigate the online coalition formation problem, where agents arrive one by one and must be assigned to coalitions, with their utilities for others revealed upon arrival. Our focus lies on additively separable hedonic games, where agents assign cardinal utilities to others, assumed to be controlled by an adversary in our online context. This paper introduces the evaluation of partitions based on their egalitarian social welfare, with the goal of maximizing the minimum utility of any agent. This objective strikes balance between fairness and efficiency by prioritizing the satisfaction of the least well-off agents. For various real-life scenarios, we establish tight or nearly tight upper bounds on the competitive ratio and complement these findings with optimal or near-optimal algorithms. However, we also demonstrate that in some cases, no competitive algorithm is feasible. In particular, under the classic worst-case adversarial model, where agents arrive in an arbitrary order, we show that no algorithm has a non-trivial competitive ratio, if at all."
+},
+{
+"id": "z00090",
+"title": "Observer-Aware Probabilistic Planning under Partial Observability",
+"abstract": "We are interested in planning problems where the agent is aware of the presence of an observer, and where this observer is in a partial observability situation. The agent has to choose its strategy so as to optimize the information transmitted by observations. Building on observer-aware Markov decision processes (OAMDPs), we propose a framework to handle this type of problems and thus formalize properties such as legibility, explicability and predictability. This extension of OAMDPs to partial observability can not only handle more realistic problems, but also permits considering dynamic hidden variables of interest. We discuss theoretical properties of PO-OAMDPs and, experimenting with benchmark problems, we analyze HSVI's convergence behavior with dedicated initializations and study the resulting strategies."
+},
+{
+"id": "z00151",
+"title": "Hierarchical Multi-Agent Framework for Dynamic Macroeconomic Modelling Using Large Language Models",
+"abstract": "Large Language Models (LLMs) have demonstrated potential in simulating macroeconomic systems by integrating the agent-based models. Unlike rule-based systems or neural networks with fixed learning patterns, LLM agents capture the heterogeneity of economic actors. However, existing LLM-based simulation environments are generally static, maintaining constant government policies. In this study, we introduce a hierarchical framework that incorporates LLM economic agents and an LLM planner capable of formulating policies in response to evolving economic conditions. Utilizing the proposed framework, we further examine the simulated system's resilience to economic shocks by analyzing how economic agents respond to unforeseen events and how the planner adapts to mitigate these challenges. Our results indicate that the proposed framework improves the stability of the economic system and captures more dynamic macroeconomic phenomena, offering a precise and versatile simulation platform for studying real-world economic dynamics."
+},
+{
+"id": "z00134",
+"title": "Reasoning and Planning with Dynamic Social Norms",
+"abstract": "To safely interact with humans, AI systems must both have knowledge of our norms and consider norms in their planning processes. However, norm-guided planning has been less explored, only within communities of artificial agents and ignoring the dynamic nature of norms. This paper presents an approach to guiding planning with dynamically changing norms in a human-AI setting. This yields adaptive guard rails for the actions of AI systems."
+}
+]

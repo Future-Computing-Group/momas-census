@@ -1,0 +1,70 @@
+{"id": "x02099", "policy_setters": "several", "policy_quote": "protect neural networks from adversarial attacks", "principals": "several", "principals_quote": "increasing uncertainty for attackers", "partners_from_others": "yes"}
+{"id": "x08871", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01819", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05362", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02591", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01512", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06014", "policy_setters": "several", "policy_quote": "train models across multiple computing units (users)", "principals": "several", "principals_quote": "a more personalized model for each user", "partners_from_others": "no"}
+{"id": "z00144", "policy_setters": "several", "policy_quote": "model the decision-making of interdependent agents", "principals": "several", "principals_quote": "each agent's utility depends on their own action", "partners_from_others": "no"}
+{"id": "x06317", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08799", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00403", "policy_setters": "several", "policy_quote": "between a buyer and a seller", "principals": "several", "principals_quote": "between a buyer and a seller", "partners_from_others": "no"}
+{"id": "x12269", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10724", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03466", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02141", "policy_setters": "several", "policy_quote": "jailbreak many state-of-the-art LLMs", "principals": "several", "principals_quote": "prevent LLMs from generating harmful, undesirable, or illegal outputs", "partners_from_others": "yes"}
+{"id": "x06556", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x12109", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07112", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11855", "policy_setters": "several", "policy_quote": "each client optimizes only the $B$ matrix", "principals": "several", "principals_quote": "each client optimizes only the $B$ matrix", "partners_from_others": "no"}
+{"id": "y00132", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10791", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01355", "policy_setters": "several", "policy_quote": "take action on their user's behalf", "principals": "several", "principals_quote": "giving the attacker too much power", "partners_from_others": "yes"}
+{"id": "x06234", "policy_setters": "several", "policy_quote": "latency attacks against computer vision systems", "principals": "several", "principals_quote": "latency attacks against computer vision systems", "partners_from_others": "yes"}
+{"id": "x01821", "policy_setters": "several", "policy_quote": "How do people navigate the exploration-exploitation (EE) trade-off", "principals": "several", "principals_quote": "behavioral data from human participants", "partners_from_others": "no"}
+{"id": "x06572", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x12324", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02208", "policy_setters": "several", "policy_quote": "the set of strategies allowed to each player depends on the other players' strategies", "principals": "several", "principals_quote": "the set of strategies allowed to each player depends on the other players' strategies", "partners_from_others": "no"}
+{"id": "x11093", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00065", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10142", "policy_setters": "several", "policy_quote": "enabling attackers to replicate a black-box model without access to its training data", "principals": "several", "principals_quote": "jeopardizing intellectual property", "partners_from_others": "yes"}
+{"id": "y03372", "policy_setters": "several", "policy_quote": "enables collaborative policy learning across multiple clients", "principals": "several", "principals_quote": "each client integrates human feedback locally into reward functions", "partners_from_others": "no"}
+{"id": "x02957", "policy_setters": "several", "policy_quote": "incentivize users to strategically modify their features, at a cost, to obtain positive predictions", "principals": "several", "principals_quote": "when users seek positive predictions", "partners_from_others": "no"}
+{"id": "x10275", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01687", "policy_setters": "several", "policy_quote": "match the skill levels of all human partners", "principals": "several", "principals_quote": "match the skill levels of all human partners", "partners_from_others": "yes"}
+{"id": "x00346", "policy_setters": "several", "policy_quote": "inferring the hidden policies of its opponents", "principals": "several", "principals_quote": "inferring the hidden policies of its opponents", "partners_from_others": "yes"}
+{"id": "y02120", "policy_setters": "several", "policy_quote": "where attackers must rely solely on Out-Of-Distribution (OOD) data", "principals": "several", "principals_quote": "backdoor attacks", "partners_from_others": "yes"}
+{"id": "x12295", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00044", "policy_setters": "one", "policy_quote": "enables each edge server to make its caching strategy through information exchange with neighboring edge servers", "principals": "one", "principals_quote": "maximize their caching revenue", "partners_from_others": "no"}
+{"id": "x07386", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07328", "policy_setters": "several", "policy_quote": "GNNs trained on a poisoned graph misclassify a test node only when specific triggers are attached", "principals": "several", "principals_quote": "GNNs trained on a poisoned graph misclassify a test node only when specific triggers are attached", "partners_from_others": "yes"}
+{"id": "y00398", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11215", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10496", "policy_setters": "several", "policy_quote": "multiplayer game", "principals": "several", "principals_quote": "strategic interactions among players", "partners_from_others": "yes"}
+{"id": "x10510", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10930", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08791", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08668", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y02126", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01118", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11465", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02776", "policy_setters": "several", "policy_quote": "deceive both classifiers and human observers", "principals": "several", "principals_quote": "deceive both classifiers and human observers", "partners_from_others": "yes"}
+{"id": "x01674", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05326", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "user-specified cost budgets", "partners_from_others": "no"}
+{"id": "x10430", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09807", "policy_setters": "several", "policy_quote": "a matching problem between agents and public goods", "principals": "several", "principals_quote": "a matching problem between agents and public goods", "partners_from_others": "no"}
+{"id": "x02744", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07828", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01195", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02372", "policy_setters": "several", "policy_quote": "circumventing established safe open-source models", "principals": "several", "principals_quote": "circumventing established safe open-source models", "partners_from_others": "yes"}
+{"id": "y01360", "policy_setters": "several", "policy_quote": "match n objects to n agents having ordinal preferences over the objects", "principals": "several", "principals_quote": "match n objects to n agents having ordinal preferences over the objects", "partners_from_others": "no"}
+{"id": "x05308", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09918", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00927", "policy_setters": "several", "policy_quote": "a set of applicants need to be assigned to a set of schools with limited seats", "principals": "several", "principals_quote": "a set of applicants need to be assigned to a set of schools with limited seats", "partners_from_others": "no"}
+{"id": "y03847", "policy_setters": "several", "policy_quote": "risk of backdoor attacks in the open-source model ecosystem", "principals": "several", "principals_quote": "risk of backdoor attacks in the open-source model ecosystem", "partners_from_others": "yes"}
+{"id": "x12068", "policy_setters": "several", "policy_quote": "jailbreak attacks on large language models (LLMs)", "principals": "several", "principals_quote": "jailbreak attacks on large language models (LLMs)", "partners_from_others": "yes"}
+{"id": "y02401", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05082", "policy_setters": "several", "policy_quote": "Gen-AI service providers who are not responsible for the content", "principals": "several", "principals_quote": "Gen-AI service providers who are not responsible for the content", "partners_from_others": "yes"}
+{"id": "x06750", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03701", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11992", "policy_setters": "several", "policy_quote": "rational firms, with limited interview and hiring capacities", "principals": "several", "principals_quote": "two equally sized social groups", "partners_from_others": "no"}

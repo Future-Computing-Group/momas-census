@@ -1,0 +1,70 @@
+{"id": "x02791", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10311", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03885", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09271", "policy_setters": "several", "policy_quote": "an attacker that can at best only gain access to the data stored in the system", "principals": "several", "principals_quote": "worst-case attacker", "partners_from_others": "no"}
+{"id": "x01774", "policy_setters": "one", "policy_quote": "algorithms for computing Nash and Stackelberg equilibria", "principals": "several", "principals_quote": "security games", "partners_from_others": "no"}
+{"id": "x11036", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10708", "policy_setters": "several", "policy_quote": "an adversary selects an instance to test the learner", "principals": "several", "principals_quote": "an adversary selects an instance to test the learner", "partners_from_others": "no"}
+{"id": "x02984", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y03344", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05786", "policy_setters": "several", "policy_quote": "heterogeneous learning agents in asset markets", "principals": "several", "principals_quote": "Agents aim to maximize the expected growth rate of their wealth", "partners_from_others": "no"}
+{"id": "x06276", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10451", "policy_setters": "several", "policy_quote": "API-only access to state-of-the-art LLMs", "principals": "several", "principals_quote": "black-box jailbreak methods to identify model vulnerabilities", "partners_from_others": "no"}
+{"id": "x03726", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10905", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06501", "policy_setters": "several", "policy_quote": "public good provision with interdependent values", "principals": "several", "principals_quote": "mechanism design and information design problems", "partners_from_others": "no"}
+{"id": "x06530", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00015", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01904", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03468", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05502", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y02615", "policy_setters": "several", "policy_quote": "integrating diverse capable third-party agents", "principals": "na", "principals_quote": "", "partners_from_others": "yes"}
+{"id": "x06728", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02629", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10939", "policy_setters": "several", "policy_quote": "developers often restrict access to their models and data as trade secrets", "principals": "several", "principals_quote": "the claimant (the party alleging discrimination)", "partners_from_others": "no"}
+{"id": "y03610", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08386", "policy_setters": "several", "policy_quote": "outsource model training to third-party providers", "principals": "several", "principals_quote": "adversaries may poison the training data", "partners_from_others": "no"}
+{"id": "x07834", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06328", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04740", "policy_setters": "several", "policy_quote": "heterogeneous experts with private data and learning architectures", "principals": "several", "principals_quote": "heterogeneous experts with private data and learning architectures", "partners_from_others": "yes"}
+{"id": "x12130", "policy_setters": "several", "policy_quote": "from the viewpoint of a third-party who aims at certifying the robustness", "principals": "several", "principals_quote": "from the viewpoint of a third-party who aims at certifying the robustness", "partners_from_others": "no"}
+{"id": "y02656", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00672", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00454", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07689", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01927", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10055", "policy_setters": "several", "policy_quote": "multiple participants to learn a single global model", "principals": "several", "principals_quote": "participants are rewarded fairly for their contributions", "partners_from_others": "no"}
+{"id": "y03164", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00124", "policy_setters": "one", "policy_quote": "an agent-based model (ABM) augmented with a large language model (LLM) to simulate human-like decision-making", "principals": "several", "principals_quote": "transactions between market makers (MMs) and clients", "partners_from_others": "no"}
+{"id": "x03831", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x06163", "policy_setters": "several", "policy_quote": "each voter controls a part of the budget", "principals": "several", "principals_quote": "voters' approval ballots", "partners_from_others": "no"}
+{"id": "x08535", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06689", "policy_setters": "several", "policy_quote": "a realistic, diverse set of opponents", "principals": "several", "principals_quote": "a realistic, diverse set of opponents", "partners_from_others": "yes"}
+{"id": "x06931", "policy_setters": "several", "policy_quote": "division of surplus among bidders", "principals": "several", "principals_quote": "division of surplus among bidders", "partners_from_others": "no"}
+{"id": "x06110", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00952", "policy_setters": "several", "policy_quote": "eight state-of-the-art image watermarking schemes", "principals": "several", "principals_quote": "eight state-of-the-art image watermarking schemes", "partners_from_others": "no"}
+{"id": "x00418", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03566", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04728", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03699", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00403", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03445", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00001", "policy_setters": "several", "policy_quote": "competing electric vehicle fleets", "principals": "several", "principals_quote": "competing electric vehicle fleets", "partners_from_others": "no"}
+{"id": "x02038", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05956", "policy_setters": "several", "policy_quote": "an attacker sits in-between the environment and the learner", "principals": "several", "principals_quote": "an attacker sits in-between the environment and the learner", "partners_from_others": "no"}
+{"id": "x00669", "policy_setters": "several", "policy_quote": "privacy-friendly collaboration", "principals": "several", "principals_quote": "privacy-friendly collaboration", "partners_from_others": "no"}
+{"id": "y03050", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02381", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09401", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x05105", "policy_setters": "several", "policy_quote": "players choose partners and an effort level", "principals": "several", "principals_quote": "players choose partners and an effort level", "partners_from_others": "no"}
+{"id": "x10603", "policy_setters": "several", "policy_quote": "poisoning attacks", "principals": "several", "principals_quote": "poisoning attacks", "partners_from_others": "no"}
+{"id": "x05655", "policy_setters": "several", "policy_quote": "white-box and black-box attacks", "principals": "several", "principals_quote": "white-box and black-box attacks", "partners_from_others": "no"}
+{"id": "x07929", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "upload their private data to cloud servers they may not trust", "partners_from_others": "no"}
+{"id": "x10183", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y02243", "policy_setters": "several", "policy_quote": "red-teaming efforts aim to jailbreak LLMs", "principals": "several", "principals_quote": "red-teaming efforts aim to jailbreak LLMs", "partners_from_others": "no"}
+{"id": "x12072", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x10312", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03508", "policy_setters": "several", "policy_quote": "a new supplier and retailer join the mediator's platform with a private production cost", "principals": "several", "principals_quote": "suppliers and retailers", "partners_from_others": "no"}
+{"id": "y03933", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05363", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x12137", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}

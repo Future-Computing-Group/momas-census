@@ -1,0 +1,70 @@
+{"id": "y03400", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x01217", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08632", "policy_setters": "one", "policy_quote": "we propose FedWBA", "principals": "na", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04378", "policy_setters": "one", "policy_quote": "agents cooperate to make optimal stopping decisions", "principals": "one", "principals_quote": "agents cooperate to make optimal stopping decisions", "partners_from_others": "no"}
+{"id": "x10416", "policy_setters": "several", "policy_quote": "Existing bidding strategies for AFL DCs", "principals": "several", "principals_quote": "data consumers (DCs) assume that the entire team of the required data owners", "partners_from_others": "yes"}
+{"id": "x02215", "policy_setters": "one", "policy_quote": "our algorithm leverages transient imitation", "principals": "several", "principals_quote": "per-player utility", "partners_from_others": "no"}
+{"id": "x00605", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y03182", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "deployer's expectations", "partners_from_others": "no"}
+{"id": "x05401", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01995", "policy_setters": "several", "policy_quote": "authorized users only need to modify such safety configs at inference time", "principals": "several", "principals_quote": "diverse safety needs", "partners_from_others": "no"}
+{"id": "y02502", "policy_setters": "several", "policy_quote": "participating nodes", "principals": "several", "principals_quote": "participating nodes", "partners_from_others": "no"}
+{"id": "x08619", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "z00141", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02057", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03178", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01739", "policy_setters": "several", "policy_quote": "adversaries can directly fine-tune parameters", "principals": "several", "principals_quote": "from model developers to policymakers", "partners_from_others": "no"}
+{"id": "y03208", "policy_setters": "several", "policy_quote": "incentive compatible", "principals": "several", "principals_quote": "model consumers seeking ML solutions and data owners possessing valuable data", "partners_from_others": "no"}
+{"id": "x08599", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x01742", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06224", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03500", "policy_setters": "several", "policy_quote": "Nash equilibria in continuous games", "principals": "several", "principals_quote": "payoff structure", "partners_from_others": "no"}
+{"id": "y01668", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02557", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01710", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02100", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00099", "policy_setters": "one", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x12218", "policy_setters": "several", "policy_quote": "attackers and defenders", "principals": "several", "principals_quote": "attackers and defenders", "partners_from_others": "no"}
+{"id": "x05110", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03006", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05645", "policy_setters": "several", "policy_quote": "finetuning-based jailbreak attacks", "principals": "several", "principals_quote": "finetuning-based jailbreak attacks", "partners_from_others": "yes"}
+{"id": "y03744", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05083", "policy_setters": "one", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10748", "policy_setters": "several", "policy_quote": "attack unseen image-prompt pairs", "principals": "several", "principals_quote": "adversarial examples that result in harmful responses", "partners_from_others": "yes"}
+{"id": "x11740", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02768", "policy_setters": "several", "policy_quote": "system instructions, user queries, external tool outputs", "principals": "several", "principals_quote": "system instructions, user queries, external tool outputs", "partners_from_others": "no"}
+{"id": "y00315", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x03539", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x12317", "policy_setters": "several", "policy_quote": "proprietary diffusion models", "principals": "several", "principals_quote": "copyright concerns", "partners_from_others": "yes"}
+{"id": "y02054", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "empowering users", "partners_from_others": "no"}
+{"id": "x07436", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00282", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10097", "policy_setters": "one", "policy_quote": "a polynomial-time algorithm that determines competitiveness", "principals": "several", "principals_quote": "agents have preferences over both resources and their associated congestion levels", "partners_from_others": "no"}
+{"id": "y01405", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00070", "policy_setters": "several", "policy_quote": "competition amongst route providers", "principals": "several", "principals_quote": "competition amongst route providers", "partners_from_others": "no"}
+{"id": "x07207", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00232", "policy_setters": "several", "policy_quote": "humans first ideate with an LLM", "principals": "one", "principals_quote": "close collaborators for humans", "partners_from_others": "no"}
+{"id": "x09703", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x07109", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01230", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03439", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06897", "policy_setters": "several", "policy_quote": "consumers accept all cookies", "principals": "several", "principals_quote": "consumer welfare", "partners_from_others": "no"}
+{"id": "y01055", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09428", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00029", "policy_setters": "one", "policy_quote": "algorithms", "principals": "several", "principals_quote": "agents assign cardinal utilities to others", "partners_from_others": "no"}
+{"id": "x07380", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02225", "policy_setters": "several", "policy_quote": "reject any rental agreement", "principals": "several", "principals_quote": "private valuation", "partners_from_others": "no"}
+{"id": "x00258", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "z00154", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02449", "policy_setters": "several", "policy_quote": "collectives may form and seek ways to influence these platforms", "principals": "several", "principals_quote": "align with their own interests", "partners_from_others": "yes"}
+{"id": "x05624", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00005", "policy_setters": "several", "policy_quote": "actual behavior of players in the lab", "principals": "several", "principals_quote": "competitive search game", "partners_from_others": "no"}
+{"id": "y03631", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "user-centric tools", "partners_from_others": "no"}
+{"id": "x09773", "policy_setters": "several", "policy_quote": "voice cloning via commercial APIs", "principals": "several", "principals_quote": "voice-cloning fraud", "partners_from_others": "yes"}
+{"id": "x08134", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07703", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00055", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05660", "policy_setters": "several", "policy_quote": "covert communication", "principals": "several", "principals_quote": "covert communication", "partners_from_others": "no"}
+{"id": "x10440", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05769", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04318", "policy_setters": "several", "policy_quote": "strategic group splitting", "principals": "several", "principals_quote": "data providers contribute data", "partners_from_others": "no"}

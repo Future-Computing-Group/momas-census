@@ -1,0 +1,70 @@
+{"id": "x10550", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10110", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08541", "policy_setters": "several", "policy_quote": "when the LLM is hosted externally", "principals": "one", "principals_quote": "sharing private data with the LLM provider", "partners_from_others": "no"}
+{"id": "x03697", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01005", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01114", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03257", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01618", "policy_setters": "several", "policy_quote": "incentivize agents to join early in order to prevent mutual strategic waiting", "principals": "several", "principals_quote": "values created or costs incurred by a coalition are shared among the members within it", "partners_from_others": "no"}
+{"id": "x02770", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00073", "policy_setters": "several", "policy_quote": "self-interested agents", "principals": "several", "principals_quote": "self-interested agents", "partners_from_others": "no"}
+{"id": "y03711", "policy_setters": "one", "policy_quote": "dividing n agents into k groups", "principals": "several", "principals_quote": "The utility of an agent is the count of its friends in the same group as itself", "partners_from_others": "no"}
+{"id": "y02917", "policy_setters": "several", "policy_quote": "the robot's real-time adaptation to human motion", "principals": "one", "principals_quote": "collaboration between humans and robots", "partners_from_others": "yes"}
+{"id": "y00049", "policy_setters": "several", "policy_quote": "attacks and defenses of LLM-based agents", "principals": "several", "principals_quote": "attacks and defenses of LLM-based agents", "partners_from_others": "yes"}
+{"id": "x05201", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03763", "policy_setters": "several", "policy_quote": "users vote for their preferred response", "principals": "several", "principals_quote": "improve (or decrease) the ranking of a target model", "partners_from_others": "yes"}
+{"id": "z00142", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01556", "policy_setters": "one", "policy_quote": "reconstructing global states from local action-observation histories", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01964", "policy_setters": "several", "policy_quote": "mislead detection systems", "principals": "several", "principals_quote": "prevent the malicious usage of LLM-generated texts", "partners_from_others": "yes"}
+{"id": "x01036", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x09035", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10945", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02959", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09086", "policy_setters": "several", "policy_quote": "persuasion", "principals": "several", "principals_quote": "media censorship", "partners_from_others": "no"}
+{"id": "x06978", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00238", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03633", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x05098", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08018", "policy_setters": "one", "policy_quote": "incorporate the human subject to monitor and correct agent behavior errors", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01196", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11170", "policy_setters": "several", "policy_quote": "interaction between assistant and user as a two-player game", "principals": "one", "principals_quote": "the assistant cannot observe their shared goal", "partners_from_others": "yes"}
+{"id": "y01419", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00282", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10837", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03770", "policy_setters": "one", "policy_quote": "Multi-agent reinforcement learning in mixed-motive settings", "principals": "several", "principals_quote": "agents must balance individual interests with collective goals", "partners_from_others": "no"}
+{"id": "x07697", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06161", "policy_setters": "several", "policy_quote": "a malicious server distributing inconsistent models", "principals": "several", "principals_quote": "prevents privacy breaches for non-colluders", "partners_from_others": "no"}
+{"id": "x11489", "policy_setters": "several", "policy_quote": "individuals, sports teams, or Wall Street fund managers", "principals": "several", "principals_quote": "individuals, sports teams, or Wall Street fund managers", "partners_from_others": "no"}
+{"id": "y02169", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00777", "policy_setters": "one", "policy_quote": "choose an allocation that maximizes the sum of some function of the agents' utilities", "principals": "several", "principals_quote": "agents' utilities", "partners_from_others": "no"}
+{"id": "y00164", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08883", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x04787", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05780", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06287", "policy_setters": "several", "policy_quote": "reviewers maliciously attempting to get assigned to certain papers", "principals": "several", "principals_quote": "conference peer review", "partners_from_others": "no"}
+{"id": "x11305", "policy_setters": "several", "policy_quote": "traders decide whether to launch a speculative attack", "principals": "several", "principals_quote": "traders decide whether to launch a speculative attack", "partners_from_others": "no"}
+{"id": "x11619", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03082", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01327", "policy_setters": "several", "policy_quote": "untrustworthy auctioneer", "principals": "several", "principals_quote": "buyers submit their highest bids and sellers offer their lowest asking prices", "partners_from_others": "no"}
+{"id": "y02992", "policy_setters": "one", "policy_quote": "A team of three robots and a base station will autonomously explore", "principals": "one", "principals_quote": "A team of three robots and a base station will autonomously explore", "partners_from_others": "no"}
+{"id": "y02161", "policy_setters": "one", "policy_quote": "Cooperative Multi-Agent Pathfinding", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00011", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02517", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "the agents need access to personal information from their users", "partners_from_others": "no"}
+{"id": "y01318", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11097", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02671", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00638", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01717", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10178", "policy_setters": "one", "policy_quote": "training agents to counteract them through alternating learning", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x12256", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x06499", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02057", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01434", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05191", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x04884", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x00117", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01189", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03292", "policy_setters": "several", "policy_quote": "the action trajectory of other protected agents", "principals": "one", "principals_quote": "enforce explicit safety policy compliance", "partners_from_others": "yes"}
+{"id": "y00996", "policy_setters": "several", "policy_quote": "steer multi-agent systems towards desired policies", "principals": "several", "principals_quote": "Designing incentives for an adapting population", "partners_from_others": "yes"}
+{"id": "x02202", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00093", "policy_setters": "one", "policy_quote": "agents have weighted entitlements", "principals": "several", "principals_quote": "agents have weighted entitlements", "partners_from_others": "no"}

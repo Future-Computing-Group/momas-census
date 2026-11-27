@@ -1,0 +1,22 @@
+{
+  "fields": {
+    "agent": {
+      "coders": "yes",
+      "mine": "no",
+      "verdict": "mine"
+    },
+    "boundary": {
+      "coders": "yes",
+      "mine": "no",
+      "verdict": "mine"
+    },
+    "owners": {
+      "coders": "several",
+      "mine": "one",
+      "verdict": "mine"
+    }
+  },
+  "id": "q1166",
+  "note": "Hmm. This is a tricky one. The focus is on a robust method that survives participants that try game the system; the setting is on one hand adversarial, on the other hand multi-principal, and bears relationship with benchmarks also. but the participants are humans here, not AI agents, right? Not sure at all of this one.",
+  "phase": "validation"
+}

@@ -1,0 +1,70 @@
+{"id": "x07058", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00940", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02069", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10982", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11911", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02246", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00669", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00456", "policy_setters": "several", "policy_quote": "a malicious agent can force a linear contextual bandit algorithm", "principals": "several", "principals_quote": "an unscrupulous ad publisher may try to increase their own revenue at the expense of the advertisers", "partners_from_others": "yes"}
+{"id": "x06902", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08862", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01488", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04001", "policy_setters": "several", "policy_quote": "strongly uncoupled dynamics, which allows modular development of the multi-player system", "principals": "several", "principals_quote": "multi-player", "partners_from_others": "no"}
+{"id": "x03895", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x01760", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x08661", "policy_setters": "one", "policy_quote": "", "principals": "several", "principals_quote": "aggregating information across distributed clients with heterogeneous data", "partners_from_others": "no"}
+{"id": "x02121", "policy_setters": "several", "policy_quote": "models oversight as a game between capability-mismatched players", "principals": "several", "principals_quote": "trusted models oversee untrusted stronger models", "partners_from_others": "no"}
+{"id": "x10941", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x07736", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05291", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00628", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x02959", "policy_setters": "one", "policy_quote": "a competitive setup between two components", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09295", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08030", "policy_setters": "several", "policy_quote": "signals privately communicated by a sender to the receivers", "principals": "several", "principals_quote": "a sender to the receivers", "partners_from_others": "no"}
+{"id": "x08341", "policy_setters": "several", "policy_quote": "target even unknown models", "principals": "several", "principals_quote": "", "partners_from_others": "yes"}
+{"id": "y01145", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06165", "policy_setters": "one", "policy_quote": "", "principals": "several", "principals_quote": "new clients continuously join the FL process", "partners_from_others": "no"}
+{"id": "x11422", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04789", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04957", "policy_setters": "several", "policy_quote": "real-time interactive human-machine duet improvisation", "principals": "one", "principals_quote": "", "partners_from_others": "yes"}
+{"id": "x06819", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x03020", "policy_setters": "one", "policy_quote": "To compute Nash Equilibria (NE) for this large-scale zero-sum game", "principals": "several", "principals_quote": "a defender positions a limited number of detectors across a critical system to detect multiple attacks caused by an attacker", "partners_from_others": "no"}
+{"id": "x02199", "policy_setters": "several", "policy_quote": "strategic interactions among the creator of the general-purpose model (the generalist) and the entity that fine-tunes the general-purpose model", "principals": "several", "principals_quote": "the creator of the general-purpose model (the generalist) and the entity that fine-tunes", "partners_from_others": "no"}
+{"id": "y02836", "policy_setters": "several", "policy_quote": "distinguish human players from bots", "principals": "several", "principals_quote": "human players", "partners_from_others": "no"}
+{"id": "x00722", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10667", "policy_setters": "several", "policy_quote": "unauthorized replication of proprietary models", "principals": "several", "principals_quote": "unauthorized replication of proprietary models", "partners_from_others": "yes"}
+{"id": "x07128", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03681", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01528", "policy_setters": "several", "policy_quote": "each trader tries to sell their asset or buy the asset from the other party", "principals": "several", "principals_quote": "two traders meet to exchange an asset", "partners_from_others": "yes"}
+{"id": "x08775", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y03211", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04436", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00530", "policy_setters": "several", "policy_quote": "human-machine teams", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02226", "policy_setters": "one", "policy_quote": "as the endpoint of no-regret learning in suitably adjusted versions of the games", "principals": "several", "principals_quote": "2-player matrix games", "partners_from_others": "no"}
+{"id": "y03456", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01778", "policy_setters": "one", "policy_quote": "algorithms for solving two-player zero-sum games", "principals": "several", "principals_quote": "two-player zero-sum games", "partners_from_others": "no"}
+{"id": "y01033", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "informing data-driven policy decisions", "partners_from_others": "no"}
+{"id": "x00917", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00242", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01860", "policy_setters": "several", "policy_quote": "one player is uncertain of the other player's costs", "principals": "several", "principals_quote": "two-player noncooperative games", "partners_from_others": "no"}
+{"id": "y00883", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08592", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x02133", "policy_setters": "several", "policy_quote": "carefully crafted triggers in the input can manipulate the model to produce adversary-specified outputs", "principals": "several", "principals_quote": "adversary-specified outputs", "partners_from_others": "no"}
+{"id": "y03062", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06114", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06543", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08108", "policy_setters": "several", "policy_quote": "Adversaries can manipulate the provided ICEs to steer the model toward attacker-specified outputs", "principals": "several", "principals_quote": "attacker-specified outputs", "partners_from_others": "yes"}
+{"id": "y01396", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "agents must cooperate to achieve a common goal", "partners_from_others": "no"}
+{"id": "x00780", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08924", "policy_setters": "several", "policy_quote": "predict agents' responses to the deployed mechanisms", "principals": "several", "principals_quote": "align individual and collective interests", "partners_from_others": "yes"}
+{"id": "x06888", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03780", "policy_setters": "one", "policy_quote": "to solve NE in the real world", "principals": "one", "principals_quote": "one player optimizes a solution in a combinatorial space", "partners_from_others": "no"}
+{"id": "x00084", "policy_setters": "several", "policy_quote": "strategy-proofness", "principals": "several", "principals_quote": "Each agent receives a package of objects and makes a payment", "partners_from_others": "no"}
+{"id": "x08802", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00889", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10558", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00013", "policy_setters": "several", "policy_quote": "black-box settings with heterogeneous agents", "principals": "several", "principals_quote": "heterogeneous agents", "partners_from_others": "no"}
+{"id": "y00414", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02989", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00516", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02165", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}

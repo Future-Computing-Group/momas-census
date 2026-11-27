@@ -1,0 +1,70 @@
+{"id":"y03947","policy_setters":"several","policy_quote":"tampering attacks that modify model weights","principals":"several","principals_quote":"potential for malicious use","partners_from_others":"no"}
+{"id":"x02563","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x09667","policy_setters":"several","policy_quote":"repeated price competitions between two firms","principals":"several","principals_quote":"repeated price competitions between two firms","partners_from_others":"no"}
+{"id":"x10263","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"when communicating with a user","partners_from_others":"no"}
+{"id":"x04150","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x10718","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"y02696","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x09983","policy_setters":"several","policy_quote":"historical decisions were made by multiple decision-makers, each with different decision rules","principals":"na","principals_quote":"","partners_from_others":"no"}
+{"id":"x07316","policy_setters":"several","policy_quote":"third-party inference services","principals":"several","principals_quote":"retain privacy of the user input","partners_from_others":"no"}
+{"id":"y03801","policy_setters":"several","policy_quote":"attacked multiple times by one or more attackers","principals":"several","principals_quote":"attacked multiple times by one or more attackers","partners_from_others":"no"}
+{"id":"y03691","policy_setters":"one","policy_quote":"training LLMs with Reinforcement Learning with simulated user feedback","principals":"several","principals_quote":"feedback from end users","partners_from_others":"no"}
+{"id":"x10243","policy_setters":"na","policy_quote":"","principals":"na","principals_quote":"","partners_from_others":"na"}
+{"id":"x07018","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x03497","policy_setters":"several","policy_quote":"adversaries strategically query a deployed model","principals":"several","principals_quote":"adversaries strategically query a deployed model","partners_from_others":"no"}
+{"id":"x00383","policy_setters":"several","policy_quote":"adversaries can inject poisoned external knowledge","principals":"several","principals_quote":"adversaries can inject poisoned external knowledge","partners_from_others":"no"}
+{"id":"x11822","policy_setters":"several","policy_quote":"Large language models are increasingly customized through fine-tuning","principals":"several","principals_quote":"enforcing licensing terms","partners_from_others":"no"}
+{"id":"x04839","policy_setters":"na","policy_quote":"","principals":"na","principals_quote":"","partners_from_others":"na"}
+{"id":"x05789","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x02735","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"y02041","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x00964","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"y02107","policy_setters":"na","policy_quote":"","principals":"na","principals_quote":"","partners_from_others":"na"}
+{"id":"x08024","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x06167","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"y03213","policy_setters":"several","policy_quote":"reliance on externally sourced datasets","principals":"several","principals_quote":"adversarial manipulation","partners_from_others":"no"}
+{"id":"x07816","policy_setters":"several","policy_quote":"each agent possesses a private signal","principals":"several","principals_quote":"each agent possesses a private signal","partners_from_others":"no"}
+{"id":"y00579","policy_setters":"one","policy_quote":"cooperative Multi-Agent Reinforcement Learning","principals":"one","principals_quote":"cooperative Multi-Agent Reinforcement Learning","partners_from_others":"no"}
+{"id":"x06063","policy_setters":"several","policy_quote":"agents' trading","principals":"several","principals_quote":"agents' trading","partners_from_others":"no"}
+{"id":"x00749","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x04159","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x08019","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x00247","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x03025","policy_setters":"several","policy_quote":"the entity holding the dataset and the entity performing BO are represented by different parties","principals":"several","principals_quote":"the entity holding the dataset and the entity performing BO are represented by different parties","partners_from_others":"no"}
+{"id":"x09188","policy_setters":"several","policy_quote":"protocols for verifying approximate optimality of strategies","principals":"several","principals_quote":"protocols for verifying approximate optimality of strategies","partners_from_others":"no"}
+{"id":"y03757","policy_setters":"several","policy_quote":"adversaries manipulate both training and calibration data","principals":"several","principals_quote":"adversaries manipulate both training and calibration data","partners_from_others":"no"}
+{"id":"x02376","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x09465","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"y00344","policy_setters":"several","policy_quote":"clients individually train personalized plug-in modules","principals":"several","principals_quote":"clients only meet test data locally","partners_from_others":"no"}
+{"id":"x08669","policy_setters":"one","policy_quote":"computing Nash equilibria in two-player zero-sum games","principals":"several","principals_quote":"two-player zero-sum games","partners_from_others":"no"}
+{"id":"x01945","policy_setters":"several","policy_quote":"different model parameters are independently trained on private datasets","principals":"several","principals_quote":"independently trained experts from other data owners","partners_from_others":"no"}
+{"id":"x08399","policy_setters":"several","policy_quote":"collaborative model training across multiple clients","principals":"several","principals_quote":"collaborative model training across multiple clients","partners_from_others":"no"}
+{"id":"x11888","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x03567","policy_setters":"one","policy_quote":"we devise a value-based method to learn to solve multilevel budgeted combinatorial problems","principals":"several","principals_quote":"two players in a zero-sum game over a graph","partners_from_others":"no"}
+{"id":"x03933","policy_setters":"several","policy_quote":"clients do not need access to any foundation models but only train and upload their local models","principals":"several","principals_quote":"adapts to scenarios with heterogeneous clients","partners_from_others":"no"}
+{"id":"x06100","policy_setters":"one","policy_quote":"agents must coordinate in a decentralized manner to achieve a common objective","principals":"one","principals_quote":"achieve a common objective","partners_from_others":"no"}
+{"id":"x04817","policy_setters":"na","policy_quote":"","principals":"na","principals_quote":"","partners_from_others":"na"}
+{"id":"x11055","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"z00074","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x11080","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x02775","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x10371","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x06924","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x10897","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"y03273","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"y02377","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x08218","policy_setters":"several","policy_quote":"industrial copyright detection tools","principals":"several","principals_quote":"industrial copyright detection tools","partners_from_others":"no"}
+{"id":"x06695","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"y02356","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x01133","policy_setters":"several","policy_quote":"accommodating client preferences for diverse model architectures","principals":"several","principals_quote":"accommodating client preferences for diverse model architectures","partners_from_others":"no"}
+{"id":"x06102","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x01566","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x01440","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x08188","policy_setters":"several","policy_quote":"novel membership inference attack","principals":"several","principals_quote":"privacy risks associated with IARs","partners_from_others":"no"}
+{"id":"x01468","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"y03090","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"y02007","policy_setters":"na","policy_quote":"","principals":"na","principals_quote":"","partners_from_others":"na"}
+{"id":"x10168","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"y01644","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}
+{"id":"x00367","policy_setters":"several","policy_quote":"Membership Inference Attacks (MIAs)","principals":"several","principals_quote":"collaborative learning among clients via a coordinating server","partners_from_others":"no"}
+{"id":"x11741","policy_setters":"one","policy_quote":"","principals":"one","principals_quote":"","partners_from_others":"no"}

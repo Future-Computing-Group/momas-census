@@ -1,0 +1,100 @@
+{"id": "x00361", "field": "policy_setters", "code": "one", "reason": "server-prescribed semi-async FL protocol", "rule": "protocol-fixed-FL"}
+{"id": "x02884", "field": "policy_setters", "code": "one", "reason": "decentralized DP-FL algorithms all users run", "rule": "protocol-fixed-FL"}
+{"id": "x03346", "field": "policy_setters", "code": "one", "reason": "VFL screening procedure prescribed for all parties", "rule": "protocol-fixed-FL"}
+{"id": "x03377", "field": "policy_setters", "code": "one", "reason": "fair FL aggregation strategy prescribed", "rule": "protocol-fixed-FL"}
+{"id": "x03682", "field": "policy_setters", "code": "one", "reason": "DP-FL with prescribed client feedback protocol", "rule": "protocol-fixed-FL"}
+{"id": "x05265", "field": "policy_setters", "code": "one", "reason": "DP-FL recipe prescribed for all clients", "rule": "protocol-fixed-FL"}
+{"id": "x05755", "field": "policy_setters", "code": "one", "reason": "few-shot FL fine-tuning prescribed", "rule": "protocol-fixed-FL"}
+{"id": "x06165", "field": "policy_setters", "code": "one", "reason": "FL domain adaptation; joining clients run the protocol", "rule": "protocol-fixed-FL"}
+{"id": "x06443", "field": "policy_setters", "code": "one", "reason": "distributed DP protocol run by clients and servers", "rule": "protocol-fixed-FL"}
+{"id": "x07261", "field": "policy_setters", "code": "one", "reason": "FedMVC method prescribed for clients and server", "rule": "protocol-fixed-FL"}
+{"id": "x07350", "field": "policy_setters", "code": "one", "reason": "FGL framework prescribes client and server models", "rule": "protocol-fixed-FL"}
+{"id": "x07420", "field": "policy_setters", "code": "one", "reason": "DP federated LoRA protocol", "rule": "protocol-fixed-FL"}
+{"id": "x08661", "field": "policy_setters", "code": "one", "reason": "PFL formulation analysed; protocol fixed", "rule": "protocol-fixed-FL"}
+{"id": "x11059", "field": "policy_setters", "code": "one", "reason": "DP-FL with partial participation; protocol fixed", "rule": "protocol-fixed-FL"}
+{"id": "x12033", "field": "policy_setters", "code": "one", "reason": "FCIL method prescribed for all clients", "rule": "protocol-fixed-FL"}
+{"id": "x09059", "field": "policy_setters", "code": "one", "reason": "plain federated LoRA fine-tuning", "rule": "protocol-fixed-FL"}
+{"id": "x00073", "field": "policy_setters", "code": "one", "reason": "one-shot FGL; server distillation prescribed", "rule": "protocol-fixed-FL"}
+{"id": "x00599", "field": "policy_setters", "code": "one", "reason": "federated ensemble distillation; weighting prescribed", "rule": "protocol-fixed-FL"}
+{"id": "x00640", "field": "policy_setters", "code": "one", "reason": "encryption scheme every party applies in standard pipeline", "rule": "protocol-fixed-FL"}
+{"id": "x00669", "field": "policy_setters", "code": "one", "reason": "FL distillation weights prescribed", "rule": "protocol-fixed-FL"}
+{"id": "x01133", "field": "policy_setters", "code": "one", "reason": "model-heterogeneous FGL; distillation prescribed (architecture choice is not policy)", "rule": "protocol-fixed-FL"}
+{"id": "x01265", "field": "policy_setters", "code": "one", "reason": "model-heterogeneous FL; participation is a system property", "rule": "protocol-fixed-FL"}
+{"id": "x01991", "field": "policy_setters", "code": "one", "reason": "heterogeneous FL aggregation prescribed", "rule": "protocol-fixed-FL"}
+{"id": "x02255", "field": "policy_setters", "code": "one", "reason": "expert allocation and selection computed by the method", "rule": "protocol-fixed-FL"}
+{"id": "x03933", "field": "policy_setters", "code": "one", "reason": "one-shot FL; clients run prescribed training", "rule": "protocol-fixed-FL"}
+{"id": "x04919", "field": "policy_setters", "code": "one", "reason": "federated distillation; temperatures prescribed", "rule": "protocol-fixed-FL"}
+{"id": "x05647", "field": "policy_setters", "code": "one", "reason": "FedGKT alternating distillation prescribed", "rule": "protocol-fixed-FL"}
+{"id": "x07160", "field": "policy_setters", "code": "one", "reason": "collaborative learning protocol on encoded data", "rule": "protocol-fixed-FL"}
+{"id": "x07394", "field": "policy_setters", "code": "one", "reason": "feature distillation prescribed", "rule": "protocol-fixed-FL"}
+{"id": "x07402", "field": "policy_setters", "code": "one", "reason": "prompt lengths are configuration, method prescribed", "rule": "protocol-fixed-FL"}
+{"id": "x09231", "field": "policy_setters", "code": "one", "reason": "mutual-learning distillation prescribed", "rule": "protocol-fixed-FL"}
+{"id": "x10055", "field": "policy_setters", "code": "one", "reason": "reward allocation with no modelled client response", "rule": "protocol-fixed-FL"}
+{"id": "x10281", "field": "policy_setters", "code": "one", "reason": "distributed distillation algorithm all devices run", "rule": "protocol-fixed-FL"}
+{"id": "x11145", "field": "policy_setters", "code": "one", "reason": "one-shot PFL algorithm prescribed", "rule": "protocol-fixed-FL"}
+{"id": "x11638", "field": "policy_setters", "code": "one", "reason": "federated recommendation protocol among subsidiaries", "rule": "protocol-fixed-FL"}
+{"id": "y00344", "field": "policy_setters", "code": "one", "reason": "plug-in selection by the method's algorithm", "rule": "protocol-fixed-FL"}
+{"id": "y02502", "field": "policy_setters", "code": "one", "reason": "influence estimation; no modelled node choice", "rule": "protocol-fixed-FL"}
+{"id": "x05528", "field": "policy_setters", "code": "one", "reason": "FL-MTL aggregation prescribed", "rule": "protocol-fixed-FL"}
+{"id": "x11999", "field": "policy_setters", "code": "one", "reason": "FL method prescribed for all nodes", "rule": "protocol-fixed-FL"}
+{"id": "y01151", "field": "policy_setters", "code": "one", "reason": "federated continual merging prescribed", "rule": "protocol-fixed-FL"}
+{"id": "y01456", "field": "policy_setters", "code": "one", "reason": "FedTextGrad protocol prescribed", "rule": "protocol-fixed-FL"}
+{"id": "y01553", "field": "policy_setters", "code": "one", "reason": "online FCL method prescribed", "rule": "protocol-fixed-FL"}
+{"id": "x08000", "field": "policy_setters", "code": "one", "reason": "standard FL protocol attacked by curious server; clients run protocol", "rule": "protocol-fixed-FL"}
+{"id": "x02121", "field": "policy_setters", "code": "one", "reason": "authors run all players in oversight games", "rule": "author-run-K2"}
+{"id": "x09433", "field": "policy_setters", "code": "one", "reason": "authors run all 18 LLMs in sandbox", "rule": "author-run-K2"}
+{"id": "x10642", "field": "policy_setters", "code": "one", "reason": "authors run all LLM players in open-source games", "rule": "author-run-K2"}
+{"id": "x07107", "field": "policy_setters", "code": "one", "reason": "authors prompt all self-interested LLM agents", "rule": "author-run-K2"}
+{"id": "x01330", "field": "policy_setters", "code": "one", "reason": "authors train all MARL region agents", "rule": "author-run-K2"}
+{"id": "x01122", "field": "policy_setters", "code": "one", "reason": "all players run the paper's GS-based bandit algorithm", "rule": "prescribed-dynamics-K1"}
+{"id": "x02842", "field": "policy_setters", "code": "one", "reason": "all agents run the proposed WOFTRL", "rule": "prescribed-dynamics-K1"}
+{"id": "x02892", "field": "policy_setters", "code": "one", "reason": "every seller runs no-swap-regret dynamics; convergence studied", "rule": "prescribed-dynamics-K1"}
+{"id": "x04001", "field": "policy_setters", "code": "one", "reason": "all players run proposed uncoupled mirror descent", "rule": "prescribed-dynamics-K1"}
+{"id": "x08667", "field": "policy_setters", "code": "one", "reason": "self-play uncoupled dynamics", "rule": "prescribed-dynamics-K1"}
+{"id": "x10569", "field": "policy_setters", "code": "one", "reason": "all agents run proposed POMWU", "rule": "prescribed-dynamics-K1"}
+{"id": "x11916", "field": "policy_setters", "code": "one", "reason": "proposed uncoupled algorithms for both players", "rule": "prescribed-dynamics-K1"}
+{"id": "x10717", "field": "policy_setters", "code": "one", "reason": "self-play Q-learners", "rule": "prescribed-dynamics-K1"}
+{"id": "x03301", "field": "policy_setters", "code": "one", "reason": "both players run optimistic fictitious play", "rule": "prescribed-dynamics-K1"}
+{"id": "x09248", "field": "policy_setters", "code": "one", "reason": "all players run alternating policy gradient", "rule": "prescribed-dynamics-K1"}
+{"id": "x10019", "field": "policy_setters", "code": "one", "reason": "independent policy gradient methods", "rule": "prescribed-dynamics-K1"}
+{"id": "x10167", "field": "policy_setters", "code": "one", "reason": "players run the proposed bandit-feedback algorithm", "rule": "prescribed-dynamics-K1"}
+{"id": "x03770", "field": "policy_setters", "code": "one", "reason": "authors train all MARL agents with the proposed gradient adjustment", "rule": "prescribed-dynamics-K1"}
+{"id": "x07878", "field": "policy_setters", "code": "one", "reason": "all players run the proposed DFE algorithm", "rule": "prescribed-dynamics-K1"}
+{"id": "x02208", "field": "policy_setters", "code": "several", "reason": "complexity of equilibria of players in generalized games", "rule": "equilibrium-self-interested"}
+{"id": "x07841", "field": "policy_setters", "code": "several", "reason": "players maximize own payoffs; game certification", "rule": "equilibrium-self-interested"}
+{"id": "x02215", "field": "policy_setters", "code": "several", "reason": "Nash equilibria of convex Markov games computed", "rule": "equilibrium-self-interested"}
+{"id": "x05193", "field": "policy_setters", "code": "several", "reason": "Bayesian Nash equilibrium of bidders", "rule": "equilibrium-self-interested"}
+{"id": "x05230", "field": "policy_setters", "code": "several", "reason": "complexity of Nash equilibria in team games", "rule": "equilibrium-self-interested"}
+{"id": "x05381", "field": "policy_setters", "code": "several", "reason": "computing anytime-constrained equilibria", "rule": "equilibrium-self-interested"}
+{"id": "x08981", "field": "policy_setters", "code": "several", "reason": "solving two-player zero-sum POSGs for equilibrium strategies", "rule": "equilibrium-self-interested"}
+{"id": "x11503", "field": "policy_setters", "code": "several", "reason": "optimal strategies of two players in zero-sum stochastic games", "rule": "equilibrium-self-interested"}
+{"id": "x01556", "field": "policy_setters", "code": "several", "reason": "strategic sellers with private costs; IC auctions", "rule": "equilibrium-self-interested"}
+{"id": "x01933", "field": "policy_setters", "code": "several", "reason": "regret-minimizing AIs of strategic sellers; BCCE", "rule": "equilibrium-self-interested"}
+{"id": "x04690", "field": "policy_setters", "code": "several", "reason": "receivers act on persuasion for own rewards", "rule": "equilibrium-self-interested"}
+{"id": "x05944", "field": "policy_setters", "code": "several", "reason": "bilateral trade with incentive-compatible mechanisms", "rule": "equilibrium-self-interested"}
+{"id": "x08401", "field": "policy_setters", "code": "several", "reason": "strategic facility owners; truthful auctions", "rule": "equilibrium-self-interested"}
+{"id": "y00846", "field": "policy_setters", "code": "several", "reason": "agents rational by dominance in concurrent games", "rule": "equilibrium-self-interested"}
+{"id": "z00027", "field": "policy_setters", "code": "several", "reason": "core stability of self-interested agents in hedonic games", "rule": "equilibrium-self-interested"}
+{"id": "x02014", "field": "interacting", "code": "no", "reason": "single model aggregating several groups' preferences", "rule": "K10-interacting-no"}
+{"id": "x05009", "field": "interacting", "code": "no", "reason": "single model aggregating several groups' preferences", "rule": "K10-interacting-no"}
+{"id": "x08083", "field": "interacting", "code": "no", "reason": "single model aggregating several groups' preferences", "rule": "K10-interacting-no"}
+{"id": "x08816", "field": "interacting", "code": "no", "reason": "single model aggregating several groups' preferences", "rule": "K10-interacting-no"}
+{"id": "x00857", "field": "interacting", "code": "no", "reason": "single model aggregating several groups' preferences", "rule": "K10-interacting-no"}
+{"id": "x03851", "field": "interacting", "code": "no", "reason": "single model aggregating several groups' preferences", "rule": "K10-interacting-no"}
+{"id": "x04869", "field": "interacting", "code": "no", "reason": "single model aggregating several groups' preferences", "rule": "K10-interacting-no"}
+{"id": "x05657", "field": "interacting", "code": "no", "reason": "single model aggregating several groups' preferences", "rule": "K10-interacting-no"}
+{"id": "x09229", "field": "interacting", "code": "no", "reason": "single model aggregating several groups' preferences", "rule": "K10-interacting-no"}
+{"id": "x09236", "field": "interacting", "code": "no", "reason": "single model aggregating several groups' preferences", "rule": "K10-interacting-no"}
+{"id": "x11323", "field": "interacting", "code": "no", "reason": "single model aggregating several groups' preferences", "rule": "K10-interacting-no"}
+{"id": "x12063", "field": "interacting", "code": "no", "reason": "single model aggregating several groups' preferences", "rule": "K10-interacting-no"}
+{"id": "x12101", "field": "interacting", "code": "no", "reason": "single model aggregating several groups' preferences", "rule": "K10-interacting-no"}
+{"id": "x07136", "field": "interacting", "code": "no", "reason": "router inside one system", "rule": "K10-interacting-no"}
+{"id": "x11671", "field": "policy_setters", "code": "one", "reason": "individuals' choices are modelled data", "rule": "K4-data-subjects"}
+{"id": "x03741", "field": "policy_setters", "code": "one", "reason": "buyer choices are observed data", "rule": "K4-data-subjects"}
+{"id": "x07771", "field": "policy_setters", "code": "one", "reason": "participants' perceptual decisions are data", "rule": "K4-data-subjects"}
+{"id": "x10011", "field": "policy_setters", "code": "one", "reason": "agent's optimal actions are observed data", "rule": "K4-data-subjects"}
+{"id": "x02768", "field": "policy_setters", "code": "one", "reason": "one LLM trained; roles are input types", "rule": "K4-data-subjects"}
+{"id": "x12217", "field": "policy_setters", "code": "one", "reason": "virus evolution is not a decision-maker", "rule": "K4-data-subjects"}
+{"id": "x05248", "field": "policy_setters", "code": "one|na", "reason": "clinical decisions are observed data; causal estimator", "rule": "K4-data-subjects"}
+{"id": "x11818", "field": "policy_setters", "code": "one|na", "reason": "individuals react as data distribution; one predictor", "rule": "K4-data-subjects"}
+{"id": "x00363", "field": "policy_setters", "code": "one|na", "reason": "users and models in a hypothesised feedback loop observed in data", "rule": "K4-data-subjects"}

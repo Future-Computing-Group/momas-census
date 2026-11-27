@@ -1,0 +1,70 @@
+{"id": "x11237", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00098", "policy_setters": "several", "policy_quote": "agents into coalitions according to their preferences", "principals": "several", "principals_quote": "according to their preferences", "partners_from_others": "no"}
+{"id": "y01354", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04820", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02526", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01991", "policy_setters": "several", "policy_quote": "even after downstream fine-tuning", "principals": "several", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01338", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "y00020", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00468", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00428", "policy_setters": "several", "policy_quote": "defer to human experts", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "z00079", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00879", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07086", "policy_setters": "several", "policy_quote": "CRAs are paid by the issuers", "principals": "several", "principals_quote": "reduce information asymmetry between firms and investors", "partners_from_others": "no"}
+{"id": "x11073", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05484", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x12362", "policy_setters": "one", "policy_quote": "directing a society of simple, specialized, self-interested agents", "principals": "one", "principals_quote": "collectively optimize a central objective", "partners_from_others": "no"}
+{"id": "x01186", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00016", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03655", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x04868", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00547", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02549", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01117", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03226", "policy_setters": "one", "policy_quote": "", "principals": "several", "principals_quote": "sequentially arriving agents with additive valuations", "partners_from_others": "no"}
+{"id": "y03353", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01679", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07005", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x03906", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09884", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x05723", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00445", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07729", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y01477", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10955", "policy_setters": "several", "policy_quote": "jailbreaking prompts", "principals": "several", "principals_quote": "", "partners_from_others": "yes"}
+{"id": "x00548", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05605", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03543", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08314", "policy_setters": "several", "policy_quote": "data is provided by agents who wish to achieve specific predictions for their data", "principals": "several", "principals_quote": "self-interested agents", "partners_from_others": "no"}
+{"id": "x04496", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05157", "policy_setters": "several", "policy_quote": "backdoor attacks pose serious security risks for API users", "principals": "several", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08529", "policy_setters": "several", "policy_quote": "strategic agents that follow a no-regret learning policy", "principals": "several", "principals_quote": "strategic agents", "partners_from_others": "yes"}
+{"id": "y03954", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03093", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y00770", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x03899", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02320", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10239", "policy_setters": "several", "policy_quote": "The agent accepts or rejects the offer", "principals": "several", "principals_quote": "have private costs for their services", "partners_from_others": "no"}
+{"id": "x08411", "policy_setters": "several", "policy_quote": "The agent can strategically exercise costly manipulations on his features", "principals": "several", "principals_quote": "a principal aims to learn an accurate binary linear classifier from sequentially arriving agents", "partners_from_others": "no"}
+{"id": "x11918", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x06799", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y02110", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x08261", "policy_setters": "several", "policy_quote": "estimate a person's attentional biases from their actions", "principals": "one", "principals_quote": "", "partners_from_others": "yes"}
+{"id": "y03235", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00175", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00615", "policy_setters": "several", "policy_quote": "individuals strategically respond to a deployed model", "principals": "several", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x09204", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x05732", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x00654", "policy_setters": "several", "policy_quote": "", "principals": "several", "principals_quote": "", "partners_from_others": "no"}
+{"id": "y03873", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x06045", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07431", "policy_setters": "several", "policy_quote": "observed decisions from the human expert", "principals": "na", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x11059", "policy_setters": "one", "policy_quote": "", "principals": "several", "principals_quote": "each machine participates", "partners_from_others": "no"}
+{"id": "y00803", "policy_setters": "several", "policy_quote": "111 open-source and 45 closed models", "principals": "na", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x10075", "policy_setters": "several", "policy_quote": "collaborator agents* and an *intervention agent", "principals": "several", "principals_quote": "collaborators with humans", "partners_from_others": "yes"}
+{"id": "y02510", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x07251", "policy_setters": "several", "policy_quote": "firms train algorithms on similar data", "principals": "several", "principals_quote": "two firms compete using personalized pricing algorithms", "partners_from_others": "no"}
+{"id": "y01965", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}
+{"id": "x08667", "policy_setters": "several", "policy_quote": "each player’s utility", "principals": "several", "principals_quote": "each player’s utility", "partners_from_others": "no"}
+{"id": "y02619", "policy_setters": "one", "policy_quote": "", "principals": "one", "principals_quote": "", "partners_from_others": "no"}
+{"id": "x01700", "policy_setters": "na", "policy_quote": "", "principals": "na", "principals_quote": "", "partners_from_others": "na"}

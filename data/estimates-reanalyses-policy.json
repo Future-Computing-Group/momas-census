@@ -1,0 +1,219 @@
+{
+ "setters_by_parties": {
+  "ai-agents": {
+   "n": 56,
+   "one": 13,
+   "several": 42,
+   "na": 1,
+   "cell": 41
+  },
+  "humans": {
+   "n": 123,
+   "one": 12,
+   "several": 110,
+   "na": 1,
+   "cell": 91
+  },
+  "formal-model": {
+   "n": 373,
+   "one": 67,
+   "several": 291,
+   "na": 15,
+   "cell": 288
+  },
+  "other": {
+   "n": 162,
+   "one": 27,
+   "several": 134,
+   "na": 1,
+   "cell": 124
+  }
+ },
+ "partners": {
+  "groups": {
+   "partitioned-data": {
+    "screen_2025": 240,
+    "confirmer_coded": 114,
+    "cell": 59,
+    "simulated": 15
+   },
+   "partners-from-others": {
+    "screen_2025": 233,
+    "confirmer_coded": 198,
+    "cell": 51,
+    "simulated": 0
+   }
+  },
+  "table": {
+   "all-2020": {
+    "n": 2983,
+    "screened": 255,
+    "neg_agent": 590,
+    "neg_other": 2138,
+    "several": {
+     "confirmed": 61,
+     "share": 0.029328659513474555,
+     "lo": 0.022487372763690047,
+     "hi": 0.059790973765820515
+    },
+    "without-partitioned-data": {
+     "confirmed": 52,
+     "share": 0.02393180840731474,
+     "lo": 0.018580744233574698,
+     "hi": 0.053114388955782924
+    },
+    "without-partners-from-others": {
+     "confirmed": 39,
+     "share": 0.021953533801104454,
+     "lo": 0.015112247051319949,
+     "hi": 0.05241584805345042
+    }
+   },
+   "all-2025": {
+    "n": 8545,
+    "screened": 683,
+    "neg_agent": 1369,
+    "neg_other": 6493,
+    "several": {
+     "confirmed": 187,
+     "share": 0.02614338143315269,
+     "lo": 0.02329598534165091,
+     "hi": 0.03819202836483589
+    },
+    "without-partitioned-data": {
+     "confirmed": 129,
+     "share": 0.01801327827940626,
+     "lo": 0.015874194941877993,
+     "hi": 0.029371713553973354
+    },
+    "without-partners-from-others": {
+     "confirmed": 136,
+     "share": 0.02017497885854766,
+     "lo": 0.017327582767045876,
+     "hi": 0.03222362579023086
+    }
+   },
+   "agent-2020": {
+    "n": 669,
+    "screened": 79,
+    "neg_agent": 590,
+    "neg_other": 0,
+    "several": {
+     "confirmed": 37,
+     "share": 0.07653218984582288,
+     "lo": 0.061149964585149305,
+     "hi": 0.12899798356005163
+    },
+    "without-partitioned-data": {
+     "confirmed": 37,
+     "share": 0.06592111832164542,
+     "lo": 0.05718363737239283,
+     "hi": 0.11268071526656563
+    },
+    "without-partners-from-others": {
+     "confirmed": 20,
+     "share": 0.05112112856032214,
+     "lo": 0.03573890329964856,
+     "hi": 0.1035869222745509
+    }
+   },
+   "agent-2025": {
+    "n": 1566,
+    "screened": 197,
+    "neg_agent": 1369,
+    "neg_other": 0,
+    "several": {
+     "confirmed": 78,
+     "share": 0.051072796934865904,
+     "lo": 0.05003175339194701,
+     "hi": 0.07466556722638036
+    },
+    "without-partitioned-data": {
+     "confirmed": 70,
+     "share": 0.045964240102171136,
+     "lo": 0.04492319655925225,
+     "hi": 0.0695570103936856
+    },
+    "without-partners-from-others": {
+     "confirmed": 40,
+     "share": 0.02680715197956577,
+     "lo": 0.02576610843664688,
+     "hi": 0.05039992227108024
+    }
+   },
+   "llm-agent-2025": {
+    "n": 461,
+    "screened": 65,
+    "neg_agent": 396,
+    "neg_other": 0,
+    "several": {
+     "confirmed": 8,
+     "share": 0.021648590021691973,
+     "lo": 0.018112203496288542,
+     "hi": 0.041211848911994586
+    },
+    "without-partitioned-data": {
+     "confirmed": 7,
+     "share": 0.01947939262472885,
+     "lo": 0.01594300609932542,
+     "hi": 0.039042651515031467
+    },
+    "without-partners-from-others": {
+     "confirmed": 4,
+     "share": 0.01297180043383948,
+     "lo": 0.009435413908436047,
+     "hi": 0.03253505932414209
+    }
+   },
+   "other-agent-2025": {
+    "n": 1105,
+    "screened": 132,
+    "neg_agent": 973,
+    "neg_other": 0,
+    "several": {
+     "confirmed": 70,
+     "share": 0.06334841628959276,
+     "lo": 0.06334841628959276,
+     "hi": 0.0886222768579929
+    },
+    "without-partitioned-data": {
+     "confirmed": 63,
+     "share": 0.05701357466063348,
+     "lo": 0.05701357466063348,
+     "hi": 0.08228743522903362
+    },
+    "without-partners-from-others": {
+     "confirmed": 36,
+     "share": 0.03257918552036199,
+     "lo": 0.03257918552036199,
+     "hi": 0.05785304608876213
+    }
+   },
+   "ec-2025": {
+    "n": 203,
+    "screened": 146,
+    "neg_agent": 10,
+    "neg_other": 47,
+    "several": {
+     "confirmed": 132,
+     "share": 0.6502463054187192,
+     "lo": 0.6502463054187192,
+     "hi": 0.6502463054187192
+    },
+    "without-partitioned-data": {
+     "confirmed": 129,
+     "share": 0.6354679802955665,
+     "lo": 0.6354679802955665,
+     "hi": 0.6354679802955665
+    },
+    "without-partners-from-others": {
+     "confirmed": 125,
+     "share": 0.6157635467980296,
+     "lo": 0.6157635467980296,
+     "hi": 0.6157635467980296
+    },
+    "census": true
+   }
+  }
+ }
+}
